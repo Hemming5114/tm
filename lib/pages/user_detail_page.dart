@@ -9,6 +9,7 @@ import '../constants/app_constants.dart';
 import 'image_preview_page.dart';
 import 'travel_post_detail_page.dart';
 import 'chat_page.dart';
+import 'video_call_page.dart';
 
 /// 用户详情页面
 class UserDetailPage extends StatefulWidget {
@@ -1045,7 +1046,13 @@ class _UserDetailPageState extends State<UserDetailPage> {
                 height: 44,
                 child: ElevatedButton(
                   onPressed: () {
-                    // 视频功能
+                    // 启动视频通话
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => VideoCallPage(blogger: widget.blogger),
+                      ),
+                    );
                   },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.amber,

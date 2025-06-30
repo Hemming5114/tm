@@ -64,7 +64,10 @@ class _AuthScreenState extends State<AuthScreen>
       final userInfo = await ApiService.generateUserInfo();
       
       // 保存用户信息
-      await StorageUtil.saveUserInfo(userInfo);
+      final success = await StorageUtil.saveUserInfo(userInfo);
+      if (!success) {
+        throw Exception('保存用户信息失败');
+      }
       
       ToastUtil.showSuccess(context, '注册成功，欢迎使用！');
       

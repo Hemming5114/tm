@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import 'dart:math';
 import 'package:http/http.dart' as http;
-import '../utils/storage_util.dart';
-import '../constants/app_constants.dart';
-import 'auth_screen.dart';
 import 'main_screen.dart';
+import 'agreement_page.dart';
 
 /// 启动页面
 class SplashScreen extends StatefulWidget {
@@ -195,59 +192,27 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
 
   /// 显示用户协议
   void _showUserAgreement() {
-    showDialog(
-      context: context,
-      builder: (context) => AlertDialog(
-        title: const Text('用户协议'),
-        content: const SingleChildScrollView(
-          child: Text(
-            '这里是用户协议的内容...\n\n'
-            '1. 用户在使用本应用时，必须遵守相关法律法规\n'
-            '2. 用户应当对自己的账号和密码承担保密责任\n'
-            '3. 用户不得利用本应用从事违法违规活动\n'
-            '4. 本应用保留对用户行为进行监督的权利\n'
-            '5. 如有违规行为，本应用有权终止用户服务\n\n'
-            '更多详细内容请访问官方网站查看完整协议。',
-          ),
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const AgreementPage(
+          agreementType: 'user_agreement',
+          title: '用户协议',
         ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(context).pop(),
-            child: const Text('我知道了'),
-          ),
-        ],
       ),
     );
   }
 
   /// 显示隐私授权协议
   void _showPrivacyPolicy() {
-    showDialog(
-      context: context,
-      builder: (context) => AlertDialog(
-        title: const Text('隐私授权协议'),
-        content: const SingleChildScrollView(
-          child: Text(
-            '这里是隐私授权协议的内容...\n\n'
-            '1. 我们重视您的隐私保护\n'
-            '2. 我们会合理收集和使用您的个人信息\n'
-            '3. 我们不会向第三方泄露您的个人信息\n'
-            '4. 您有权查看、修改和删除个人信息\n'
-            '5. 我们采用安全技术保护您的信息安全\n\n'
-            '更多详细内容请访问官方网站查看完整协议。',
-          ),
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const AgreementPage(
+          agreementType: 'privacy_policy',
+          title: '隐私政策',
         ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(context).pop(),
-            child: const Text('我知道了'),
-          ),
-        ],
       ),
     );
   }
-
-
 
   @override
   Widget build(BuildContext context) {

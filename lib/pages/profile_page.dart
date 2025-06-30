@@ -280,13 +280,15 @@ class _ProfilePageState extends State<ProfilePage> {
                       _buildMenuItem(
                         Icons.person,
                         '我的资料',
-                        () {
-                          Navigator.push(
+                        () async {
+                          await Navigator.push(
                             context,
                             MaterialPageRoute(
                               builder: (context) => const MyProfilePage(),
                             ),
                           );
+                          // 返回时重新加载用户信息
+                          _loadUserInfo();
                         },
                       ),
                       const SizedBox(height: 12),

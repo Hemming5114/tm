@@ -52,7 +52,7 @@ class ReportItem {
       targetId: json['targetId'],
       targetName: json['targetName'],
       reason: json['reason'],
-      reportTime: DateTime.fromMillisecondsSinceEpoch(json['reportTime']),
+      reportTime: DateTime.fromMillisecondsSinceEpoch(int.parse(json['reportTime'].toString())),
       status: ReportStatus.values.firstWhere(
         (e) => e.toString() == json['status'],
         orElse: () => ReportStatus.pending,

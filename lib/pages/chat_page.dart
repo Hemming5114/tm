@@ -5,6 +5,7 @@ import '../models/message_model.dart';
 import '../models/travel_blogger.dart';
 import '../utils/message_service.dart';
 import '../utils/blacklist_service.dart';
+import 'video_call_page.dart';
 
 /// 聊天详情页面
 class ChatPage extends StatefulWidget {
@@ -25,6 +26,7 @@ class _ChatPageState extends State<ChatPage> {
   final MessageService _messageService = MessageService.instance;
   late ChatConversation _conversation;
   bool _isSending = false;
+  double _keyboardHeight = 0.0;
 
   @override
   void initState() {
@@ -65,18 +67,36 @@ class _ChatPageState extends State<ChatPage> {
 
   void _scrollToBottom() {
     if (_scrollController.hasClients) {
-      _scrollController.animateTo(
-        _scrollController.position.maxScrollExtent,
-        duration: const Duration(milliseconds: 300),
-        curve: Curves.easeOut,
-      );
+      // 使用更长的延迟确保ListView完成布局调整
+      Future.delayed(const Duration(milliseconds: 100), () {
+        if (_scrollController.hasClients && mounted) {
+          _scrollController.animateTo(
+            _scrollController.position.maxScrollExtent,
+            duration: const Duration(milliseconds: 300),
+            curve: Curves.easeOut,
+          );
+        }
+      });
     }
   }
 
   @override
   Widget build(BuildContext context) {
+    // 监听键盘状态变化
+    final currentKeyboardHeight = MediaQuery.of(context).viewInsets.bottom;
+    if (currentKeyboardHeight != _keyboardHeight) {
+      _keyboardHeight = currentKeyboardHeight;
+      // 键盘弹起时延迟滚动到底部
+      if (currentKeyboardHeight > 0) {
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          _scrollToBottom();
+        });
+      }
+    }
+    
     return Scaffold(
       extendBodyBehindAppBar: true,
+      resizeToAvoidBottomInset: true,
       appBar: AppBar(
         leading: IconButton(
           icon: const Icon(Icons.arrow_back_ios, color: Colors.white),
@@ -123,36 +143,42 @@ class _ChatPageState extends State<ChatPage> {
           ),
         ],
       ),
-      body: Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage(_conversation.userAvatar), // 使用对方用户头像作为背景
-            fit: BoxFit.cover,
+      body: GestureDetector(
+        onTap: () {
+          // 点击空白区域收起键盘
+          FocusScope.of(context).unfocus();
+        },
+        child: Container(
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage(_conversation.userAvatar), // 使用对方用户头像作为背景
+              fit: BoxFit.cover,
+            ),
           ),
-        ),
-        child: Column(
-          children: [
-            // 消息列表
-            Expanded(
-              child: ListView.builder(
-                controller: _scrollController,
-                padding: EdgeInsets.only(
-                  top: MediaQuery.of(context).padding.top + 60,
-                  left: 16,
-                  right: 16,
-                  bottom: 16,
-                ),
-                itemCount: _conversation.messages.length,
-                itemBuilder: (context, index) => _buildMessageItem(
-                  _conversation.messages[index],
-                  index,
+          child: Column(
+            children: [
+              // 消息列表
+              Expanded(
+                child: ListView.builder(
+                  controller: _scrollController,
+                  padding: EdgeInsets.only(
+                    top: MediaQuery.of(context).padding.top + 60,
+                    left: 16,
+                    right: 16,
+                    bottom: 16 + MediaQuery.of(context).viewInsets.bottom,
+                  ),
+                  itemCount: _conversation.messages.length,
+                  itemBuilder: (context, index) => _buildMessageItem(
+                    _conversation.messages[index],
+                    index,
+                  ),
                 ),
               ),
-            ),
-            
-            // 输入框
-            _buildInputArea(),
-          ],
+              
+              // 输入框
+              _buildInputArea(),
+            ],
+          ),
         ),
       ),
     );
@@ -598,6 +624,12 @@ class _ChatPageState extends State<ChatPage> {
                       textInputAction: TextInputAction.send,
                       onSubmitted: (_) => _sendMessage(),
                       onChanged: (text) => setState(() {}), // 更新发送按钮状态
+                      onTap: () {
+                        // 点击输入框时滚动到底部
+                        Future.delayed(const Duration(milliseconds: 300), () {
+                          _scrollToBottom();
+                        });
+                      },
                       decoration: const InputDecoration(
                         hintText: '聊一聊吧～',
                         hintStyle: TextStyle(color: Colors.grey),
@@ -642,6 +674,31 @@ class _ChatPageState extends State<ChatPage> {
               ),
             ),
           ),
+          
+          // 视频通话按钮
+          const SizedBox(width: 8),
+          GestureDetector(
+            onTap: _startVideoCall,
+            child: Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: const Color(0xFF28D9DE),
+                shape: BoxShape.circle,
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFF28D9DE).withOpacity(0.3),
+                    blurRadius: 8,
+                    offset: const Offset(0, 2),
+                  ),
+                ],
+              ),
+              child: const Icon(
+                Icons.videocam,
+                color: Colors.white,
+                size: 20,
+              ),
+            ),
+          ),
         ],
       ),
     );
@@ -682,5 +739,28 @@ class _ChatPageState extends State<ChatPage> {
         });
       }
     }
+  }
+
+  /// 启动视频通话
+  void _startVideoCall() {
+    // 从会话信息创建TravelBlogger对象
+    final blogger = TravelBlogger(
+      id: int.tryParse(_conversation.userId) ?? 0,
+      name: _conversation.userName,
+      avatar: _conversation.userAvatar,
+      fans: 0, // 这些信息在聊天中不重要
+      follows: 0,
+      bio: '',
+      tags: [],
+      gender: '',
+      posts: [],
+    );
+
+    // 启动视频通话页面
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => VideoCallPage(blogger: blogger),
+      ),
+    );
   }
 } 

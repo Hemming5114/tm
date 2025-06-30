@@ -1,11 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:image_picker/image_picker.dart';
+import 'dart:io';
+import 'dart:typed_data';
 import '../constants/app_constants.dart';
 import '../models/user_model.dart';
 import '../utils/storage_util.dart';
 import '../utils/toast_util.dart';
+import '../utils/image_storage_service.dart';
 
-/// 我的资料页面
+/// 用户设置页面
 class MyProfilePage extends StatefulWidget {
   const MyProfilePage({Key? key}) : super(key: key);
 
@@ -16,20 +20,22 @@ class MyProfilePage extends StatefulWidget {
 class _MyProfilePageState extends State<MyProfilePage> {
   UserModel? _userInfo;
   bool _isLoading = true;
-  bool _isEditing = false;
   
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _signatureController = TextEditingController();
-  String _selectedGender = '男';
-  String _selectedAvatar = 'user_head_11.jpg';
-
-  // 头像选项
-  final List<String> _avatarOptions = List.generate(10, (index) => 'user_head_${index + 11}.jpg');
   
+  Uint8List? _customAvatarData;
+  bool _hasCustomAvatar = false;
+  
+  final ImagePicker _imagePicker = ImagePicker();
+  final int _maxNameLength = 10;
+  final int _maxSignatureLength = 40;
+
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _loadCustomAvatar();
   }
 
   @override
@@ -48,8 +54,6 @@ class _MyProfilePageState extends State<MyProfilePage> {
           _userInfo = userInfo;
           _nameController.text = userInfo.name;
           _signatureController.text = userInfo.signature;
-          _selectedGender = userInfo.gender;
-          _selectedAvatar = userInfo.avatar;
           _isLoading = false;
         });
       }
@@ -63,34 +67,98 @@ class _MyProfilePageState extends State<MyProfilePage> {
     }
   }
 
+  /// 加载自定义头像
+  Future<void> _loadCustomAvatar() async {
+    try {
+      final hasCustom = await ImageStorageService.hasCustomAvatar();
+      if (hasCustom) {
+        final avatarData = await ImageStorageService.getUserAvatarData();
+        setState(() {
+          _hasCustomAvatar = true;
+          _customAvatarData = avatarData;
+        });
+      }
+    } catch (e) {
+      print('加载自定义头像失败: $e');
+    }
+  }
+
+
+
+  /// 选择头像
+  Future<void> _pickAvatar() async {
+    try {
+      final pickedFile = await _imagePicker.pickImage(
+        source: ImageSource.gallery,
+        maxWidth: 512,
+        maxHeight: 512,
+        imageQuality: 80,
+      );
+
+      if (pickedFile != null) {
+        final imageFile = File(pickedFile.path);
+        final success = await ImageStorageService.saveUserAvatar(imageFile);
+
+        if (success) {
+          // 重新加载头像数据
+          final avatarData = await ImageStorageService.getUserAvatarData();
+          setState(() {
+            _customAvatarData = avatarData;
+            _hasCustomAvatar = true;
+          });
+          ToastUtil.showInfo(context, '头像上传成功，正在审核中');
+        } else {
+          ToastUtil.showInfo(context, '头像保存失败，请重试');
+        }
+      }
+    } catch (e) {
+      print('选择头像失败: $e');
+      ToastUtil.showInfo(context, '选择头像失败，请重试');
+    }
+  }
+
+
+
   /// 保存用户信息
   Future<void> _saveUserInfo() async {
     if (_nameController.text.trim().isEmpty) {
-      ToastUtil.showInfo(context, '请输入用户名');
+      ToastUtil.showInfo(context, '请输入昵称');
+      return;
+    }
+
+    if (_nameController.text.trim().length > _maxNameLength) {
+      ToastUtil.showInfo(context, '昵称长度不能超过${_maxNameLength}个字符');
+      return;
+    }
+
+    if (_signatureController.text.length > _maxSignatureLength) {
+      ToastUtil.showInfo(context, '签名长度不能超过${_maxSignatureLength}个字符');
       return;
     }
 
     try {
+      ToastUtil.showLoading(context, '保存中...');
+
       if (_userInfo != null) {
         final updatedUser = _userInfo!.copyWith(
           name: _nameController.text.trim(),
           signature: _signatureController.text.trim(),
-          gender: _selectedGender,
-          avatar: _selectedAvatar,
         );
 
-        await StorageUtil.saveUserInfo(updatedUser);
-        
-        setState(() {
-          _userInfo = updatedUser;
-          _isEditing = false;
-        });
-
-        ToastUtil.showInfo(context, '保存成功');
+        final success = await StorageUtil.saveUserInfo(updatedUser);
+        if (success) {
+          setState(() {
+            _userInfo = updatedUser;
+          });
+          ToastUtil.showSuccess(context, '保存成功');
+          Navigator.pop(context);
+        } else {
+          ToastUtil.showError(context, '保存失败，请重试');
+        }
       }
     } catch (e) {
       print('保存用户信息失败: $e');
-      ToastUtil.showInfo(context, '保存失败，请重试');
+      ToastUtil.showError(context, '保存失败，请重试');
     }
   }
 
@@ -98,8 +166,9 @@ class _MyProfilePageState extends State<MyProfilePage> {
   Widget build(BuildContext context) {
     if (_isLoading) {
       return Scaffold(
+        backgroundColor: Colors.white,
         appBar: AppBar(
-          title: const Text('我的资料'),
+          title: const Text('编辑资料'),
           backgroundColor: Colors.white,
           elevation: 0,
           leading: IconButton(
@@ -115,28 +184,11 @@ class _MyProfilePageState extends State<MyProfilePage> {
       );
     }
 
-    if (_userInfo == null) {
-      return Scaffold(
-        appBar: AppBar(
-          title: const Text('我的资料'),
-          backgroundColor: Colors.white,
-          elevation: 0,
-          leading: IconButton(
-            icon: const Icon(Icons.arrow_back_ios, color: Colors.black87),
-            onPressed: () => Navigator.pop(context),
-          ),
-        ),
-        body: const Center(
-          child: Text('加载用户信息失败'),
-        ),
-      );
-    }
-
     return Scaffold(
-      backgroundColor: Colors.grey[50],
+      backgroundColor: Colors.white,
       appBar: AppBar(
         title: const Text(
-          '我的资料',
+          '设置',
           style: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.w600,
@@ -149,353 +201,231 @@ class _MyProfilePageState extends State<MyProfilePage> {
           icon: const Icon(Icons.arrow_back_ios, color: Colors.black87),
           onPressed: () => Navigator.pop(context),
         ),
-        actions: [
-          TextButton(
-            onPressed: () {
-              if (_isEditing) {
-                _saveUserInfo();
-              } else {
-                setState(() {
-                  _isEditing = true;
-                });
-              }
-            },
-            child: Text(
-              _isEditing ? '保存' : '编辑',
-              style: TextStyle(
-                color: AppConstants.primaryColor,
-                fontSize: 16,
-                fontWeight: FontWeight.w500,
+      ),
+      body: Column(
+        children: [
+          Expanded(
+            child: SingleChildScrollView(
+              padding: const EdgeInsets.all(20),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                                 children: [
+                   // 头像部分
+                   _buildAvatarSection(),
+                   const SizedBox(height: 32),
+                   
+                   // 昵称部分
+                   _buildNicknameSection(),
+                   const SizedBox(height: 32),
+                   
+                   // 签名部分
+                   _buildSignatureSection(),
+                 ],
               ),
             ),
           ),
+          
+          // 保存按钮
+          _buildSaveButton(),
         ],
-      ),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          children: [
-            // 头像选择
-            _buildAvatarSection(),
-            const SizedBox(height: 20),
-            
-            // 基本信息
-            _buildInfoCard(),
-            const SizedBox(height: 20),
-            
-            // 账户信息
-            _buildAccountCard(),
-          ],
-        ),
       ),
     );
   }
 
   /// 构建头像选择区域
   Widget _buildAvatarSection() {
-    return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.all(20),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(12),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 10,
-            offset: const Offset(0, 2),
-          ),
-        ],
-      ),
-      child: Column(
-        children: [
-          // 当前头像
-          Container(
-            width: 80,
-            height: 80,
-            decoration: BoxDecoration(
-              shape: BoxShape.circle,
-              border: Border.all(color: AppConstants.primaryColor, width: 3),
-            ),
-            child: ClipOval(
-              child: Image.asset(
-                'assets/images/head/$_selectedAvatar',
-                fit: BoxFit.cover,
-                errorBuilder: (context, error, stackTrace) {
-                  return Container(
-                    color: AppConstants.primaryColor.withOpacity(0.1),
-                    child: const Icon(
-                      Icons.person,
-                      size: 40,
-                      color: AppConstants.primaryColor,
-                    ),
-                  );
-                },
-              ),
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          if (_isEditing) ...[
-            const Text(
-              '选择头像',
-              style: TextStyle(
-                fontSize: 16,
-                fontWeight: FontWeight.w600,
-                color: Colors.black87,
-              ),
-            ),
-            const SizedBox(height: 12),
-            // 头像选择网格
-            GridView.builder(
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 5,
-                crossAxisSpacing: 8,
-                mainAxisSpacing: 8,
-              ),
-              itemCount: _avatarOptions.length,
-              itemBuilder: (context, index) {
-                final avatar = _avatarOptions[index];
-                final isSelected = avatar == _selectedAvatar;
-                
-                return GestureDetector(
-                  onTap: () {
-                    setState(() {
-                      _selectedAvatar = avatar;
-                    });
-                  },
-                  child: Container(
-                    decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                      border: Border.all(
-                        color: isSelected ? AppConstants.primaryColor : Colors.grey[300]!,
-                        width: isSelected ? 3 : 1,
-                      ),
-                    ),
-                    child: ClipOval(
-                      child: Image.asset(
-                        'assets/images/head/$avatar',
-                        fit: BoxFit.cover,
-                        errorBuilder: (context, error, stackTrace) {
-                          return Container(
-                            color: Colors.grey[200],
-                            child: const Icon(Icons.person, size: 20),
-                          );
-                        },
-                      ),
-                    ),
-                  ),
-                );
-              },
-            ),
-          ],
-        ],
-      ),
-    );
-  }
-
-  /// 构建基本信息卡片
-  Widget _buildInfoCard() {
-    return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.all(20),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(12),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 10,
-            offset: const Offset(0, 2),
-          ),
-        ],
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const Text(
-            '基本信息',
-            style: TextStyle(
-              fontSize: 18,
-              fontWeight: FontWeight.bold,
-              color: Colors.black87,
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          // 用户名
-          _buildInfoItem(
-            '用户名',
-            _isEditing ? TextField(
-              controller: _nameController,
-              decoration: const InputDecoration(
-                border: OutlineInputBorder(),
-                contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-              ),
-            ) : Text(
-              _userInfo!.name,
-              style: const TextStyle(
-                fontSize: 16,
-                color: Colors.black87,
-              ),
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          // 性别
-          _buildInfoItem(
-            '性别',
-            _isEditing ? DropdownButton<String>(
-              value: _selectedGender,
-              items: ['男', '女'].map((String gender) {
-                return DropdownMenuItem<String>(
-                  value: gender,
-                  child: Text(gender),
-                );
-              }).toList(),
-              onChanged: (String? newValue) {
-                if (newValue != null) {
-                  setState(() {
-                    _selectedGender = newValue;
-                  });
-                }
-              },
-            ) : Text(
-              _userInfo!.gender,
-              style: const TextStyle(
-                fontSize: 16,
-                color: Colors.black87,
-              ),
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          // 个性签名
-          _buildInfoItem(
-            '个性签名',
-            _isEditing ? TextField(
-              controller: _signatureController,
-              maxLines: 3,
-              decoration: const InputDecoration(
-                border: OutlineInputBorder(),
-                contentPadding: EdgeInsets.all(12),
-                hintText: '写点什么介绍一下自己吧...',
-              ),
-            ) : Text(
-              _userInfo!.signature.isEmpty ? '这个人很懒，什么都没写' : _userInfo!.signature,
-              style: const TextStyle(
-                fontSize: 16,
-                color: Colors.black87,
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  /// 构建账户信息卡片
-  Widget _buildAccountCard() {
-    return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.all(20),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(12),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 10,
-            offset: const Offset(0, 2),
-          ),
-        ],
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const Text(
-            '账户信息',
-            style: TextStyle(
-              fontSize: 18,
-              fontWeight: FontWeight.bold,
-              color: Colors.black87,
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          // 用户ID
-          _buildInfoItem(
-            '用户ID',
-            Row(
-              children: [
-                Expanded(
-                  child: Text(
-                    _userInfo!.id,
-                    style: const TextStyle(
-                      fontSize: 16,
-                      color: Colors.black87,
-                    ),
-                  ),
-                ),
-                IconButton(
-                  onPressed: () {
-                    Clipboard.setData(ClipboardData(text: _userInfo!.id));
-                    ToastUtil.showInfo(context, '用户ID已复制到剪贴板');
-                  },
-                  icon: const Icon(Icons.copy, size: 18),
-                ),
-              ],
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          // 注册时间
-          _buildInfoItem(
-            '注册时间',
-            Text(
-              DateTime.parse(_userInfo!.createdAt).toString().split('.')[0],
-              style: const TextStyle(
-                fontSize: 16,
-                color: Colors.black87,
-              ),
-            ),
-          ),
-          const SizedBox(height: 16),
-          
-          // 会员到期时间
-          _buildInfoItem(
-            '会员到期',
-            Text(
-              DateTime.parse(_userInfo!.memberExpiry).toString().split(' ')[0],
-              style: const TextStyle(
-                fontSize: 16,
-                color: Colors.black87,
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  /// 构建信息项
-  Widget _buildInfoItem(String label, Widget content) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(
-          label,
-          style: const TextStyle(
-            fontSize: 14,
-            color: Colors.grey,
-            fontWeight: FontWeight.w500,
+        const Text(
+          '头像',
+          style: TextStyle(
+            fontSize: 16,
+            fontWeight: FontWeight.w600,
+            color: Colors.black87,
           ),
         ),
-        const SizedBox(height: 8),
-        content,
+        const SizedBox(height: 16),
+        Center(
+          child: GestureDetector(
+            onTap: _pickAvatar,
+            child: Container(
+              width: 100,
+              height: 100,
+              decoration: BoxDecoration(
+                color: Colors.grey[100],
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.grey[300]!, width: 1),
+              ),
+                             child: _hasCustomAvatar && _customAvatarData != null
+                   ? Stack(
+                       children: [
+                         ClipRRect(
+                           borderRadius: BorderRadius.circular(7),
+                           child: Image.memory(
+                             _customAvatarData!,
+                             width: 98,
+                             height: 98,
+                             fit: BoxFit.cover,
+                           ),
+                         ),
+                         Positioned(
+                           top: 4,
+                           right: 4,
+                           child: Container(
+                             padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                             decoration: BoxDecoration(
+                               color: Colors.orange,
+                               borderRadius: BorderRadius.circular(8),
+                             ),
+                             child: const Text(
+                               '审核中',
+                               style: TextStyle(
+                                 color: Colors.white,
+                                 fontSize: 10,
+                                 fontWeight: FontWeight.w500,
+                               ),
+                             ),
+                           ),
+                         ),
+                       ],
+                     )
+                  : (_userInfo?.avatar != null
+                      ? ClipRRect(
+                          borderRadius: BorderRadius.circular(7),
+                          child: Image.asset(
+                            'assets/images/head/${_userInfo!.avatar}',
+                            width: 98,
+                            height: 98,
+                            fit: BoxFit.cover,
+                            errorBuilder: (context, error, stackTrace) {
+                              return const Icon(
+                                Icons.add,
+                                size: 40,
+                                color: Colors.grey,
+                              );
+                            },
+                          ),
+                        )
+                      : const Icon(
+                          Icons.add,
+                          size: 40,
+                          color: Colors.grey,
+                        )),
+            ),
+          ),
+        ),
       ],
+    );
+  }
+
+  /// 构建昵称部分
+  Widget _buildNicknameSection() {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        const Text(
+          '昵称',
+          style: TextStyle(
+            fontSize: 16,
+            fontWeight: FontWeight.w600,
+            color: Colors.black87,
+          ),
+        ),
+        const SizedBox(height: 16),
+        Container(
+          decoration: BoxDecoration(
+            color: Colors.grey[50],
+            borderRadius: BorderRadius.circular(8),
+          ),
+          child: TextField(
+            controller: _nameController,
+            maxLength: _maxNameLength,
+            decoration: InputDecoration(
+              hintText: '请输入',
+              hintStyle: TextStyle(color: Colors.grey[400]),
+              border: InputBorder.none,
+              contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+              counterText: '${_nameController.text.length}/$_maxNameLength',
+              counterStyle: TextStyle(color: Colors.grey[500], fontSize: 12),
+            ),
+            onChanged: (value) {
+              setState(() {});
+            },
+          ),
+        ),
+      ],
+    );
+  }
+
+  /// 构建签名部分
+  Widget _buildSignatureSection() {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        const Text(
+          '签名',
+          style: TextStyle(
+            fontSize: 16,
+            fontWeight: FontWeight.w600,
+            color: Colors.black87,
+          ),
+        ),
+        const SizedBox(height: 16),
+        Container(
+          decoration: BoxDecoration(
+            color: Colors.grey[50],
+            borderRadius: BorderRadius.circular(8),
+          ),
+          child: TextField(
+            controller: _signatureController,
+            maxLength: _maxSignatureLength,
+            maxLines: 3,
+            decoration: InputDecoration(
+              hintText: '请输入',
+              hintStyle: TextStyle(color: Colors.grey[400]),
+              border: InputBorder.none,
+              contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+              counterText: '${_signatureController.text.length}/$_maxSignatureLength',
+              counterStyle: TextStyle(color: Colors.grey[500], fontSize: 12),
+            ),
+            onChanged: (value) {
+              setState(() {});
+            },
+          ),
+        ),
+      ],
+    );
+  }
+
+
+
+  /// 构建保存按钮
+  Widget _buildSaveButton() {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      child: SizedBox(
+        width: double.infinity,
+        height: 50,
+        child: ElevatedButton(
+          onPressed: _saveUserInfo,
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.black87,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(25),
+            ),
+            elevation: 0,
+          ),
+          child: const Text(
+            '保存',
+            style: TextStyle(
+              fontSize: 16,
+              fontWeight: FontWeight.w600,
+              color: Colors.white,
+            ),
+          ),
+        ),
+      ),
     );
   }
 } 

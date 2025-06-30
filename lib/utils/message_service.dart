@@ -1,10 +1,10 @@
 import 'dart:convert';
-import 'dart:math';
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
 import '../models/message_model.dart';
 import '../constants/app_constants.dart';
+import 'storage_util.dart';
 
 /// 消息服务类
 class MessageService extends ChangeNotifier {
@@ -78,12 +78,37 @@ class MessageService extends ChangeNotifier {
       return _conversations[existingIndex];
     }
     
+    // 获取当前用户的签名，用作第一条消息
+    String firstMessage = '你好！很高兴认识你。';
+    try {
+      final userInfo = await StorageUtil.getUserInfo();
+      if (userInfo != null && userInfo.signature.isNotEmpty) {
+        firstMessage = userInfo.signature;
+        print('📝 使用用户签名作为第一条消息: $firstMessage');
+      } else {
+        print('📝 用户签名为空，使用默认问候语');
+      }
+    } catch (e) {
+      print('📝 获取用户签名失败，使用默认问候语: $e');
+    }
+    
+    // 创建带有用户签名的初始消息
+    final initialMessage = ChatMessage(
+      content: firstMessage,
+      type: MessageType.text,
+      sender: MessageSender.ai, // 使用ai表示来自对方的问候（模拟聊天对象）
+      timestamp: DateTime.now(),
+    );
+    
     // 创建新会话
     final conversation = ChatConversation(
       title: '与 $userName 的对话',
       userId: userId,
       userName: userName,
       userAvatar: userAvatar,
+      messages: [initialMessage], // 添加初始消息
+      lastMessageTime: initialMessage.timestamp,
+      lastMessageContent: firstMessage,
     );
     
     _conversations.insert(0, conversation);
@@ -115,16 +140,8 @@ class MessageService extends ChangeNotifier {
         sender: MessageSender.user,
       );
       
-      // 创建AI加载消息
-      final aiLoadingMessage = ChatMessage(
-        content: '正在思考中...',
-        type: MessageType.text,
-        sender: MessageSender.ai,
-        isLoading: true,
-      );
-      
-      // 更新会话
-      final updatedMessages = [...conversation.messages, userMessage, aiLoadingMessage];
+      // 更新会话（只添加用户消息，不添加AI回复）
+      final updatedMessages = [...conversation.messages, userMessage];
       final updatedConversation = conversation.copyWith(
         messages: updatedMessages,
         lastMessageTime: DateTime.now(),
@@ -136,56 +153,52 @@ class MessageService extends ChangeNotifier {
       notifyListeners();
       await _saveConversations();
       
-      // 调用AI接口
-      final aiResponse = await _callZhipuAPI(content, conversation.messages);
+      // 异步调用AI接口（用于网络功能测试，不处理返回结果）
+      _callZhipuAPIInBackground(content);
       
-      if (aiResponse != null) {
-        // 替换加载消息为实际回复
-        final finalMessages = [...updatedMessages];
-        finalMessages.removeLast(); // 移除加载消息
-        finalMessages.add(aiResponse);
-        
-        final finalConversation = updatedConversation.copyWith(
-          messages: finalMessages,
-          lastMessageTime: aiResponse.timestamp,
-          lastMessageContent: aiResponse.content,
-        );
-        
-        _conversations[conversationIndex] = finalConversation;
-        notifyListeners();
-        await _saveConversations();
-        
-        return aiResponse;
-      } else {
-        // AI回复失败，移除加载消息并添加错误消息
-        final errorMessage = ChatMessage(
-          content: '抱歉，我现在无法回复，请稍后再试。',
-          type: MessageType.system,
-          sender: MessageSender.system,
-        );
-        
-        final finalMessages = [...updatedMessages];
-        finalMessages.removeLast();
-        finalMessages.add(errorMessage);
-        
-        final finalConversation = updatedConversation.copyWith(
-          messages: finalMessages,
-          lastMessageTime: errorMessage.timestamp,
-          lastMessageContent: errorMessage.content,
-        );
-        
-        _conversations[conversationIndex] = finalConversation;
-        notifyListeners();
-        await _saveConversations();
-        
-        return errorMessage;
-      }
+      return userMessage;
     } catch (e) {
       print('发送消息失败: $e');
       return null;
     }
   }
   
+  /// 后台调用智谱AI接口（用于网络功能测试，不处理返回结果）
+  void _callZhipuAPIInBackground(String userMessage) async {
+    try {
+      print('🌐 后台调用智谱AI接口进行网络测试...');
+      
+      final requestBody = {
+        'model': AppConstants.zhipuModel,
+        'messages': [
+          {
+            'role': 'user',
+            'content': '测试网络连接',
+          }
+        ],
+        'max_tokens': 100,
+        'temperature': 0.3,
+      };
+      
+      final response = await http.post(
+        Uri.parse(_zhipuApiUrl),
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer $_zhipuApiKey',
+        },
+        body: json.encode(requestBody),
+      ).timeout(const Duration(seconds: 10));
+      
+      if (response.statusCode == 200) {
+        print('✅ 智谱AI接口调用成功（后台测试）');
+      } else {
+        print('⚠️ 智谱AI接口调用失败（后台测试）: ${response.statusCode}');
+      }
+    } catch (e) {
+      print('⚠️ 后台调用智谱AI接口异常: $e');
+    }
+  }
+
   /// 调用智谱AI接口
   Future<ChatMessage?> _callZhipuAPI(String userMessage, List<ChatMessage> history) async {
     try {

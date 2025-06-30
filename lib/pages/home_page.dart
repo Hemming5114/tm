@@ -6,6 +6,7 @@ import '../models/travel_blogger.dart';
 import '../utils/travel_data_service.dart';
 import '../utils/blacklist_service.dart';
 import '../utils/storage_util.dart';
+import '../utils/device_service.dart';
 import 'banner_detail_page.dart';
 import 'user_detail_page.dart';
 import 'travel_post_detail_page.dart';
@@ -29,6 +30,7 @@ class _HomePageState extends State<HomePage> {
     super.initState();
     _loadData();
     _checkAndShowWelcomeDialog();
+    _getDeviceInfo();
     // 监听黑名单变化
     BlacklistService.instance.addListener(_onBlacklistChanged);
   }
@@ -136,6 +138,22 @@ class _HomePageState extends State<HomePage> {
       }
     } catch (e) {
       print('检查欢迎弹框状态失败: $e');
+    }
+  }
+
+  /// 获取设备信息
+  Future<void> _getDeviceInfo() async {
+    try {
+      final deviceId = await DeviceService.getDeviceIdentifier();
+      if (deviceId.isNotEmpty) {
+        print('主页已获取设备标识符: $deviceId');
+        // 这里可以将deviceId保存到本地存储或发送给服务器
+        await StorageUtil.setString('device_identifier', deviceId);
+      } else {
+        print('主页未能获取到设备标识符');
+      }
+    } catch (e) {
+      print('主页获取设备信息失败: $e');
     }
   }
 

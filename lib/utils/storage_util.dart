@@ -1,7 +1,9 @@
 import 'dart:convert';
+import 'dart:io';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/user_model.dart';
 import '../constants/app_constants.dart';
+import 'keychain_service.dart';
 
 /// 本地存储工具类
 class StorageUtil {
@@ -15,6 +17,12 @@ class StorageUtil {
 
   /// 检查用户是否已登录
   static Future<bool> isLoggedIn() async {
+    // iOS设备优先使用Keychain
+    if (Platform.isIOS) {
+      return await KeychainService.isLoggedIn();
+    }
+    
+    // 其他平台使用SharedPreferences
     await init();
     return _prefs!.getBool(AppConstants.keyIsLoggedIn) ?? false;
   }
@@ -26,14 +34,58 @@ class StorageUtil {
   }
 
   /// 保存用户信息
-  static Future<void> saveUserInfo(UserModel user) async {
-    await init();
-    await _prefs!.setBool(AppConstants.keyIsLoggedIn, true);
-    await _prefs!.setString('userData', json.encode(user.toMap()));
+  static Future<bool> saveUserInfo(UserModel user) async {
+    // iOS设备优先使用Keychain
+    if (Platform.isIOS) {
+      final success = await KeychainService.saveUserInfo(user);
+      if (success) {
+        // 同时保存一份到SharedPreferences作为备份
+        await init();
+        await _prefs!.setBool(AppConstants.keyIsLoggedIn, true);
+        await _prefs!.setString('userData', json.encode(user.toMap()));
+      }
+      return success;
+    }
+    
+    // 其他平台使用SharedPreferences
+    try {
+      await init();
+      await _prefs!.setBool(AppConstants.keyIsLoggedIn, true);
+      await _prefs!.setString('userData', json.encode(user.toMap()));
+      return true;
+    } catch (e) {
+      print('保存用户信息失败: $e');
+      return false;
+    }
   }
 
   /// 获取用户信息
   static Future<UserModel?> getUserInfo() async {
+    // iOS设备优先从Keychain读取
+    if (Platform.isIOS) {
+      final user = await KeychainService.getUserInfo();
+      if (user != null) {
+        return user;
+      }
+      
+      // 如果Keychain中没有数据，尝试从SharedPreferences读取并迁移
+      print('Keychain中未找到用户数据，尝试从SharedPreferences迁移');
+      final sharedPrefsUser = await _getUserInfoFromSharedPreferences();
+      if (sharedPrefsUser != null) {
+        // 将数据迁移到Keychain
+        await KeychainService.saveUserInfo(sharedPrefsUser);
+        print('用户数据已迁移到Keychain');
+        return sharedPrefsUser;
+      }
+      return null;
+    }
+    
+    // 其他平台从SharedPreferences读取
+    return await _getUserInfoFromSharedPreferences();
+  }
+
+  /// 从SharedPreferences获取用户信息（内部方法）
+  static Future<UserModel?> _getUserInfoFromSharedPreferences() async {
     await init();
     
     final isLoggedIn = _prefs!.getBool(AppConstants.keyIsLoggedIn) ?? false;
@@ -56,10 +108,72 @@ class StorageUtil {
   }
 
   /// 清除用户信息
-  static Future<void> clearUserInfo() async {
-    await init();
-    await _prefs!.remove(AppConstants.keyIsLoggedIn);
-    await _prefs!.remove('userData');
+  static Future<bool> clearUserInfo() async {
+    bool success = true;
+    
+    // iOS设备清除Keychain数据
+    if (Platform.isIOS) {
+      success = await KeychainService.clearUserInfo();
+    }
+    
+    // 清除SharedPreferences数据
+    try {
+      await init();
+      await _prefs!.remove(AppConstants.keyIsLoggedIn);
+      await _prefs!.remove('userData');
+    } catch (e) {
+      print('清除SharedPreferences用户数据失败: $e');
+      success = false;
+    }
+    
+    return success;
+  }
+
+  /// 更新用户信息
+  static Future<bool> updateUserInfo(UserModel user) async {
+    return await saveUserInfo(user);
+  }
+
+  /// 更新用户硬币数量
+  static Future<bool> updateUserCoins(int coins) async {
+    if (Platform.isIOS) {
+      return await KeychainService.updateUserCoins(coins);
+    }
+    
+    final user = await getUserInfo();
+    if (user != null) {
+      final updatedUser = user.copyWith(coins: coins);
+      return await saveUserInfo(updatedUser);
+    }
+    return false;
+  }
+
+  /// 更新用户头像
+  static Future<bool> updateUserAvatar(String avatar) async {
+    if (Platform.isIOS) {
+      return await KeychainService.updateUserAvatar(avatar);
+    }
+    
+    final user = await getUserInfo();
+    if (user != null) {
+      final updatedUser = user.copyWith(avatar: avatar);
+      return await saveUserInfo(updatedUser);
+    }
+    return false;
+  }
+
+  /// 更新用户签名
+  static Future<bool> updateUserSignature(String signature) async {
+    if (Platform.isIOS) {
+      return await KeychainService.updateUserSignature(signature);
+    }
+    
+    final user = await getUserInfo();
+    if (user != null) {
+      final updatedUser = user.copyWith(signature: signature);
+      return await saveUserInfo(updatedUser);
+    }
+    return false;
   }
 
   /// 通用的存储方法
