@@ -13,7 +13,8 @@ class ApiService {
     
     // 生成随机用户信息
     final random = Random();
-    final avatar = (random.nextInt(20) + 1).toString();
+    final avatarNum = random.nextInt(10) + 11; // 11-20范围
+    final avatar = 'user_head_$avatarNum.jpg';
     final userId = (100000 + random.nextInt(900000)).toString();
     final gender = random.nextBool() ? '男' : '女';
     final signature = AppConstants.defaultSignatures[random.nextInt(AppConstants.defaultSignatures.length)];

@@ -4,8 +4,12 @@ import 'dart:math';
 import '../constants/app_constants.dart';
 import '../models/travel_blogger.dart';
 import '../utils/travel_data_service.dart';
+import '../utils/blacklist_service.dart';
+import '../utils/storage_util.dart';
 import 'banner_detail_page.dart';
 import 'user_detail_page.dart';
+import 'travel_post_detail_page.dart';
+import 'post_travel_page.dart';
 
 /// 首页
 class HomePage extends StatefulWidget {
@@ -24,6 +28,22 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     _loadData();
+    _checkAndShowWelcomeDialog();
+    // 监听黑名单变化
+    BlacklistService.instance.addListener(_onBlacklistChanged);
+  }
+
+  @override
+  void dispose() {
+    BlacklistService.instance.removeListener(_onBlacklistChanged);
+    super.dispose();
+  }
+
+  /// 监听黑名单变化
+  void _onBlacklistChanged() {
+    if (mounted) {
+      _loadData();
+    }
   }
 
   /// 加载数据
@@ -42,8 +62,23 @@ class _HomePageState extends State<HomePage> {
         return;
       }
       
+      // 过滤被拉黑的用户
+      final filteredBloggers = BlacklistService.instance.filterBlackedUsers(allBloggers);
+      
+      if (filteredBloggers.isEmpty) {
+        print('过滤后没有可显示的博主数据');
+        if (mounted) {
+          setState(() {
+            _todayRecommended = [];
+            _featuredPosts = [];
+            _isLoading = false;
+          });
+        }
+        return;
+      }
+      
       // 随机选择4位用户作为今日推荐
-      final shuffled = List<TravelBlogger>.from(allBloggers);
+      final shuffled = List<TravelBlogger>.from(filteredBloggers);
       shuffled.shuffle(Random());
       final todayRecommended = shuffled.take(4).toList();
       
@@ -85,6 +120,199 @@ class _HomePageState extends State<HomePage> {
       _isLoading = true;
     });
     await _loadData();
+  }
+
+  /// 检查并显示欢迎弹框
+  Future<void> _checkAndShowWelcomeDialog() async {
+    try {
+      final hasShownDialog = await StorageUtil.getBool('has_shown_welcome_dialog') ?? false;
+      if (!hasShownDialog && mounted) {
+        // 延迟一下，确保页面已经构建完成
+        Future.delayed(const Duration(milliseconds: 500), () {
+          if (mounted) {
+            _showWelcomeDialog();
+          }
+        });
+      }
+    } catch (e) {
+      print('检查欢迎弹框状态失败: $e');
+    }
+  }
+
+  /// 显示欢迎弹框
+  void _showWelcomeDialog() {
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return Material(
+          color: const Color(0xB3000000), // #000000 0.7 全屏背景
+          child: SizedBox.expand( // 确保完全覆盖屏幕
+            child: Center(
+              child: Stack(
+                clipBehavior: Clip.none, // 不剪裁超出边界的内容
+                children: [
+                  // 白色View - 297 x 444
+                  Container(
+                    width: 297,
+                    height: 444,
+                    decoration: BoxDecoration(
+                      color: Colors.white,
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.black.withOpacity(0.2),
+                          blurRadius: 15,
+                          offset: const Offset(0, 8),
+                        ),
+                      ],
+                    ),
+                    child: Stack(
+                      children: [
+                        // 背景图 pop_shadow.png - 铺满白色View
+                        Container(
+                          width: 297,
+                          height: 444,
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.circular(16),
+                            image: const DecorationImage(
+                              image: AssetImage('assets/images/pop/pop_shadow.png'),
+                              fit: BoxFit.cover,
+                            ),
+                          ),
+                        ),
+                        
+                        // 主要内容
+                        Column(
+                          children: [
+                            const SizedBox(height: 37), // 距离白色View顶部37
+                            
+                            // 图片 pop_image2.png - 距离顶部37，左右各15，宽高267、290
+                            Container(
+                              margin: const EdgeInsets.symmetric(horizontal: 15),
+                              width: 267,
+                              height: 290,
+                              decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(12),
+                                image: const DecorationImage(
+                                  image: AssetImage('assets/images/pop/pop_image2.png'),
+                                  fit: BoxFit.cover,
+                                ),
+                              ),
+                            ),
+                            
+                            const SizedBox(height: 16),
+                            
+                            // 文案"来分享下你的旅行生活吧~"
+                            const Text(
+                              '来分享下你的旅行生活吧~',
+                              style: TextStyle(
+                                fontSize: 16,
+                                color: Colors.black87,
+                                fontWeight: FontWeight.w500,
+                              ),
+                            ),
+                            
+                            const SizedBox(height: 24),
+                            
+                            // 按钮区域
+                            Padding(
+                              padding: const EdgeInsets.symmetric(horizontal: 20),
+                              child: Row(
+                                children: [
+                                  // 取消按钮
+                                  Expanded(
+                                    child: GestureDetector(
+                                      onTap: () async {
+                                        await StorageUtil.setBool('has_shown_welcome_dialog', true);
+                                        Navigator.of(context).pop();
+                                      },
+                                      child: Container(
+                                        height: 44,
+                                        decoration: BoxDecoration(
+                                          color: const Color(0xFFF5F5F5),
+                                          borderRadius: BorderRadius.circular(22),
+                                        ),
+                                        child: const Center(
+                                          child: Text(
+                                            '取消',
+                                            style: TextStyle(
+                                              fontSize: 16,
+                                              color: Color(0xFF666666),
+                                              fontWeight: FontWeight.w500,
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                  
+                                  const SizedBox(width: 16),
+                                  
+                                  // 分享按钮
+                                  Expanded(
+                                    child: GestureDetector(
+                                      onTap: () async {
+                                        await StorageUtil.setBool('has_shown_welcome_dialog', true);
+                                        Navigator.of(context).pop();
+                                        // 进入游记分享页面
+                                        Navigator.push(
+                                          context,
+                                          MaterialPageRoute(
+                                            builder: (context) => const PostTravelPage(),
+                                          ),
+                                        );
+                                      },
+                                      child: Container(
+                                        height: 44,
+                                        decoration: BoxDecoration(
+                                          gradient: const LinearGradient(
+                                            colors: [Color(0xFFF9FB50), Color(0xFF90FAD8)],
+                                            begin: Alignment.centerLeft,
+                                            end: Alignment.centerRight,
+                                          ),
+                                          borderRadius: BorderRadius.circular(22),
+                                        ),
+                                        child: const Center(
+                                          child: Text(
+                                            '分享',
+                                            style: TextStyle(
+                                              fontSize: 16,
+                                              fontWeight: FontWeight.bold,
+                                              color: Colors.black,
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
+                  
+                  // pop_image1.png - 小蜜蜂图标，与白色View同级但显示在上层
+                  Positioned(
+                    left: 15, // 距离白色View左边15px
+                    top: -44, // 距离白色View顶部-44px（向上突出）
+                    child: Image.asset(
+                      'assets/images/pop/pop_image1.png',
+                      width: 210,
+                      height: 63,
+                      fit: BoxFit.contain,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        );
+      },
+    );
   }
 
   @override
@@ -319,8 +547,15 @@ class _HomePageState extends State<HomePage> {
   Widget _buildPostCard(TravelPost post, TravelBlogger blogger) {
     return GestureDetector(
       onTap: () {
-        // TODO: 跳转到游记详情页
-        print('点击游记: ${post.title} - ${blogger.name}');
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => TravelPostDetailPage(
+              post: post,
+              blogger: blogger,
+            ),
+          ),
+        );
       },
       child: Container(
         decoration: BoxDecoration(
@@ -374,7 +609,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   // 标题
                   Text(
-                    post.title,
+                    post.title.length > 20 ? '${post.title.substring(0, 20)}...' : post.title,
                     style: const TextStyle(
                       fontSize: 14,
                       fontWeight: FontWeight.w600,
@@ -444,24 +679,6 @@ class _HomePageState extends State<HomePage> {
                             overflow: TextOverflow.ellipsis,
                           ),
                         ),
-                      ),
-                      // 点赞数
-                      Row(
-                        children: [
-                          const Icon(
-                            Icons.favorite_border,
-                            size: 14,
-                            color: AppConstants.textTertiary,
-                          ),
-                          const SizedBox(width: 2),
-                          Text(
-                            post.likesDisplay,
-                            style: const TextStyle(
-                              fontSize: 12,
-                              color: AppConstants.textTertiary,
-                            ),
-                          ),
-                        ],
                       ),
                     ],
                   ),

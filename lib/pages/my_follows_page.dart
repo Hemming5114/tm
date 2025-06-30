@@ -3,6 +3,7 @@ import '../constants/app_constants.dart';
 import '../models/travel_blogger.dart';
 import '../utils/storage_util.dart';
 import '../utils/travel_data_service.dart';
+import '../utils/blacklist_service.dart';
 
 /// 我的关注列表页面
 class MyFollowsPage extends StatefulWidget {
@@ -20,6 +21,21 @@ class _MyFollowsPageState extends State<MyFollowsPage> {
   void initState() {
     super.initState();
     _loadFollowedBloggers();
+    // 监听黑名单变化
+    BlacklistService.instance.addListener(_onBlacklistChanged);
+  }
+
+  @override
+  void dispose() {
+    BlacklistService.instance.removeListener(_onBlacklistChanged);
+    super.dispose();
+  }
+
+  /// 监听黑名单变化
+  void _onBlacklistChanged() {
+    if (mounted) {
+      _loadFollowedBloggers();
+    }
   }
 
   /// 加载已关注的博主
@@ -46,9 +62,12 @@ class _MyFollowsPageState extends State<MyFollowsPage> {
       // 筛选出已关注的博主
       final followed = allBloggers.where((blogger) => 
           followedUserIds.contains(blogger.id)).toList();
+      
+      // 过滤被拉黑的用户
+      final filteredFollowed = BlacklistService.instance.filterBlackedUsers(followed);
 
       setState(() {
-        followedBloggers = followed;
+        followedBloggers = filteredFollowed;
         isLoading = false;
       });
     } catch (e) {

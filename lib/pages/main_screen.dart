@@ -23,6 +23,21 @@ class _MainScreenState extends State<MainScreen> {
     const ProfilePage(),
   ];
 
+  Widget _buildTabIcon(String assetPath, bool isSelected) {
+    return SizedBox(
+      width: 24,
+      height: 24,
+      child: Image.asset(
+        assetPath,
+        width: 24,
+        height: 24,
+        color: isSelected ? AppConstants.primaryColor : AppConstants.textTertiary,
+        colorBlendMode: BlendMode.srcIn,
+        fit: BoxFit.contain,
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -42,25 +57,25 @@ class _MainScreenState extends State<MainScreen> {
         unselectedItemColor: AppConstants.textTertiary,
         showSelectedLabels: false,
         showUnselectedLabels: false,
-        items: const [
+        items: [
           BottomNavigationBarItem(
-            icon: Icon(Icons.home_outlined),
-            activeIcon: Icon(Icons.home),
+            icon: _buildTabIcon('assets/images/tabbar/btn_tab_home_nor.png', false),
+            activeIcon: _buildTabIcon('assets/images/tabbar/btn_tab_home_pre.png', true),
             label: '',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.timeline_outlined),
-            activeIcon: Icon(Icons.timeline),
+            icon: _buildTabIcon('assets/images/tabbar/btn_tab_avatar_nor.png', false),
+            activeIcon: _buildTabIcon('assets/images/tabbar/btn_tab_avatar_pre.png', true),
             label: '',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.message_outlined),
-            activeIcon: Icon(Icons.message),
+            icon: _buildTabIcon('assets/images/tabbar/btn_tab_chats_nor.png', false),
+            activeIcon: _buildTabIcon('assets/images/tabbar/btn_tab_chats_pre.png', true),
             label: '',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.person_outline),
-            activeIcon: Icon(Icons.person),
+            icon: _buildTabIcon('assets/images/tabbar/btn_tab_me_nor.png', false),
+            activeIcon: _buildTabIcon('assets/images/tabbar/btn_tab_me_pre.png', true),
             label: '',
           ),
         ],

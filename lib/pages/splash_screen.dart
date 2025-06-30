@@ -86,7 +86,7 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
 3. 寓意美好
 4. 只返回姓名，不要其他任何文字
 
-示例：张雨涵、李星月、王思雨
+示例：可乐里的小公主、月亮姐姐、jessi在路上、十七号公路
             '''
           }
         ],
@@ -142,7 +142,7 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
       final userName = await _generateUserNameWithAI() ?? '甜梦用户';
       final gender = random.nextBool() ? '男' : '女';
       final userId = 'user_${random.nextInt(900000) + 100000}'; // 6位随机数
-      final userAvatar = 'user_head_${random.nextInt(10) + 1}.jpg';
+      final userAvatar = 'user_head_${random.nextInt(10) + 11}.jpg'; // 11-20范围
       final userCoins = random.nextInt(9000) + 1000; // 4位随机数
       
       // 生成会员到期时间（未来1-365天）

@@ -73,7 +73,7 @@ class TravelPost {
   final String title;
   final String content;
   final List<String> images; // 图片文件路径列表
-  final int likes;
+
   final int comments;
   final DateTime publishTime;
 
@@ -81,7 +81,6 @@ class TravelPost {
     required this.title,
     required this.content,
     required this.images,
-    required this.likes,
     required this.comments,
     required this.publishTime,
   });
@@ -91,7 +90,6 @@ class TravelPost {
       title: map['title'] ?? '',
       content: map['content'] ?? '',
       images: List<String>.from(map['images'] ?? []),
-      likes: map['likes'] ?? 0,
       comments: map['comments'] ?? 0,
       publishTime: DateTime.tryParse(map['publishTime'] ?? '') ?? DateTime.now(),
     );
@@ -102,19 +100,12 @@ class TravelPost {
       'title': title,
       'content': content,
       'images': images,
-      'likes': likes,
       'comments': comments,
       'publishTime': publishTime.toIso8601String(),
     };
   }
 
-  // 格式化点赞数显示
-  String get likesDisplay {
-    if (likes >= 1000) {
-      return '${(likes / 1000).toStringAsFixed(1)}k';
-    }
-    return likes.toString();
-  }
+
 
   // 格式化评论数显示
   String get commentsDisplay {

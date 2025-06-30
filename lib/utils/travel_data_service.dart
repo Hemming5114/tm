@@ -33,7 +33,7 @@ class TravelDataService {
         final blogger = TravelBlogger(
           id: userData['id'] ?? 0,
           name: userData['name'] ?? '未知用户',
-          avatar: 'assets/images/home/${userData['head'] ?? 'user_head_1.jpg'}',
+          avatar: 'assets/images/head/${userData['head'] ?? 'user_head_1.jpg'}',
           fans: Random().nextInt(10000) + 500, // 随机粉丝数
           follows: Random().nextInt(100) + 10, // 随机关注数
           bio: userData['sign'] ?? '这个人很懒，什么都没写',
@@ -63,13 +63,36 @@ class TravelDataService {
             ?.map((img) => 'assets/images/home/$img')
             .toList() ?? [];
         
-        // 从内容中提取标题（取第一行或前20个字符）
-        String title = content.split('\n').first;
-        if (title.length > 20) {
-          title = title.substring(0, 20) + '...';
+        // 使用JSON中的title字段，如果没有则从内容中提取第一行
+        String title = postData['title'] ?? '';
+        String processedContent = content;
+        
+        if (title.isEmpty) {
+          // 如果没有title字段，从content第一行提取
+          final contentLines = content.split('\n');
+          if (contentLines.isNotEmpty) {
+            title = contentLines.first;
+            // 从content中移除第一行作为标题
+            if (contentLines.length > 1) {
+              processedContent = contentLines.skip(1).join('\n');
+            } else {
+              processedContent = '';
+            }
         }
         if (title.isEmpty) {
           title = '精彩游记分享';
+          }
+        } else {
+          // 如果有独立的title字段，检查content第一行是否与title重复
+          final contentLines = content.split('\n');
+          if (contentLines.isNotEmpty && contentLines.first.trim() == title.trim()) {
+            // 如果content第一行与title重复，移除第一行
+            if (contentLines.length > 1) {
+              processedContent = contentLines.skip(1).join('\n');
+            } else {
+              processedContent = '';
+            }
+          }
         }
         
         // 解析时间字段
@@ -86,9 +109,9 @@ class TravelDataService {
         
         final post = TravelPost(
           title: title,
-          content: content,
+          content: processedContent, // 使用处理后的内容
           images: images,
-          likes: Random().nextInt(5000) + 100, // 随机点赞数
+  
           comments: Random().nextInt(500) + 10, // 随机评论数
           publishTime: publishTime,
         );
@@ -123,9 +146,9 @@ class TravelDataService {
       allPosts.addAll(blogger.posts);
     }
     
-    // 按点赞数排序并随机打乱一些
+    // 按评论数排序并随机打乱一些
     allPosts.shuffle(Random());
-    allPosts.sort((a, b) => b.likes.compareTo(a.likes));
+    allPosts.sort((a, b) => b.comments.compareTo(a.comments));
     
     return allPosts;
   }

@@ -93,6 +93,16 @@ class StorageUtil {
     return _prefs!.getInt(key);
   }
 
+  static Future<void> setStringList(String key, List<String> value) async {
+    await init();
+    await _prefs!.setStringList(key, value);
+  }
+
+  static Future<List<String>?> getStringList(String key) async {
+    await init();
+    return _prefs!.getStringList(key);
+  }
+
   static Future<void> remove(String key) async {
     await init();
     await _prefs!.remove(key);

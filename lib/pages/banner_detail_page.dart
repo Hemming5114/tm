@@ -39,13 +39,31 @@ class _BannerDetailPageState extends State<BannerDetailPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      body: SingleChildScrollView(
-        child: Column(
-          children: [
-            // 顶部全屏图片轮播区域
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.6,
-              child: Stack(
+      body: CustomScrollView(
+        slivers: [
+          // 全屏图片轮播区域
+          SliverAppBar(
+            expandedHeight: MediaQuery.of(context).size.height * 0.6,
+            pinned: true,
+            elevation: 0,
+            backgroundColor: Colors.transparent,
+            leading: Container(
+              margin: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                color: Colors.black.withOpacity(0.3),
+                borderRadius: BorderRadius.circular(20),
+              ),
+              child: IconButton(
+                icon: const Icon(
+                  Icons.arrow_back_ios,
+                  color: Colors.white,
+                  size: 20,
+                ),
+                onPressed: () => Navigator.pop(context),
+              ),
+            ),
+            flexibleSpace: FlexibleSpaceBar(
+              background: Stack(
                 children: [
                   // 轮播图
                   PageView.builder(
@@ -97,7 +115,7 @@ class _BannerDetailPageState extends State<BannerDetailPage> {
                                 children: [
                                   // 顶部文字 - 居中显示
                                   Positioned(
-                                    top: 80,
+                                    top: 120,
                                     left: 0,
                                     right: 0,
                                     child: Center(
@@ -155,32 +173,6 @@ class _BannerDetailPageState extends State<BannerDetailPage> {
                         ),
                       );
                     },
-                  ),
-                  
-                  // 返回按钮
-                  SafeArea(
-                    child: Padding(
-                      padding: const EdgeInsets.all(16.0),
-                      child: Align(
-                        alignment: Alignment.topLeft,
-                        child: GestureDetector(
-                          onTap: () => Navigator.pop(context),
-                          child: Container(
-                            width: 40,
-                            height: 40,
-                            decoration: BoxDecoration(
-                              color: Colors.black.withOpacity(0.5),
-                              borderRadius: BorderRadius.circular(20),
-                            ),
-                            child: const Icon(
-                              Icons.arrow_back_ios_new,
-                              color: Colors.white,
-                              size: 20,
-                            ),
-                          ),
-                        ),
-                      ),
-                    ),
                   ),
                   
                   // 底部缩略图区域
@@ -253,9 +245,11 @@ class _BannerDetailPageState extends State<BannerDetailPage> {
                 ],
               ),
             ),
+          ),
             
             // 四季探索计划卡片 - 简化版
-            Container(
+          SliverToBoxAdapter(
+            child: Container(
               margin: const EdgeInsets.all(16),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(16),
@@ -276,13 +270,15 @@ class _BannerDetailPageState extends State<BannerDetailPage> {
                       image: AssetImage('assets/images/baner/banner_icon.png'),
                       fit: BoxFit.cover,
                     ),
+                    ),
                   ),
                 ),
               ),
             ),
             
             // 内容区域
-            Padding(
+          SliverToBoxAdapter(
+            child: Padding(
               padding: const EdgeInsets.all(20),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -505,9 +501,9 @@ class _BannerDetailPageState extends State<BannerDetailPage> {
                   ),
                 ],
               ),
+              ),
             ),
           ],
-        ),
       ),
     );
   }

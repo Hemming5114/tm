@@ -1,8 +1,14 @@
 import 'package:flutter/material.dart';
-import 'dart:math';
+
 import '../models/travel_blogger.dart';
-import '../utils/storage_util.dart';
+import '../utils/follow_service.dart';
+import '../utils/message_service.dart';
+import '../utils/blacklist_service.dart';
+import '../utils/report_service.dart';
+import '../constants/app_constants.dart';
 import 'image_preview_page.dart';
+import 'travel_post_detail_page.dart';
+import 'chat_page.dart';
 
 /// 用户详情页面
 class UserDetailPage extends StatefulWidget {
@@ -19,7 +25,7 @@ class UserDetailPage extends StatefulWidget {
 
 class _UserDetailPageState extends State<UserDetailPage> {
   bool isFollowing = false;
-  final Random _random = Random();
+
   bool isLoadingFollow = false;
   
   // 标签背景颜色列表
@@ -46,14 +52,37 @@ class _UserDetailPageState extends State<UserDetailPage> {
   void initState() {
     super.initState();
     _loadFollowStatus();
+    // 监听关注状态变化
+    FollowService.instance.addListener(_onFollowStatusChanged);
+  }
+
+  @override
+  void dispose() {
+    // 移除监听器
+    FollowService.instance.removeListener(_onFollowStatusChanged);
+    super.dispose();
   }
 
   /// 加载关注状态
   Future<void> _loadFollowStatus() async {
-    final followed = await StorageUtil.isUserFollowed(widget.blogger.id);
+    final followed = await FollowService.instance.isUserFollowed(widget.blogger.id);
+    if (mounted) {
     setState(() {
       isFollowing = followed;
     });
+    }
+  }
+
+  /// 监听关注状态变化
+  void _onFollowStatusChanged() {
+    if (mounted) {
+      final newStatus = FollowService.instance.getFollowStatusSync(widget.blogger.id);
+      if (newStatus != isFollowing) {
+        setState(() {
+          isFollowing = newStatus;
+        });
+      }
+    }
   }
 
   /// 切换关注状态
@@ -64,46 +93,46 @@ class _UserDetailPageState extends State<UserDetailPage> {
       isLoadingFollow = true;
     });
 
+    try {
     bool success;
+      String message;
+      Color backgroundColor;
+
     if (isFollowing) {
-      success = await StorageUtil.unfollowUser(widget.blogger.id);
-      if (success) {
-        setState(() {
-          isFollowing = false;
-        });
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('已取消关注 ${widget.blogger.name}'),
-            backgroundColor: Colors.orange,
-          ),
-        );
-      }
+        success = await FollowService.instance.unfollowUser(widget.blogger.id);
+        message = success ? '已取消关注 ${widget.blogger.name}' : '取消关注失败，请重试';
+        backgroundColor = success ? Colors.orange : Colors.red;
     } else {
-      success = await StorageUtil.followUser(widget.blogger.id);
-      if (success) {
-        setState(() {
-          isFollowing = true;
-        });
+        success = await FollowService.instance.followUser(widget.blogger.id);
+        message = success ? '已关注 ${widget.blogger.name}' : '关注失败，请重试';
+        backgroundColor = success ? Colors.green : Colors.red;
+      }
+
+      if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('已关注 ${widget.blogger.name}'),
-            backgroundColor: Colors.green,
+            content: Text(message),
+            backgroundColor: backgroundColor,
+            duration: const Duration(seconds: 2),
           ),
         );
       }
-    }
-
-    setState(() {
-      isLoadingFollow = false;
-    });
-
-    if (!success) {
+    } catch (e) {
+      if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('操作失败，请重试'),
           backgroundColor: Colors.red,
+            duration: Duration(seconds: 2),
         ),
       );
+      }
+    } finally {
+      if (mounted) {
+        setState(() {
+          isLoadingFollow = false;
+        });
+      }
     }
   }
 
@@ -270,23 +299,80 @@ class _UserDetailPageState extends State<UserDetailPage> {
     );
   }
 
-  void _submitReport(String reason) {
+  void _submitReport(String reason) async {
     Navigator.pop(context);
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text('举报已提交：$reason'),
-        backgroundColor: Colors.green,
-      ),
+    
+    // 检查是否已经举报过该用户
+    if (ReportService.instance.hasReportedUser(widget.blogger.id.toString())) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('举报内容核实中，请耐心等待处理结果'),
+          backgroundColor: Colors.orange,
+        ),
+      );
+      return;
+    }
+    
+    // 提交举报
+    final success = await ReportService.instance.reportUser(
+      userId: widget.blogger.id.toString(),
+      userName: widget.blogger.name,
+      reason: reason,
     );
+    
+    if (success) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('举报内容核实中，请耐心等待处理结果'),
+          backgroundColor: Colors.orange,
+        ),
+      );
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('举报提交失败，请重试'),
+          backgroundColor: Colors.red,
+        ),
+      );
+    }
   }
 
-  void _blockUser() {
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text('已拉黑 ${widget.blogger.name}'),
-        backgroundColor: Colors.red,
-      ),
-    );
+  Future<void> _blockUser() async {
+    try {
+      final success = await BlacklistService.instance.blockUser(widget.blogger);
+      
+      if (success) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('已拉黑 ${widget.blogger.name}'),
+              backgroundColor: Colors.red,
+            ),
+          );
+          
+          // 返回主页
+          Navigator.of(context).popUntil((route) => route.isFirst);
+        }
+      } else {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('拉黑失败，请重试'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('拉黑失败，请重试'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
   }
 
   Widget _buildHeaderSection() {
@@ -457,8 +543,8 @@ class _UserDetailPageState extends State<UserDetailPage> {
                           child: ElevatedButton(
                             onPressed: isLoadingFollow ? null : _toggleFollow,
                             style: ElevatedButton.styleFrom(
-                              backgroundColor: isFollowing ? Colors.grey[300] : Colors.amber,
-                              foregroundColor: isFollowing ? Colors.grey[700] : Colors.black,
+                              backgroundColor: isFollowing ? Colors.grey[300] : AppConstants.primaryColor,
+                              foregroundColor: isFollowing ? Colors.grey.shade700 : Colors.white,
                               elevation: 0,
                               shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(16),
@@ -549,120 +635,84 @@ class _UserDetailPageState extends State<UserDetailPage> {
   }
 
   Widget _buildPostCard(TravelPost post, int index) {
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: Colors.grey[200]!),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 8,
-            offset: const Offset(0, 2),
+    return GestureDetector(
+      onTap: () {
+        // 点击跳转到游记详情页面
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => TravelPostDetailPage(
+              post: post,
+              blogger: widget.blogger,
+            ),
           ),
-        ],
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          // 发布时间和标签
-          Row(
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                decoration: BoxDecoration(
-                  color: Colors.blue[50],
-                  borderRadius: BorderRadius.circular(8),
-                ),
-                child: Text(
-                  _formatDate(post.publishTime),
-                  style: TextStyle(
-                    fontSize: 12,
-                    color: Colors.blue[700],
-                    fontWeight: FontWeight.w500,
+        );
+      },
+      child: Container(
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          color: Colors.white,
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(color: Colors.grey[200]!),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.05),
+              blurRadius: 8,
+              offset: const Offset(0, 2),
+            ),
+          ],
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // 发布时间和标签
+            Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: Colors.blue[50],
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: Text(
+                    _formatDate(post.publishTime),
+                    style: TextStyle(
+                      fontSize: 12,
+                                              color: Colors.blue.shade700,
+                      fontWeight: FontWeight.w500,
+                    ),
                   ),
                 ),
-              ),
-              const Spacer(),
-              Text(
-                '${_getTimeAgo(post.publishTime)}',
-                style: TextStyle(
-                  fontSize: 12,
-                  color: Colors.grey[500],
+                const Spacer(),
+                Text(
+                  '${_getTimeAgo(post.publishTime)}',
+                  style: TextStyle(
+                    fontSize: 12,
+                    color: Colors.grey[500],
+                  ),
                 ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 12),
-          // 内容（只显示一行）
-          Text(
-            post.content.replaceAll('\n', ' ').trim(),
-            style: const TextStyle(
-              fontSize: 16,
-              color: Colors.black87,
-              height: 1.4,
+              ],
             ),
-            maxLines: 1,
-            overflow: TextOverflow.ellipsis,
-          ),
+            const SizedBox(height: 12),
+            // 标题
+            Text(
+              post.title,
+              style: const TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.w600,
+                color: Colors.black,
+                height: 1.3,
+              ),
+              maxLines: 2,
+              overflow: TextOverflow.ellipsis,
+            ),
           const SizedBox(height: 8),
           // 图片展示
           if (post.images.isNotEmpty) _buildImageLayout(post.images),
           if (post.images.isNotEmpty) const SizedBox(height: 8),
-          // 底部信息（删除评论功能）
-          Row(
-            children: [
-              // 用户头像（小）
-              ClipOval(
-                child: Image.asset(
-                  widget.blogger.avatar,
-                  width: 24,
-                  height: 24,
-                  fit: BoxFit.cover,
-                  errorBuilder: (context, error, stackTrace) {
-                    return Container(
-                      width: 24,
-                      height: 24,
-                      color: Colors.grey[300],
-                      child: const Icon(Icons.person, size: 12, color: Colors.grey),
-                    );
-                  },
-                ),
-              ),
-              const SizedBox(width: 8),
-              Text(
-                widget.blogger.name,
-                style: TextStyle(
-                  fontSize: 12,
-                  color: Colors.grey[600],
-                  fontWeight: FontWeight.w500,
-                ),
-              ),
-              const Spacer(),
-              // 点赞
-              Row(
-                children: [
-                  Icon(
-                    Icons.favorite_border,
-                    size: 16,
-                    color: Colors.grey[600],
-                  ),
-                  const SizedBox(width: 4),
-                  Text(
-                    _formatNumber(post.likes),
-                    style: TextStyle(
-                      fontSize: 12,
-                      color: Colors.grey[600],
-                    ),
-                  ),
-                ],
-              ),
-
-            ],
-          ),
         ],
       ),
+    ),
     );
   }
 
@@ -942,14 +992,34 @@ class _UserDetailPageState extends State<UserDetailPage> {
               child: Container(
                 height: 44,
                 child: ElevatedButton(
-                  onPressed: () {
-                    // 私聊功能 - 暂时显示提示
-                    ScaffoldMessenger.of(context).showSnackBar(
-                      const SnackBar(
-                        content: Text('聊天功能开发中...'),
-                        backgroundColor: Colors.orange,
-                      ),
-                    );
+                  onPressed: () async {
+                    try {
+                      // 创建或获取会话
+                      final conversation = await MessageService.instance.getOrCreateConversation(
+                        userId: widget.blogger.id.toString(),
+                        userName: widget.blogger.name,
+                        userAvatar: widget.blogger.avatar,
+                      );
+                      
+                      if (mounted) {
+                        // 跳转到聊天页面
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => ChatPage(conversation: conversation),
+                          ),
+                        );
+                      }
+                    } catch (e) {
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text('创建会话失败: $e'),
+                            backgroundColor: Colors.red,
+                          ),
+                        );
+                      }
+                    }
                   },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.black,
