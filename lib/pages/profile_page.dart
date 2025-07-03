@@ -11,6 +11,8 @@ import 'blacklist_page.dart';
 import 'report_history_page.dart';
 import 'about_us_page.dart';
 import 'help_feedback_page.dart';
+import 'vip_page.dart';
+import 'coin_page.dart';
 
 /// 个人中心页面
 class ProfilePage extends StatefulWidget {
@@ -256,6 +258,21 @@ class _ProfilePageState extends State<ProfilePage> {
                       ),
                     ),
                     const SizedBox(height: 24),
+                    
+                    // VIP和金币入口
+                    Row(
+                      children: [
+                        // VIP入口
+                        Expanded(
+                          child: _buildVipEntry(),
+                        ),
+                        const SizedBox(width: 12),
+                        // 金币入口
+                        Expanded(
+                          child: _buildCoinEntry(),
+                        ),
+                      ],
+                    ),
                   ],
                 ),
               ),
@@ -455,5 +472,156 @@ class _ProfilePageState extends State<ProfilePage> {
         contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
       ),
     );
+  }
+
+  /// 构建VIP入口
+  Widget _buildVipEntry() {
+    final isVip = _isUserVip();
+    final expiryDate = _getVipExpiryDate();
+    
+    return GestureDetector(
+      onTap: () async {
+        final result = await Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const VipPage(),
+          ),
+        );
+        if (result == true) {
+          _loadUserInfo();
+        }
+      },
+      child: Container(
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: isVip 
+                ? [Colors.amber, Colors.orange]
+                : [Colors.purple, Colors.deepPurple],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+          borderRadius: BorderRadius.circular(15),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.2),
+              blurRadius: 8,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: Column(
+          children: [
+            Icon(
+              isVip ? Icons.workspace_premium : Icons.star,
+              color: Colors.white,
+              size: 28,
+            ),
+            const SizedBox(height: 8),
+            Text(
+              isVip ? 'VIP会员' : '开通VIP',
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            if (isVip && expiryDate != null) ...[
+              const SizedBox(height: 4),
+              Text(
+                '到期: ${_formatDate(expiryDate)}',
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 10,
+                ),
+              ),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+
+  /// 构建金币入口
+  Widget _buildCoinEntry() {
+    return GestureDetector(
+      onTap: () async {
+        final result = await Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const CoinPage(),
+          ),
+        );
+        if (result == true) {
+          _loadUserInfo();
+        }
+      },
+      child: Container(
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          gradient: const LinearGradient(
+            colors: [Colors.amber, Colors.orange],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+          borderRadius: BorderRadius.circular(15),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.2),
+              blurRadius: 8,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: Column(
+          children: [
+            const Icon(
+              Icons.monetization_on,
+              color: Colors.white,
+              size: 28,
+            ),
+            const SizedBox(height: 8),
+            const Text(
+              '金币充值',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            const SizedBox(height: 4),
+            Text(
+              '${_userInfo?.coins ?? 0}',
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  /// 检查用户是否为VIP
+  bool _isUserVip() {
+    if (_userInfo?.memberExpiry.isEmpty ?? true) return false;
+    
+    final expiryDate = DateTime.tryParse(_userInfo!.memberExpiry);
+    if (expiryDate == null) return false;
+    
+    return expiryDate.isAfter(DateTime.now());
+  }
+
+  /// 获取VIP到期时间
+  DateTime? _getVipExpiryDate() {
+    if (_userInfo?.memberExpiry.isEmpty ?? true) return null;
+    return DateTime.tryParse(_userInfo!.memberExpiry);
+  }
+
+  /// 格式化日期
+  String _formatDate(DateTime date) {
+    return '${date.month}/${date.day}';
   }
 } 

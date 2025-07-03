@@ -4,6 +4,7 @@ import '../utils/message_service.dart';
 import '../utils/blacklist_service.dart';
 import '../models/message_model.dart';
 import 'chat_page.dart';
+import 'ai_travel_assistant_page.dart';
 
 /// 消息页面
 class MessagePage extends StatefulWidget {
@@ -162,19 +163,120 @@ class _MessagePageState extends State<MessagePage> {
     final filteredConversations = _messageService.conversations
         .where((conversation) => !BlacklistService.instance.isUserBlocked(int.tryParse(conversation.userId) ?? 0))
         .toList();
-        
-    if (filteredConversations.isEmpty) {
-      return _buildEmptyState();
-    }
     
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16),
-      child: ListView.separated(
+      child: ListView(
         padding: const EdgeInsets.only(top: 16),
-        itemCount: filteredConversations.length,
-        separatorBuilder: (context, index) => const SizedBox(height: 12),
-        itemBuilder: (context, index) => _buildConversationItem(
-          filteredConversations[index],
+        children: [
+          // AI旅游助手入口
+          _buildAiAssistantEntry(),
+          const SizedBox(height: 16),
+          
+          if (filteredConversations.isEmpty) ...[
+            _buildEmptyState(),
+          ] else ...[
+            // 会话列表
+            ...filteredConversations.asMap().entries.map((entry) {
+              final index = entry.key;
+              final conversation = entry.value;
+              return Column(
+                children: [
+                  _buildConversationItem(conversation),
+                  if (index < filteredConversations.length - 1)
+                    const SizedBox(height: 12),
+                ],
+              );
+            }).toList(),
+          ],
+        ],
+      ),
+    );
+  }
+
+  /// 构建AI助手入口
+  Widget _buildAiAssistantEntry() {
+    return GestureDetector(
+      onTap: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const AiTravelAssistantPage(),
+          ),
+        );
+      },
+      child: Container(
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          gradient: const LinearGradient(
+            colors: [AppConstants.primaryColor, Color(0xFF4CAF50)],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+          borderRadius: BorderRadius.circular(15),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.1),
+              blurRadius: 8,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: Row(
+          children: [
+            Container(
+              width: 50,
+              height: 50,
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.2),
+                shape: BoxShape.circle,
+              ),
+              child: const Icon(
+                Icons.auto_awesome,
+                color: Colors.white,
+                size: 24,
+              ),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Text(
+                    '旅行精灵',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'AI旅游助手，智能问答',
+                    style: TextStyle(
+                      color: Colors.white.withOpacity(0.8),
+                      fontSize: 14,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.2),
+                borderRadius: BorderRadius.circular(12),
+              ),
+              child: const Text(
+                '1金币/次',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 12,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
         ),
       ),
     );
