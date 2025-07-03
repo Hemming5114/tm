@@ -3,6 +3,7 @@ import '../constants/app_constants.dart';
 import '../models/user_model.dart';
 import '../utils/storage_util.dart';
 import '../utils/toast_util.dart';
+import '../utils/ai_service.dart';
 
 /// AI旅游助手页面
 class AiTravelAssistantPage extends StatefulWidget {
@@ -63,7 +64,7 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
 
     // 检查用户金币或VIP状态
     if (!_isUserVip() && (_userInfo?.coins ?? 0) < 1) {
-      ToastUtil.showError('金币不足，请先充值');
+      ToastUtil.showError(context, '金币不足，请先充值');
       return;
     }
 
@@ -104,7 +105,7 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
       if (!_isUserVip()) {
         await _addCoins(1);
       }
-      ToastUtil.showError('发送失败: $e');
+      ToastUtil.showError(context, '发送失败: $e');
     } finally {
       if (mounted) {
         setState(() {
@@ -165,20 +166,7 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
 
   /// 获取AI回复
   Future<String> _getAiResponse(String message) async {
-    // 这里应该调用智谱AI接口
-    // 目前使用模拟回复
-    await Future.delayed(const Duration(seconds: 1));
-    
-    // 模拟AI回复
-    final responses = [
-      '根据你的问题，我建议你可以考虑以下几个旅游目的地...',
-      '这是一个很好的问题！让我为你详细介绍一下...',
-      '基于你的需求，我推荐以下行程安排...',
-      '关于这个问题，我有以下建议供你参考...',
-      '这是一个热门话题，让我为你提供一些实用的建议...',
-    ];
-    
-    return responses[DateTime.now().millisecond % responses.length];
+    return await AiService().getAiResponse(message);
   }
 
   /// 滚动到底部

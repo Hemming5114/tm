@@ -13,6 +13,7 @@ import 'about_us_page.dart';
 import 'help_feedback_page.dart';
 import 'vip_page.dart';
 import 'coin_page.dart';
+import 'ai_test_page.dart';
 
 /// 个人中心页面
 class ProfilePage extends StatefulWidget {
@@ -397,6 +398,21 @@ class _ProfilePageState extends State<ProfilePage> {
                             context,
                             MaterialPageRoute(
                               builder: (context) => const AboutUsPage(),
+                            ),
+                          );
+                        },
+                      ),
+                      const SizedBox(height: 12),
+                      
+                      // AI服务测试（开发调试用）
+                      _buildMenuItem(
+                        Icons.psychology,
+                        'AI服务测试',
+                        () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => const AiTestPage(),
                             ),
                           );
                         },

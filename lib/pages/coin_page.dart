@@ -94,12 +94,12 @@ class _CoinPageState extends State<CoinPage> {
       await _updateUserCoins(selectedPlan['coins']);
       
       if (mounted) {
-        ToastUtil.showSuccess('金币充值成功！');
+        ToastUtil.showSuccess(context, '金币充值成功！');
         Navigator.pop(context, true);
       }
     } catch (e) {
       if (mounted) {
-        ToastUtil.showError('充值失败: $e');
+        ToastUtil.showError(context, '充值失败: $e');
       }
     } finally {
       if (mounted) {

@@ -105,12 +105,12 @@ class _VipPageState extends State<VipPage> {
       await _updateUserVipStatus(selectedPlan);
       
       if (mounted) {
-        ToastUtil.showSuccess('VIP开通成功！');
+        ToastUtil.showSuccess(context, 'VIP开通成功！');
         Navigator.pop(context, true);
       }
     } catch (e) {
       if (mounted) {
-        ToastUtil.showError('购买失败: $e');
+        ToastUtil.showError(context, '购买失败: $e');
       }
     } finally {
       if (mounted) {
@@ -157,7 +157,7 @@ class _VipPageState extends State<VipPage> {
     
     // 标记已购买过VIP
     if (plan['isFirstPurchase']) {
-      await StorageUtil.saveBool('has_purchased_vip', true);
+      await StorageUtil.setBool('has_purchased_vip', true);
     }
   }
 
