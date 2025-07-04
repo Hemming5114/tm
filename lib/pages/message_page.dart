@@ -131,7 +131,7 @@ class _MessagePageState extends State<MessagePage> {
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('确认清空'),
-        content: const Text('确定要清空所有对话吗？此操作不可撤销。'),
+        content: const Text('确定要清空所有对话吗？此操作不可撤销。\n\n注意：此操作不会影响智游小助手的对话记录。'),
         actions: [
           TextButton(
             onPressed: () => Navigator.pop(context),
@@ -173,22 +173,18 @@ class _MessagePageState extends State<MessagePage> {
           _buildAiAssistantEntry(),
           const SizedBox(height: 16),
           
-          if (filteredConversations.isEmpty) ...[
-            _buildEmptyState(),
-          ] else ...[
-            // 会话列表
-            ...filteredConversations.asMap().entries.map((entry) {
-              final index = entry.key;
-              final conversation = entry.value;
-              return Column(
-                children: [
-                  _buildConversationItem(conversation),
-                  if (index < filteredConversations.length - 1)
-                    const SizedBox(height: 12),
-                ],
-              );
-            }).toList(),
-          ],
+          // 会话列表
+          ...filteredConversations.asMap().entries.map((entry) {
+            final index = entry.key;
+            final conversation = entry.value;
+            return Column(
+              children: [
+                _buildConversationItem(conversation),
+                if (index < filteredConversations.length - 1)
+                  const SizedBox(height: 12),
+              ],
+            );
+          }).toList(),
         ],
       ),
     );
@@ -232,7 +228,7 @@ class _MessagePageState extends State<MessagePage> {
                 shape: BoxShape.circle,
               ),
               child: const Icon(
-                Icons.auto_awesome,
+                Icons.smart_toy,
                 color: Colors.white,
                 size: 24,
               ),
@@ -243,7 +239,7 @@ class _MessagePageState extends State<MessagePage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
-                    '旅行精灵',
+                    '智游小助手',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 18,
@@ -252,7 +248,7 @@ class _MessagePageState extends State<MessagePage> {
                   ),
                   const SizedBox(height: 4),
                   Text(
-                    'AI旅游助手，智能问答',
+                    '专业AI旅游助手，为您提供贴心旅游建议',
                     style: TextStyle(
                       color: Colors.white.withOpacity(0.8),
                       fontSize: 14,
@@ -278,39 +274,6 @@ class _MessagePageState extends State<MessagePage> {
             ),
           ],
         ),
-      ),
-    );
-  }
-
-  /// 构建空状态
-  Widget _buildEmptyState() {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(
-            Icons.chat_bubble_outline,
-            size: 80,
-            color: Colors.grey[300],
-          ),
-          const SizedBox(height: 20),
-          Text(
-            '暂无消息',
-            style: TextStyle(
-              fontSize: 18,
-              fontWeight: FontWeight.w500,
-              color: Colors.grey[600],
-            ),
-          ),
-          const SizedBox(height: 10),
-          Text(
-            '开始与好友聊天吧！',
-            style: TextStyle(
-              fontSize: 14,
-              color: Colors.grey[500],
-            ),
-          ),
-        ],
       ),
     );
   }

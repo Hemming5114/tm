@@ -511,16 +511,17 @@ class _ProfilePageState extends State<ProfilePage> {
         padding: const EdgeInsets.all(16),
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: isVip 
-                ? [Colors.amber, Colors.orange]
-                : [Colors.purple, Colors.deepPurple],
+            colors: [
+              AppConstants.primaryColor,
+              AppConstants.primaryColor.withOpacity(0.8),
+            ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
           borderRadius: BorderRadius.circular(15),
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withOpacity(0.2),
+              color: AppConstants.primaryColor.withOpacity(0.3),
               blurRadius: 8,
               offset: const Offset(0, 4),
             ),
@@ -575,15 +576,18 @@ class _ProfilePageState extends State<ProfilePage> {
       child: Container(
         padding: const EdgeInsets.all(16),
         decoration: BoxDecoration(
-          gradient: const LinearGradient(
-            colors: [Colors.amber, Colors.orange],
+          gradient: LinearGradient(
+            colors: [
+              AppConstants.primaryColor,
+              AppConstants.primaryColor.withOpacity(0.8),
+            ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
           borderRadius: BorderRadius.circular(15),
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withOpacity(0.2),
+              color: AppConstants.primaryColor.withOpacity(0.3),
               blurRadius: 8,
               offset: const Offset(0, 4),
             ),

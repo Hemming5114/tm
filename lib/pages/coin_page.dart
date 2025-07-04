@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:in_app_purchase/in_app_purchase.dart';
 import '../constants/app_constants.dart';
 import '../models/user_model.dart';
 import '../utils/storage_util.dart';
@@ -21,38 +22,32 @@ class _CoinPageState extends State<CoinPage> {
     {
       'coins': 60,
       'price': '6',
-      'productId': 'com.kuailiao.changs60',
-      'bonus': null,
+      'productId': '6_ml_coin',
     },
     {
       'coins': 300,
       'price': '28',
       'productId': 'com.kuailiao.changs300',
-      'bonus': null,
     },
     {
-      'coins': 1130,
+      'coins': 1000,
       'price': '98',
-      'productId': 'com.kuailiao.changs1130',
-      'bonus': '送130金币',
+      'productId': 'com.kuailiao.changs1000',
     },
     {
-      'coins': 2350,
+      'coins': 2000,
       'price': '198',
-      'productId': 'com.kuailiao.changs2350',
-      'bonus': '送350金币',
+      'productId': 'com.kuailiao.changs2000',
     },
     {
-      'coins': 3070,
+      'coins': 2500,
       'price': '268',
-      'productId': 'com.kuailiao.changs3070',
-      'bonus': '送1070金币',
+      'productId': 'com.kuailiao.changs2500',
     },
     {
-      'coins': 3600,
+      'coins': 3000,
       'price': '298',
-      'productId': 'com.kuailiao.changs3600',
-      'bonus': '送1600金币',
+      'productId': 'com.kuailiao.changs3000',
     },
   ];
 
@@ -95,6 +90,9 @@ class _CoinPageState extends State<CoinPage> {
       
       if (mounted) {
         ToastUtil.showSuccess(context, '金币充值成功！');
+        // 刷新页面数据
+        await _loadUserInfo();
+        // 返回成功结果给profile_page，触发数据刷新
         Navigator.pop(context, true);
       }
     } catch (e) {
@@ -112,12 +110,69 @@ class _CoinPageState extends State<CoinPage> {
 
   /// 执行内购
   Future<void> _performInAppPurchase(String productId) async {
-    // 这里应该调用实际的iOS内购SDK
-    // 目前使用模拟实现
-    await Future.delayed(const Duration(seconds: 2));
-    
-    // 模拟内购成功
-    print('内购成功: $productId');
+    try {
+      print('=== 金币内购流程开始 ===');
+      print('产品ID: $productId');
+      
+      final InAppPurchase iap = InAppPurchase.instance;
+      
+      // 检查内购是否可用
+      final bool isAvailable = await iap.isAvailable();
+      print('内购服务可用性: $isAvailable');
+      
+      if (!isAvailable) {
+        print('错误: 内购服务不可用');
+        throw Exception('内购服务不可用');
+      }
+
+      // 获取产品信息
+      print('正在查询产品信息...');
+      final ProductDetailsResponse response = await iap.queryProductDetails({productId});
+      
+      print('查询结果:');
+      print('- 找到产品数量: ${response.productDetails.length}');
+      print('- 查询错误: ${response.error?.message ?? "无"}');
+      print('- 未找到产品IDs: ${response.notFoundIDs}');
+      
+      if (response.error != null) {
+        print('产品查询错误详情: ${response.error!.message}');
+        print('错误代码: ${response.error!.code}');
+        throw Exception('产品查询失败: ${response.error!.message}');
+      }
+      
+      if (response.productDetails.isEmpty) {
+        print('错误: 未找到产品ID: $productId');
+        print('可能原因:');
+        print('1. 产品未在App Store Connect中配置');
+        print('2. 产品状态不是"准备销售"');
+        print('3. Bundle ID不匹配');
+        print('4. 需要使用沙盒测试账号');
+        throw Exception('产品信息获取失败');
+      }
+
+      final ProductDetails productDetails = response.productDetails.first;
+      print('产品详情:');
+      print('- ID: ${productDetails.id}');
+      print('- 标题: ${productDetails.title}');
+      print('- 描述: ${productDetails.description}');
+      print('- 价格: ${productDetails.price}');
+      print('- 价格符号: ${productDetails.currencySymbol}');
+      
+      // 发起购买
+      final PurchaseParam purchaseParam = PurchaseParam(
+        productDetails: productDetails,
+      );
+      
+      print('开始发起购买请求...');
+      await iap.buyConsumable(purchaseParam: purchaseParam);
+      print('购买请求已发送');
+      
+    } catch (e) {
+      print('=== 金币内购失败 ===');
+      print('错误详情: $e');
+      print('错误类型: ${e.runtimeType}');
+      throw Exception('内购失败: $e');
+    }
   }
 
   /// 更新用户金币
@@ -313,28 +368,6 @@ class _CoinPageState extends State<CoinPage> {
                                             : Colors.black87,
                                       ),
                                     ),
-                                    
-                                    // 赠送金币
-                                    if (plan['bonus'] != null)
-                                      Container(
-                                        margin: const EdgeInsets.only(top: 4),
-                                        padding: const EdgeInsets.symmetric(
-                                          horizontal: 6,
-                                          vertical: 2,
-                                        ),
-                                        decoration: BoxDecoration(
-                                          color: Colors.orange,
-                                          borderRadius: BorderRadius.circular(8),
-                                        ),
-                                        child: Text(
-                                          plan['bonus'],
-                                          style: const TextStyle(
-                                            fontSize: 10,
-                                            color: Colors.white,
-                                            fontWeight: FontWeight.bold,
-                                          ),
-                                        ),
-                                      ),
                                   ],
                                 ),
                               ),

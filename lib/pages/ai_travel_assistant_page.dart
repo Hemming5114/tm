@@ -52,7 +52,7 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
   void _addWelcomeMessage() {
     _messages.add({
       'type': 'ai',
-      'content': '你好！我是你的专属AI旅游助手"旅行精灵"🧚‍♀️\n\n我可以为你提供：\n• 旅游目的地推荐\n• 行程规划建议\n• 美食攻略\n• 交通住宿信息\n• 旅行小贴士\n\n每次问答消耗1金币，VIP会员免费。\n有什么想了解的吗？',
+      'content': '您好！我是智游小助手🤖\n\n我可以为您提供：\n• 旅游目的地推荐\n• 行程规划建议\n• 美食攻略推荐\n• 交通住宿信息\n• 景点介绍与攻略\n• 旅行贴士与建议\n\n每次问答消耗1金币，VIP会员免费使用。\n有什么旅游问题想咨询吗？',
       'timestamp': DateTime.now(),
     });
   }
@@ -190,7 +190,7 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          '旅行精灵',
+          '智游小助手',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
@@ -198,6 +198,13 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
         ),
         backgroundColor: AppConstants.primaryColor,
         elevation: 0,
+        leading: IconButton(
+          onPressed: () => Navigator.pop(context),
+          icon: const Icon(
+            Icons.arrow_back_ios,
+            color: Colors.white,
+          ),
+        ),
         actions: [
           // 显示金币或VIP状态
           Container(

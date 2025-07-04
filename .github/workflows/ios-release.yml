@@ -97,7 +97,7 @@ jobs:
 
       - name: Upload to App Store using altool
         env:
-          IPA_PATH: "build/ios/ipa/sweet_dream.ipa"
+          IPA_PATH: "build/ios/ipa/甜梦.ipa"
           APPLE_ID: "songxiuxiu@tjshangqian.shop"
           APP_SPECIFIC_PASSWORD: "xqub-kout-vivo-uccx"
         run: |
