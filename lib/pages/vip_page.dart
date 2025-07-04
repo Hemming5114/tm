@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
+import 'dart:async';
 import '../constants/app_constants.dart';
 import '../models/user_model.dart';
 import '../utils/storage_util.dart';
@@ -20,6 +21,9 @@ class _VipPageState extends State<VipPage> {
   bool _isLoading = false;
   bool _isRestoring = false;
   bool _isFirstPurchase = false;
+  
+  late StreamSubscription<List<PurchaseDetails>> _subscription;
+  final InAppPurchase _iap = InAppPurchase.instance;
 
   final List<Map<String, dynamic>> _vipPlans = [
     {
@@ -27,7 +31,7 @@ class _VipPageState extends State<VipPage> {
       'price': '88',
       'originalPrice': '99',
       'duration': '1个月',
-      'productId': '88_ml_month',
+      'productId': 'com.kuailiao.changs0',
       'isFirstPurchase': true,
     },
     {
@@ -35,7 +39,7 @@ class _VipPageState extends State<VipPage> {
       'price': '99',
       'originalPrice': null,
       'duration': '1个月',
-      'productId': 'com.kuailiao.changs0',
+      'productId': 'com.kuailiao.changs1',
       'isFirstPurchase': false,
     },
     {
@@ -43,7 +47,7 @@ class _VipPageState extends State<VipPage> {
       'price': '268',
       'originalPrice': null,
       'duration': '3个月',
-      'productId': 'com.kuailiao.changs3',
+      'productId': 'com.kuailiao.changs2',
       'isFirstPurchase': false,
     },
   ];
@@ -53,6 +57,192 @@ class _VipPageState extends State<VipPage> {
     super.initState();
     _loadUserInfo();
     _checkFirstPurchase();
+    _initializePurchaseStream();
+  }
+
+  @override
+  void dispose() {
+    _subscription.cancel();
+    super.dispose();
+  }
+
+  /// 初始化购买流监听
+  void _initializePurchaseStream() {
+    final Stream<List<PurchaseDetails>> purchaseUpdated = _iap.purchaseStream;
+    _subscription = purchaseUpdated.listen(
+      _onPurchaseUpdate,
+      onDone: () => _subscription.cancel(),
+      onError: (error) {
+        print('购买流监听错误: $error');
+        if (mounted) {
+          ToastUtil.showError(context, '购买监听异常: $error');
+        }
+      },
+    );
+  }
+
+  /// 处理购买状态更新
+  void _onPurchaseUpdate(List<PurchaseDetails> purchaseDetailsList) async {
+    for (final purchaseDetails in purchaseDetailsList) {
+      print('购买状态更新: ${purchaseDetails.productID} - ${purchaseDetails.status}');
+      
+      switch (purchaseDetails.status) {
+        case PurchaseStatus.pending:
+          print('购买待处理: ${purchaseDetails.productID}');
+          break;
+          
+        case PurchaseStatus.purchased:
+          print('购买成功: ${purchaseDetails.productID}');
+          await _handleSuccessfulPurchase(purchaseDetails);
+          break;
+          
+        case PurchaseStatus.restored:
+          print('恢复购买成功: ${purchaseDetails.productID}');
+          await _handleRestoredPurchase(purchaseDetails);
+          break;
+          
+        case PurchaseStatus.error:
+          print('购买错误: ${purchaseDetails.error?.message}');
+          if (mounted) {
+            ToastUtil.showError(context, '购买失败: ${purchaseDetails.error?.message ?? "未知错误"}');
+          }
+          _resetLoadingStates();
+          break;
+          
+        case PurchaseStatus.canceled:
+          print('购买已取消: ${purchaseDetails.productID}');
+          if (mounted) {
+            ToastUtil.showInfo(context, '购买已取消');
+          }
+          _resetLoadingStates();
+          break;
+      }
+      
+      // 完成购买处理
+      if (purchaseDetails.pendingCompletePurchase) {
+        await _iap.completePurchase(purchaseDetails);
+      }
+    }
+  }
+
+  /// 处理成功购买
+  Future<void> _handleSuccessfulPurchase(PurchaseDetails purchaseDetails) async {
+    try {
+      // 查找对应的VIP套餐
+      final plan = _vipPlans.firstWhere(
+        (plan) => plan['productId'] == purchaseDetails.productID,
+        orElse: () => _vipPlans[1], // 默认月会员
+      );
+      
+      // 更新VIP状态
+      await _updateUserVipStatus(plan);
+      
+      if (mounted) {
+        setState(() {
+          _isLoading = false;
+        });
+        ToastUtil.showSuccess(context, 'VIP开通成功！');
+        await _loadUserInfo(); // 刷新用户信息
+      }
+    } catch (e) {
+      print('处理购买成功错误: $e');
+      if (mounted) {
+        ToastUtil.showError(context, '处理购买结果失败: $e');
+      }
+    }
+  }
+
+  /// 处理恢复购买
+  Future<void> _handleRestorePurchase() async {
+    if (_isLoading || _isRestoring) return;
+
+    setState(() {
+      _isRestoring = true;
+    });
+
+    try {
+      print('=== 开始恢复购买 ===');
+      
+      // 检查内购是否可用
+      final bool isAvailable = await _iap.isAvailable();
+      print('内购服务可用性: $isAvailable');
+      
+      if (!isAvailable) {
+        throw Exception('内购服务不可用，请稍后再试');
+      }
+
+      // 显示恢复中的提示
+      if (mounted) {
+        ToastUtil.showInfo(context, '正在恢复购买...');
+      }
+
+      // 恢复购买 - 这会触发 purchaseStream 中的 restored 状态
+      await _iap.restorePurchases();
+      
+      print('恢复购买请求已发送，等待App Store响应...');
+      
+      // 给一些时间让系统处理恢复购买
+      await Future.delayed(const Duration(seconds: 2));
+      
+      // 如果2秒后还在恢复状态，说明可能没有可恢复的购买
+      if (_isRestoring && mounted) {
+        setState(() {
+          _isRestoring = false;
+        });
+        ToastUtil.showInfo(context, '没有找到可恢复的购买记录');
+      }
+      
+    } catch (e) {
+      print('恢复购买异常: $e');
+      if (mounted) {
+        setState(() {
+          _isRestoring = false;
+        });
+        ToastUtil.showError(context, '恢复购买失败: $e');
+      }
+    }
+  }
+
+  /// 处理恢复的购买项（购买流监听调用）
+  Future<void> _handleRestoredPurchase(PurchaseDetails purchaseDetails) async {
+    try {
+      print('处理恢复购买: ${purchaseDetails.productID}');
+      
+      // 查找对应的VIP套餐
+      final plan = _vipPlans.firstWhere(
+        (plan) => plan['productId'] == purchaseDetails.productID,
+        orElse: () => _vipPlans[1], // 默认月会员
+      );
+      
+      // 更新VIP状态
+      await _updateUserVipStatus(plan);
+      
+      if (mounted) {
+        setState(() {
+          _isRestoring = false;
+        });
+        ToastUtil.showSuccess(context, '恢复购买成功！VIP会员已激活');
+        await _loadUserInfo(); // 刷新用户信息
+      }
+    } catch (e) {
+      print('处理恢复购买错误: $e');
+      if (mounted) {
+        ToastUtil.showError(context, '处理恢复购买失败: $e');
+        setState(() {
+          _isRestoring = false;
+        });
+      }
+    }
+  }
+
+  /// 重置加载状态
+  void _resetLoadingStates() {
+    if (mounted) {
+      setState(() {
+        _isLoading = false;
+        _isRestoring = false;
+      });
+    }
   }
 
   /// 加载用户信息
@@ -80,148 +270,6 @@ class _VipPageState extends State<VipPage> {
       }
     } catch (e) {
       print('检查首次购买状态失败: $e');
-    }
-  }
-
-  /// 处理VIP购买
-  Future<void> _handleVipPurchase() async {
-    if (_isLoading || _isRestoring) return;
-
-    final selectedPlan = _vipPlans[_selectedIndex];
-    
-    // 检查是否是首充档位但用户已经购买过
-    if (selectedPlan['isFirstPurchase'] && !_isFirstPurchase) {
-      _showFirstPurchaseDialog();
-      return;
-    }
-
-    setState(() {
-      _isLoading = true;
-    });
-
-    try {
-      // 调用iOS内购
-      await _performInAppPurchase(selectedPlan['productId']);
-      
-      // 更新用户会员信息
-      await _updateUserVipStatus(selectedPlan);
-      
-      if (mounted) {
-        ToastUtil.showSuccess(context, 'VIP开通成功！');
-        // 刷新页面数据
-        await _loadUserInfo();
-        // 返回成功结果给profile_page，触发数据刷新
-        Navigator.pop(context, true);
-      }
-    } catch (e) {
-      if (mounted) {
-        ToastUtil.showError(context, '购买失败: $e');
-      }
-    } finally {
-      if (mounted) {
-        setState(() {
-          _isLoading = false;
-        });
-      }
-    }
-  }
-
-  /// 处理恢复购买
-  Future<void> _handleRestorePurchase() async {
-    if (_isLoading || _isRestoring) return;
-
-    setState(() {
-      _isRestoring = true;
-    });
-
-    try {
-      // 恢复购买
-      await InAppPurchase.instance.restorePurchases();
-      
-      if (mounted) {
-        ToastUtil.showSuccess(context, '恢复购买成功！');
-        // 刷新页面数据
-        await _loadUserInfo();
-        // 返回成功结果给profile_page，触发数据刷新
-        Navigator.pop(context, true);
-      }
-    } catch (e) {
-      if (mounted) {
-        ToastUtil.showError(context, '恢复购买失败: $e');
-      }
-    } finally {
-      if (mounted) {
-        setState(() {
-          _isRestoring = false;
-        });
-      }
-    }
-  }
-
-  /// 执行内购
-  Future<void> _performInAppPurchase(String productId) async {
-    try {
-      print('=== VIP内购流程开始 ===');
-      print('产品ID: $productId');
-      
-      final InAppPurchase iap = InAppPurchase.instance;
-      
-      // 检查内购是否可用
-      final bool isAvailable = await iap.isAvailable();
-      print('内购服务可用性: $isAvailable');
-      
-      if (!isAvailable) {
-        print('错误: 内购服务不可用');
-        throw Exception('内购服务不可用');
-      }
-
-      // 获取产品信息
-      print('正在查询产品信息...');
-      final ProductDetailsResponse response = await iap.queryProductDetails({productId});
-      
-      print('查询结果:');
-      print('- 找到产品数量: ${response.productDetails.length}');
-      print('- 查询错误: ${response.error?.message ?? "无"}');
-      print('- 未找到产品IDs: ${response.notFoundIDs}');
-      
-      if (response.error != null) {
-        print('产品查询错误详情: ${response.error!.message}');
-        print('错误代码: ${response.error!.code}');
-        throw Exception('产品查询失败: ${response.error!.message}');
-      }
-      
-      if (response.productDetails.isEmpty) {
-        print('错误: 未找到产品ID: $productId');
-        print('可能原因:');
-        print('1. 产品未在App Store Connect中配置');
-        print('2. 产品状态不是"准备销售"');
-        print('3. Bundle ID不匹配');
-        print('4. 需要使用沙盒测试账号');
-        throw Exception('产品信息获取失败');
-      }
-
-      final ProductDetails productDetails = response.productDetails.first;
-      print('产品详情:');
-      print('- ID: ${productDetails.id}');
-      print('- 标题: ${productDetails.title}');
-      print('- 描述: ${productDetails.description}');
-      print('- 价格: ${productDetails.price}');
-      print('- 价格符号: ${productDetails.currencySymbol}');
-      
-      // 发起购买
-      final PurchaseParam purchaseParam = PurchaseParam(
-        productDetails: productDetails,
-      );
-      
-      print('开始发起购买请求...');
-      await iap.buyNonConsumable(purchaseParam: purchaseParam);
-      print('购买请求已发送');
-      
-    } catch (e) {
-      print('=== VIP内购失败 ===');
-      print('错误详情: $e');
-      print('错误类型: ${e.runtimeType}');
-      throw Exception('内购失败: $e');
     }
   }
 
@@ -274,6 +322,101 @@ class _VipPageState extends State<VipPage> {
   /// 格式化日期
   String _formatDate(DateTime date) {
     return '${date.year}年${date.month}月${date.day}日';
+  }
+
+  /// 处理VIP购买
+  Future<void> _handleVipPurchase() async {
+    if (_isLoading || _isRestoring) return;
+
+    final selectedPlan = _vipPlans[_selectedIndex];
+    
+    // 检查是否是首充档位但用户已经购买过
+    if (selectedPlan['isFirstPurchase'] && !_isFirstPurchase) {
+      _showFirstPurchaseDialog();
+      return;
+    }
+
+    setState(() {
+      _isLoading = true;
+    });
+
+    try {
+      // 调用iOS内购
+      await _performInAppPurchase(selectedPlan['productId']);
+      
+    } catch (e) {
+      if (mounted) {
+        ToastUtil.showError(context, '购买失败: $e');
+        setState(() {
+          _isLoading = false;
+        });
+      }
+    }
+  }
+
+  /// 执行内购
+  Future<void> _performInAppPurchase(String productId) async {
+    try {
+      print('=== VIP内购流程开始 ===');
+      print('产品ID: $productId');
+      
+      // 检查内购是否可用
+      final bool isAvailable = await _iap.isAvailable();
+      print('内购服务可用性: $isAvailable');
+      
+      if (!isAvailable) {
+        print('错误: 内购服务不可用');
+        throw Exception('内购服务不可用');
+      }
+
+      // 获取产品信息
+      print('正在查询产品信息...');
+      final ProductDetailsResponse response = await _iap.queryProductDetails({productId});
+      
+      print('查询结果:');
+      print('- 找到产品数量: ${response.productDetails.length}');
+      print('- 查询错误: ${response.error?.message ?? "无"}');
+      print('- 未找到产品IDs: ${response.notFoundIDs}');
+      
+      if (response.error != null) {
+        print('产品查询错误详情: ${response.error!.message}');
+        print('错误代码: ${response.error!.code}');
+        throw Exception('产品查询失败: ${response.error!.message}');
+      }
+      
+      if (response.productDetails.isEmpty) {
+        print('错误: 未找到产品ID: $productId');
+        print('可能原因:');
+        print('1. 产品未在App Store Connect中配置');
+        print('2. 产品状态不是"准备销售"');
+        print('3. Bundle ID不匹配');
+        print('4. 需要使用沙盒测试账号');
+        throw Exception('产品信息获取失败');
+      }
+
+      final ProductDetails productDetails = response.productDetails.first;
+      print('产品详情:');
+      print('- ID: ${productDetails.id}');
+      print('- 标题: ${productDetails.title}');
+      print('- 描述: ${productDetails.description}');
+      print('- 价格: ${productDetails.price}');
+      print('- 价格符号: ${productDetails.currencySymbol}');
+      
+      // 发起购买
+      final PurchaseParam purchaseParam = PurchaseParam(
+        productDetails: productDetails,
+      );
+      
+      print('开始发起购买请求...');
+      await _iap.buyNonConsumable(purchaseParam: purchaseParam);
+      print('购买请求已发送');
+      
+    } catch (e) {
+      print('=== VIP内购失败 ===');
+      print('错误详情: $e');
+      print('错误类型: ${e.runtimeType}');
+      throw Exception('内购失败: $e');
+    }
   }
 
   /// 显示首充提示对话框
