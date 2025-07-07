@@ -22,7 +22,7 @@ class _CoinPageState extends State<CoinPage> {
     {
       'coins': 60,
       'price': '6',
-      'productId': '6_ml_coin',
+      'productId': 'com.kuailiao.changs60',
     },
     {
       'coins': 300,
@@ -30,24 +30,24 @@ class _CoinPageState extends State<CoinPage> {
       'productId': 'com.kuailiao.changs300',
     },
     {
-      'coins': 1000,
+      'coins': 1130,
       'price': '98',
-      'productId': 'com.kuailiao.changs1000',
+      'productId': 'com.kuailiao.changs1130',
     },
     {
-      'coins': 2000,
+      'coins': 2350,
       'price': '198',
-      'productId': 'com.kuailiao.changs2000',
+      'productId': 'com.kuailiao.changs2350',
     },
     {
-      'coins': 2500,
+      'coins': 3070,
       'price': '268',
-      'productId': 'com.kuailiao.changs2500',
+      'productId': 'com.kuailiao.changs3070',
     },
     {
-      'coins': 3000,
+      'coins': 3600,
       'price': '298',
-      'productId': 'com.kuailiao.changs3000',
+      'productId': 'com.kuailiao.changs3600',
     },
   ];
 
@@ -264,7 +264,7 @@ class _CoinPageState extends State<CoinPage> {
               // 金币档位选择
               Expanded(
                 child: Container(
-                  margin: const EdgeInsets.symmetric(horizontal: 20),
+                  margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(20),
                   decoration: BoxDecoration(
                     color: Colors.white.withOpacity(0.95),
@@ -295,9 +295,9 @@ class _CoinPageState extends State<CoinPage> {
                         child: GridView.builder(
                           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                             crossAxisCount: 2,
-                            crossAxisSpacing: 12,
-                            mainAxisSpacing: 12,
-                            childAspectRatio: 1.2,
+                            crossAxisSpacing: 10,
+                            mainAxisSpacing: 10,
+                            childAspectRatio: 1.5,
                           ),
                           itemCount: _coinPlans.length,
                           itemBuilder: (context, index) {
@@ -329,7 +329,7 @@ class _CoinPageState extends State<CoinPage> {
                                     // 金币图标
                                     Icon(
                                       Icons.monetization_on,
-                                      size: 32,
+                                      size: 28,
                                       color: isSelected 
                                           ? AppConstants.primaryColor
                                           : Colors.amber,
@@ -337,27 +337,31 @@ class _CoinPageState extends State<CoinPage> {
                                     const SizedBox(height: 8),
                                     
                                     // 金币数量
-                                    Text(
-                                      '${plan['coins']}',
-                                      style: TextStyle(
-                                        fontSize: 20,
-                                        fontWeight: FontWeight.bold,
-                                        color: isSelected 
-                                            ? AppConstants.primaryColor
-                                            : Colors.black87,
-                                      ),
+                                    Row(
+                                      mainAxisAlignment: MainAxisAlignment.center,
+                                      children: [
+                                        Text(
+                                          '${plan['coins']}',
+                                          style: TextStyle(
+                                            fontSize: 18,
+                                            fontWeight: FontWeight.bold,
+                                            color: isSelected 
+                                                ? AppConstants.primaryColor
+                                                : Colors.black87,
+                                          ),
+                                        ),
+                                        const Text(
+                                          '金币',
+                                          style: TextStyle(
+                                            fontSize: 11,
+                                            color: Colors.grey,
+                                          ),
+                                        ),
+                                      ],
                                     ),
-                                    const Text(
-                                      '金币',
-                                      style: TextStyle(
-                                        fontSize: 12,
-                                        color: Colors.grey,
-                                      ),
-                                    ),
-                                    
                                     const SizedBox(height: 4),
                                     
-                                    // 价格
+                                    // 价格单独一行
                                     Text(
                                       '¥${plan['price']}',
                                       style: TextStyle(
@@ -375,40 +379,44 @@ class _CoinPageState extends State<CoinPage> {
                           },
                         ),
                       ),
-                      
-                      // 立即充值按钮
-                      SizedBox(
-                        width: double.infinity,
-                        height: 50,
-                        child: ElevatedButton(
-                          onPressed: _isLoading ? null : _handleCoinPurchase,
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: AppConstants.primaryColor,
-                            foregroundColor: Colors.white,
-                            shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(25),
-                            ),
-                            elevation: 3,
-                          ),
-                          child: _isLoading
-                              ? const SizedBox(
-                                  width: 20,
-                                  height: 20,
-                                  child: CircularProgressIndicator(
-                                    strokeWidth: 2,
-                                    valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
-                                  ),
-                                )
-                              : const Text(
-                                  '立即充值',
-                                  style: TextStyle(
-                                    fontSize: 18,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                        ),
-                      ),
                     ],
+                  ),
+                ),
+              ),
+              
+              // 底部按钮区域
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(20),
+                child: SizedBox(
+                  width: double.infinity,
+                  height: 50,
+                  child: ElevatedButton(
+                    onPressed: _isLoading ? null : _handleCoinPurchase,
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: AppConstants.primaryColor,
+                      foregroundColor: Colors.white,
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(25),
+                      ),
+                      elevation: 3,
+                    ),
+                    child: _isLoading
+                        ? const SizedBox(
+                            width: 20,
+                            height: 20,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                            ),
+                          )
+                        : const Text(
+                            '立即充值',
+                            style: TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
                   ),
                 ),
               ),

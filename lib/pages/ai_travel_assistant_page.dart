@@ -24,7 +24,7 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
   void initState() {
     super.initState();
     _loadUserInfo();
-    _addWelcomeMessage();
+    _loadChatHistory();
   }
 
   @override
@@ -48,6 +48,45 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
     }
   }
 
+  /// 加载聊天历史记录
+  Future<void> _loadChatHistory() async {
+    try {
+      final history = await StorageUtil.getAiChatHistory();
+      if (history.isNotEmpty) {
+        setState(() {
+          _messages = List<Map<String, dynamic>>.from(history.map((item) => {
+            'type': item['type'],
+            'content': item['content'],
+            'timestamp': DateTime.parse(item['timestamp']),
+          }));
+        });
+      } else {
+        // 如果没有历史记录，添加欢迎消息
+        _addWelcomeMessage();
+      }
+    } catch (e) {
+      print('加载聊天历史失败: $e');
+      // 如果加载失败，添加欢迎消息
+      _addWelcomeMessage();
+    }
+  }
+
+  /// 保存聊天历史记录
+  Future<void> _saveChatHistory() async {
+    try {
+      final historyData = _messages.map((message) => {
+        'type': message['type'],
+        'content': message['content'],
+        'timestamp': message['timestamp'].toIso8601String(),
+      }).toList();
+      
+      await StorageUtil.saveAiChatHistory(historyData);
+      print('聊天历史已保存，共${_messages.length}条消息');
+    } catch (e) {
+      print('保存聊天历史失败: $e');
+    }
+  }
+
   /// 添加欢迎消息
   void _addWelcomeMessage() {
     _messages.add({
@@ -68,6 +107,9 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
       return;
     }
 
+    // 收起键盘
+    _dismissKeyboard();
+
     // 添加用户消息
     _messages.add({
       'type': 'user',
@@ -79,6 +121,9 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
     setState(() {
       _isLoading = true;
     });
+
+    // 保存聊天历史（用户消息）
+    await _saveChatHistory();
 
     // 滚动到底部
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -100,6 +145,9 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
         'content': aiResponse,
         'timestamp': DateTime.now(),
       });
+
+      // 保存聊天历史（包含AI回复）
+      await _saveChatHistory();
     } catch (e) {
       // 如果失败，退还金币
       if (!_isUserVip()) {
@@ -185,6 +233,63 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
     return '${time.hour.toString().padLeft(2, '0')}:${time.minute.toString().padLeft(2, '0')}';
   }
 
+  /// 收起键盘
+  void _dismissKeyboard() {
+    FocusScope.of(context).unfocus();
+  }
+
+  /// 显示清除历史记录对话框
+  void _showClearHistoryDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: const Text('清除聊天记录'),
+        content: const Text('确定要清除所有聊天记录吗？此操作不可恢复。'),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text(
+              '取消',
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+              _clearChatHistory();
+            },
+            child: const Text(
+              '清除',
+              style: TextStyle(color: AppConstants.primaryColor),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// 清除聊天历史记录
+  Future<void> _clearChatHistory() async {
+    try {
+      await StorageUtil.clearAiChatHistory();
+      setState(() {
+        _messages.clear();
+      });
+      // 重新添加欢迎消息
+      _addWelcomeMessage();
+      await _saveChatHistory();
+      
+      if (mounted) {
+        ToastUtil.showSuccess(context, '聊天记录已清除');
+      }
+    } catch (e) {
+      print('清除聊天历史失败: $e');
+      if (mounted) {
+        ToastUtil.showError(context, '清除失败: $e');
+      }
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -206,6 +311,15 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
           ),
         ),
         actions: [
+          // 清除历史记录按钮
+          IconButton(
+            onPressed: _showClearHistoryDialog,
+            icon: const Icon(
+              Icons.delete_outline,
+              color: Colors.white,
+              size: 20,
+            ),
+          ),
           // 显示金币或VIP状态
           Container(
             margin: const EdgeInsets.only(right: 16),
@@ -243,220 +357,223 @@ class _AiTravelAssistantPageState extends State<AiTravelAssistantPage> {
           ),
         ],
       ),
-      body: Column(
-        children: [
-          // 消息列表
-          Expanded(
-            child: Container(
-              decoration: const BoxDecoration(
-                gradient: LinearGradient(
-                  begin: Alignment.topCenter,
-                  end: Alignment.bottomCenter,
-                  colors: [
-                    AppConstants.primaryColor,
-                    Color(0xFFE8F5E8),
-                  ],
-                  stops: [0.0, 0.3],
+      body: GestureDetector(
+        onTap: _dismissKeyboard,
+        child: Column(
+          children: [
+            // 消息列表
+            Expanded(
+              child: Container(
+                decoration: const BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                    colors: [
+                      AppConstants.primaryColor,
+                      Color(0xFFE8F5E8),
+                    ],
+                    stops: [0.0, 0.3],
+                  ),
                 ),
-              ),
-              child: ListView.builder(
-                controller: _scrollController,
-                padding: const EdgeInsets.all(16),
-                itemCount: _messages.length + (_isLoading ? 1 : 0),
-                itemBuilder: (context, index) {
-                  if (index == _messages.length) {
-                    // 加载指示器
-                    return Container(
-                      margin: const EdgeInsets.only(top: 16),
-                      child: Row(
-                        children: [
-                          Container(
-                            padding: const EdgeInsets.all(12),
-                            decoration: BoxDecoration(
-                              color: Colors.white,
-                              borderRadius: BorderRadius.circular(20),
-                              boxShadow: [
-                                BoxShadow(
-                                  color: Colors.black.withOpacity(0.1),
-                                  blurRadius: 5,
-                                  offset: const Offset(0, 2),
-                                ),
-                              ],
-                            ),
-                            child: Row(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                SizedBox(
-                                  width: 16,
-                                  height: 16,
-                                  child: CircularProgressIndicator(
-                                    strokeWidth: 2,
-                                    valueColor: AlwaysStoppedAnimation<Color>(
-                                      AppConstants.primaryColor,
+                child: ListView.builder(
+                  controller: _scrollController,
+                  padding: const EdgeInsets.all(16),
+                  itemCount: _messages.length + (_isLoading ? 1 : 0),
+                  itemBuilder: (context, index) {
+                    if (index == _messages.length) {
+                      // 加载指示器
+                      return Container(
+                        margin: const EdgeInsets.only(top: 16),
+                        child: Row(
+                          children: [
+                            Container(
+                              padding: const EdgeInsets.all(12),
+                              decoration: BoxDecoration(
+                                color: Colors.white,
+                                borderRadius: BorderRadius.circular(20),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withOpacity(0.1),
+                                    blurRadius: 5,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ],
+                              ),
+                              child: Row(
+                                mainAxisSize: MainAxisSize.min,
+                                children: [
+                                  SizedBox(
+                                    width: 16,
+                                    height: 16,
+                                    child: CircularProgressIndicator(
+                                      strokeWidth: 2,
+                                      valueColor: AlwaysStoppedAnimation<Color>(
+                                        AppConstants.primaryColor,
+                                      ),
                                     ),
                                   ),
-                                ),
-                                const SizedBox(width: 8),
-                                Text(
-                                  '正在思考...',
-                                  style: TextStyle(
-                                    color: Colors.grey[600],
-                                    fontSize: 14,
+                                  const SizedBox(width: 8),
+                                  Text(
+                                    '正在思考...',
+                                    style: TextStyle(
+                                      color: Colors.grey[600],
+                                      fontSize: 14,
+                                    ),
                                   ),
-                                ),
-                              ],
+                                ],
+                              ),
+                            ),
+                          ],
+                        ),
+                      );
+                    }
+
+                    final message = _messages[index];
+                    final isUser = message['type'] == 'user';
+
+                    return Container(
+                      margin: const EdgeInsets.only(bottom: 16),
+                      child: Row(
+                        mainAxisAlignment: isUser 
+                            ? MainAxisAlignment.end 
+                            : MainAxisAlignment.start,
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          if (!isUser) ...[
+                            // AI头像
+                            Container(
+                              width: 36,
+                              height: 36,
+                              decoration: BoxDecoration(
+                                color: AppConstants.primaryColor,
+                                shape: BoxShape.circle,
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withOpacity(0.1),
+                                    blurRadius: 5,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ],
+                              ),
+                              child: const Icon(
+                                Icons.auto_awesome,
+                                color: Colors.white,
+                                size: 20,
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                          ],
+                          
+                          // 消息内容
+                          Flexible(
+                            child: Container(
+                              constraints: BoxConstraints(
+                                maxWidth: MediaQuery.of(context).size.width * 0.75,
+                              ),
+                              padding: const EdgeInsets.all(12),
+                              decoration: BoxDecoration(
+                                color: isUser ? AppConstants.primaryColor : Colors.white,
+                                borderRadius: BorderRadius.circular(20),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withOpacity(0.1),
+                                    blurRadius: 5,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ],
+                              ),
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    message['content'],
+                                    style: TextStyle(
+                                      color: isUser ? Colors.white : Colors.black87,
+                                      fontSize: 14,
+                                      height: 1.4,
+                                    ),
+                                  ),
+                                  const SizedBox(height: 4),
+                                  Text(
+                                    _formatTime(message['timestamp']),
+                                    style: TextStyle(
+                                      color: isUser 
+                                          ? Colors.white.withOpacity(0.7)
+                                          : Colors.grey[500],
+                                      fontSize: 10,
+                                    ),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
+                          
+                          if (isUser) const SizedBox(width: 44),
                         ],
                       ),
                     );
-                  }
-
-                  final message = _messages[index];
-                  final isUser = message['type'] == 'user';
-
-                  return Container(
-                    margin: const EdgeInsets.only(bottom: 16),
-                    child: Row(
-                      mainAxisAlignment: isUser 
-                          ? MainAxisAlignment.end 
-                          : MainAxisAlignment.start,
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        if (!isUser) ...[
-                          // AI头像
-                          Container(
-                            width: 36,
-                            height: 36,
-                            decoration: BoxDecoration(
-                              color: AppConstants.primaryColor,
-                              shape: BoxShape.circle,
-                              boxShadow: [
-                                BoxShadow(
-                                  color: Colors.black.withOpacity(0.1),
-                                  blurRadius: 5,
-                                  offset: const Offset(0, 2),
-                                ),
-                              ],
-                            ),
-                            child: const Icon(
-                              Icons.auto_awesome,
-                              color: Colors.white,
-                              size: 20,
-                            ),
-                          ),
-                          const SizedBox(width: 8),
-                        ],
-                        
-                        // 消息内容
-                        Flexible(
-                          child: Container(
-                            constraints: BoxConstraints(
-                              maxWidth: MediaQuery.of(context).size.width * 0.75,
-                            ),
-                            padding: const EdgeInsets.all(12),
-                            decoration: BoxDecoration(
-                              color: isUser ? AppConstants.primaryColor : Colors.white,
-                              borderRadius: BorderRadius.circular(20),
-                              boxShadow: [
-                                BoxShadow(
-                                  color: Colors.black.withOpacity(0.1),
-                                  blurRadius: 5,
-                                  offset: const Offset(0, 2),
-                                ),
-                              ],
-                            ),
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  message['content'],
-                                  style: TextStyle(
-                                    color: isUser ? Colors.white : Colors.black87,
-                                    fontSize: 14,
-                                    height: 1.4,
-                                  ),
-                                ),
-                                const SizedBox(height: 4),
-                                Text(
-                                  _formatTime(message['timestamp']),
-                                  style: TextStyle(
-                                    color: isUser 
-                                        ? Colors.white.withOpacity(0.7)
-                                        : Colors.grey[500],
-                                    fontSize: 10,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                        ),
-                        
-                        if (isUser) const SizedBox(width: 44),
-                      ],
-                    ),
-                  );
-                },
+                  },
+                ),
               ),
             ),
-          ),
-          
-          // 输入区域
-          Container(
-            padding: const EdgeInsets.all(16),
-            decoration: BoxDecoration(
-              color: Colors.white,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.black.withOpacity(0.1),
-                  blurRadius: 10,
-                  offset: const Offset(0, -2),
-                ),
-              ],
-            ),
-            child: Row(
-              children: [
-                Expanded(
-                  child: Container(
-                    decoration: BoxDecoration(
-                      color: Colors.grey[100],
-                      borderRadius: BorderRadius.circular(25),
-                    ),
-                    child: TextField(
-                      controller: _textController,
-                      decoration: const InputDecoration(
-                        hintText: '输入你的旅游问题...',
-                        border: InputBorder.none,
-                        contentPadding: EdgeInsets.symmetric(
-                          horizontal: 20,
-                          vertical: 12,
-                        ),
+            
+            // 输入区域
+            Container(
+              padding: const EdgeInsets.all(16),
+              decoration: BoxDecoration(
+                color: Colors.white,
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.1),
+                    blurRadius: 10,
+                    offset: const Offset(0, -2),
+                  ),
+                ],
+              ),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: Container(
+                      decoration: BoxDecoration(
+                        color: Colors.grey[100],
+                        borderRadius: BorderRadius.circular(25),
                       ),
-                      maxLines: null,
-                      textInputAction: TextInputAction.send,
-                      onSubmitted: (_) => _sendMessage(),
+                      child: TextField(
+                        controller: _textController,
+                        decoration: const InputDecoration(
+                          hintText: '输入你的旅游问题...',
+                          border: InputBorder.none,
+                          contentPadding: EdgeInsets.symmetric(
+                            horizontal: 20,
+                            vertical: 12,
+                          ),
+                        ),
+                        maxLines: null,
+                        textInputAction: TextInputAction.send,
+                        onSubmitted: (_) => _sendMessage(),
+                      ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 12),
-                Container(
-                  decoration: BoxDecoration(
-                    color: AppConstants.primaryColor,
-                    shape: BoxShape.circle,
-                  ),
-                  child: IconButton(
-                    onPressed: _sendMessage,
-                    icon: const Icon(
-                      Icons.send,
-                      color: Colors.white,
-                      size: 20,
+                  const SizedBox(width: 12),
+                  Container(
+                    decoration: BoxDecoration(
+                      color: AppConstants.primaryColor,
+                      shape: BoxShape.circle,
+                    ),
+                    child: IconButton(
+                      onPressed: _sendMessage,
+                      icon: const Icon(
+                        Icons.send,
+                        color: Colors.white,
+                        size: 20,
+                      ),
                     ),
                   ),
-                ),
-              ],
+                ],
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }

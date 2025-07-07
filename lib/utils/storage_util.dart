@@ -318,4 +318,76 @@ class StorageUtil {
       return 0;
     }
   }
+
+  // ==================== AI聊天历史功能相关方法 ====================
+  
+  static const String _aiChatHistoryKey = 'ai_chat_history';
+  
+  /// 保存AI聊天历史记录
+  static Future<bool> saveAiChatHistory(List<Map<String, dynamic>> chatHistory) async {
+    try {
+      await init();
+      final String chatHistoryJson = json.encode(chatHistory);
+      return await _prefs!.setString(_aiChatHistoryKey, chatHistoryJson);
+    } catch (e) {
+      print('保存AI聊天历史失败: $e');
+      return false;
+    }
+  }
+  
+  /// 获取AI聊天历史记录
+  static Future<List<Map<String, dynamic>>> getAiChatHistory() async {
+    try {
+      await init();
+      final String? chatHistoryJson = _prefs!.getString(_aiChatHistoryKey);
+      
+      if (chatHistoryJson != null) {
+        final List<dynamic> chatHistoryList = json.decode(chatHistoryJson);
+        return chatHistoryList.cast<Map<String, dynamic>>();
+      }
+      
+      return [];
+    } catch (e) {
+      print('获取AI聊天历史失败: $e');
+      return [];
+    }
+  }
+  
+  /// 清除AI聊天历史记录
+  static Future<bool> clearAiChatHistory() async {
+    try {
+      await init();
+      return await _prefs!.remove(_aiChatHistoryKey);
+    } catch (e) {
+      print('清除AI聊天历史失败: $e');
+      return false;
+    }
+  }
+  
+  /// 获取AI聊天历史记录数量
+  static Future<int> getAiChatHistoryCount() async {
+    try {
+      final chatHistory = await getAiChatHistory();
+      return chatHistory.length;
+    } catch (e) {
+      print('获取AI聊天历史数量失败: $e');
+      return 0;
+    }
+  }
+  
+  /// 添加单条AI聊天记录
+  static Future<bool> addAiChatMessage(String type, String content) async {
+    try {
+      final chatHistory = await getAiChatHistory();
+      chatHistory.add({
+        'type': type,
+        'content': content,
+        'timestamp': DateTime.now().toIso8601String(),
+      });
+      return await saveAiChatHistory(chatHistory);
+    } catch (e) {
+      print('添加AI聊天记录失败: $e');
+      return false;
+    }
+  }
 } 

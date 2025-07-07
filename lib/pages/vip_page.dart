@@ -19,7 +19,6 @@ class _VipPageState extends State<VipPage> {
   UserModel? _userInfo;
   int _selectedIndex = 0;
   bool _isLoading = false;
-  bool _isRestoring = false;
   bool _isFirstPurchase = false;
   
   late StreamSubscription<List<PurchaseDetails>> _subscription;
@@ -29,14 +28,14 @@ class _VipPageState extends State<VipPage> {
     {
       'title': '月会员首充',
       'price': '88',
-      'originalPrice': '99',
+      'originalPrice': '98',
       'duration': '1个月',
       'productId': 'com.kuailiao.changs0',
       'isFirstPurchase': true,
     },
     {
       'title': '月会员',
-      'price': '99',
+      'price': '98',
       'originalPrice': null,
       'duration': '1个月',
       'productId': 'com.kuailiao.changs1',
@@ -97,8 +96,7 @@ class _VipPageState extends State<VipPage> {
           break;
           
         case PurchaseStatus.restored:
-          print('恢复购买成功: ${purchaseDetails.productID}');
-          await _handleRestoredPurchase(purchaseDetails);
+          print('检测到恢复购买，但已禁用此功能: ${purchaseDetails.productID}');
           break;
           
         case PurchaseStatus.error:
@@ -152,95 +150,11 @@ class _VipPageState extends State<VipPage> {
     }
   }
 
-  /// 处理恢复购买
-  Future<void> _handleRestorePurchase() async {
-    if (_isLoading || _isRestoring) return;
-
-    setState(() {
-      _isRestoring = true;
-    });
-
-    try {
-      print('=== 开始恢复购买 ===');
-      
-      // 检查内购是否可用
-      final bool isAvailable = await _iap.isAvailable();
-      print('内购服务可用性: $isAvailable');
-      
-      if (!isAvailable) {
-        throw Exception('内购服务不可用，请稍后再试');
-      }
-
-      // 显示恢复中的提示
-      if (mounted) {
-        ToastUtil.showInfo(context, '正在恢复购买...');
-      }
-
-      // 恢复购买 - 这会触发 purchaseStream 中的 restored 状态
-      await _iap.restorePurchases();
-      
-      print('恢复购买请求已发送，等待App Store响应...');
-      
-      // 给一些时间让系统处理恢复购买
-      await Future.delayed(const Duration(seconds: 2));
-      
-      // 如果2秒后还在恢复状态，说明可能没有可恢复的购买
-      if (_isRestoring && mounted) {
-        setState(() {
-          _isRestoring = false;
-        });
-        ToastUtil.showInfo(context, '没有找到可恢复的购买记录');
-      }
-      
-    } catch (e) {
-      print('恢复购买异常: $e');
-      if (mounted) {
-        setState(() {
-          _isRestoring = false;
-        });
-        ToastUtil.showError(context, '恢复购买失败: $e');
-      }
-    }
-  }
-
-  /// 处理恢复的购买项（购买流监听调用）
-  Future<void> _handleRestoredPurchase(PurchaseDetails purchaseDetails) async {
-    try {
-      print('处理恢复购买: ${purchaseDetails.productID}');
-      
-      // 查找对应的VIP套餐
-      final plan = _vipPlans.firstWhere(
-        (plan) => plan['productId'] == purchaseDetails.productID,
-        orElse: () => _vipPlans[1], // 默认月会员
-      );
-      
-      // 更新VIP状态
-      await _updateUserVipStatus(plan);
-      
-      if (mounted) {
-        setState(() {
-          _isRestoring = false;
-        });
-        ToastUtil.showSuccess(context, '恢复购买成功！VIP会员已激活');
-        await _loadUserInfo(); // 刷新用户信息
-      }
-    } catch (e) {
-      print('处理恢复购买错误: $e');
-      if (mounted) {
-        ToastUtil.showError(context, '处理恢复购买失败: $e');
-        setState(() {
-          _isRestoring = false;
-        });
-      }
-    }
-  }
-
   /// 重置加载状态
   void _resetLoadingStates() {
     if (mounted) {
       setState(() {
         _isLoading = false;
-        _isRestoring = false;
       });
     }
   }
@@ -326,7 +240,7 @@ class _VipPageState extends State<VipPage> {
 
   /// 处理VIP购买
   Future<void> _handleVipPurchase() async {
-    if (_isLoading || _isRestoring) return;
+    if (_isLoading) return;
 
     final selectedPlan = _vipPlans[_selectedIndex];
     
@@ -767,7 +681,7 @@ class _VipPageState extends State<VipPage> {
                       width: double.infinity,
                       height: 50,
                       child: ElevatedButton(
-                        onPressed: (_isLoading || _isRestoring) ? null : _handleVipPurchase,
+                        onPressed: _isLoading ? null : _handleVipPurchase,
                         style: ElevatedButton.styleFrom(
                           backgroundColor: AppConstants.primaryColor,
                           foregroundColor: Colors.white,
@@ -790,35 +704,6 @@ class _VipPageState extends State<VipPage> {
                                 style: const TextStyle(
                                   fontSize: 18,
                                   fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                      ),
-                    ),
-                    
-                    const SizedBox(height: 12),
-                    
-                    // 恢复购买按钮 - 弱化样式
-                    GestureDetector(
-                      onTap: (_isLoading || _isRestoring) ? null : _handleRestorePurchase,
-                      child: Container(
-                        width: double.infinity,
-                        height: 36,
-                        alignment: Alignment.center,
-                        child: _isRestoring
-                            ? SizedBox(
-                                width: 16,
-                                height: 16,
-                                child: CircularProgressIndicator(
-                                  strokeWidth: 2,
-                                  valueColor: AlwaysStoppedAnimation<Color>(Colors.grey[600]!),
-                                ),
-                              )
-                            : Text(
-                                '恢复购买',
-                                style: TextStyle(
-                                  fontSize: 14,
-                                  color: Colors.grey[600],
-                                  decoration: TextDecoration.underline,
                                 ),
                               ),
                       ),
