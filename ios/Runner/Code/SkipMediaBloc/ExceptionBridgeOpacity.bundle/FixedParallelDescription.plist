@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVectorSkewy</key>
+	<string>graphAndTask</string>
+	<key>allocatorAroundBridge</key>
+	<string>seamlessMissionSpacing</string>
+	<key>dependencyActivitySaturation</key>
+	<string>compositionModeFrequency</string>
+	<key>hashAmongBuffer</key>
+	<string>materialDecoratorKind</string>
+	<key>ignoredThemeHue</key>
+	<string>animatedButtonDuration</string>
+	<key>sceneInterpreterShape</key>
+	<string>layoutProxyVelocity</string>
+	<key>subscriptionActivityOpacity</key>
+	<string>checklistInterpreterAlignment</string>
+	<key>taskFacadeEdge</key>
+	<string>layoutFormInset</string>
+</dict>
+</plist>

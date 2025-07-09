@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryNumberOffset</key>
+	<string>compositionAsPlatform</string>
+	<key>containerMethodKind</key>
+	<string>statelessLoopRotation</string>
+	<key>delegateMementoOffset</key>
+	<string>controllerBridgeRotation</string>
+	<key>lostUnarySize</key>
+	<string>transitionAlongDecorator</string>
+	<key>symmetricSpecifierStatus</key>
+	<string>bufferFlyweightShade</string>
+	<key>transitionFormIndex</key>
+	<string>sliderOrMediator</string>
+</dict>
+</plist>

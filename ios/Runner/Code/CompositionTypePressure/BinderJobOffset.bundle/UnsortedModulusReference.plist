@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVariableBehavior</key>
+	<string>textStageValidation</string>
+	<key>equipmentWithFacade</key>
+	<string>deferredGrainTransparency</string>
+	<key>isolateStructureSpacing</key>
+	<string>mediaqueryPlatformRotation</string>
+	<key>layerParameterAlignment</key>
+	<string>missedErrorDistance</string>
+	<key>parallelParticleType</key>
+	<string>rowJobSpeed</string>
+	<key>screenIncludeObserver</key>
+	<string>directlyPreviewHue</string>
+	<key>specifierCycleShade</key>
+	<string>responsiveSizedboxVisible</string>
+	<key>statelessControllerPressure</key>
+	<string>constLogarithmDelay</string>
+</dict>
+</plist>

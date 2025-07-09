@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMediatorAcceleration</key>
+	<string>uniformAppbarName</string>
+	<key>descriptionThanFlyweight</key>
+	<string>composableHeapBorder</string>
+	<key>enabledTimerBehavior</key>
+	<string>alignmentAlongAdapter</string>
+	<key>interactorMediatorLocation</key>
+	<string>declarativePriorityLocation</string>
+	<key>largeSegmentSize</key>
+	<string>decorationThanStage</string>
+	<key>particleIncludeVisitor</key>
+	<string>singletonContextOrigin</string>
+</dict>
+</plist>

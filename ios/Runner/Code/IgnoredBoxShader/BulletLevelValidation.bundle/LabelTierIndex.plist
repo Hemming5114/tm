@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringDecorator</key>
+	<string>missedAlignmentLeft</string>
+	<key>catalystStateInteraction</key>
+	<string>callbackAgainstLevel</string>
+	<key>channelsCompositeBorder</key>
+	<string>agileIconShade</string>
+	<key>discardedInteractorOpacity</key>
+	<string>chartBesideSystem</string>
+	<key>imperativeRichtextScale</key>
+	<string>getxAgainstJob</string>
+	<key>inkwellProcessAppearance</key>
+	<string>descriptorVarSize</string>
+	<key>oldGrainOpacity</key>
+	<string>uniqueTextureName</string>
+	<key>prismaticInterpolationShade</key>
+	<string>ternaryActionFormat</string>
+	<key>stepMethodSpacing</key>
+	<string>touchAsCycle</string>
+</dict>
+</plist>

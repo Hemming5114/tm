@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPositionLeft</key>
+	<string>completerProxyCenter</string>
+	<key>actionParameterScale</key>
+	<string>specifyRoutePadding</string>
+	<key>actionProcessDelay</key>
+	<string>queryCycleOrientation</string>
+	<key>alertAtPrototype</key>
+	<string>injectionFromStyle</string>
+	<key>imperativeDrawerShape</key>
+	<string>globalChecklistTransparency</string>
+	<key>intermediateCheckboxScale</key>
+	<string>easyNavigationInset</string>
+	<key>logPerCommand</key>
+	<string>iterativeHeroSkewy</string>
+	<key>metadataFromVariable</key>
+	<string>grainFrameworkSkewy</string>
+	<key>resilientCollectionLocation</key>
+	<string>loopPrototypeBorder</string>
+</dict>
+</plist>

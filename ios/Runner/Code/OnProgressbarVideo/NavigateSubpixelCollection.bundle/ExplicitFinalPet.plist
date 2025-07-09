@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocParameterEdge</key>
+	<string>specifyAspectSize</string>
+	<key>completionAlongPlatform</key>
+	<string>modulusCycleSkewy</string>
+	<key>ignoredAnimatedcontainerStyle</key>
+	<string>completionFromInterpreter</string>
+	<key>iterativeTransitionRate</key>
+	<string>custompaintTempleSpacing</string>
+	<key>menuAndMediator</key>
+	<string>bulletKindOpacity</string>
+	<key>missedContainerTail</key>
+	<string>segueContainMode</string>
+	<key>newestSampleAlignment</key>
+	<string>compositionalStateFlags</string>
+	<key>positionVersusPlatform</key>
+	<string>alignmentShapeColor</string>
+	<key>richtextActivityOrigin</key>
+	<string>remainderObserverTop</string>
+</dict>
+</plist>

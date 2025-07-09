@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFormTail</key>
+	<string>appbarJobTail</string>
+	<key>denseGridviewBehavior</key>
+	<string>multiStreamInset</string>
+	<key>ephemeralGridOrientation</key>
+	<string>positionNumberHead</string>
+	<key>inkwellSinceProxy</key>
+	<string>momentumDecoratorDepth</string>
+	<key>primaryCubitName</key>
+	<string>labelTaskOrientation</string>
+	<key>specifierWithPlatform</key>
+	<string>dimensionFrameworkBorder</string>
+	<key>stateSystemResponse</key>
+	<string>popupContainObserver</string>
+	<key>ternaryAndCycle</key>
+	<string>streamParameterFrequency</string>
+	<key>transitionVisitorStatus</key>
+	<string>singletonInsideDecorator</string>
+</dict>
+</plist>

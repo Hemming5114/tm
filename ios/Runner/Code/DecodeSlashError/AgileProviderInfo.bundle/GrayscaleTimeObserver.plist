@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionVersusStrategy</key>
+	<string>navigationThroughLayer</string>
+	<key>inheritedIndicatorDirection</key>
+	<string>opaqueFeatureKind</string>
+	<key>layoutCommandFlags</key>
+	<string>cellForAction</string>
+	<key>liteNavigationOrigin</key>
+	<string>activatedErrorLeft</string>
+	<key>masterPerType</key>
+	<string>independentGridOffset</string>
+	<key>uniqueRiverpodColor</key>
+	<string>loopFacadeName</string>
+</dict>
+</plist>

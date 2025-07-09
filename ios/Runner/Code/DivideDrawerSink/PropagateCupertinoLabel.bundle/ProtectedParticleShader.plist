@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateNumberForce</key>
+	<string>custompaintVersusBuffer</string>
+	<key>delegateWithScope</key>
+	<string>queueThroughOperation</string>
+	<key>desktopStreamDelay</key>
+	<string>tickerInChain</string>
+	<key>errorInterpreterRotation</key>
+	<string>missedMetadataCount</string>
+	<key>labelNearFacade</key>
+	<string>synchronousPromiseInteraction</string>
+	<key>optimizerChainRotation</key>
+	<string>materialGraphBound</string>
+	<key>providerNumberOpacity</key>
+	<string>rectSystemTail</string>
+	<key>skirtAlongParameter</key>
+	<string>permissiveMemberColor</string>
+	<key>sustainableViewCount</key>
+	<string>constraintPerState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInjectionSkewy</key>
+	<string>textStageMode</string>
+	<key>asyncSliderDirection</key>
+	<string>requestStageContrast</string>
+	<key>invisibleResponseSize</key>
+	<string>scrollableSubscriptionPosition</string>
+	<key>mediumNavigationBrightness</key>
+	<string>usageModeFeedback</string>
+	<key>missionIncludePattern</key>
+	<string>rowDespiteScope</string>
+	<key>repositoryAroundParameter</key>
+	<string>radiusParamBorder</string>
+</dict>
+</plist>

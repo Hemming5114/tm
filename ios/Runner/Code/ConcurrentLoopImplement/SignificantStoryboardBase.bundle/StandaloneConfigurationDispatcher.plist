@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityLevelState</key>
+	<string>statefulUtilTheme</string>
+	<key>fusedWidgetVelocity</key>
+	<string>concurrentChartVisible</string>
+	<key>graphicPhaseShape</key>
+	<string>independentControllerColor</string>
+	<key>labelMementoMode</key>
+	<string>stackParamCenter</string>
+	<key>resolverFunctionKind</key>
+	<string>singleCaptionOffset</string>
+	<key>rowDespiteFunction</key>
+	<string>ephemeralSingletonTint</string>
+	<key>zoneVisitorAlignment</key>
+	<string>inheritedPriorityRight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedContainerFrequency</key>
+	<string>queueNearAction</string>
+	<key>coordinatorDecoratorForce</key>
+	<string>referenceOrAction</string>
+	<key>coordinatorMementoLeft</key>
+	<string>navigatorParamTint</string>
+	<key>currentMapCenter</key>
+	<string>ignoredControllerHue</string>
+	<key>disabledCommandMode</key>
+	<string>reusableSignPosition</string>
+	<key>graphicLikeSystem</key>
+	<string>injectionWithMethod</string>
+	<key>singleStampVelocity</key>
+	<string>multiplicationAwayPlatform</string>
+</dict>
+</plist>

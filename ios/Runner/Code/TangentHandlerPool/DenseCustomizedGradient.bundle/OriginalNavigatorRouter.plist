@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDuringVisitor</key>
+	<string>viewObserverCount</string>
+	<key>channelCycleTag</key>
+	<string>transitionAgainstScope</string>
+	<key>channelVersusMethod</key>
+	<string>sinkKindOffset</string>
+	<key>configurationOfTask</key>
+	<string>directlyFlexTop</string>
+	<key>ephemeralSwitchForce</key>
+	<string>positionedChainOrigin</string>
+	<key>factoryScopeOpacity</key>
+	<string>tweenVersusShape</string>
+	<key>metadataInterpreterInteraction</key>
+	<string>managerProcessVisibility</string>
+	<key>skinProxyTheme</key>
+	<string>observerNumberVisibility</string>
+	<key>streamJobCoord</key>
+	<string>chartPhaseBound</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVariableMargin</key>
+	<string>crucialHashDirection</string>
+	<key>coordinatorLayerDelay</key>
+	<string>animatedcontainerAsBuffer</string>
+	<key>publicGridSpeed</key>
+	<string>layoutTierShape</string>
+	<key>responsiveControllerHue</key>
+	<string>optimizerBeyondChain</string>
+	<key>routeBeyondStrategy</key>
+	<string>modalWithTier</string>
+	<key>tangentByStrategy</key>
+	<string>popupFunctionBound</string>
+</dict>
+</plist>

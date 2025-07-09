@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSampleAlignment</key>
+	<string>menuTypeEdge</string>
+	<key>convolutionAsStructure</key>
+	<string>hierarchicalRouterPosition</string>
+	<key>lazyModalDepth</key>
+	<string>flexFunctionVelocity</string>
+	<key>modulusFacadeInset</key>
+	<string>declarativeTickerVisibility</string>
+	<key>routeBridgeRight</key>
+	<string>rowThanComposite</string>
+	<key>segueFrameworkAcceleration</key>
+	<string>delegatePrototypeDensity</string>
+	<key>tappableBufferTint</key>
+	<string>animationSingletonValidation</string>
+	<key>timerCompositeBrightness</key>
+	<string>controllerFrameworkLeft</string>
+</dict>
+</plist>

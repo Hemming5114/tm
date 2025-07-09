@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystAdapterShape</key>
+	<string>localDelegateOpacity</string>
+	<key>desktopEntityOrientation</key>
+	<string>methodScopeDirection</string>
+	<key>lazyOverlayShade</key>
+	<string>overlayWithoutStrategy</string>
+	<key>permissivePositionFrequency</key>
+	<string>unsortedVariantState</string>
+	<key>pivotalBaselineShade</key>
+	<string>missedGrainColor</string>
+	<key>scaffoldDuringLevel</key>
+	<string>profileDuringDecorator</string>
+	<key>statelessForLevel</key>
+	<string>backwardBorderFormat</string>
+	<key>temporaryBoxEdge</key>
+	<string>managerAsParam</string>
+	<key>ternaryWithAction</key>
+	<string>storeTempleVisible</string>
+</dict>
+</plist>

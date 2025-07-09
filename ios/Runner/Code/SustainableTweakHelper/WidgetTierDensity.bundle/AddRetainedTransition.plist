@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStructurePressure</key>
+	<string>graphPlatformInteraction</string>
+	<key>completerTierFrequency</key>
+	<string>typicalWidgetFrequency</string>
+	<key>coordinatorKindPressure</key>
+	<string>viewCycleForce</string>
+	<key>cubitDuringSystem</key>
+	<string>containerPatternInset</string>
+	<key>decorationDespiteActivity</key>
+	<string>interactorWithActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentThreadBehavior</key>
+	<string>rapidTransitionBorder</string>
+	<key>custompaintInterpreterScale</key>
+	<string>largeTextSkewy</string>
+	<key>errorJobOpacity</key>
+	<string>expandedLevelName</string>
+	<key>plateAroundVar</key>
+	<string>transitionStrategyBehavior</string>
+	<key>progressbarThroughProxy</key>
+	<string>ignoredChapterShade</string>
+</dict>
+</plist>

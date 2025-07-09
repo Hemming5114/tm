@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellPerStructure</key>
+	<string>cubeModeAcceleration</string>
+	<key>lastFrameKind</key>
+	<string>singletonActionVisibility</string>
+	<key>resolverSingletonFlags</key>
+	<string>notificationAndLevel</string>
+	<key>stepVisitorCount</key>
+	<string>respectiveRepositoryAppearance</string>
+	<key>synchronousPrecisionRate</key>
+	<string>synchronousTextfieldTransparency</string>
+	<key>tickerAroundValue</key>
+	<string>resourceTempleSaturation</string>
+</dict>
+</plist>

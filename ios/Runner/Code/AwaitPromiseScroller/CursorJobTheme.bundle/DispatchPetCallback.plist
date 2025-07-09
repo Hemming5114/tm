@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonButtonStyle</key>
+	<string>dropdownbuttonUntilChain</string>
+	<key>dedicatedAlertIndex</key>
+	<string>popupSystemDensity</string>
+	<key>desktopSineDepth</key>
+	<string>substantialCacheAcceleration</string>
+	<key>expandedLikePhase</key>
+	<string>coordinatorExceptProxy</string>
+	<key>handlerFlyweightBorder</key>
+	<string>permissiveScreenTop</string>
+	<key>managerActionLeft</key>
+	<string>sceneAroundFramework</string>
+	<key>textStatePadding</key>
+	<string>eagerEquipmentAlignment</string>
+	<key>vectorParameterHue</key>
+	<string>equipmentFlyweightSize</string>
+</dict>
+</plist>

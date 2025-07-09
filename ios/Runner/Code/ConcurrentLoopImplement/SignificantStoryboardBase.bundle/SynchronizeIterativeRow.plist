@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableActivityStatus</key>
+	<string>futureObserverInteraction</string>
+	<key>finalTaskTop</key>
+	<string>storeCycleCoord</string>
+	<key>metadataFlyweightCenter</key>
+	<string>opaqueActionOrientation</string>
+	<key>nibLevelOpacity</key>
+	<string>seamlessFeatureStatus</string>
+	<key>relationalEffectDirection</key>
+	<string>titleTierSpacing</string>
+</dict>
+</plist>

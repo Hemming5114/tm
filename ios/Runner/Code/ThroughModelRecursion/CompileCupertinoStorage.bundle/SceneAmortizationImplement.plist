@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTypeBorder</key>
+	<string>slashBufferRight</string>
+	<key>criticalSliderEdge</key>
+	<string>sophisticatedCellFeedback</string>
+	<key>crudeBufferValidation</key>
+	<string>indicatorParamAppearance</string>
+	<key>delegateChainPosition</key>
+	<string>rapidSensorVelocity</string>
+	<key>heapTypeName</key>
+	<string>gesturedetectorPerDecorator</string>
+	<key>invisibleTabbarHue</key>
+	<string>exceptionStructureVisible</string>
+	<key>lastAlignmentAcceleration</key>
+	<string>catalystContextBound</string>
+	<key>responseMethodSaturation</key>
+	<string>routeValueKind</string>
+	<key>riverpodMethodScale</key>
+	<string>completerExceptCommand</string>
+</dict>
+</plist>

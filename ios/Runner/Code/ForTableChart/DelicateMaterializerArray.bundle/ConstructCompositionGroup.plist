@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMetadataPosition</key>
+	<string>explicitDimensionDirection</string>
+	<key>blocInterpreterVelocity</key>
+	<string>adaptiveInterfaceAcceleration</string>
+	<key>drawerMementoVisible</key>
+	<string>eventObserverInset</string>
+	<key>granularTransitionOffset</key>
+	<string>channelsSystemShade</string>
+	<key>lazyAccessoryTint</key>
+	<string>animatedcontainerInTask</string>
+	<key>matrixBesideStyle</key>
+	<string>segmentVisitorState</string>
+	<key>sequentialWidgetForce</key>
+	<string>isolateExceptStage</string>
+	<key>storeOfScope</key>
+	<string>parallelDecorationHue</string>
+	<key>textProxySkewx</key>
+	<string>enabledResponseState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarParamScale</key>
+	<string>tabbarViaBridge</string>
+	<key>awaitExceptContext</key>
+	<string>localizationAroundTier</string>
+	<key>callbackEnvironmentRotation</key>
+	<string>dependencyFlyweightInteraction</string>
+	<key>consultativePointShade</key>
+	<string>skinVariableTension</string>
+	<key>dynamicBehaviorPressure</key>
+	<string>advancedLayoutBottom</string>
+	<key>smartAlignmentTension</key>
+	<string>unaryPerType</string>
+</dict>
+</plist>

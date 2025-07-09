@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedParticleValidation</key>
+	<string>cellAlongFacade</string>
+	<key>alignmentSincePattern</key>
+	<string>semanticRowInteraction</string>
+	<key>baselineNearLayer</key>
+	<string>pivotalResultDistance</string>
+	<key>borderExceptParam</key>
+	<string>requiredNotifierForce</string>
+	<key>otherChannelsFormat</key>
+	<string>switchStateSpacing</string>
+	<key>particleThroughPhase</key>
+	<string>loopLikeEnvironment</string>
+	<key>staticZoneFrequency</key>
+	<string>popupAndObserver</string>
+</dict>
+</plist>

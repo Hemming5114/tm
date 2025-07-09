@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCatalystCenter</key>
+	<string>bufferOfFlyweight</string>
+	<key>extensionCycleBrightness</key>
+	<string>sensorSingletonBehavior</string>
+	<key>imperativeFutureSize</key>
+	<string>precisionCommandAppearance</string>
+	<key>invisibleStepSpacing</key>
+	<string>storeAlongSingleton</string>
+	<key>permissiveContainerDensity</key>
+	<string>providerFromFunction</string>
+	<key>sampleBesideComposite</key>
+	<string>notifierValueState</string>
+	<key>smartSkinBound</key>
+	<string>awaitInScope</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVersusProxy</key>
+	<string>previewThanSingleton</string>
+	<key>descriptorShapeDepth</key>
+	<string>checkboxMethodInteraction</string>
+	<key>directInterfaceInteraction</key>
+	<string>queryBridgeMargin</string>
+	<key>effectVariableScale</key>
+	<string>animationFromNumber</string>
+	<key>heapPerCommand</key>
+	<string>dialogsWithoutMemento</string>
+	<key>providerAsDecorator</key>
+	<string>positionForBuffer</string>
+	<key>singleDependencyRotation</key>
+	<string>layoutFacadeVisible</string>
+	<key>subtleDecorationAlignment</key>
+	<string>mediaqueryOutsideWork</string>
+</dict>
+</plist>

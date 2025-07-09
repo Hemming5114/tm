@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentScopeOrientation</key>
+	<string>masterBridgeDensity</string>
+	<key>completionAwayFunction</key>
+	<string>bufferActionRate</string>
+	<key>contractionInsideMediator</key>
+	<string>signAdapterFeedback</string>
+	<key>globalStoreDuration</key>
+	<string>sizeIncludeStyle</string>
+	<key>metadataPlatformEdge</key>
+	<string>persistentProviderVelocity</string>
+	<key>sinkShapeRate</key>
+	<string>textValueScale</string>
+	<key>symbolAmongScope</key>
+	<string>descriptionOutsideStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rectThanObserver</key>
+	<string>imperativeSlashPosition</string>
+	<key>routerByMethod</key>
+	<string>reducerVersusStage</string>
+	<key>stackFacadeBottom</key>
+	<string>normalCellType</string>
+	<key>textureWithoutSingleton</key>
+	<string>tweenAsVar</string>
+	<key>touchAsProxy</key>
+	<string>plateAtParam</string>
+</dict>
+</plist>

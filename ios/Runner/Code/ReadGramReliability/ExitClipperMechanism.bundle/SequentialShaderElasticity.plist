@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePaddingStyle</key>
+	<string>aspectratioThanProcess</string>
+	<key>desktopInstructionContrast</key>
+	<string>spotIncludeTask</string>
+	<key>modalThroughStructure</key>
+	<string>factoryPatternAppearance</string>
+	<key>statefulTouchHue</key>
+	<string>tweenObserverOpacity</string>
+	<key>tappableQueryVisible</key>
+	<string>prevSizeOpacity</string>
+</dict>
+</plist>

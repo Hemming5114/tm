@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCardDistance</key>
+	<string>semanticContainerInterval</string>
+	<key>baselineStructureBehavior</key>
+	<string>normalBaselineOffset</string>
+	<key>builderLevelMode</key>
+	<string>errorActivitySaturation</string>
+	<key>iconWithEnvironment</key>
+	<string>sliderFlyweightContrast</string>
+	<key>largeFutureInteraction</key>
+	<string>customizedDurationEdge</string>
+	<key>paddingFunctionOrigin</key>
+	<string>transitionTaskSkewy</string>
+	<key>persistentSegueForce</key>
+	<string>tweenNearStyle</string>
+	<key>primaryVectorDelay</key>
+	<string>scrollableGrainSpacing</string>
+	<key>singletonTierTail</key>
+	<string>retainedWorkflowPressure</string>
+	<key>skinBufferCenter</key>
+	<string>nextMethodBehavior</string>
+</dict>
+</plist>

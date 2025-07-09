@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionFormFlags</key>
+	<string>textureContextState</string>
+	<key>constMobileRotation</key>
+	<string>mobileEnvironmentPosition</string>
+	<key>subscriptionWorkDuration</key>
+	<string>responseFromMediator</string>
+	<key>tangentInsideSystem</key>
+	<string>graphCompositeSize</string>
+	<key>tappableConstraintOpacity</key>
+	<string>greatCanvasMomentum</string>
+	<key>ternaryFlyweightTint</key>
+	<string>segmentNearAdapter</string>
+	<key>touchMementoHue</key>
+	<string>currentProviderTop</string>
+</dict>
+</plist>

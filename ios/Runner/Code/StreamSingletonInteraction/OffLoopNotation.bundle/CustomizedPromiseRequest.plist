@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsAdapterInteraction</key>
+	<string>spriteOfAdapter</string>
+	<key>globalChapterBehavior</key>
+	<string>ternaryThanInterpreter</string>
+	<key>musicUntilMode</key>
+	<string>referenceBridgeBrightness</string>
+	<key>oldCapacitiesPosition</key>
+	<string>commonStorageDelay</string>
+	<key>paddingThanStyle</key>
+	<string>commandOfType</string>
+	<key>persistentDropdownbuttonOrigin</key>
+	<string>threadSystemTransparency</string>
+	<key>taskAwayBuffer</key>
+	<string>animationAgainstLevel</string>
+	<key>usedDecorationAcceleration</key>
+	<string>lastMediaDepth</string>
+</dict>
+</plist>

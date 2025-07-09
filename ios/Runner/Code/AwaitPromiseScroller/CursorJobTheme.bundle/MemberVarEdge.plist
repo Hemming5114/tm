@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBeyondActivity</key>
+	<string>documentInDecorator</string>
+	<key>concurrentImageTint</key>
+	<string>menuNumberContrast</string>
+	<key>factoryStyleOpacity</key>
+	<string>roleMementoContrast</string>
+	<key>frameCycleMargin</key>
+	<string>builderModeKind</string>
+	<key>materialResultMode</key>
+	<string>decorationStrategyInset</string>
+	<key>widgetMediatorTransparency</key>
+	<string>opaqueTaskTag</string>
+</dict>
+</plist>

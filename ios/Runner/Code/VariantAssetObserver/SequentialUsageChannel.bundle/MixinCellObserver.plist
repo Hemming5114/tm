@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureWithVar</key>
+	<string>cubitProcessSpeed</string>
+	<key>hardWorkflowOrigin</key>
+	<string>intuitiveProtocolBehavior</string>
+	<key>semanticWorkflowVelocity</key>
+	<string>chartAroundStyle</string>
+	<key>sliderProcessPressure</key>
+	<string>usedInterfaceAppearance</string>
+</dict>
+</plist>

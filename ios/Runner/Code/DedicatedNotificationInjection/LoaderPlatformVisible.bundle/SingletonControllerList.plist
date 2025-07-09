@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSegueEdge</key>
+	<string>groupAboutWork</string>
+	<key>factoryCycleBrightness</key>
+	<string>screenCommandState</string>
+	<key>fixedServiceFrequency</key>
+	<string>positionedBeyondVar</string>
+	<key>managerDecoratorFrequency</key>
+	<string>graphicFlyweightDuration</string>
+	<key>resilientButtonFlags</key>
+	<string>actionSinceComposite</string>
+	<key>transitionLayerPressure</key>
+	<string>queryExceptFramework</string>
+</dict>
+</plist>

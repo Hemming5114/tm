@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAgainstBridge</key>
+	<string>reducerModeValidation</string>
+	<key>constraintAgainstVariable</key>
+	<string>providerMediatorTail</string>
+	<key>currentStoreBehavior</key>
+	<string>asyncLocalizationBound</string>
+	<key>factoryExceptMediator</key>
+	<string>popupLayerCenter</string>
+	<key>parallelDecorationIndex</key>
+	<string>scrollVersusType</string>
+	<key>resizableTickerType</key>
+	<string>indicatorChainTheme</string>
+	<key>sliderActivityTag</key>
+	<string>dependencyPrototypeTheme</string>
+	<key>tweenStructureSpeed</key>
+	<string>movementVisitorTint</string>
+	<key>unsortedMarginHead</key>
+	<string>stateParamPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAmongStrategy</key>
+	<string>completionLevelStatus</string>
+	<key>equipmentWithPrototype</key>
+	<string>collectionExceptWork</string>
+	<key>exceptionChainTint</key>
+	<string>animationDuringWork</string>
+	<key>ignoredBitrateDepth</key>
+	<string>criticalResolverDensity</string>
+	<key>keyPresenterSpacing</key>
+	<string>asyncBlocAcceleration</string>
+	<key>localizationBeyondFunction</key>
+	<string>staticMobxRight</string>
+	<key>metadataVarLeft</key>
+	<string>hashLevelShade</string>
+	<key>permissiveHashTransparency</key>
+	<string>beginnerFragmentBehavior</string>
+	<key>serviceKindValidation</key>
+	<string>rapidEventShape</string>
+	<key>textInterpreterInteraction</key>
+	<string>navigationStrategyInterval</string>
+</dict>
+</plist>

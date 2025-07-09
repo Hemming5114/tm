@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionStructureBehavior</key>
+	<string>painterOrMode</string>
+	<key>completionObserverKind</key>
+	<string>threadIncludeDecorator</string>
+	<key>observerWithFacade</key>
+	<string>richtextAtValue</string>
+	<key>rapidAppbarBehavior</key>
+	<string>musicVisitorDuration</string>
+</dict>
+</plist>

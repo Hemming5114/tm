@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDelegateBrightness</key>
+	<string>slashForFramework</string>
+	<key>easyAppbarValidation</key>
+	<string>hardResourceBehavior</string>
+	<key>normFromLayer</key>
+	<string>keyChannelSkewy</string>
+	<key>semanticBufferValidation</key>
+	<string>dialogsAsCommand</string>
+	<key>threadMethodCenter</key>
+	<string>configurationMementoCount</string>
+</dict>
+</plist>

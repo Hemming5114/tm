@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventVersusFramework</key>
+	<string>expandedAboutMethod</string>
+	<key>nodeMediatorStyle</key>
+	<string>localizationViaVisitor</string>
+	<key>presenterSystemSaturation</key>
+	<string>alignmentOutsidePrototype</string>
+	<key>storyboardTempleFrequency</key>
+	<string>animationIncludeSingleton</string>
+	<key>viewOrWork</key>
+	<string>channelAtType</string>
+</dict>
+</plist>

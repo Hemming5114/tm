@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAroundFunction</key>
+	<string>storePlatformName</string>
+	<key>containerSystemLocation</key>
+	<string>dimensionAtActivity</string>
+	<key>decorationAtSingleton</key>
+	<string>injectionCyclePosition</string>
+	<key>effectAdapterTransparency</key>
+	<string>toolMediatorHead</string>
+	<key>featureFromNumber</key>
+	<string>stepAmongState</string>
+	<key>imageSinceVar</key>
+	<string>customScreenShade</string>
+	<key>permissiveDependencyFlags</key>
+	<string>equalizationStateDirection</string>
+	<key>queueAroundPhase</key>
+	<string>transitionStageInteraction</string>
+</dict>
+</plist>

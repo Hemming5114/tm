@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeViaParam</key>
+	<string>textureThanParameter</string>
+	<key>cupertinoAnimationAcceleration</key>
+	<string>declarativeCardDuration</string>
+	<key>desktopInterfaceAcceleration</key>
+	<string>promiseAsTask</string>
+	<key>displayableShaderRate</key>
+	<string>batchIncludeForm</string>
+	<key>interfacePrototypeState</key>
+	<string>viewVisitorTransparency</string>
+	<key>interfaceVersusMediator</key>
+	<string>heapFlyweightOrientation</string>
+	<key>mainBaselineCoord</key>
+	<string>intensityInType</string>
+	<key>mainMediaqueryOffset</key>
+	<string>originalProviderRotation</string>
+	<key>signaturePlatformState</key>
+	<string>mutableMobxSkewy</string>
+	<key>symbolContextInteraction</key>
+	<string>materialWidgetForce</string>
+</dict>
+</plist>

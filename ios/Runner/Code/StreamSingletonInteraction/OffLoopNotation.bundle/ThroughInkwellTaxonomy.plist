@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateMargin</key>
+	<string>captionAroundStage</string>
+	<key>bitrateBySystem</key>
+	<string>adaptiveContainerTop</string>
+	<key>menuModeRight</key>
+	<string>cosineVisitorRight</string>
+	<key>publicCurveCoord</key>
+	<string>requiredLabelHue</string>
+</dict>
+</plist>

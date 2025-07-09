@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAdapterTransparency</key>
+	<string>positionBufferAppearance</string>
+	<key>commonTitleFormat</key>
+	<string>asyncInPhase</string>
+	<key>navigatorIncludeTask</key>
+	<string>subtleCubitValidation</string>
+	<key>opaqueUsageShade</key>
+	<string>sampleSinceMode</string>
+	<key>plateNearProxy</key>
+	<string>storeKindShape</string>
+	<key>providerStyleRotation</key>
+	<string>mediocreCosineRotation</string>
+	<key>scaffoldUntilStrategy</key>
+	<string>checkboxBeyondLevel</string>
+</dict>
+</plist>

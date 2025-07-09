@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderThroughBridge</key>
+	<string>viewStateFlags</string>
+	<key>concurrentCubitAlignment</key>
+	<string>subscriptionViaMemento</string>
+	<key>currentTextShade</key>
+	<string>spriteVarShade</string>
+	<key>equipmentKindAlignment</key>
+	<string>consumerMementoDepth</string>
+	<key>hardOffsetVisible</key>
+	<string>transitionDespiteComposite</string>
+	<key>responsiveSubscriptionMomentum</key>
+	<string>specifyStatefulDelay</string>
+	<key>semanticAllocatorOrientation</key>
+	<string>positionStyleInterval</string>
+	<key>threadParamKind</key>
+	<string>drawerLayerForce</string>
+</dict>
+</plist>

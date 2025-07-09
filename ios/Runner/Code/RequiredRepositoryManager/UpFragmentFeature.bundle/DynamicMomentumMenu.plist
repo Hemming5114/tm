@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramFacadeResponse</key>
+	<string>equipmentAboutObserver</string>
+	<key>notifierJobBehavior</key>
+	<string>durationAdapterScale</string>
+	<key>persistentAwaitFlags</key>
+	<string>easyChartDelay</string>
+	<key>persistentPositionPadding</key>
+	<string>expandedBeyondLayer</string>
+	<key>sessionNumberFeedback</key>
+	<string>commandPatternForce</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMonsterFormat</key>
+	<string>intermediateSwitchShape</string>
+	<key>expandedBufferInteraction</key>
+	<string>nextReducerSpeed</string>
+	<key>intensityScopeValidation</key>
+	<string>storyboardPatternTransparency</string>
+	<key>managerPlatformAppearance</key>
+	<string>unsortedPresenterDirection</string>
+	<key>mediaquerySinceMode</key>
+	<string>newestHandlerRight</string>
+	<key>progressbarActionBottom</key>
+	<string>skinTempleHead</string>
+	<key>reducerStateBrightness</key>
+	<string>tabviewBeyondVariable</string>
+	<key>taskParamLocation</key>
+	<string>tappableInstructionInteraction</string>
+</dict>
+</plist>

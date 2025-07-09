@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleThroughFlyweight</key>
+	<string>utilShapeContrast</string>
+	<key>managerMementoIndex</key>
+	<string>declarativeBuilderInset</string>
+	<key>techniqueAdapterDelay</key>
+	<string>sineChainShade</string>
+	<key>titleDecoratorOpacity</key>
+	<string>framePatternLeft</string>
+</dict>
+</plist>

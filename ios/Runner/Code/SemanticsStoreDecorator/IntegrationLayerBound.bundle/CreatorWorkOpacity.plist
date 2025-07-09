@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBufferCenter</key>
+	<string>reusableReductionHue</string>
+	<key>factoryPlatformType</key>
+	<string>previewTaskTag</string>
+	<key>skinPatternDirection</key>
+	<string>presenterCompositeStyle</string>
+	<key>sliderDecoratorShade</key>
+	<string>providerContainVar</string>
+	<key>zoneWorkBound</key>
+	<string>lastAnchorFlags</string>
+</dict>
+</plist>

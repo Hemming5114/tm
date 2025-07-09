@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSystemOrientation</key>
+	<string>consumerBesideSystem</string>
+	<key>constraintOfBridge</key>
+	<string>assetObserverDepth</string>
+	<key>contractionUntilSystem</key>
+	<string>batchThroughProcess</string>
+	<key>coordinatorStructureState</key>
+	<string>spineStructureBehavior</string>
+	<key>euclideanListenerFeedback</key>
+	<string>otherGestureSkewy</string>
+	<key>handlerViaContext</key>
+	<string>dynamicDecorationLocation</string>
+	<key>primaryButtonFrequency</key>
+	<string>equalizationPerProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBlocForce</key>
+	<string>smallButtonOrientation</string>
+	<key>denseBorderInset</key>
+	<string>metadataProxyRotation</string>
+	<key>denseEntropyOrientation</key>
+	<string>threadAtTask</string>
+	<key>mediaqueryAsObserver</key>
+	<string>callbackForSingleton</string>
+	<key>metadataFromVar</key>
+	<string>resizableHeroDistance</string>
+	<key>semanticTransitionSpeed</key>
+	<string>tensorCubitBorder</string>
+	<key>spotOrVariable</key>
+	<string>tabviewChainVelocity</string>
+</dict>
+</plist>

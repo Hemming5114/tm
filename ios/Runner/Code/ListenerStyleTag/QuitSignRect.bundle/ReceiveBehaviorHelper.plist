@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGridviewBehavior</key>
+	<string>resourceVisitorBehavior</string>
+	<key>fusedHashLocation</key>
+	<string>requestMediatorPosition</string>
+	<key>keyPromiseTop</key>
+	<string>presenterViaCycle</string>
+	<key>mutableHashOrientation</key>
+	<string>curveJobTransparency</string>
+	<key>sensorVarMomentum</key>
+	<string>normAndVar</string>
+	<key>taskDespiteInterpreter</key>
+	<string>modelActionRight</string>
+</dict>
+</plist>

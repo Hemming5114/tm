@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAgainstVisitor</key>
+	<string>unsortedPointOffset</string>
+	<key>drawerViaAdapter</key>
+	<string>richtextTierOffset</string>
+	<key>groupTierFormat</key>
+	<string>reductionDecoratorTop</string>
+	<key>operationStagePressure</key>
+	<string>missionContainFramework</string>
+	<key>prevExceptionSaturation</key>
+	<string>backwardTickerSaturation</string>
+	<key>requestContextKind</key>
+	<string>descriptionContextStyle</string>
+	<key>unsortedDependencyHue</key>
+	<string>threadOfNumber</string>
+</dict>
+</plist>

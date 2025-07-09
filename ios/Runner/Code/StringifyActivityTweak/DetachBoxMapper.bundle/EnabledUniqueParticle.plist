@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletDuringType</key>
+	<string>cupertinoWorkHue</string>
+	<key>sequentialCoordinatorInset</key>
+	<string>agileCurveShade</string>
+	<key>singleMatrixValidation</key>
+	<string>symbolBesideMediator</string>
+	<key>transitionAwayMethod</key>
+	<string>movementPlatformTop</string>
+</dict>
+</plist>

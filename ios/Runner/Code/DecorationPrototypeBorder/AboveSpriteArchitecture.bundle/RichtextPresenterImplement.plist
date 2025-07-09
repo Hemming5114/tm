@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBufferTransparency</key>
+	<string>eventAboutEnvironment</string>
+	<key>checklistMementoSkewx</key>
+	<string>batchValueDuration</string>
+	<key>mapExceptValue</key>
+	<string>firstTabbarFeedback</string>
+	<key>providerVarFeedback</key>
+	<string>hashOutsideObserver</string>
+	<key>similarWidgetSpacing</key>
+	<string>deferredPaddingSize</string>
+</dict>
+</plist>

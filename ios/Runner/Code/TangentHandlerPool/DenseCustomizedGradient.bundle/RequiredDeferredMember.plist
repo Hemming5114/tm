@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAmongInterpreter</key>
+	<string>multiBatchFlags</string>
+	<key>controllerDuringFlyweight</key>
+	<string>constraintAtOperation</string>
+	<key>exceptionOperationAlignment</key>
+	<string>numericalWorkflowHead</string>
+	<key>futureAlongLevel</key>
+	<string>progressbarDespiteContext</string>
+	<key>grainByMemento</key>
+	<string>catalystUntilBridge</string>
+</dict>
+</plist>

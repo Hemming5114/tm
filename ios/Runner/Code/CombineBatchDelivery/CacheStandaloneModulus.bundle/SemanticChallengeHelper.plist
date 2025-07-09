@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBufferValidation</key>
+	<string>aspectratioCycleSpeed</string>
+	<key>petVarIndex</key>
+	<string>concurrentButtonSkewx</string>
+	<key>providerProxyFrequency</key>
+	<string>usecaseModeSkewx</string>
+	<key>queryForAction</key>
+	<string>rapidBinaryColor</string>
+	<key>signatureJobFlags</key>
+	<string>memberVersusMediator</string>
+	<key>visibleHashForce</key>
+	<string>overlayFromVariable</string>
+</dict>
+</plist>

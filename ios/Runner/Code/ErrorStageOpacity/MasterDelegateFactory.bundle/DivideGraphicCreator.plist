@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderObserverTint</key>
+	<string>containerFormCount</string>
+	<key>cubitOutsideWork</key>
+	<string>storeCompositeFrequency</string>
+	<key>cubitStyleBorder</key>
+	<string>touchActivityContrast</string>
+	<key>dependencyWithMemento</key>
+	<string>stackShapeStatus</string>
+	<key>reusableCoordinatorState</key>
+	<string>brushScopePressure</string>
+	<key>tweenPhaseVelocity</key>
+	<string>bufferAboutVisitor</string>
+	<key>usecaseContainStrategy</key>
+	<string>requestValueTail</string>
+</dict>
+</plist>

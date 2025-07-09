@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFactoryValidation</key>
+	<string>sliderFrameworkMargin</string>
+	<key>groupTierInterval</key>
+	<string>desktopColumnIndex</string>
+	<key>independentModulusBottom</key>
+	<string>labelCycleRight</string>
+	<key>managerTaskSpacing</key>
+	<string>coordinatorNearComposite</string>
+	<key>navigatorParameterRotation</key>
+	<string>compositionalLogarithmAcceleration</string>
+	<key>painterViaFacade</key>
+	<string>persistentWidgetDepth</string>
+	<key>stepPatternBottom</key>
+	<string>iconAwayStyle</string>
+</dict>
+</plist>

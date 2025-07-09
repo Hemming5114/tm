@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConsumerFlags</key>
+	<string>fragmentWithPattern</string>
+	<key>channelStyleInset</key>
+	<string>directParticleDuration</string>
+	<key>invisibleFactoryCount</key>
+	<string>optimizerStyleInteraction</string>
+	<key>isolateWithoutBuffer</key>
+	<string>cupertinoPerFlyweight</string>
+	<key>navigationWorkValidation</key>
+	<string>sceneSinceFunction</string>
+	<key>repositoryVarPadding</key>
+	<string>variantByObserver</string>
+	<key>scaleDuringValue</key>
+	<string>managerWithStage</string>
+	<key>sophisticatedRowOrientation</key>
+	<string>grainByEnvironment</string>
+	<key>temporaryRectMode</key>
+	<string>intermediateCosineBottom</string>
+</dict>
+</plist>

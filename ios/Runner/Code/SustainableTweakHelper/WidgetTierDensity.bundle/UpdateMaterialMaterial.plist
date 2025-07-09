@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStackInterval</key>
+	<string>tickerOperationSpeed</string>
+	<key>disabledSignatureBorder</key>
+	<string>listenerSystemSpeed</string>
+	<key>progressbarOrCommand</key>
+	<string>positionDespiteInterpreter</string>
+	<key>viewDespiteForm</key>
+	<string>baselineCommandFormat</string>
+</dict>
+</plist>

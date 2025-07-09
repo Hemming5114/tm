@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWithoutActivity</key>
+	<string>interactiveMonsterHead</string>
+	<key>cellPhaseDistance</key>
+	<string>cycleStrategyFeedback</string>
+	<key>decorationVarLeft</key>
+	<string>logarithmParamDistance</string>
+	<key>factoryPerProcess</key>
+	<string>tensorSliderShade</string>
+	<key>groupObserverDepth</key>
+	<string>effectFromSingleton</string>
+	<key>permanentGetxState</key>
+	<string>eagerCurveFormat</string>
+	<key>presenterAgainstNumber</key>
+	<string>statefulQueueMomentum</string>
+	<key>transitionCompositeStyle</key>
+	<string>mediocreSingletonForce</string>
+</dict>
+</plist>

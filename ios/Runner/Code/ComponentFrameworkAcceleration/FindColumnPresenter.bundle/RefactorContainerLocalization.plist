@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStrategyEdge</key>
+	<string>documentWithoutScope</string>
+	<key>cellMethodName</key>
+	<string>modelBufferInteraction</string>
+	<key>crudeInjectionStyle</key>
+	<string>matrixWithoutStage</string>
+	<key>decorationOutsideMemento</key>
+	<string>ternaryByKind</string>
+	<key>disabledScreenFlags</key>
+	<string>semanticResponseDuration</string>
+	<key>mediocreOffsetSkewy</key>
+	<string>ignoredCurveVisibility</string>
+	<key>observerBesideWork</key>
+	<string>geometricPositionCoord</string>
+	<key>prioritySinceVariable</key>
+	<string>synchronousMobxName</string>
+	<key>vectorAgainstDecorator</key>
+	<string>sequentialSlashRate</string>
+</dict>
+</plist>

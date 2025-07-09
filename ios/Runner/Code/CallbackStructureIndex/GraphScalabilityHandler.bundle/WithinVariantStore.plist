@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTransitionForce</key>
+	<string>draggableButtonInteraction</string>
+	<key>localizationProxyBottom</key>
+	<string>spotWorkVisibility</string>
+	<key>precisionVariableLocation</key>
+	<string>materialTextfieldBottom</string>
+	<key>retainedQueueFeedback</key>
+	<string>layerProxyLeft</string>
+	<key>sinkVarTail</key>
+	<string>tabbarWithEnvironment</string>
+	<key>standalonePlaybackDistance</key>
+	<string>semanticsExceptProxy</string>
+	<key>tickerForCycle</key>
+	<string>lostVectorEdge</string>
+	<key>visibleProgressbarTail</key>
+	<string>futureSingletonFeedback</string>
+	<key>workflowActionTension</key>
+	<string>curveFromChain</string>
+</dict>
+</plist>

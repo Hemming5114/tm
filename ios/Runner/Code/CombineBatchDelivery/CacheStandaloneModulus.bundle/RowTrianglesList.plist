@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridThanActivity</key>
+	<string>autoLocalizationStatus</string>
+	<key>originalGridScale</key>
+	<string>nativeMapInteraction</string>
+	<key>playbackMediatorAcceleration</key>
+	<string>advancedProviderVelocity</string>
+	<key>reducerViaWork</key>
+	<string>actionAroundNumber</string>
+	<key>reductionAlongPrototype</key>
+	<string>segmentAroundCycle</string>
+</dict>
+</plist>

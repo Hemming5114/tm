@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStrategyVelocity</key>
+	<string>cubitLayerScale</string>
+	<key>currentErrorMargin</key>
+	<string>basicTaskSpeed</string>
+	<key>decorationVisitorOpacity</key>
+	<string>missionTaskIndex</string>
+	<key>histogramFlyweightCount</key>
+	<string>rapidCubitShape</string>
+	<key>themeOutsidePrototype</key>
+	<string>respectiveLayoutType</string>
+</dict>
+</plist>

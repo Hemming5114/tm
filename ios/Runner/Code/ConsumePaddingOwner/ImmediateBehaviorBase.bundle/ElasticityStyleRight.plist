@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTouchKind</key>
+	<string>coordinatorTierFrequency</string>
+	<key>cellLikeAction</key>
+	<string>immutableProgressbarMode</string>
+	<key>dynamicGesturedetectorInteraction</key>
+	<string>bufferWithShape</string>
+	<key>modulusLevelMode</key>
+	<string>cupertinoProgressbarDensity</string>
+	<key>overlayIncludeStage</key>
+	<string>threadProcessDelay</string>
+	<key>swiftForPrototype</key>
+	<string>chartAroundPhase</string>
+	<key>transformerAboutVar</key>
+	<string>streamParamTint</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAtFramework</key>
+	<string>tensorExceptionStatus</string>
+	<key>baselinePrototypeName</key>
+	<string>mapTypeCount</string>
+	<key>bitrateIncludeVar</key>
+	<string>mediumTextureType</string>
+	<key>challengeNumberCenter</key>
+	<string>coordinatorModeName</string>
+	<key>nextButtonBrightness</key>
+	<string>declarativeSlashVisibility</string>
+	<key>providerFromComposite</key>
+	<string>sharedCallbackOffset</string>
+	<key>publicEffectTag</key>
+	<string>retainedMethodCount</string>
+	<key>remainderObserverDelay</key>
+	<string>nibPlatformInteraction</string>
+</dict>
+</plist>

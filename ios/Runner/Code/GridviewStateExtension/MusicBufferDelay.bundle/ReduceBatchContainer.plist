@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStateSpacing</key>
+	<string>nodeAlongStructure</string>
+	<key>dedicatedRouteVisibility</key>
+	<string>dependencyWithoutContext</string>
+	<key>exponentTierVisible</key>
+	<string>capacitiesBeyondVar</string>
+	<key>rectFacadeDirection</key>
+	<string>boxshadowByDecorator</string>
+	<key>sampleVersusFunction</key>
+	<string>commandWithAction</string>
+	<key>sophisticatedScreenSkewy</key>
+	<string>layoutContextBrightness</string>
+</dict>
+</plist>

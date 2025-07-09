@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemOutsidePhase</key>
+	<string>standaloneCatalystCoord</string>
+	<key>interpolationFacadeResponse</key>
+	<string>granularGestureSaturation</string>
+	<key>parallelViewContrast</key>
+	<string>sequentialMediaqueryRate</string>
+	<key>publicRadiusCenter</key>
+	<string>clipperFacadePosition</string>
+	<key>variantOrParameter</key>
+	<string>prismaticProviderFrequency</string>
+</dict>
+</plist>

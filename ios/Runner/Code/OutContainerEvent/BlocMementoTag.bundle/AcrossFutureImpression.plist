@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVisitorColor</key>
+	<string>checkboxWorkPadding</string>
+	<key>dialogsNumberAppearance</key>
+	<string>textLayerSpacing</string>
+	<key>listenerLevelStyle</key>
+	<string>interfaceProxyDepth</string>
+	<key>momentumSinceBuffer</key>
+	<string>staticStorageStyle</string>
+	<key>sizeStrategySpeed</key>
+	<string>asyncThroughAction</string>
+	<key>viewAroundMethod</key>
+	<string>interpolationAroundFramework</string>
+</dict>
+</plist>

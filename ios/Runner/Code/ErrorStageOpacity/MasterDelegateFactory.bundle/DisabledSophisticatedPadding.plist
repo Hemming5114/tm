@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryMethodShape</key>
+	<string>taskNumberShade</string>
+	<key>decorationParamCount</key>
+	<string>workflowThroughObserver</string>
+	<key>inactiveGraphDelay</key>
+	<string>assetDuringPhase</string>
+	<key>inheritedRectState</key>
+	<string>effectCommandCount</string>
+	<key>observerDespiteAction</key>
+	<string>currentPageviewFlags</string>
+	<key>significantCursorVelocity</key>
+	<string>statefulDescriptionCount</string>
+	<key>usedTickerName</key>
+	<string>symbolValueTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateAppearance</key>
+	<string>popupBesideMemento</string>
+	<key>cubitVersusProxy</key>
+	<string>widgetInsideTier</string>
+	<key>draggableDecorationValidation</key>
+	<string>customPopupOrientation</string>
+	<key>iconStageRight</key>
+	<string>prevHeroMomentum</string>
+	<key>listviewPlatformOpacity</key>
+	<string>cacheAmongEnvironment</string>
+	<key>menuVarTransparency</key>
+	<string>webAlphaDepth</string>
+	<key>playbackAroundFramework</key>
+	<string>blocSystemShade</string>
+	<key>spriteUntilBridge</key>
+	<string>sequentialTimerVelocity</string>
+	<key>textureFunctionOrigin</key>
+	<string>statelessActionTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationShapeBehavior</key>
+	<string>referenceBridgeBehavior</string>
+	<key>interactorPatternHue</key>
+	<string>requestShapeTint</string>
+	<key>invisibleStorageDistance</key>
+	<string>kernelLevelLeft</string>
+	<key>layoutPatternColor</key>
+	<string>immediateCatalystSpacing</string>
+	<key>relationalStatefulSkewy</key>
+	<string>presenterProxyInterval</string>
+	<key>scaffoldAlongPattern</key>
+	<string>significantTweenAcceleration</string>
+	<key>timerAboutTask</key>
+	<string>memberStyleTension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoModulusRight</key>
+	<string>navigatorActionStatus</string>
+	<key>baselineNearStrategy</key>
+	<string>effectCommandAlignment</string>
+	<key>directlyMovementDistance</key>
+	<string>materialSystemFrequency</string>
+	<key>ephemeralReductionKind</key>
+	<string>constraintBeyondTier</string>
+	<key>granularMobxTop</key>
+	<string>textureStyleBrightness</string>
+	<key>interactorLikePattern</key>
+	<string>graphCycleSize</string>
+	<key>responsiveObserverState</key>
+	<string>featureOrBridge</string>
+	<key>resultExceptState</key>
+	<string>firstSubscriptionEdge</string>
+</dict>
+</plist>

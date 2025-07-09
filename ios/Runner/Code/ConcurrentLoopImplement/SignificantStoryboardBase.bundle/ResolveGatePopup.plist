@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityUntilTask</key>
+	<string>normFromState</string>
+	<key>batchVersusMethod</key>
+	<string>petBridgeCoord</string>
+	<key>nextProgressbarBrightness</key>
+	<string>unsortedButtonInteraction</string>
+	<key>originalStateState</key>
+	<string>accessibleNotifierRotation</string>
+	<key>parallelViewTint</key>
+	<string>topicChainForce</string>
+	<key>robustResultAlignment</key>
+	<string>agileResultAcceleration</string>
+	<key>streamParameterColor</key>
+	<string>metadataParameterState</string>
+</dict>
+</plist>

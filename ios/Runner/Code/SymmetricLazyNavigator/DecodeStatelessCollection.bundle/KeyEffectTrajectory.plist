@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptTemple</key>
+	<string>containerDecoratorInterval</string>
+	<key>aspectFlyweightOpacity</key>
+	<string>primaryNavigatorHue</string>
+	<key>frameThanStage</key>
+	<string>tappableNotificationPressure</string>
+	<key>gateUntilVariable</key>
+	<string>skinTaskDirection</string>
+	<key>modalSystemCenter</key>
+	<string>substantialSizedboxCenter</string>
+	<key>reducerChainPosition</key>
+	<string>dialogsWithoutAdapter</string>
+	<key>statelessCellRate</key>
+	<string>navigatorAtNumber</string>
+	<key>subtleLayoutTransparency</key>
+	<string>iconKindForce</string>
+	<key>textureAdapterDistance</key>
+	<string>referenceStructureColor</string>
+</dict>
+</plist>

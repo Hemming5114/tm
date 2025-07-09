@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStageCoord</key>
+	<string>sizedboxVariableMargin</string>
+	<key>inheritedHandlerOrientation</key>
+	<string>sensorAdapterInset</string>
+	<key>interfaceProxyPadding</key>
+	<string>smartProjectRotation</string>
+	<key>listenerActivityDuration</key>
+	<string>mobileEntityPadding</string>
+	<key>materialProviderSpeed</key>
+	<string>timerContextVelocity</string>
+	<key>offsetViaVariable</key>
+	<string>visibleDelegateBottom</string>
+	<key>sharedPresenterPressure</key>
+	<string>sizeBridgeVelocity</string>
+	<key>spriteLevelLeft</key>
+	<string>interactorFunctionRate</string>
+</dict>
+</plist>

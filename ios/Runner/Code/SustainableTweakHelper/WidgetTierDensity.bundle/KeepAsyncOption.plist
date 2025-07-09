@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDependencyPressure</key>
+	<string>modelStyleInset</string>
+	<key>behaviorOfCommand</key>
+	<string>animatedcontainerDuringMode</string>
+	<key>chartTempleAlignment</key>
+	<string>materialBridgeEdge</string>
+	<key>columnMediatorResponse</key>
+	<string>containerInsideKind</string>
+	<key>gramBufferMargin</key>
+	<string>transformerInsidePhase</string>
+	<key>lastCharacterFormat</key>
+	<string>hashAlongPhase</string>
+	<key>memberInterpreterTint</key>
+	<string>interpolationFromPrototype</string>
+	<key>opaquePlateScale</key>
+	<string>switchParamInterval</string>
+	<key>prevHeroState</key>
+	<string>storyboardLayerInteraction</string>
+	<key>projectAndParam</key>
+	<string>storeTaskDistance</string>
+</dict>
+</plist>

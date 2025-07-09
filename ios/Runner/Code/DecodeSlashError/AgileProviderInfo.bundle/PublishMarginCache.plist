@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movementVisitorSize</key>
+	<string>globalNotifierEdge</string>
+	<key>observerExceptState</key>
+	<string>permanentCoordinatorSaturation</string>
+	<key>permanentLayoutCoord</key>
+	<string>widgetParamScale</string>
+	<key>resilientCharacterAlignment</key>
+	<string>secondLossShape</string>
+	<key>robustSegueOrientation</key>
+	<string>advancedBlocDelay</string>
+	<key>routerProxyState</key>
+	<string>eagerCurveRotation</string>
+	<key>streamWorkMode</key>
+	<string>semanticSinkAcceleration</string>
+</dict>
+</plist>

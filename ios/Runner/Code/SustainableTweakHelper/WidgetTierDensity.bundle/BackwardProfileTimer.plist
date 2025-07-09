@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLevelSkewx</key>
+	<string>mobileContextTransparency</string>
+	<key>controllerExceptFacade</key>
+	<string>vectorInMode</string>
+	<key>currentCapsuleOrientation</key>
+	<string>geometricTitleAcceleration</string>
+	<key>ephemeralNibBottom</key>
+	<string>symbolFunctionDirection</string>
+	<key>errorVersusParam</key>
+	<string>channelsContainCycle</string>
+	<key>factoryWorkOpacity</key>
+	<string>equalizationIncludePlatform</string>
+	<key>modelAlongStructure</key>
+	<string>storageLayerPressure</string>
+	<key>streamForState</key>
+	<string>expandedAmongObserver</string>
+</dict>
+</plist>

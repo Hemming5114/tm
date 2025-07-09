@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionPatternAlignment</key>
+	<string>channelChainResponse</string>
+	<key>grainVisitorShape</key>
+	<string>compositionPhaseCenter</string>
+	<key>invisibleDurationForce</key>
+	<string>granularRectAlignment</string>
+	<key>logLevelTransparency</key>
+	<string>compositionalErrorTop</string>
+	<key>multiRichtextDensity</key>
+	<string>actionIncludeKind</string>
+	<key>positionFromStructure</key>
+	<string>sophisticatedWidgetTransparency</string>
+	<key>textInFramework</key>
+	<string>observerOperationScale</string>
+	<key>workflowFacadeBottom</key>
+	<string>directRectRate</string>
+</dict>
+</plist>

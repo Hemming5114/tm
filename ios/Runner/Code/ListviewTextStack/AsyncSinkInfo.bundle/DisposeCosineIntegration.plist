@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFromStyle</key>
+	<string>entropySystemDelay</string>
+	<key>currentSceneSpeed</key>
+	<string>effectBufferLeft</string>
+	<key>gestureContainPattern</key>
+	<string>dimensionFromCommand</string>
+	<key>gestureValueDepth</key>
+	<string>interactorProxySize</string>
+	<key>imageOfSingleton</key>
+	<string>grainAwayPattern</string>
+	<key>repositoryMediatorScale</key>
+	<string>builderPlatformPadding</string>
+	<key>resilientRolePressure</key>
+	<string>managerWithStructure</string>
+	<key>stateJobBound</key>
+	<string>viewLayerAppearance</string>
+</dict>
+</plist>

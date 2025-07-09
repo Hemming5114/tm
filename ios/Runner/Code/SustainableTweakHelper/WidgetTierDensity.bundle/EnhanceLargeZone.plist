@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationOutsideBuffer</key>
+	<string>frameInLevel</string>
+	<key>interfacePerProcess</key>
+	<string>entityPatternShade</string>
+	<key>rectUntilBridge</key>
+	<string>pinchableStoreFlags</string>
+	<key>routerAgainstForm</key>
+	<string>mediaProxyBorder</string>
+	<key>segmentSincePattern</key>
+	<string>requiredFlexFrequency</string>
+</dict>
+</plist>

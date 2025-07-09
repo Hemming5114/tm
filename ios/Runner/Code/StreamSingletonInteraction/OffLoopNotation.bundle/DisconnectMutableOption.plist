@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedModelTag</key>
+	<string>draggableStoreTheme</string>
+	<key>denseCallbackIndex</key>
+	<string>methodNearSingleton</string>
+	<key>instructionBesideCommand</key>
+	<string>factoryAtAdapter</string>
+	<key>logStrategyIndex</key>
+	<string>gridviewAlongContext</string>
+	<key>parallelFactoryPadding</key>
+	<string>mainNavigatorLeft</string>
+	<key>rowSystemInset</key>
+	<string>dimensionVarSize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyEffectDepth</key>
+	<string>storeIncludeBridge</string>
+	<key>prevZoneKind</key>
+	<string>particleSystemVelocity</string>
+	<key>reducerOutsideBuffer</key>
+	<string>advancedCosineRate</string>
+	<key>responseNearTask</key>
+	<string>backwardMenuBottom</string>
+	<key>taskAtVar</key>
+	<string>spineVisitorDelay</string>
+	<key>transitionPrototypePadding</key>
+	<string>delicateBoxshadowOffset</string>
+	<key>workflowAlongParam</key>
+	<string>rowAlongFlyweight</string>
+</dict>
+</plist>

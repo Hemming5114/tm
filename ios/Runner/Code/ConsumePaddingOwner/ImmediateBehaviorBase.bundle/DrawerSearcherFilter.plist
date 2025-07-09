@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVariableLocation</key>
+	<string>scaleOrForm</string>
+	<key>disparateLayoutBottom</key>
+	<string>multiEventSpacing</string>
+	<key>fragmentVisitorBottom</key>
+	<string>sampleInsideParam</string>
+	<key>histogramFunctionBehavior</key>
+	<string>arithmeticCatalystFeedback</string>
+	<key>immediateSignOpacity</key>
+	<string>anchorFormColor</string>
+	<key>intuitiveCompleterOpacity</key>
+	<string>cubeValueMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerSystemBorder</key>
+	<string>specifierForBridge</string>
+	<key>composableOffsetFeedback</key>
+	<string>asynchronousSubpixelCoord</string>
+	<key>durationAtSingleton</key>
+	<string>tangentAgainstPattern</string>
+	<key>expandedCycleMargin</key>
+	<string>tappableIsolateStyle</string>
+	<key>mediaquerySingletonTheme</key>
+	<string>tappableNibCount</string>
+	<key>modelAboutCycle</key>
+	<string>requestStageLocation</string>
+	<key>retainedCacheColor</key>
+	<string>flexibleTransitionHead</string>
+	<key>sceneNearCycle</key>
+	<string>accessibleQueueTag</string>
+	<key>segueActionOpacity</key>
+	<string>webScrollContrast</string>
+</dict>
+</plist>

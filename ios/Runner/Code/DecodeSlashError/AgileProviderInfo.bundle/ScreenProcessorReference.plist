@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPerParam</key>
+	<string>lazyExceptionSkewy</string>
+	<key>callbackViaScope</key>
+	<string>lastAppbarFlags</string>
+	<key>chartStateSize</key>
+	<string>offsetFromFlyweight</string>
+	<key>controllerOutsideStage</key>
+	<string>basicBatchEdge</string>
+	<key>descriptionMementoRate</key>
+	<string>beginnerCoordinatorInset</string>
+	<key>rowNearVariable</key>
+	<string>disparateDrawerRate</string>
+	<key>slashNearContext</key>
+	<string>routerParamDistance</string>
+</dict>
+</plist>

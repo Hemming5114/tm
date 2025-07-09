@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTextBehavior</key>
+	<string>rowInsideDecorator</string>
+	<key>methodVersusFlyweight</key>
+	<string>routerPhaseTail</string>
+	<key>modelStyleType</key>
+	<string>activityThroughVisitor</string>
+	<key>positionedThanPhase</key>
+	<string>sliderAroundCycle</string>
+	<key>presenterDespiteParameter</key>
+	<string>operationViaMode</string>
+	<key>singletonUntilPattern</key>
+	<string>signatureInsideTier</string>
+	<key>skirtStrategyFrequency</key>
+	<string>robustBoxCoord</string>
+</dict>
+</plist>

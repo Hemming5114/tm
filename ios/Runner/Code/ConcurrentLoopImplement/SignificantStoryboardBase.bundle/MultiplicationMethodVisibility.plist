@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTempleDuration</key>
+	<string>ephemeralDrawerInteraction</string>
+	<key>constSubscriptionKind</key>
+	<string>particleFormBound</string>
+	<key>dependencyBesideMemento</key>
+	<string>overlayDespiteFacade</string>
+	<key>priorHashTag</key>
+	<string>respectiveCurveBound</string>
+</dict>
+</plist>

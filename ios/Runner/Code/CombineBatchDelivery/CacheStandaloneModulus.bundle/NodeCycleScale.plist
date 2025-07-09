@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamDuration</key>
+	<string>resultMementoOrientation</string>
+	<key>completionVersusOperation</key>
+	<string>desktopLayerIndex</string>
+	<key>compositionBufferOpacity</key>
+	<string>composableStorageEdge</string>
+	<key>compositionFromEnvironment</key>
+	<string>resolverOperationScale</string>
+	<key>comprehensiveMapVisibility</key>
+	<string>optionProcessStyle</string>
+	<key>entityBeyondLayer</key>
+	<string>greatEventDistance</string>
+	<key>lazyRoleState</key>
+	<string>projectAboutPrototype</string>
+	<key>sampleAsShape</key>
+	<string>criticalFeatureOrigin</string>
+</dict>
+</plist>

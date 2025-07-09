@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSineRate</key>
+	<string>requestSinceJob</string>
+	<key>layoutChainCoord</key>
+	<string>notificationCycleTransparency</string>
+	<key>mediaqueryPrototypeDuration</key>
+	<string>multiAssetAcceleration</string>
+	<key>nodeContainPattern</key>
+	<string>cellAsFacade</string>
+	<key>observerTaskVisibility</key>
+	<string>bufferBufferHue</string>
+	<key>resultWorkFrequency</key>
+	<string>cartesianOverlayInterval</string>
+	<key>sliderAtEnvironment</key>
+	<string>layerInDecorator</string>
+</dict>
+</plist>

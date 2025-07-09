@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMediaDensity</key>
+	<string>arithmeticMaterialDepth</string>
+	<key>asyncQueueStatus</key>
+	<string>invisibleCheckboxAcceleration</string>
+	<key>currentBufferFlags</key>
+	<string>errorOfComposite</string>
+	<key>mainCoordinatorPadding</key>
+	<string>logActivityDirection</string>
+	<key>spriteFlyweightShape</key>
+	<string>durationNearAction</string>
+	<key>storageStyleSaturation</key>
+	<string>constraintParamShade</string>
+	<key>titleCommandCenter</key>
+	<string>cupertinoThroughSingleton</string>
+	<key>touchAgainstActivity</key>
+	<string>momentumStrategyTension</string>
+	<key>tweenCommandOrientation</key>
+	<string>lossJobTail</string>
+</dict>
+</plist>

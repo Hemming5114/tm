@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAmongState</key>
+	<string>swiftLevelInterval</string>
+	<key>asyncMenuShape</key>
+	<string>responsiveAppbarTint</string>
+	<key>buttonActionRight</key>
+	<string>pinchableChecklistBehavior</string>
+	<key>controllerForTemple</key>
+	<string>resizableHeapOffset</string>
+	<key>errorModeBehavior</key>
+	<string>disparateSubpixelInteraction</string>
+	<key>metadataBufferDensity</key>
+	<string>geometricPageviewHue</string>
+	<key>roleWithoutMediator</key>
+	<string>delegateBridgeDirection</string>
+	<key>sinkWithoutPrototype</key>
+	<string>behaviorPerBridge</string>
+	<key>switchFrameworkInterval</key>
+	<string>finalDescriptorBrightness</string>
+</dict>
+</plist>

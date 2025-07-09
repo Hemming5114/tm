@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderInAction</key>
+	<string>globalQuerySpacing</string>
+	<key>captionMediatorContrast</key>
+	<string>desktopTabbarContrast</string>
+	<key>constraintWithContext</key>
+	<string>radiusDespiteOperation</string>
+	<key>cubeInterpreterAlignment</key>
+	<string>shaderFunctionOrientation</string>
+	<key>cupertinoPatternDelay</key>
+	<string>masterAtStyle</string>
+	<key>displayableNormTheme</key>
+	<string>coordinatorTierLeft</string>
+	<key>finalGraphTint</key>
+	<string>animatedProviderTransparency</string>
+	<key>fixedRectDirection</key>
+	<string>specifyTextResponse</string>
+	<key>methodThroughScope</key>
+	<string>futureSingletonVelocity</string>
+	<key>utilViaVariable</key>
+	<string>completionThanLevel</string>
+</dict>
+</plist>

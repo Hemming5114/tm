@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseAnchorDepth</key>
+	<string>usageProxyLeft</string>
+	<key>drawerOfFacade</key>
+	<string>concurrentAspectAppearance</string>
+	<key>imperativeInteractorMode</key>
+	<string>gridOutsideForm</string>
+	<key>indicatorContainFunction</key>
+	<string>immediateDialogsDensity</string>
+	<key>nodeActionName</key>
+	<string>imageBufferVelocity</string>
+	<key>profileDespitePhase</key>
+	<string>smartAnchorOpacity</string>
+	<key>symbolStyleTransparency</key>
+	<string>serviceAroundState</string>
+</dict>
+</plist>

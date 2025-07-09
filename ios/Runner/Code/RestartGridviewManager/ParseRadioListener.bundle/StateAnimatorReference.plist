@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilMediator</key>
+	<string>widgetFormTint</string>
+	<key>frameActionScale</key>
+	<string>channelSystemShape</string>
+	<key>observerWithoutCycle</key>
+	<string>queueExceptValue</string>
+	<key>remainderAsType</key>
+	<string>accessibleGraphicRate</string>
+	<key>sustainableIsolateBottom</key>
+	<string>cupertinoScaleRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchCompositeSize</key>
+	<string>decorationAsAction</string>
+	<key>crudeExceptionState</key>
+	<string>asyncSubpixelAcceleration</string>
+	<key>elasticDocumentOrientation</key>
+	<string>bufferShapeMargin</string>
+	<key>exceptionLikeValue</key>
+	<string>storyboardFromObserver</string>
+	<key>labelValueFrequency</key>
+	<string>autoResourceOrientation</string>
+	<key>musicVarKind</key>
+	<string>currentBulletDuration</string>
+	<key>permanentTaskType</key>
+	<string>dependencyShapeDelay</string>
+	<key>scaffoldProxySize</key>
+	<string>reducerInFramework</string>
+	<key>statefulRowValidation</key>
+	<string>largeBufferTransparency</string>
+</dict>
+</plist>

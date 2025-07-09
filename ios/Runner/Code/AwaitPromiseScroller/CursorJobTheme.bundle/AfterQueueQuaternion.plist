@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAtFramework</key>
+	<string>denseToolInset</string>
+	<key>directCellBottom</key>
+	<string>independentImageSize</string>
+	<key>labelContextShape</key>
+	<string>hierarchicalAccessoryInterval</string>
+	<key>semanticConstraintInterval</key>
+	<string>inheritedLabelKind</string>
+	<key>sliderMethodKind</key>
+	<string>usedInjectionState</string>
+	<key>statefulToolDelay</key>
+	<string>beginnerMenuDistance</string>
+</dict>
+</plist>

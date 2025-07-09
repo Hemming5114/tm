@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedLossBehavior</key>
+	<string>convolutionAmongBridge</string>
+	<key>eventPrototypeInteraction</key>
+	<string>localPointCount</string>
+	<key>fusedPopupCount</key>
+	<string>sizedboxOutsideSingleton</string>
+	<key>missedOptionType</key>
+	<string>histogramWithoutVariable</string>
+</dict>
+</plist>

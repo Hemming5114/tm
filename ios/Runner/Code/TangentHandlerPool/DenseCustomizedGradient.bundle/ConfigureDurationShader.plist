@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateIncludeMemento</key>
+	<string>parallelLayerShape</string>
+	<key>observerThroughFlyweight</key>
+	<string>grainInForm</string>
+	<key>rectLayerInterval</key>
+	<string>painterPhaseCoord</string>
+	<key>responseTierPressure</key>
+	<string>certificateCommandIndex</string>
+	<key>statelessEnvironmentName</key>
+	<string>chartCommandCenter</string>
+	<key>tappableBuilderTail</key>
+	<string>errorModeIndex</string>
+	<key>tensorHistogramRight</key>
+	<string>callbackSingletonRight</string>
+</dict>
+</plist>

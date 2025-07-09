@@ -1,0 +1,18 @@
+#import "InvisibleEasySubpixel.h"
+#import "SkipResizableCapacities.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface YieldIndicatorDecorator : NSObject
+
+
+- (void) delegateTabviewLikeHash;
+
+- (void) navigateUsageOfObject;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

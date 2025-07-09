@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousContainerDepth</key>
+	<string>numericalWorkflowDistance</string>
+	<key>dedicatedEventResponse</key>
+	<string>navigationSingletonRate</string>
+	<key>histogramValueMargin</key>
+	<string>secondCanvasLocation</string>
+	<key>isolateVariableMode</key>
+	<string>interactorSingletonBottom</string>
+	<key>kernelParamMargin</key>
+	<string>groupActionSaturation</string>
+	<key>navigatorNearPattern</key>
+	<string>sizedboxAlongVisitor</string>
+	<key>progressbarDespiteLevel</key>
+	<string>singleBrushResponse</string>
+	<key>storeObserverFormat</key>
+	<string>reusableModelShade</string>
+	<key>transformerThanFlyweight</key>
+	<string>navigatorDuringProxy</string>
+	<key>transitionTempleState</key>
+	<string>bulletAtOperation</string>
+</dict>
+</plist>

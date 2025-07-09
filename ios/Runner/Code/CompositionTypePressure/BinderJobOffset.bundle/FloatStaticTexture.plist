@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePaddingHue</key>
+	<string>stackInterpreterBound</string>
+	<key>awaitWithoutParam</key>
+	<string>fixedSwiftBound</string>
+	<key>configurationInsideObserver</key>
+	<string>futureParamAcceleration</string>
+	<key>descriptionCommandFeedback</key>
+	<string>diffableWorkflowOpacity</string>
+	<key>inkwellShapeDelay</key>
+	<string>interpolationLayerInterval</string>
+	<key>observerChainBrightness</key>
+	<string>sizeCommandColor</string>
+	<key>radiusBufferVelocity</key>
+	<string>alertAsBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionActivityInteraction</key>
+	<string>cosineCycleDelay</string>
+	<key>inkwellLikeObserver</key>
+	<string>segueSinceShape</string>
+	<key>intensityParamOrigin</key>
+	<string>protectedNormStatus</string>
+	<key>logNearActivity</key>
+	<string>spriteSinceSingleton</string>
+	<key>respectiveCosineStatus</key>
+	<string>frameBridgeVelocity</string>
+	<key>usageMementoSize</key>
+	<string>priorProjectionOrientation</string>
+</dict>
+</plist>

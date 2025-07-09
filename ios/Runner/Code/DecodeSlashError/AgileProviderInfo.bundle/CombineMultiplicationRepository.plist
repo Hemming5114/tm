@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForPrototype</key>
+	<string>appbarWithoutShape</string>
+	<key>handlerBridgeVisibility</key>
+	<string>promiseKindContrast</string>
+	<key>mainActionCenter</key>
+	<string>alertContainCycle</string>
+	<key>mobileCompositionScale</key>
+	<string>uniformDurationMode</string>
+	<key>reactiveAnimationTail</key>
+	<string>dependencyBeyondProxy</string>
+	<key>sliderAboutComposite</key>
+	<string>referenceEnvironmentKind</string>
+	<key>subscriptionOrTier</key>
+	<string>channelsOfSingleton</string>
+	<key>subscriptionPatternSkewy</key>
+	<string>localCursorLeft</string>
+</dict>
+</plist>

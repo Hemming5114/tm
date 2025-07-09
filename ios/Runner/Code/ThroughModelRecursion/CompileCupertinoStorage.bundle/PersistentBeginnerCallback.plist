@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFromValue</key>
+	<string>agilePlaybackPosition</string>
+	<key>decorationForProxy</key>
+	<string>hyperbolicTaskCenter</string>
+	<key>dynamicContainerOpacity</key>
+	<string>parallelHandlerCoord</string>
+	<key>sizeFrameworkFrequency</key>
+	<string>coordinatorPlatformTransparency</string>
+	<key>visibleHashOffset</key>
+	<string>sinkByCycle</string>
+</dict>
+</plist>

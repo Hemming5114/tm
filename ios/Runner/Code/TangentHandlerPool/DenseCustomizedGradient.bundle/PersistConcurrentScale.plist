@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutFormFeedback</key>
+	<string>singletonWithoutVisitor</string>
+	<key>stepParamSkewy</key>
+	<string>promiseVersusInterpreter</string>
+	<key>storageLayerTag</key>
+	<string>stepActivityColor</string>
+	<key>symbolCompositeEdge</key>
+	<string>animatedcontainerVariableFormat</string>
+</dict>
+</plist>

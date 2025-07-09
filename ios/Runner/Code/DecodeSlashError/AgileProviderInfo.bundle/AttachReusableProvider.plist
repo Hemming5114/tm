@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamOrigin</key>
+	<string>expandedContextInset</string>
+	<key>channelAdapterRight</key>
+	<string>cardDuringMode</string>
+	<key>completerLikeActivity</key>
+	<string>kernelUntilStrategy</string>
+	<key>eventPatternDistance</key>
+	<string>vectorPatternInterval</string>
+	<key>mainResourceKind</key>
+	<string>hardAssetBrightness</string>
+	<key>mobxStyleDirection</key>
+	<string>relationalPreviewOffset</string>
+	<key>tappablePrecisionPadding</key>
+	<string>descriptionInsideContext</string>
+	<key>titleKindType</key>
+	<string>priorVariantBorder</string>
+</dict>
+</plist>

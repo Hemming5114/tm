@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInWork</key>
+	<string>deferredReductionMargin</string>
+	<key>eventStyleIndex</key>
+	<string>exceptionBesideCommand</string>
+	<key>primarySkinShape</key>
+	<string>notifierFacadeBottom</string>
+	<key>reducerVisitorInset</key>
+	<string>directButtonCount</string>
+	<key>sessionSingletonFeedback</key>
+	<string>textAboutCycle</string>
+	<key>spriteOutsideJob</key>
+	<string>scaffoldParameterKind</string>
+	<key>usecaseByVariable</key>
+	<string>gridAlongFlyweight</string>
+	<key>webClipperMargin</key>
+	<string>eventInTask</string>
+</dict>
+</plist>

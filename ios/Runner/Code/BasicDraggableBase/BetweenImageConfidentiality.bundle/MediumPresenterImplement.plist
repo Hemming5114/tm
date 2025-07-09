@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAboutTask</key>
+	<string>tweenChainRight</string>
+	<key>groupBeyondStrategy</key>
+	<string>lazyResourceRight</string>
+	<key>movementAmongFacade</key>
+	<string>cubitOrForm</string>
+	<key>pinchableConsumerDelay</key>
+	<string>delegateOrTemple</string>
+	<key>remainderInterpreterTransparency</key>
+	<string>tickerKindBehavior</string>
+	<key>rowFromParam</key>
+	<string>sliderFlyweightSkewx</string>
+	<key>spriteBufferState</key>
+	<string>durationOrWork</string>
+</dict>
+</plist>

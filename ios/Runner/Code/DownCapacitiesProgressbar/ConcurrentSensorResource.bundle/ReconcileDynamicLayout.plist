@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverTag</key>
+	<string>nativeLayoutType</string>
+	<key>expandedVisitorFlags</key>
+	<string>bufferAlongStructure</string>
+	<key>gridviewJobDelay</key>
+	<string>textureFromValue</string>
+	<key>managerObserverBrightness</key>
+	<string>widgetDecoratorInterval</string>
+	<key>mobileAndChain</key>
+	<string>optionByStyle</string>
+</dict>
+</plist>

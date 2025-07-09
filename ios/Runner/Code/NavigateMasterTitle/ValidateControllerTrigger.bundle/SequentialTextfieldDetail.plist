@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateNavigatorFeedback</key>
+	<string>cupertinoWorkflowOpacity</string>
+	<key>draggableTabviewMomentum</key>
+	<string>accessibleDelegateTag</string>
+	<key>flexMediatorSkewx</key>
+	<string>globalDurationType</string>
+	<key>monsterJobDuration</key>
+	<string>radioCycleBorder</string>
+	<key>projectionDecoratorResponse</key>
+	<string>resultFromBuffer</string>
+	<key>retainedSingletonAlignment</key>
+	<string>queryAmongParam</string>
+	<key>stampFunctionInset</key>
+	<string>nodeLikeJob</string>
+</dict>
+</plist>

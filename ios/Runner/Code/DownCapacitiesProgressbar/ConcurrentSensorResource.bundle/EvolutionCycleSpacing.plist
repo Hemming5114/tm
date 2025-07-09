@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSliderAlignment</key>
+	<string>compositionTierLeft</string>
+	<key>featureVersusForm</key>
+	<string>documentContainState</string>
+	<key>iterativeSensorInteraction</key>
+	<string>layoutOperationDistance</string>
+	<key>listenerFrameworkShape</key>
+	<string>staticSignAppearance</string>
+</dict>
+</plist>

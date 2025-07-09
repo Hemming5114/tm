@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInSingleton</key>
+	<string>responsiveGroupOpacity</string>
+	<key>asyncForPrototype</key>
+	<string>asyncObserverBottom</string>
+	<key>basicRowBound</key>
+	<string>utilStrategyTag</string>
+	<key>directRowInset</key>
+	<string>associatedBoxshadowCenter</string>
+	<key>lastBaselineKind</key>
+	<string>signModeMomentum</string>
+	<key>nodeNumberRotation</key>
+	<string>currentLocalizationSkewx</string>
+	<key>resizableInstructionSpeed</key>
+	<string>relationalPetStatus</string>
+</dict>
+</plist>

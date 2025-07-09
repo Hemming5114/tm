@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectProxyDirection</key>
+	<string>labelOutsideLevel</string>
+	<key>consultativeScaleMargin</key>
+	<string>requiredCoordinatorSpacing</string>
+	<key>denseTimerSpeed</key>
+	<string>injectionShapeOpacity</string>
+	<key>desktopSensorOrientation</key>
+	<string>explicitSemanticsRotation</string>
+	<key>tensorNodeDepth</key>
+	<string>axisTaskDuration</string>
+	<key>topicWorkSpeed</key>
+	<string>grainStateInset</string>
+</dict>
+</plist>

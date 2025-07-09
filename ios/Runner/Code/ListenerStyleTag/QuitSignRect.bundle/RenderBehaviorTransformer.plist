@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveShaderLocation</key>
+	<string>mobileViaLayer</string>
+	<key>ephemeralCompleterEdge</key>
+	<string>basicLocalizationCount</string>
+	<key>routeMethodSkewx</key>
+	<string>typicalTweenIndex</string>
+</dict>
+</plist>

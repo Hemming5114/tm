@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeWorkBehavior</key>
+	<string>presenterScopeStyle</string>
+	<key>configurationPhaseFeedback</key>
+	<string>greatTickerDelay</string>
+	<key>euclideanSubpixelScale</key>
+	<string>consumerStateRight</string>
+	<key>firstDecorationInset</key>
+	<string>routeWithStructure</string>
+	<key>reductionMementoCenter</key>
+	<string>drawerAwayStage</string>
+	<key>sizedboxAboutFlyweight</key>
+	<string>newestDelegateStatus</string>
+	<key>tangentThanDecorator</key>
+	<string>transitionStrategyAppearance</string>
+	<key>textureTaskVelocity</key>
+	<string>graphicAdapterHue</string>
+	<key>viewParamStatus</key>
+	<string>subpixelVariableRight</string>
+</dict>
+</plist>

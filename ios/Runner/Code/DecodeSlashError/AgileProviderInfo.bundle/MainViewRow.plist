@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAgainstVisitor</key>
+	<string>monsterDuringFlyweight</string>
+	<key>captionPlatformMode</key>
+	<string>associatedFutureRotation</string>
+	<key>decorationStyleRotation</key>
+	<string>geometricWidgetStyle</string>
+	<key>descriptionValueRotation</key>
+	<string>tappableDelegateRate</string>
+	<key>progressbarBeyondComposite</key>
+	<string>finalUsecaseLeft</string>
+	<key>remainderCommandDelay</key>
+	<string>inheritedRequestSpacing</string>
+	<key>sceneViaPhase</key>
+	<string>localizationValueScale</string>
+</dict>
+</plist>

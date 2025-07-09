@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchSystemDepth</key>
+	<string>resilientGemFeedback</string>
+	<key>containerFrameworkInteraction</key>
+	<string>reducerWithoutStrategy</string>
+	<key>frameInsideScope</key>
+	<string>resultExceptAction</string>
+	<key>grainSystemType</key>
+	<string>routerScopeEdge</string>
+	<key>immutableTaskTint</key>
+	<string>cubitViaParameter</string>
+	<key>inactiveLabelTransparency</key>
+	<string>stackStructureScale</string>
+	<key>monsterLayerMomentum</key>
+	<string>entityIncludeTemple</string>
+	<key>nativeMatrixResponse</key>
+	<string>curveVarOpacity</string>
+	<key>sophisticatedRequestSpacing</key>
+	<string>fusedScaleIndex</string>
+	<key>subtleContainerMode</key>
+	<string>labelContextFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikePrototype</key>
+	<string>specifySpotPressure</string>
+	<key>completerBeyondInterpreter</key>
+	<string>observerStyleBrightness</string>
+	<key>groupVariableVisibility</key>
+	<string>sortedStorageVelocity</string>
+	<key>masterIncludeVariable</key>
+	<string>mediaProcessSaturation</string>
+	<key>parallelSwiftBehavior</key>
+	<string>themeUntilCommand</string>
+	<key>prevShaderPadding</key>
+	<string>textStateType</string>
+	<key>publicTransitionName</key>
+	<string>gemTierPressure</string>
+	<key>responsiveQueryFeedback</key>
+	<string>hierarchicalCheckboxOpacity</string>
+	<key>statelessErrorMargin</key>
+	<string>popupForAction</string>
+</dict>
+</plist>

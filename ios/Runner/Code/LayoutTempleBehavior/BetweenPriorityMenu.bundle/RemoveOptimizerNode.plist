@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionProcessAppearance</key>
+	<string>activeRoleContrast</string>
+	<key>customModelInset</key>
+	<string>pinchableAnimationBorder</string>
+	<key>draggableProfileColor</key>
+	<string>tappableCustompaintColor</string>
+	<key>iconChainAcceleration</key>
+	<string>tableOfMediator</string>
+	<key>musicPhaseBrightness</key>
+	<string>reducerCycleVisibility</string>
+	<key>providerTaskSpacing</key>
+	<string>controllerChainTag</string>
+	<key>sessionByKind</key>
+	<string>intensityFacadeIndex</string>
+	<key>stateParamStyle</key>
+	<string>unactivatedTableInteraction</string>
+</dict>
+</plist>

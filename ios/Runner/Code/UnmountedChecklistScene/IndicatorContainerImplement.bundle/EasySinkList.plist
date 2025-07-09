@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStatelessDelay</key>
+	<string>cubitAmongState</string>
+	<key>agileChallengeSkewy</key>
+	<string>scaffoldCycleEdge</string>
+	<key>layerAroundAction</key>
+	<string>screenUntilOperation</string>
+	<key>loopOutsideActivity</key>
+	<string>lostBlocSpeed</string>
+	<key>nativeWidgetMomentum</key>
+	<string>riverpodStructureAlignment</string>
+	<key>protocolTypeLeft</key>
+	<string>switchFacadeFrequency</string>
+	<key>tabbarDespiteStyle</key>
+	<string>graphPerParameter</string>
+</dict>
+</plist>

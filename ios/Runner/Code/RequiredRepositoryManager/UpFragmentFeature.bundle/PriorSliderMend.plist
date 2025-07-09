@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitMethodSkewy</key>
+	<string>mainBehaviorRight</string>
+	<key>blocAndType</key>
+	<string>alertThroughDecorator</string>
+	<key>commonInteractorHue</key>
+	<string>shaderFromStructure</string>
+	<key>hierarchicalLabelOpacity</key>
+	<string>memberVarStyle</string>
+	<key>tabviewWithMethod</key>
+	<string>navigatorWorkInterval</string>
+	<key>titleInMethod</key>
+	<string>hyperbolicLogarithmSpacing</string>
+	<key>transitionWithVar</key>
+	<string>queryAgainstAdapter</string>
+</dict>
+</plist>

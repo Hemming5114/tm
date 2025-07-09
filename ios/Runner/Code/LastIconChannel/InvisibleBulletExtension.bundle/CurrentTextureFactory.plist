@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTypeHead</key>
+	<string>futureCommandBorder</string>
+	<key>cellAndOperation</key>
+	<string>cacheExceptObserver</string>
+	<key>featureLayerCenter</key>
+	<string>mediaqueryFrameworkHead</string>
+	<key>getxTierFeedback</key>
+	<string>observerForMethod</string>
+	<key>mobxStylePosition</key>
+	<string>vectorVarBrightness</string>
+	<key>sizeScopeName</key>
+	<string>configurationOrPrototype</string>
+	<key>variantOrActivity</key>
+	<string>listviewAgainstActivity</string>
+</dict>
+</plist>

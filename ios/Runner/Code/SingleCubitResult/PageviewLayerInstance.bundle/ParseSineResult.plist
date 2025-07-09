@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAgainstFacade</key>
+	<string>tabviewPatternForce</string>
+	<key>dependencyMementoBrightness</key>
+	<string>layerChainSize</string>
+	<key>heapCycleFrequency</key>
+	<string>handlerActivityInterval</string>
+	<key>imageParameterEdge</key>
+	<string>reactiveFlexBound</string>
+	<key>matrixOfParameter</key>
+	<string>sessionOperationTransparency</string>
+	<key>notifierSinceInterpreter</key>
+	<string>modalBufferForce</string>
+	<key>usedBulletValidation</key>
+	<string>durationOutsideBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlongActivity</key>
+	<string>dropdownbuttonOrPlatform</string>
+	<key>callbackPlatformOpacity</key>
+	<string>switchOrMode</string>
+	<key>managerPlatformSkewy</key>
+	<string>layoutFunctionValidation</string>
+	<key>marginIncludeLayer</key>
+	<string>smartBatchName</string>
+	<key>originalStatelessVisible</key>
+	<string>optionOfTask</string>
+	<key>taskAboutObserver</key>
+	<string>customizedStorageStatus</string>
+	<key>techniqueStateFrequency</key>
+	<string>newestPlaybackSaturation</string>
+</dict>
+</plist>

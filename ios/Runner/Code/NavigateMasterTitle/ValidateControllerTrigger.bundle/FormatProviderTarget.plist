@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeScreenContrast</key>
+	<string>fusedDependencyInset</string>
+	<key>diffableDelegateSkewx</key>
+	<string>seamlessInterfaceSpeed</string>
+	<key>liteResourceDepth</key>
+	<string>newestSpriteVisibility</string>
+	<key>normOutsideMethod</key>
+	<string>buttonParameterVisible</string>
+	<key>spriteDuringProxy</key>
+	<string>previewDuringShape</string>
+	<key>usedNormFrequency</key>
+	<string>configurationIncludeParameter</string>
+</dict>
+</plist>

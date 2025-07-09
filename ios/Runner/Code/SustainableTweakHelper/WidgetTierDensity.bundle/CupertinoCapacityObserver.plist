@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableBrushTheme</key>
+	<string>declarativeMenuLocation</string>
+	<key>ignoredResolverBorder</key>
+	<string>configurationMethodCoord</string>
+	<key>lastModalBehavior</key>
+	<string>activatedLogOffset</string>
+	<key>resizableButtonAppearance</key>
+	<string>chapterBeyondStrategy</string>
+	<key>roleBySingleton</key>
+	<string>plateShapeDistance</string>
+	<key>uniformReductionFormat</key>
+	<string>nativePopupResponse</string>
+</dict>
+</plist>

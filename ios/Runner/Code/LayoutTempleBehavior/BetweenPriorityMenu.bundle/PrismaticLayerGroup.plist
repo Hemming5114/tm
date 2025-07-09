@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedRequestOpacity</key>
+	<string>hashAtState</string>
+	<key>multiQueryHue</key>
+	<string>navigationFromObserver</string>
+	<key>navigatorSinceMode</key>
+	<string>stackPerScope</string>
+	<key>primaryUtilMode</key>
+	<string>interpolationParameterAlignment</string>
+	<key>queueDecoratorAppearance</key>
+	<string>multiLoopSaturation</string>
+	<key>reductionLikeSystem</key>
+	<string>decorationCompositeSkewy</string>
+	<key>specifyContainerColor</key>
+	<string>smartGraphSkewy</string>
+</dict>
+</plist>

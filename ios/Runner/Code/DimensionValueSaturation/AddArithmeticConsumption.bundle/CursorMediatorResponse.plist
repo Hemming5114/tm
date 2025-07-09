@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedButtonInteraction</key>
+	<string>lossThanVisitor</string>
+	<key>materialPhaseFormat</key>
+	<string>listviewProxyTop</string>
+	<key>mediaqueryDecoratorDensity</key>
+	<string>particleDuringDecorator</string>
+	<key>providerMementoShape</key>
+	<string>deferredNotifierSpacing</string>
+	<key>scaleForAction</key>
+	<string>sineObserverAlignment</string>
+	<key>sophisticatedAccessoryStyle</key>
+	<string>temporaryAlignmentAcceleration</string>
+</dict>
+</plist>

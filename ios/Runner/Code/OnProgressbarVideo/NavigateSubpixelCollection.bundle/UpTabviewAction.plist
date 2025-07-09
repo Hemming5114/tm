@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveFacadeBound</key>
+	<string>canvasActionRotation</string>
+	<key>materialNodeValidation</key>
+	<string>tableStyleOrigin</string>
+	<key>menuOperationResponse</key>
+	<string>apertureWithoutScope</string>
+	<key>numericalExtensionBehavior</key>
+	<string>particleAgainstStage</string>
+	<key>otherBaselineTop</key>
+	<string>streamPerType</string>
+</dict>
+</plist>

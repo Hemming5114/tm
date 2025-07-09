@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureOutsideScope</key>
+	<string>integerJobRate</string>
+	<key>frameBufferDelay</key>
+	<string>getxWithoutWork</string>
+	<key>graphFormMode</key>
+	<string>secondClipperLeft</string>
+	<key>positionBesideMethod</key>
+	<string>intensityCompositeCenter</string>
+</dict>
+</plist>

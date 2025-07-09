@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPrototypeShape</key>
+	<string>customMetadataStatus</string>
+	<key>cartesianRectFrequency</key>
+	<string>histogramAndCommand</string>
+	<key>resolverInsideMode</key>
+	<string>asynchronousInterpolationRotation</string>
+	<key>tweenCycleKind</key>
+	<string>convolutionValueDepth</string>
+</dict>
+</plist>

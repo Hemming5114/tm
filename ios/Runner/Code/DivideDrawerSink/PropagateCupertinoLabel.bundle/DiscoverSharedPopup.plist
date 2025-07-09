@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramIncludeNumber</key>
+	<string>materialEqualizationHue</string>
+	<key>ignoredQueryRate</key>
+	<string>expandedDecoratorPressure</string>
+	<key>independentReferenceCoord</key>
+	<string>tangentWithoutComposite</string>
+	<key>invisibleNodeBound</key>
+	<string>widgetStateMode</string>
+	<key>masterCommandBound</key>
+	<string>pivotalGraphInteraction</string>
+	<key>sustainableLabelFormat</key>
+	<string>widgetValueStatus</string>
+	<key>usageForAction</key>
+	<string>lossTempleSize</string>
+</dict>
+</plist>

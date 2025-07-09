@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResourceInset</key>
+	<string>interactorProxyColor</string>
+	<key>activeProgressbarType</key>
+	<string>challengeDecoratorInteraction</string>
+	<key>durationScopeScale</key>
+	<string>publicUtilOpacity</string>
+	<key>queryParameterInset</key>
+	<string>resizableCatalystVelocity</string>
+	<key>radioScopeShape</key>
+	<string>iterativeBlocInterval</string>
+	<key>seamlessSpecifierDirection</key>
+	<string>managerEnvironmentSize</string>
+	<key>statelessStreamState</key>
+	<string>permissiveStreamTop</string>
+	<key>storeAlongEnvironment</key>
+	<string>modalSinceTask</string>
+	<key>utilVariableDuration</key>
+	<string>rapidResolverResponse</string>
+</dict>
+</plist>

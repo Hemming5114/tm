@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAdapterFormat</key>
+	<string>activeMatrixHue</string>
+	<key>gridDespiteSystem</key>
+	<string>activePrecisionDistance</string>
+	<key>interfaceScopeDistance</key>
+	<string>typicalSliderRight</string>
+	<key>liteButtonLocation</key>
+	<string>otherReductionTint</string>
+	<key>movementStrategyStatus</key>
+	<string>checkboxIncludeAdapter</string>
+	<key>pinchableProviderSaturation</key>
+	<string>draggableTextureLeft</string>
+	<key>remainderStructureOffset</key>
+	<string>remainderViaFunction</string>
+	<key>responsiveUsecaseLocation</key>
+	<string>delicateArithmeticTop</string>
+	<key>serviceParameterCoord</key>
+	<string>grainSingletonCount</string>
+</dict>
+</plist>

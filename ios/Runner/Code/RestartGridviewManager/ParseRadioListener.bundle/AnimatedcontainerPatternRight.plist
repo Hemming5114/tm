@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMaterialShade</key>
+	<string>storeBeyondJob</string>
+	<key>graphStateFlags</key>
+	<string>cellStyleSize</string>
+	<key>pinchableBulletTop</key>
+	<string>titleViaCommand</string>
+	<key>presenterSingletonShape</key>
+	<string>channelsByEnvironment</string>
+	<key>spotBesideValue</key>
+	<string>drawerForPhase</string>
+	<key>stackOfStage</key>
+	<string>concurrentCoordinatorRotation</string>
+	<key>swiftThanFacade</key>
+	<string>progressbarAboutForm</string>
+	<key>touchTemplePressure</key>
+	<string>synchronousCardBound</string>
+	<key>uniqueDurationPadding</key>
+	<string>texturePhaseOrigin</string>
+</dict>
+</plist>

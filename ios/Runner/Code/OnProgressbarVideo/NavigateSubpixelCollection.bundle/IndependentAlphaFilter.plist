@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBulletPadding</key>
+	<string>localAnimationSize</string>
+	<key>asynchronousPopupValidation</key>
+	<string>signAndLayer</string>
+	<key>cacheJobContrast</key>
+	<string>giftInCycle</string>
+	<key>enabledPositionedTint</key>
+	<string>layoutEnvironmentForce</string>
+	<key>fragmentVersusFlyweight</key>
+	<string>widgetMethodSpacing</string>
+	<key>gesturedetectorThanState</key>
+	<string>smartDecorationVisibility</string>
+	<key>lastStateStatus</key>
+	<string>transformerVisitorOrientation</string>
+	<key>timerAgainstFlyweight</key>
+	<string>hashStateOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramAgainstTier</key>
+	<string>transformerParameterTransparency</string>
+	<key>inactiveCharacterBorder</key>
+	<string>menuStageAcceleration</string>
+	<key>mutableInterpolationHead</key>
+	<string>alignmentThroughFlyweight</string>
+	<key>overlayContainComposite</key>
+	<string>gridFormKind</string>
+	<key>sliderProcessTail</key>
+	<string>frameStageCoord</string>
+</dict>
+</plist>

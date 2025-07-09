@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateValueValidation</key>
+	<string>resilientContainerMode</string>
+	<key>multiSubpixelFormat</key>
+	<string>textfieldShapeVisible</string>
+	<key>requestActivityHue</key>
+	<string>decorationOutsideWork</string>
+	<key>retainedAxisStyle</key>
+	<string>sineActivityColor</string>
+	<key>zoneProcessMargin</key>
+	<string>grayscaleBridgeSize</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftExceptKind</key>
+	<string>protectedWorkflowMode</string>
+	<key>labelDecoratorState</key>
+	<string>previewCompositeTail</string>
+	<key>layoutPatternTail</key>
+	<string>specifierPrototypeState</string>
+	<key>normalBlocInterval</key>
+	<string>inheritedSingletonAppearance</string>
+	<key>permissiveReducerInset</key>
+	<string>opaqueNibBottom</string>
+	<key>positionIncludeAction</key>
+	<string>uniqueCurveDirection</string>
+	<key>sortedReductionBorder</key>
+	<string>denseTangentPadding</string>
+</dict>
+</plist>

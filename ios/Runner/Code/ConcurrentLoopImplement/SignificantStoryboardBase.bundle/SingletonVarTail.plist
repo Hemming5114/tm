@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLayoutDirection</key>
+	<string>commandTypeBorder</string>
+	<key>agileRequestVisible</key>
+	<string>sharedUsecaseEdge</string>
+	<key>batchNearDecorator</key>
+	<string>hardMonsterOpacity</string>
+	<key>durationCompositeBehavior</key>
+	<string>stepModeCoord</string>
+	<key>nextReferenceDepth</key>
+	<string>sliderBufferShade</string>
+	<key>semanticBulletCoord</key>
+	<string>handlerMementoVisibility</string>
+</dict>
+</plist>

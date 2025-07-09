@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMediatorVelocity</key>
+	<string>cubeExceptVariable</string>
+	<key>explicitRequestFeedback</key>
+	<string>explicitBoxOrigin</string>
+	<key>menuMementoAppearance</key>
+	<string>cupertinoCaptionVelocity</string>
+	<key>prismaticTextAlignment</key>
+	<string>arithmeticConstraintInset</string>
+	<key>reducerActivityInterval</key>
+	<string>challengeLikeKind</string>
+	<key>robustInteractorBrightness</key>
+	<string>factoryViaBridge</string>
+	<key>scrollableTextMargin</key>
+	<string>lastBlocCoord</string>
+	<key>stepAndNumber</key>
+	<string>apertureAsProcess</string>
+</dict>
+</plist>

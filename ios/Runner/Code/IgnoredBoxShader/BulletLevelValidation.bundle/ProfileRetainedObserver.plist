@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistBridgeDepth</key>
+	<string>dependencyBesideDecorator</string>
+	<key>commonAlphaBehavior</key>
+	<string>popupValueStyle</string>
+	<key>eagerAlertVisibility</key>
+	<string>operationForActivity</string>
+	<key>easyButtonOrigin</key>
+	<string>globalDelegateOrigin</string>
+	<key>observerOrSystem</key>
+	<string>decorationStructureIndex</string>
+	<key>rapidNodeLocation</key>
+	<string>rowByPlatform</string>
+	<key>routerInStage</key>
+	<string>groupPrototypeDepth</string>
+</dict>
+</plist>

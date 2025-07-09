@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFromComposite</key>
+	<string>subpixelPhaseTint</string>
+	<key>currentHistogramFlags</key>
+	<string>subtleLocalizationTint</string>
+	<key>interfaceStrategyVisibility</key>
+	<string>featureViaVariable</string>
+	<key>workflowAroundVisitor</key>
+	<string>composableSingletonShape</string>
+</dict>
+</plist>

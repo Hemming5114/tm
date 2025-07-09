@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludeVar</key>
+	<string>requestFlyweightIndex</string>
+	<key>permissiveCharacterAcceleration</key>
+	<string>extensionBridgeFeedback</string>
+	<key>rowFormOffset</key>
+	<string>permanentDelegateDirection</string>
+	<key>spineInActivity</key>
+	<string>singletonFacadeCenter</string>
+	<key>spriteDuringComposite</key>
+	<string>pivotalFlexBottom</string>
+	<key>tappableTransformerPadding</key>
+	<string>assetSystemForce</string>
+</dict>
+</plist>

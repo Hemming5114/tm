@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternSize</key>
+	<string>textContainTemple</string>
+	<key>animatedAnchorFeedback</key>
+	<string>rectAgainstProcess</string>
+	<key>completerFromStructure</key>
+	<string>kernelCycleEdge</string>
+	<key>constButtonResponse</key>
+	<string>sampleTypeDuration</string>
+	<key>localDrawerVisibility</key>
+	<string>iterativePromiseScale</string>
+	<key>localizationJobFlags</key>
+	<string>entropyInPhase</string>
+	<key>multiConstraintOrigin</key>
+	<string>durationOrContext</string>
+	<key>tablePatternStatus</key>
+	<string>tickerTaskRotation</string>
+	<key>textProxyPadding</key>
+	<string>topicContainNumber</string>
+</dict>
+</plist>

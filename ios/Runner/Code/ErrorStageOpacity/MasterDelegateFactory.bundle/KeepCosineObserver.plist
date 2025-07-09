@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientTypeBorder</key>
+	<string>modelModeDirection</string>
+	<key>menuFunctionFlags</key>
+	<string>columnLikeDecorator</string>
+	<key>mutableHeroCount</key>
+	<string>granularPainterBorder</string>
+	<key>playbackScopeFrequency</key>
+	<string>exceptionParamBehavior</string>
+	<key>progressbarWithDecorator</key>
+	<string>errorDuringFunction</string>
+	<key>uniqueDocumentDuration</key>
+	<string>gesturedetectorAmongTask</string>
+</dict>
+</plist>

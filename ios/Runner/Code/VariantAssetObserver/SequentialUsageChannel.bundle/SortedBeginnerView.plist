@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShapeContrast</key>
+	<string>grayscaleContextVisibility</string>
+	<key>cellFunctionOpacity</key>
+	<string>checklistDuringBridge</string>
+	<key>crudeSingletonTransparency</key>
+	<string>routerScopePosition</string>
+	<key>offsetCycleSkewx</key>
+	<string>cupertinoIncludeCycle</string>
+	<key>reusableCaptionFlags</key>
+	<string>entityStageScale</string>
+	<key>singletonIncludeMediator</key>
+	<string>graphicChainRight</string>
+	<key>taskBesideBridge</key>
+	<string>matrixSinceWork</string>
+	<key>viewAroundParameter</key>
+	<string>commandSingletonTag</string>
+	<key>viewTierForce</key>
+	<string>decorationJobCoord</string>
+</dict>
+</plist>

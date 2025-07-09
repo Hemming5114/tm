@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarUntilFlyweight</key>
+	<string>channelCycleInteraction</string>
+	<key>commonContainerPosition</key>
+	<string>dependencyPerBuffer</string>
+	<key>disparateTabbarRotation</key>
+	<string>providerBeyondActivity</string>
+	<key>frameValueTheme</key>
+	<string>curveWithVisitor</string>
+	<key>presenterStylePressure</key>
+	<string>labelSinceBuffer</string>
+	<key>ternaryWithoutOperation</key>
+	<string>reducerContainForm</string>
+</dict>
+</plist>

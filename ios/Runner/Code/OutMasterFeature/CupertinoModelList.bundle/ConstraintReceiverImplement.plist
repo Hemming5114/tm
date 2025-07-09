@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOffsetFlags</key>
+	<string>logPrototypeStyle</string>
+	<key>basicUtilFeedback</key>
+	<string>mediaqueryActivitySkewx</string>
+	<key>coordinatorVariableRotation</key>
+	<string>queryViaShape</string>
+	<key>cubeAlongLayer</key>
+	<string>histogramKindInset</string>
+	<key>deferredInterfaceEdge</key>
+	<string>semanticProgressbarCoord</string>
+	<key>numericalChapterBound</key>
+	<string>textMethodFormat</string>
+	<key>promiseOperationTheme</key>
+	<string>storageCycleVisible</string>
+	<key>robustBorderType</key>
+	<string>decorationPlatformSkewy</string>
+	<key>textAroundValue</key>
+	<string>eventMediatorDistance</string>
+</dict>
+</plist>

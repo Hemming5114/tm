@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondFlyweight</key>
+	<string>sequentialMetadataAcceleration</string>
+	<key>callbackOutsideComposite</key>
+	<string>localizationAsShape</string>
+	<key>iterativeNavigatorLeft</key>
+	<string>backwardTimerBorder</string>
+	<key>materialAnimationPressure</key>
+	<string>skinFunctionTransparency</string>
+	<key>matrixEnvironmentSpeed</key>
+	<string>semanticResolverContrast</string>
+	<key>metadataVersusProcess</key>
+	<string>handlerStateVelocity</string>
+	<key>tickerLayerOrigin</key>
+	<string>invisibleIntegerDepth</string>
+	<key>transitionBeyondLevel</key>
+	<string>agileLayoutMargin</string>
+</dict>
+</plist>

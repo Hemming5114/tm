@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReducerResponse</key>
+	<string>radioCompositeSpacing</string>
+	<key>globalExceptionTop</key>
+	<string>utilStateDensity</string>
+	<key>mediumListenerPadding</key>
+	<string>asyncCycleDuration</string>
+	<key>profileOfStyle</key>
+	<string>appbarBridgeTheme</string>
+	<key>scalePerActivity</key>
+	<string>rectOfStyle</string>
+	<key>zoneChainHead</key>
+	<string>cardStageSize</string>
+</dict>
+</plist>

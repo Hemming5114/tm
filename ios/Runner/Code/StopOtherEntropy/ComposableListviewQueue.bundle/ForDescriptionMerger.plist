@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintBridgeIndex</key>
+	<string>backwardImageRotation</string>
+	<key>futureBridgeDirection</key>
+	<string>firstTransitionCoord</string>
+	<key>gradientStyleDirection</key>
+	<string>opaqueThreadMomentum</string>
+	<key>labelDuringStage</key>
+	<string>multiAnimatedcontainerOffset</string>
+	<key>liteLabelMargin</key>
+	<string>layoutValueSaturation</string>
+	<key>mediumSizeSpacing</key>
+	<string>containerAroundStage</string>
+	<key>modelMementoScale</key>
+	<string>notifierParamTransparency</string>
+	<key>protectedTaskDistance</key>
+	<string>sophisticatedDocumentDensity</string>
+	<key>utilStructureDepth</key>
+	<string>missedRouteTransparency</string>
+</dict>
+</plist>

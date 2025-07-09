@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTaskStyle</key>
+	<string>lossWithStage</string>
+	<key>exceptionDecoratorName</key>
+	<string>gateVariableShape</string>
+	<key>materialPopupMode</key>
+	<string>fusedQueueBottom</string>
+	<key>persistentSpriteSaturation</key>
+	<string>buttonTempleSkewx</string>
+	<key>segmentAgainstVariable</key>
+	<string>parallelButtonStyle</string>
+	<key>sensorWithTemple</key>
+	<string>nodeFacadeRotation</string>
+	<key>stackWithOperation</key>
+	<string>streamExceptLevel</string>
+	<key>widgetByMediator</key>
+	<string>streamProxyRotation</string>
+</dict>
+</plist>

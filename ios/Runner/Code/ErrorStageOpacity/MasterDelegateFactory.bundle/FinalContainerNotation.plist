@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferViaProxy</key>
+	<string>mediaPatternAlignment</string>
+	<key>customizedServiceStyle</key>
+	<string>lazySliderBorder</string>
+	<key>gestureAroundMediator</key>
+	<string>signatureWithStyle</string>
+	<key>greatResponseInterval</key>
+	<string>unactivatedEffectDuration</string>
+	<key>permissiveCaptionCount</key>
+	<string>customizedAsyncEdge</string>
+	<key>taskStageBorder</key>
+	<string>visibleDescriptionBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorChainDuration</key>
+	<string>touchAndState</string>
+	<key>providerNearScope</key>
+	<string>delegateContextVisibility</string>
+	<key>rectTaskName</key>
+	<string>chapterFrameworkShade</string>
+	<key>tensorPresenterOffset</key>
+	<string>asyncContextTheme</string>
+</dict>
+</plist>

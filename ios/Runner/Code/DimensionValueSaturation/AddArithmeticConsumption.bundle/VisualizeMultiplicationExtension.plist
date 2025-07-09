@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartInComposite</key>
+	<string>observerWithLevel</string>
+	<key>crucialSceneStatus</key>
+	<string>statefulLabelTag</string>
+	<key>hardTextOffset</key>
+	<string>mediaqueryPerPattern</string>
+	<key>layoutDespiteAdapter</key>
+	<string>rapidAsyncDelay</string>
+	<key>layoutPlatformHead</key>
+	<string>asyncBlocKind</string>
+	<key>robustLocalizationResponse</key>
+	<string>remainderWithPhase</string>
+</dict>
+</plist>

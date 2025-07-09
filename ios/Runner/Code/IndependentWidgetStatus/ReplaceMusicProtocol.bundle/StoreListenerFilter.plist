@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePatternTint</key>
+	<string>secondStreamVisibility</string>
+	<key>newestViewDensity</key>
+	<string>metadataViaParam</string>
+	<key>projectPerEnvironment</key>
+	<string>coordinatorFlyweightCenter</string>
+	<key>rapidMovementVisible</key>
+	<string>independentUsecaseSaturation</string>
+	<key>requiredCompletionValidation</key>
+	<string>awaitTaskLeft</string>
+</dict>
+</plist>

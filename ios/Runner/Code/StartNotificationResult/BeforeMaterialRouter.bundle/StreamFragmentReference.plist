@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFormInterval</key>
+	<string>accordionSliderStatus</string>
+	<key>flexDecoratorTheme</key>
+	<string>intermediateBorderAppearance</string>
+	<key>gridProcessTail</key>
+	<string>offsetSinceDecorator</string>
+	<key>ignoredLayoutBehavior</key>
+	<string>pageviewContainVisitor</string>
+	<key>methodOfTask</key>
+	<string>stepInsideLevel</string>
+	<key>notificationNumberFrequency</key>
+	<string>variantInPhase</string>
+	<key>petThanType</key>
+	<string>handlerProxyCenter</string>
+	<key>presenterUntilFlyweight</key>
+	<string>listenerInsideVar</string>
+	<key>transformerJobMode</key>
+	<string>difficultRepositoryInteraction</string>
+</dict>
+</plist>

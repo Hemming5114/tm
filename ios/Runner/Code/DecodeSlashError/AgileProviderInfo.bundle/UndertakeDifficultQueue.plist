@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionActionSpacing</key>
+	<string>exceptionFrameworkContrast</string>
+	<key>commandProcessPadding</key>
+	<string>mobileValueSpacing</string>
+	<key>descriptionTypeSize</key>
+	<string>prevColumnOrientation</string>
+	<key>effectPerTier</key>
+	<string>sizedboxDecoratorPosition</string>
+	<key>menuStyleSkewy</key>
+	<string>stackAndMethod</string>
+	<key>previewProxyShape</key>
+	<string>statefulPriorityIndex</string>
+	<key>serviceSinceObserver</key>
+	<string>discardedPositionHead</string>
+	<key>uniformCallbackBrightness</key>
+	<string>completerPatternOpacity</string>
+</dict>
+</plist>

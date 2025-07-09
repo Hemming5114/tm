@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitReferenceMode</key>
+	<string>taskVersusStructure</string>
+	<key>interfaceAtContext</key>
+	<string>publicInkwellForce</string>
+	<key>normalAspectratioName</key>
+	<string>fragmentPerLevel</string>
+	<key>subpixelModeSkewy</key>
+	<string>builderStateFormat</string>
+</dict>
+</plist>

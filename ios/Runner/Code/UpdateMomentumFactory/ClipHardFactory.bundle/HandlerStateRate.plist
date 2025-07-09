@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBridgeForce</key>
+	<string>cardAroundSystem</string>
+	<key>buttonDecoratorEdge</key>
+	<string>intensityParameterDensity</string>
+	<key>checkboxModeBottom</key>
+	<string>cursorOrKind</string>
+	<key>controllerPatternBorder</key>
+	<string>subtleStatelessVisible</string>
+	<key>dropdownbuttonMethodStatus</key>
+	<string>configurationChainBottom</string>
+	<key>lastQueueVisibility</key>
+	<string>nextSizeTheme</string>
+	<key>optimizerFormInset</key>
+	<string>extensionBesideComposite</string>
+	<key>resilientDelegateLocation</key>
+	<string>reactiveAssetMargin</string>
+	<key>textureAdapterInset</key>
+	<string>toolAmongComposite</string>
+</dict>
+</plist>

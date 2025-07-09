@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectWithState</key>
+	<string>reactiveStampOrigin</string>
+	<key>associatedActionStyle</key>
+	<string>geometricTouchResponse</string>
+	<key>finalTickerInset</key>
+	<string>aspectObserverType</string>
+</dict>
+</plist>

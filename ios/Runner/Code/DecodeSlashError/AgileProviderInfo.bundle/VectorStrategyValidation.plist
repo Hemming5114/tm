@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVersusProcess</key>
+	<string>interactorNearComposite</string>
+	<key>beginnerBorderVisible</key>
+	<string>sequentialHistogramVisible</string>
+	<key>beginnerLossPadding</key>
+	<string>cubitParamContrast</string>
+	<key>dimensionAtLevel</key>
+	<string>effectBeyondForm</string>
+	<key>matrixContextDirection</key>
+	<string>crudeCubitColor</string>
+	<key>permissiveRowDuration</key>
+	<string>normalCompositionContrast</string>
+	<key>requestPatternAlignment</key>
+	<string>cartesianGiftIndex</string>
+</dict>
+</plist>

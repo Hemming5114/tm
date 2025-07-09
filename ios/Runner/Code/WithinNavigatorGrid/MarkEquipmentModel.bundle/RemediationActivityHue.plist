@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceSinceOperation</key>
+	<string>graphicLevelPressure</string>
+	<key>listviewObserverDelay</key>
+	<string>capacitiesMementoInterval</string>
+	<key>nativeSliderTag</key>
+	<string>menuContextDirection</string>
+	<key>requestValueFeedback</key>
+	<string>flexSystemDensity</string>
+	<key>resilientCommandFrequency</key>
+	<string>popupFromObserver</string>
+	<key>stampAtStage</key>
+	<string>symbolWorkState</string>
+	<key>storeBeyondFramework</key>
+	<string>curveDespiteSingleton</string>
+</dict>
+</plist>

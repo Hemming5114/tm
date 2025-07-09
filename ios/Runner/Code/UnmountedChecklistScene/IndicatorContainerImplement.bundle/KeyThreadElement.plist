@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderValueBehavior</key>
+	<string>methodAgainstBridge</string>
+	<key>ephemeralNibStyle</key>
+	<string>touchInterpreterTop</string>
+	<key>heroPerAction</key>
+	<string>directQueryBound</string>
+	<key>relationalPresenterType</key>
+	<string>columnFormSpeed</string>
+</dict>
+</plist>

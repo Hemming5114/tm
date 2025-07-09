@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeMementoName</key>
+	<string>oldConfigurationTint</string>
+	<key>largeActionTail</key>
+	<string>logContextRight</string>
+	<key>popupJobRight</key>
+	<string>primaryCompositionForce</string>
+	<key>transitionInterpreterHead</key>
+	<string>statelessProcessForce</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForOperation</key>
+	<string>respectiveMetadataPosition</string>
+	<key>brushAboutFlyweight</key>
+	<string>basicBitrateBottom</string>
+	<key>bulletMediatorTheme</key>
+	<string>interpolationDespiteLayer</string>
+	<key>custompaintProxyDuration</key>
+	<string>delegateSingletonInteraction</string>
+	<key>exceptionSystemSpacing</key>
+	<string>documentMethodAcceleration</string>
+	<key>gradientAroundBridge</key>
+	<string>mobxProcessSpacing</string>
+	<key>layoutWorkShape</key>
+	<string>geometricOffsetAcceleration</string>
+	<key>originalMomentumForce</key>
+	<string>pointParameterOrigin</string>
+	<key>resizableNibFormat</key>
+	<string>decorationMethodTag</string>
+	<key>uniformFutureShape</key>
+	<string>streamProcessCoord</string>
+</dict>
+</plist>

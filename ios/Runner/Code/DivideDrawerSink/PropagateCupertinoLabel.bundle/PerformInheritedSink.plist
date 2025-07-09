@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGemBottom</key>
+	<string>fusedHandlerSize</string>
+	<key>chartSinceStyle</key>
+	<string>largeAppbarPosition</string>
+	<key>diffableFlexResponse</key>
+	<string>opaqueAllocatorFormat</string>
+	<key>memberAndMethod</key>
+	<string>resourceVersusFacade</string>
+	<key>transitionKindDensity</key>
+	<string>associatedRemainderPadding</string>
+</dict>
+</plist>

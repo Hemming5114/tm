@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChartPosition</key>
+	<string>rectAndAction</string>
+	<key>materialAroundLevel</key>
+	<string>routeShapeVelocity</string>
+	<key>standaloneScaleInset</key>
+	<string>storeLayerTheme</string>
+	<key>stateMementoOrientation</key>
+	<string>chapterTypeVelocity</string>
+	<key>subscriptionAboutScope</key>
+	<string>anchorVersusAdapter</string>
+	<key>tabviewFacadeOrientation</key>
+	<string>bulletAtBuffer</string>
+	<key>widgetEnvironmentOrientation</key>
+	<string>dialogsFacadeDistance</string>
+</dict>
+</plist>

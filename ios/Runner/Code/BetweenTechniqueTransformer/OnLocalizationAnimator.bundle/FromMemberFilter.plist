@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureTypeSkewy</key>
+	<string>frameOrEnvironment</string>
+	<key>pageviewThroughLayer</key>
+	<string>disabledEventBorder</string>
+	<key>parallelTransformerAlignment</key>
+	<string>positionMementoDistance</string>
+	<key>projectionBridgeTag</key>
+	<string>arithmeticBlocCoord</string>
+	<key>scrollableModelBorder</key>
+	<string>backwardControllerVelocity</string>
+	<key>shaderInsideParam</key>
+	<string>spotFromCommand</string>
+	<key>spineVisitorMomentum</key>
+	<string>logChainHue</string>
+	<key>sustainablePaddingDistance</key>
+	<string>segmentFrameworkShape</string>
+	<key>techniqueMethodTag</key>
+	<string>mobileActionStatus</string>
+</dict>
+</plist>

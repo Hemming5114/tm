@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBrushOpacity</key>
+	<string>controllerFlyweightBehavior</string>
+	<key>cellContainStrategy</key>
+	<string>sliderBeyondProcess</string>
+	<key>challengeThroughInterpreter</key>
+	<string>asynchronousHandlerInterval</string>
+	<key>labelSinceSystem</key>
+	<string>accessoryAsMemento</string>
+	<key>layoutFunctionTag</key>
+	<string>stateChainDistance</string>
+	<key>logarithmLikeType</key>
+	<string>screenShapeSize</string>
+	<key>resilientTableSpeed</key>
+	<string>synchronousRadiusCoord</string>
+	<key>usecaseUntilMemento</key>
+	<string>dimensionAboutDecorator</string>
+</dict>
+</plist>

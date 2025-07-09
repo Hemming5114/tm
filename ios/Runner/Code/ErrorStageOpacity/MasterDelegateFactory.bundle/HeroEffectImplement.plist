@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilKind</key>
+	<string>sizePerTier</string>
+	<key>cardStylePressure</key>
+	<string>operationUntilPhase</string>
+	<key>eventAndMemento</key>
+	<string>cupertinoSystemPadding</string>
+	<key>intensityStageFormat</key>
+	<string>layoutAtBridge</string>
+	<key>metadataUntilCommand</key>
+	<string>entropyCommandDuration</string>
+	<key>pageviewExceptStage</key>
+	<string>roleScopeLocation</string>
+	<key>singletonWithValue</key>
+	<string>constFeatureName</string>
+	<key>transformerVarName</key>
+	<string>largeRouteFlags</string>
+	<key>widgetScopeDirection</key>
+	<string>zoneSystemBound</string>
+</dict>
+</plist>

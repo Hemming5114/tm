@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSinceComposite</key>
+	<string>tensorRouterBrightness</string>
+	<key>compositionStageCenter</key>
+	<string>gridVarDepth</string>
+	<key>pinchableStorageFlags</key>
+	<string>subscriptionSingletonLeft</string>
+	<key>positionProcessBehavior</key>
+	<string>taskEnvironmentDuration</string>
+	<key>previewNumberStyle</key>
+	<string>equalizationPerParameter</string>
+	<key>radioDespiteAction</key>
+	<string>mobxDecoratorTransparency</string>
+</dict>
+</plist>

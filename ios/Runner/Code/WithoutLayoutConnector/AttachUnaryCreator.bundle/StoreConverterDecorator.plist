@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStyleTint</key>
+	<string>cacheViaFacade</string>
+	<key>constraintFunctionSkewy</key>
+	<string>riverpodByStructure</string>
+	<key>diffablePresenterScale</key>
+	<string>equipmentModeStatus</string>
+	<key>futureExceptMediator</key>
+	<string>fixedMobileTension</string>
+	<key>queueValuePadding</key>
+	<string>ignoredCommandLeft</string>
+	<key>statelessVersusProxy</key>
+	<string>materialRadiusVelocity</string>
+	<key>uniformHeapMode</key>
+	<string>reducerInsideContext</string>
+</dict>
+</plist>

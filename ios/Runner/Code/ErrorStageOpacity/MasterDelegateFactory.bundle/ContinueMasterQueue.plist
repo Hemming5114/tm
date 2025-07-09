@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAgainstCycle</key>
+	<string>rectInDecorator</string>
+	<key>inactiveCaptionFormat</key>
+	<string>scrollableMusicDirection</string>
+	<key>injectionVersusBuffer</key>
+	<string>sliderLikeAdapter</string>
+	<key>mobileOutsideBuffer</key>
+	<string>retainedProtocolCount</string>
+	<key>scrollSinceProcess</key>
+	<string>multiBlocShade</string>
+	<key>symbolInProxy</key>
+	<string>secondSpecifierShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAwaitTheme</key>
+	<string>slashAsPhase</string>
+	<key>ephemeralResultBrightness</key>
+	<string>compositionalHashSkewy</string>
+	<key>overlayObserverBrightness</key>
+	<string>globalSpriteVisible</string>
+	<key>prismaticFuturePadding</key>
+	<string>opaqueStoryboardSkewy</string>
+	<key>routeAwayState</key>
+	<string>textureDespiteMemento</string>
+	<key>stateScopeTint</key>
+	<string>completerBeyondOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSingletonRotation</key>
+	<string>layoutStageMargin</string>
+	<key>associatedPaddingSkewy</key>
+	<string>protocolStrategyBorder</string>
+	<key>handlerAwayType</key>
+	<string>compositionalBinaryTop</string>
+	<key>statelessMobileInset</key>
+	<string>sizeScopeTension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicStateState</key>
+	<string>usageFrameworkBottom</string>
+	<key>extensionBesideAction</key>
+	<string>loopDecoratorKind</string>
+	<key>factoryInEnvironment</key>
+	<string>mobileByLayer</string>
+	<key>inheritedRouteBrightness</key>
+	<string>imageCompositeTag</string>
+	<key>menuVarIndex</key>
+	<string>priorResolverPadding</string>
+	<key>smallPositionVisibility</key>
+	<string>widgetAsEnvironment</string>
+	<key>subsequentTextureLeft</key>
+	<string>asynchronousChecklistPadding</string>
+	<key>topicPerLayer</key>
+	<string>composableBatchSize</string>
+</dict>
+</plist>

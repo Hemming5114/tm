@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFunctionDensity</key>
+	<string>coordinatorLevelBrightness</string>
+	<key>delegateOutsideProxy</key>
+	<string>mobileIsolateAppearance</string>
+	<key>heapThanPlatform</key>
+	<string>mutableConstraintResponse</string>
+	<key>mapBesideMode</key>
+	<string>ternaryWithParam</string>
+	<key>secondPlaybackOpacity</key>
+	<string>positionFrameworkFlags</string>
+	<key>stampDecoratorName</key>
+	<string>signatureMementoTag</string>
+	<key>subscriptionOrPattern</key>
+	<string>enabledVectorEdge</string>
+</dict>
+</plist>

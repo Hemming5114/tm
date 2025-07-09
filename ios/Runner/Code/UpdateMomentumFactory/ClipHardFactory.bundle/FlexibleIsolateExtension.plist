@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTangentSpeed</key>
+	<string>decorationFunctionFeedback</string>
+	<key>agileSkinValidation</key>
+	<string>cubitUntilAction</string>
+	<key>basicRectScale</key>
+	<string>reducerKindDuration</string>
+	<key>cupertinoInterfaceSaturation</key>
+	<string>scaffoldShapeTension</string>
+	<key>interactiveNavigationVelocity</key>
+	<string>bufferStructureRotation</string>
+	<key>pivotalSwitchRight</key>
+	<string>missionAtTask</string>
+	<key>spineParamSkewx</key>
+	<string>cartesianBoxLocation</string>
+	<key>unsortedMissionMargin</key>
+	<string>animatedcontainerVersusBridge</string>
+	<key>webResultState</key>
+	<string>logStateDuration</string>
+</dict>
+</plist>

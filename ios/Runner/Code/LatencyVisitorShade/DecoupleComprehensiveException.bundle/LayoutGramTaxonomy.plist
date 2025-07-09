@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionByBridge</key>
+	<string>materialNotificationBehavior</string>
+	<key>localGrainContrast</key>
+	<string>viewParameterScale</string>
+	<key>managerScopeVisibility</key>
+	<string>exceptionForType</string>
+	<key>multiAllocatorVelocity</key>
+	<string>dedicatedCupertinoColor</string>
+	<key>prismaticDimensionHue</key>
+	<string>boxshadowFrameworkKind</string>
+	<key>resourceForProxy</key>
+	<string>arithmeticClipperState</string>
+	<key>touchPrototypeRotation</key>
+	<string>histogramVarSize</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarParamStyle</key>
+	<string>tangentInFramework</string>
+	<key>controllerStageOffset</key>
+	<string>webStateIndex</string>
+	<key>dependencyBesideFlyweight</key>
+	<string>stackCompositeInset</string>
+	<key>descriptorWithDecorator</key>
+	<string>rectOrDecorator</string>
+	<key>intensityFlyweightCoord</key>
+	<string>integerContextKind</string>
+	<key>tickerIncludeComposite</key>
+	<string>decorationAlongType</string>
+</dict>
+</plist>

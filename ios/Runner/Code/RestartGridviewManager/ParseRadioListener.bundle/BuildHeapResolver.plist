@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActivityScale</key>
+	<string>batchCycleBottom</string>
+	<key>displayableTransformerSkewx</key>
+	<string>staticReferenceInteraction</string>
+	<key>gridSinceForm</key>
+	<string>gridDecoratorTheme</string>
+	<key>interpolationShapeName</key>
+	<string>eagerNodeTop</string>
+	<key>mutableDependencyHue</key>
+	<string>expandedVarCount</string>
+	<key>progressbarWithScope</key>
+	<string>listviewIncludeStrategy</string>
+	<key>scaffoldByScope</key>
+	<string>tableDespiteFacade</string>
+</dict>
+</plist>

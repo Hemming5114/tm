@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterOfComposite</key>
+	<string>dynamicSinkPosition</string>
+	<key>curveCompositeLeft</key>
+	<string>futureFormSpeed</string>
+	<key>fragmentKindPressure</key>
+	<string>reducerAdapterStatus</string>
+	<key>gestureVarSpacing</key>
+	<string>oldDecorationVisible</string>
+	<key>parallelAnimationAlignment</key>
+	<string>presenterStageOrientation</string>
+	<key>previewSingletonColor</key>
+	<string>asyncEventVisibility</string>
+	<key>seamlessButtonVisible</key>
+	<string>offsetInsideStage</string>
+	<key>signatureVariableRate</key>
+	<string>awaitVisitorTint</string>
+	<key>spotActionFrequency</key>
+	<string>durationCompositeTint</string>
+</dict>
+</plist>

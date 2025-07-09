@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSkinValidation</key>
+	<string>fragmentAgainstFramework</string>
+	<key>listviewNearFlyweight</key>
+	<string>errorAwayFlyweight</string>
+	<key>radioAwayStyle</key>
+	<string>nativeDurationRotation</string>
+	<key>textStrategyMomentum</key>
+	<string>imageVisitorColor</string>
+	<key>tweenBridgeCenter</key>
+	<string>animatedLayoutInset</string>
+	<key>tweenBridgeMode</key>
+	<string>singletonContextLeft</string>
+	<key>visibleAllocatorRight</key>
+	<string>slashObserverVelocity</string>
+</dict>
+</plist>

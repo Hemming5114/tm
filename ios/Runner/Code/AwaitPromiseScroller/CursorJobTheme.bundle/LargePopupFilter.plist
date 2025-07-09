@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIconDepth</key>
+	<string>movementBeyondVar</string>
+	<key>builderLevelBrightness</key>
+	<string>sessionSingletonPadding</string>
+	<key>capsuleIncludePattern</key>
+	<string>similarTweenBorder</string>
+	<key>consultativeSceneMomentum</key>
+	<string>futureScopeOrientation</string>
+	<key>durationPerState</key>
+	<string>controllerParamPadding</string>
+	<key>immediateLabelTint</key>
+	<string>listenerOutsideSingleton</string>
+	<key>metadataLevelVisible</key>
+	<string>navigationWithChain</string>
+	<key>projectIncludeMethod</key>
+	<string>activeMethodDuration</string>
+	<key>responseThroughSingleton</key>
+	<string>crudeMasterVelocity</string>
+</dict>
+</plist>

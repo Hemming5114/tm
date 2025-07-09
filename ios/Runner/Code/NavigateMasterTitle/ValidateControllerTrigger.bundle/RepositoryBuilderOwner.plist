@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDecoratorTint</key>
+	<string>isolateThroughLevel</string>
+	<key>constDialogsDensity</key>
+	<string>actionBridgeFeedback</string>
+	<key>convolutionCycleCenter</key>
+	<string>liteNotifierMode</string>
+	<key>futureAmongParam</key>
+	<string>prismaticThreadVisible</string>
+	<key>masterAboutType</key>
+	<string>pinchableTimerLocation</string>
+	<key>materialProgressbarShape</key>
+	<string>constPaddingDelay</string>
+	<key>repositoryBufferRotation</key>
+	<string>firstSensorFrequency</string>
+	<key>storeParamEdge</key>
+	<string>commandStyleDuration</string>
+	<key>synchronousQueryPressure</key>
+	<string>radiusAmongSystem</string>
+</dict>
+</plist>

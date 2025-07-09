@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTierBrightness</key>
+	<string>factoryScopeDensity</string>
+	<key>factoryPerStyle</key>
+	<string>deferredModalVisibility</string>
+	<key>granularViewLeft</key>
+	<string>multiplicationOfStage</string>
+	<key>intermediateBulletTransparency</key>
+	<string>curveChainPadding</string>
+	<key>liteAlignmentFormat</key>
+	<string>mutableHistogramVisibility</string>
+	<key>matrixMementoTheme</key>
+	<string>relationalQueryName</string>
+	<key>resourcePrototypeValidation</key>
+	<string>hashPlatformTail</string>
+	<key>rowFromSingleton</key>
+	<string>checklistObserverOpacity</string>
+	<key>sizeMementoLeft</key>
+	<string>significantIntegerSize</string>
+	<key>techniqueContextAlignment</key>
+	<string>semanticsPhaseMode</string>
+</dict>
+</plist>

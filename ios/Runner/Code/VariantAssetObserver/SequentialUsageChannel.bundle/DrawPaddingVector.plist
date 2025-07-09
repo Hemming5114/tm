@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTangentTheme</key>
+	<string>greatTickerFormat</string>
+	<key>iterativeViewTheme</key>
+	<string>delegatePlatformAlignment</string>
+	<key>overlayFrameworkState</key>
+	<string>profilePatternShape</string>
+	<key>riverpodBeyondChain</key>
+	<string>decorationInPhase</string>
+	<key>spriteBridgeHue</key>
+	<string>statelessRequestDepth</string>
+	<key>tweenAdapterInset</key>
+	<string>queryMediatorFrequency</string>
+	<key>usecaseProxyAcceleration</key>
+	<string>matrixWorkFormat</string>
+</dict>
+</plist>

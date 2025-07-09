@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncEnvironmentKind</key>
+	<string>reactiveCurveInset</string>
+	<key>commandInParam</key>
+	<string>resizableIntegerSpacing</string>
+	<key>immutableVectorLocation</key>
+	<string>flexibleCapsuleShape</string>
+	<key>respectiveHandlerName</key>
+	<string>semanticsStyleMomentum</string>
+	<key>sessionWorkInteraction</key>
+	<string>gramLayerAlignment</string>
+	<key>statelessSliderPressure</key>
+	<string>staticSinkPressure</string>
+	<key>unsortedRouterDirection</key>
+	<string>routerTaskFlags</string>
+</dict>
+</plist>

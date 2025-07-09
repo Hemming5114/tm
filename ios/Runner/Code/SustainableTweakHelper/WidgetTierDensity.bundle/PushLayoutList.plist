@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSinkShape</key>
+	<string>geometricFlexTheme</string>
+	<key>granularProviderTop</key>
+	<string>descriptionAboutTask</string>
+	<key>persistentRepositoryVisibility</key>
+	<string>repositoryStyleInteraction</string>
+	<key>projectAdapterPosition</key>
+	<string>graphExceptPlatform</string>
+	<key>resizableBoxPadding</key>
+	<string>resilientMultiplicationCoord</string>
+	<key>resolverObserverPressure</key>
+	<string>mobileCommandInterval</string>
+	<key>sharedUtilTension</key>
+	<string>similarIsolateResponse</string>
+</dict>
+</plist>

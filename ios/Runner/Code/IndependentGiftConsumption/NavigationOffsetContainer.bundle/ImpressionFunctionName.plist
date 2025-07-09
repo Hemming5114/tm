@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFactoryPadding</key>
+	<string>topicStateStatus</string>
+	<key>axisParameterSkewy</key>
+	<string>typicalSymbolFormat</string>
+	<key>cacheAlongMediator</key>
+	<string>uniformCupertinoTransparency</string>
+	<key>interactiveDecorationAlignment</key>
+	<string>radiusThroughAction</string>
+	<key>segueBesideTask</key>
+	<string>activeInjectionCoord</string>
+	<key>sliderFromFramework</key>
+	<string>rectFrameworkColor</string>
+	<key>storeSystemPosition</key>
+	<string>referenceOutsidePattern</string>
+	<key>tappableSegueBottom</key>
+	<string>scrollVisitorSkewx</string>
+	<key>transitionDuringCommand</key>
+	<string>toolAlongPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateIncludeForm</key>
+	<string>flexibleMapDensity</string>
+	<key>effectShapeVelocity</key>
+	<string>loopAtTask</string>
+	<key>localDurationState</key>
+	<string>methodBeyondCommand</string>
+	<key>routeWithCommand</key>
+	<string>granularOptionIndex</string>
+	<key>statelessTaskCount</key>
+	<string>columnNearMemento</string>
+	<key>tabbarAdapterPadding</key>
+	<string>histogramFunctionShade</string>
+	<key>transformerByPhase</key>
+	<string>iterativeAppbarMode</string>
+</dict>
+</plist>

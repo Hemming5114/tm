@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleContainerVisible</key>
+	<string>oldButtonSaturation</string>
+	<key>decorationForTask</key>
+	<string>behaviorOutsideMediator</string>
+	<key>interactorChainOrigin</key>
+	<string>animationAwayCommand</string>
+	<key>marginStrategyVisibility</key>
+	<string>mediumSpotType</string>
+	<key>mediaqueryBufferScale</key>
+	<string>observerFromAdapter</string>
+	<key>newestObserverMargin</key>
+	<string>granularIsolateSpeed</string>
+	<key>sessionBesideFlyweight</key>
+	<string>currentSpriteInterval</string>
+	<key>statelessAndAction</key>
+	<string>durationWorkCount</string>
+	<key>usageAdapterDistance</key>
+	<string>buttonInContext</string>
+</dict>
+</plist>

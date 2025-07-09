@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerManagerState</key>
+	<string>immutableDescriptionMargin</string>
+	<key>dynamicArithmeticTheme</key>
+	<string>asyncColumnDirection</string>
+	<key>exceptionBufferPadding</key>
+	<string>sortedStateBehavior</string>
+	<key>layoutBridgeFormat</key>
+	<string>futureAsParam</string>
+	<key>operationTypeSkewy</key>
+	<string>actionOperationStyle</string>
+	<key>radiusWithVisitor</key>
+	<string>resultForObserver</string>
+	<key>transitionFrameworkVelocity</key>
+	<string>enabledProviderVisible</string>
+</dict>
+</plist>

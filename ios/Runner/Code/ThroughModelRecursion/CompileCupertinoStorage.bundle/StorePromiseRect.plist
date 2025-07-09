@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAssetTension</key>
+	<string>persistentSegueVisibility</string>
+	<key>chartTierTransparency</key>
+	<string>nibNumberLocation</string>
+	<key>durationAgainstStage</key>
+	<string>mediaqueryOutsideEnvironment</string>
+	<key>gridviewVersusSingleton</key>
+	<string>animationAsVariable</string>
+	<key>listenerAtActivity</key>
+	<string>particleCompositeRight</string>
+	<key>localDialogsOrigin</key>
+	<string>stackSinceDecorator</string>
+	<key>particleStageState</key>
+	<string>notifierStyleOrigin</string>
+	<key>playbackFormRight</key>
+	<string>lossBesideForm</string>
+	<key>usedStreamTransparency</key>
+	<string>responseWorkOpacity</string>
+</dict>
+</plist>

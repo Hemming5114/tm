@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringWork</key>
+	<string>popupContainType</string>
+	<key>kernelNearProxy</key>
+	<string>parallelMemberSize</string>
+	<key>resolverFunctionSize</key>
+	<string>basicBaselineTint</string>
+	<key>scaffoldDecoratorShade</key>
+	<string>drawerAsNumber</string>
+</dict>
+</plist>

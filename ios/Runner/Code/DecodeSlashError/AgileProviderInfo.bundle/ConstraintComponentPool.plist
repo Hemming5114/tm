@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleScopeBound</key>
+	<string>specifierMethodLocation</string>
+	<key>navigatorCommandFeedback</key>
+	<string>dedicatedDependencyLocation</string>
+	<key>permissiveResourceLocation</key>
+	<string>intuitiveSkinForce</string>
+	<key>previewForAction</key>
+	<string>animationVisitorHue</string>
+</dict>
+</plist>

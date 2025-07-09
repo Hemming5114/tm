@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTierInterval</key>
+	<string>movementOrFunction</string>
+	<key>desktopCubeBottom</key>
+	<string>giftExceptLayer</string>
+	<key>elasticHeapKind</key>
+	<string>movementShapeTag</string>
+	<key>heapScopeCoord</key>
+	<string>plateLevelBehavior</string>
+	<key>liteSliderVisibility</key>
+	<string>cycleLevelVisible</string>
+	<key>navigatorStateBorder</key>
+	<string>hashPatternCount</string>
+	<key>radiusStageRate</key>
+	<string>dynamicShaderFrequency</string>
+	<key>resilientTweenDuration</key>
+	<string>reusableBlocKind</string>
+	<key>stateVersusFramework</key>
+	<string>permissiveTickerTransparency</string>
+</dict>
+</plist>

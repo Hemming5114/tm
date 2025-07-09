@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVersusAction</key>
+	<string>radioOrPlatform</string>
+	<key>customizedBulletName</key>
+	<string>configurationViaAction</string>
+	<key>exceptionInTier</key>
+	<string>futureUntilAdapter</string>
+	<key>injectionDecoratorOrigin</key>
+	<string>rowSinceNumber</string>
+	<key>labelScopeFlags</key>
+	<string>durationParamBound</string>
+	<key>previewVarBound</key>
+	<string>allocatorModeVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCompositeState</key>
+	<string>observerInsidePlatform</string>
+	<key>columnVariableShade</key>
+	<string>listviewTierOrientation</string>
+	<key>plateActionSkewx</key>
+	<string>resolverLevelTransparency</string>
+	<key>positionThroughTier</key>
+	<string>profileActivityEdge</string>
+	<key>rectBufferTail</key>
+	<string>activityAgainstParam</string>
+	<key>repositoryActionBrightness</key>
+	<string>metadataPerMethod</string>
+	<key>scrollableGraphShape</key>
+	<string>themeMementoShade</string>
+</dict>
+</plist>

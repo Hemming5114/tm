@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSingletonTheme</key>
+	<string>immutableStoryboardState</string>
+	<key>extensionShapePressure</key>
+	<string>directChecklistFormat</string>
+	<key>localAnchorShade</key>
+	<string>completerStageTheme</string>
+	<key>topicNearPrototype</key>
+	<string>positionBesideState</string>
+</dict>
+</plist>

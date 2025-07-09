@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondAction</key>
+	<string>modulusPlatformOrigin</string>
+	<key>columnSingletonStatus</key>
+	<string>uniqueAccessoryOpacity</string>
+	<key>enabledBlocValidation</key>
+	<string>allocatorChainTag</string>
+	<key>multiplicationBesideFunction</key>
+	<string>allocatorContainVar</string>
+	<key>resilientGridOrientation</key>
+	<string>denseGramForce</string>
+	<key>resolverPerBridge</key>
+	<string>columnBeyondBuffer</string>
+	<key>smartInteractorOrientation</key>
+	<string>requestBeyondChain</string>
+</dict>
+</plist>

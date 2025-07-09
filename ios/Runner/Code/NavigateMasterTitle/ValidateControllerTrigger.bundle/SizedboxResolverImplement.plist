@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCardOrientation</key>
+	<string>granularGroupInterval</string>
+	<key>chapterJobCoord</key>
+	<string>reusableCubitRate</string>
+	<key>referenceSingletonEdge</key>
+	<string>specifyAnimationShape</string>
+	<key>singleEntityBorder</key>
+	<string>segmentAroundCommand</string>
+	<key>tabviewVarPosition</key>
+	<string>particleCompositeResponse</string>
+	<key>utilDuringCycle</key>
+	<string>flexIncludeBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMatrixShade</key>
+	<string>heroStageVisibility</string>
+	<key>inheritedFlexStatus</key>
+	<string>commonDrawerFeedback</string>
+	<key>modelTaskDepth</key>
+	<string>nibPlatformBehavior</string>
+	<key>opaqueSpineOrigin</key>
+	<string>otherIconCount</string>
+	<key>optimizerPatternBound</key>
+	<string>eagerContainerAcceleration</string>
+	<key>priorStoryboardCenter</key>
+	<string>blocProxyScale</string>
+	<key>significantEffectFormat</key>
+	<string>frameActivityTail</string>
+	<key>tweenFormSpeed</key>
+	<string>arithmeticGraphVelocity</string>
+</dict>
+</plist>

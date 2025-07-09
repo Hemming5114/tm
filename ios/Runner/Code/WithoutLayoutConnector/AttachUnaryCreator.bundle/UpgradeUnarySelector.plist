@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDecorationOrientation</key>
+	<string>discardedCapsuleBorder</string>
+	<key>mainStorageTransparency</key>
+	<string>heapShapeSpacing</string>
+	<key>mobileHeroTheme</key>
+	<string>labelWorkOrientation</string>
+	<key>pivotalMatrixVisible</key>
+	<string>similarPetBottom</string>
+</dict>
+</plist>

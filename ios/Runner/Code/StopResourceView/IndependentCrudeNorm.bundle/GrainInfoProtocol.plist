@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialRichtextSkewx</key>
+	<string>delegateFrameworkTheme</string>
+	<key>fragmentChainDirection</key>
+	<string>denseKernelFormat</string>
+	<key>largeTickerLeft</key>
+	<string>widgetCompositeDensity</string>
+	<key>listenerParameterCoord</key>
+	<string>accessoryVarShape</string>
+	<key>rectWithoutMethod</key>
+	<string>animatedDecorationIndex</string>
+	<key>resultThroughLayer</key>
+	<string>mobileWidgetBorder</string>
+	<key>smallPlaybackHead</key>
+	<string>positionedStateScale</string>
+</dict>
+</plist>

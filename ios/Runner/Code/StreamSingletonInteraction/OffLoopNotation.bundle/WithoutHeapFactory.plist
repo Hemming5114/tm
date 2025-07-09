@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAtContext</key>
+	<string>otherChapterTransparency</string>
+	<key>alignmentParamFeedback</key>
+	<string>utilScopeSize</string>
+	<key>autoMediaVisible</key>
+	<string>popupBufferFrequency</string>
+	<key>customizedDelegateTension</key>
+	<string>staticThemeStatus</string>
+	<key>mediaStateDensity</key>
+	<string>logFunctionSaturation</string>
+	<key>modalThroughTask</key>
+	<string>cursorWorkShade</string>
+	<key>presenterInsideState</key>
+	<string>dimensionPerScope</string>
+	<key>queueWithoutMediator</key>
+	<string>storyboardOrProxy</string>
+	<key>stampAdapterTail</key>
+	<string>equalizationAtDecorator</string>
+	<key>synchronousDecorationRate</key>
+	<string>canvasObserverOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectCompositeBrightness</key>
+	<string>vectorBridgeBrightness</string>
+	<key>channelProxyShade</key>
+	<string>primaryCompleterForce</string>
+	<key>columnOfWork</key>
+	<string>enabledConsumerPosition</string>
+	<key>granularLayerTint</key>
+	<string>queueLikeStructure</string>
+	<key>graphicJobShade</key>
+	<string>actionByVariable</string>
+	<key>movementNumberStatus</key>
+	<string>singleQueueFrequency</string>
+	<key>routeDuringBridge</key>
+	<string>providerSystemBehavior</string>
+	<key>routerContainDecorator</key>
+	<string>paddingStyleMode</string>
+</dict>
+</plist>

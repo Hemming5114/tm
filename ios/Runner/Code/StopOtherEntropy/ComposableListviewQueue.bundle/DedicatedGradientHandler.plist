@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticConfigurationBehavior</key>
+	<string>documentNumberSize</string>
+	<key>mobileBlocShape</key>
+	<string>widgetCommandForce</string>
+	<key>previewStateContrast</key>
+	<string>tabviewDecoratorMomentum</string>
+	<key>standaloneQueryInterval</key>
+	<string>subsequentRouterType</string>
+	<key>substantialListenerValidation</key>
+	<string>nextStreamInterval</string>
+</dict>
+</plist>

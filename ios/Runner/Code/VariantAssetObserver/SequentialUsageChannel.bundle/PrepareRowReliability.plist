@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCompositeTheme</key>
+	<string>popupTypeFeedback</string>
+	<key>configurationCycleType</key>
+	<string>capsuleVisitorBorder</string>
+	<key>heapForBuffer</key>
+	<string>similarDependencyLeft</string>
+	<key>methodOfFunction</key>
+	<string>commandPerBuffer</string>
+	<key>mutableStoreLeft</key>
+	<string>priorRectFrequency</string>
+	<key>subtleTransitionTag</key>
+	<string>timerExceptBuffer</string>
+	<key>timerAgainstStrategy</key>
+	<string>reducerFlyweightRight</string>
+</dict>
+</plist>

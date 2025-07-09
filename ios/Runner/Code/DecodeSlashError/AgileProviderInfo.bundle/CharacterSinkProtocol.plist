@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceEnvironment</key>
+	<string>asynchronousTitleFlags</string>
+	<key>chapterScopeForce</key>
+	<string>cubitOrShape</string>
+	<key>denseOperationSkewy</key>
+	<string>transitionIncludeContext</string>
+	<key>eagerRectVisible</key>
+	<string>symmetricInterfaceSpeed</string>
+	<key>grayscaleAlongValue</key>
+	<string>singleProgressbarPadding</string>
+	<key>normalWidgetHue</key>
+	<string>descriptionAtEnvironment</string>
+</dict>
+</plist>

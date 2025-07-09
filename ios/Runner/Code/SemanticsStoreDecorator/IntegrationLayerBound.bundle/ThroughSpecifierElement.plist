@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentSliderValidation</key>
+	<string>oldTextRotation</string>
+	<key>presenterChainDistance</key>
+	<string>resourceObserverFrequency</string>
+	<key>signFromContext</key>
+	<string>positionDuringFunction</string>
+	<key>timerOutsideFramework</key>
+	<string>callbackUntilStyle</string>
+</dict>
+</plist>

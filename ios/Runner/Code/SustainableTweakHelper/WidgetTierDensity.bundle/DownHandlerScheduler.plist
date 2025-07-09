@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFrameworkLocation</key>
+	<string>desktopPresenterLeft</string>
+	<key>discardedAsyncInteraction</key>
+	<string>exceptionTempleStyle</string>
+	<key>enabledCoordinatorRotation</key>
+	<string>gridFunctionSize</string>
+	<key>futureMethodEdge</key>
+	<string>curveLayerCoord</string>
+	<key>statelessNavigatorShape</key>
+	<string>aspectMediatorOrigin</string>
+	<key>widgetAwayCycle</key>
+	<string>fragmentByPhase</string>
+</dict>
+</plist>

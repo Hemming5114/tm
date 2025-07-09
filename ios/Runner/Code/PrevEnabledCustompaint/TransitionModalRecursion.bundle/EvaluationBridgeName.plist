@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTransformerSize</key>
+	<string>robustKernelAcceleration</string>
+	<key>eagerBufferResponse</key>
+	<string>localGrainFormat</string>
+	<key>gridInterpreterDensity</key>
+	<string>declarativeWidgetMargin</string>
+	<key>mediaqueryThroughStructure</key>
+	<string>numericalCallbackDistance</string>
+	<key>nodeAroundLevel</key>
+	<string>layerAlongAdapter</string>
+	<key>reductionBeyondScope</key>
+	<string>routerAdapterPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyForFramework</key>
+	<string>specifyMusicTheme</string>
+	<key>eagerBuilderTheme</key>
+	<string>statelessExpandedStatus</string>
+	<key>listviewContainMediator</key>
+	<string>gridAtLayer</string>
+	<key>memberValueDistance</key>
+	<string>textureShapeTint</string>
+	<key>movementWithoutMediator</key>
+	<string>methodSystemSpacing</string>
+	<key>spineContainBridge</key>
+	<string>storeDuringPattern</string>
+</dict>
+</plist>

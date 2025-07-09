@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePrototypeTag</key>
+	<string>pointAwayTier</string>
+	<key>masterVarForce</key>
+	<string>swiftCycleForce</string>
+	<key>overlayFromState</key>
+	<string>liteTweenShade</string>
+	<key>resilientOffsetAcceleration</key>
+	<string>navigatorDespiteMethod</string>
+	<key>topicWithComposite</key>
+	<string>menuDuringCommand</string>
+</dict>
+</plist>

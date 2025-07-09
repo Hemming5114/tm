@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeBufferStyle</key>
+	<string>textureScopeFrequency</string>
+	<key>effectBeyondFacade</key>
+	<string>priorSubscriptionInterval</string>
+	<key>invisibleResourceCoord</key>
+	<string>playbackSingletonOrientation</string>
+	<key>momentumChainForce</key>
+	<string>modulusProcessOrientation</string>
+	<key>nextFlexMomentum</key>
+	<string>positionFrameworkMomentum</string>
+	<key>opaqueSubpixelStyle</key>
+	<string>signatureFromLevel</string>
+	<key>operationAdapterIndex</key>
+	<string>hardBufferTail</string>
+	<key>respectiveContainerPressure</key>
+	<string>zoneValueCoord</string>
+	<key>sophisticatedOptionSkewy</key>
+	<string>navigatorAdapterTransparency</string>
+</dict>
+</plist>

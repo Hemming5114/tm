@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionParamResponse</key>
+	<string>subpixelIncludeScope</string>
+	<key>mediaBufferInteraction</key>
+	<string>displayableInterpolationBorder</string>
+	<key>mediumResultLocation</key>
+	<string>progressbarChainVisible</string>
+	<key>modelStrategyFeedback</key>
+	<string>uniqueAssetFlags</string>
+	<key>routeShapeLocation</key>
+	<string>hyperbolicDurationVelocity</string>
+</dict>
+</plist>

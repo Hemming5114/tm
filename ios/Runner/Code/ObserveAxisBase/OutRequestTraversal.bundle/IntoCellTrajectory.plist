@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStoreDistance</key>
+	<string>mediaqueryActivityStyle</string>
+	<key>difficultViewLeft</key>
+	<string>semanticEffectInteraction</string>
+	<key>featureWithMemento</key>
+	<string>layerInsideProxy</string>
+	<key>invisibleInteractorOpacity</key>
+	<string>semanticsTierPressure</string>
+	<key>lazyPriorityTail</key>
+	<string>independentModalEdge</string>
+	<key>methodLayerMargin</key>
+	<string>protocolCommandOrientation</string>
+	<key>touchAsFacade</key>
+	<string>particleMediatorTransparency</string>
+	<key>vectorNumberDuration</key>
+	<string>observerObserverTint</string>
+</dict>
+</plist>

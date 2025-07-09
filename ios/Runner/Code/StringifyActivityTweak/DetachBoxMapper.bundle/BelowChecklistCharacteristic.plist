@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIndicatorDensity</key>
+	<string>otherSessionMode</string>
+	<key>cycleWithoutFramework</key>
+	<string>dimensionBufferSpeed</string>
+	<key>descriptionNumberFormat</key>
+	<string>storageMementoOrigin</string>
+	<key>normalCompleterOffset</key>
+	<string>statefulBesideVisitor</string>
+	<key>providerNearPattern</key>
+	<string>transitionValueInteraction</string>
+	<key>publicCoordinatorDirection</key>
+	<string>lossParamSpacing</string>
+	<key>resultFormStatus</key>
+	<string>repositoryMethodDistance</string>
+	<key>taskPhaseValidation</key>
+	<string>autoEffectInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDuringBridge</key>
+	<string>cupertinoProviderSkewy</string>
+	<key>blocJobFeedback</key>
+	<string>resizableDecorationInteraction</string>
+	<key>customizedChallengeSkewy</key>
+	<string>operationStageShape</string>
+	<key>displayableStoreSkewx</key>
+	<string>lossMementoTheme</string>
+	<key>exceptionAdapterTension</key>
+	<string>pinchableWidgetColor</string>
+	<key>notificationAmongOperation</key>
+	<string>sliderVariableBorder</string>
+	<key>temporaryDelegateDirection</key>
+	<string>chartNearVar</string>
+</dict>
+</plist>

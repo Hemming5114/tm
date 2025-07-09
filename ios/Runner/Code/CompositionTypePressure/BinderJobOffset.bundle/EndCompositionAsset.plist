@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStructureOrigin</key>
+	<string>handlerContextOrientation</string>
+	<key>cursorThanContext</key>
+	<string>finalCubitOffset</string>
+	<key>interactorContainMode</key>
+	<string>resultContainStage</string>
+	<key>progressbarAgainstComposite</key>
+	<string>signatureWithPrototype</string>
+	<key>queueObserverVisible</key>
+	<string>batchActionScale</string>
+	<key>streamPrototypeRotation</key>
+	<string>functionalPreviewShape</string>
+	<key>symbolStageFeedback</key>
+	<string>viewVariableBehavior</string>
+</dict>
+</plist>

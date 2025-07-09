@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPhaseState</key>
+	<string>respectiveStoreDuration</string>
+	<key>dropdownbuttonCycleAppearance</key>
+	<string>mobileDelegateOrientation</string>
+	<key>masterVarBehavior</key>
+	<string>commonStatefulLeft</string>
+	<key>mobileCoordinatorContrast</key>
+	<string>beginnerAnimatedcontainerName</string>
+	<key>notifierAgainstMode</key>
+	<string>lazyLoopBehavior</string>
+	<key>resolverTierTop</key>
+	<string>popupBesideLevel</string>
+	<key>skinOutsideAdapter</key>
+	<string>lostServiceDuration</string>
+</dict>
+</plist>

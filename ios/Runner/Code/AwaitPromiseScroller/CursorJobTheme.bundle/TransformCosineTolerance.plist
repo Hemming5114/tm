@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOperationInteraction</key>
+	<string>resizableRichtextVelocity</string>
+	<key>completerBeyondDecorator</key>
+	<string>buttonFlyweightBehavior</string>
+	<key>currentBlocDensity</key>
+	<string>durationPhaseValidation</string>
+	<key>draggableObserverStyle</key>
+	<string>zoneInsideFlyweight</string>
+	<key>grainScopeEdge</key>
+	<string>requestWithValue</string>
+	<key>indicatorFromState</key>
+	<string>sortedChapterContrast</string>
+	<key>memberInsideTemple</key>
+	<string>constraintVarKind</string>
+	<key>sineKindValidation</key>
+	<string>declarativeDependencyTheme</string>
+	<key>sophisticatedLabelInteraction</key>
+	<string>requestPlatformTransparency</string>
+</dict>
+</plist>

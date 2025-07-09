@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateFutureFeedback</key>
+	<string>boxViaAction</string>
+	<key>effectOrCycle</key>
+	<string>gridAdapterDelay</string>
+	<key>elasticRouteDensity</key>
+	<string>statefulProcessDuration</string>
+	<key>gridProcessSkewx</key>
+	<string>featureAsAction</string>
+	<key>mediaDecoratorBrightness</key>
+	<string>tensorSkirtDensity</string>
+	<key>tappableVariantHue</key>
+	<string>delegateDespiteType</string>
+	<key>timerAlongFlyweight</key>
+	<string>subtleReducerCount</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSlashScale</key>
+	<string>resizableUsageTransparency</string>
+	<key>gesturePhaseEdge</key>
+	<string>ignoredNavigationBottom</string>
+	<key>utilFunctionName</key>
+	<string>projectionPhaseValidation</string>
+</dict>
+</plist>

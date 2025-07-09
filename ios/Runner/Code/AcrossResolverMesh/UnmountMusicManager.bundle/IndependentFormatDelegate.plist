@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePrototypeMargin</key>
+	<string>chartPerMediator</string>
+	<key>diffableTaskShade</key>
+	<string>progressbarVariableSaturation</string>
+	<key>ephemeralLayerOpacity</key>
+	<string>storageBeyondBuffer</string>
+	<key>segmentActionDirection</key>
+	<string>groupFromSingleton</string>
+	<key>sortedTransitionAlignment</key>
+	<string>particleThanScope</string>
+	<key>specifierInsideEnvironment</key>
+	<string>switchTempleDelay</string>
+</dict>
+</plist>

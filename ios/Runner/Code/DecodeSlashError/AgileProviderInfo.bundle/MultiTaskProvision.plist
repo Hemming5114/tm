@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerDuringParam</key>
+	<string>sensorModeLeft</string>
+	<key>intermediateWidgetResponse</key>
+	<string>invisiblePreviewRate</string>
+	<key>persistentBehaviorHue</key>
+	<string>normalRectTheme</string>
+	<key>prevProviderForce</key>
+	<string>tappableEffectFeedback</string>
+	<key>semanticAllocatorRight</key>
+	<string>riverpodFromWork</string>
+	<key>sinkAtWork</key>
+	<string>axisVariableFrequency</string>
+</dict>
+</plist>

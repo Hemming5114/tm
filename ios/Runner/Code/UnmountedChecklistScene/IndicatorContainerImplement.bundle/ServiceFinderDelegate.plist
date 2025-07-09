@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleImageShade</key>
+	<string>listenerProcessOrientation</string>
+	<key>animatedcontainerBufferFeedback</key>
+	<string>statefulOrLayer</string>
+	<key>animationParameterFeedback</key>
+	<string>masterMethodBehavior</string>
+	<key>checklistByScope</key>
+	<string>autoRiverpodTint</string>
+	<key>disabledModelInteraction</key>
+	<string>containerFromStage</string>
+	<key>discardedObserverPosition</key>
+	<string>commonModalTint</string>
+	<key>mutableListenerShade</key>
+	<string>awaitDespiteBridge</string>
+	<key>notificationShapeContrast</key>
+	<string>animationAgainstStage</string>
+	<key>primaryNodeCoord</key>
+	<string>navigatorVarCoord</string>
+	<key>singleLabelDuration</key>
+	<string>zoneOutsideDecorator</string>
+</dict>
+</plist>

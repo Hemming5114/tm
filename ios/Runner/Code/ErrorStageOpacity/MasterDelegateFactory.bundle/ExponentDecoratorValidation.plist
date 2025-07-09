@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondBridge</key>
+	<string>graphSingletonStatus</string>
+	<key>baseFromPrototype</key>
+	<string>curveBeyondKind</string>
+	<key>chartSingletonVisibility</key>
+	<string>singletonVariableRate</string>
+	<key>queryByTask</key>
+	<string>sequentialProfilePadding</string>
+	<key>usecaseValueOrigin</key>
+	<string>secondFutureSpacing</string>
+</dict>
+</plist>

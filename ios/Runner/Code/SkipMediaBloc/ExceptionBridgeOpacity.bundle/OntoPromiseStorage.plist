@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPlatformFlags</key>
+	<string>indicatorTaskFeedback</string>
+	<key>handlerAmongMethod</key>
+	<string>constraintCommandForce</string>
+	<key>sizedboxMementoRotation</key>
+	<string>smallScaleFeedback</string>
+	<key>smartArithmeticDelay</key>
+	<string>richtextObserverContrast</string>
+	<key>vectorMementoSkewy</key>
+	<string>appbarContainPhase</string>
+</dict>
+</plist>

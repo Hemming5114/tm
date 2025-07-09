@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitMethodDelay</key>
+	<string>techniqueSingletonVisibility</string>
+	<key>cellCommandTheme</key>
+	<string>cellFormDensity</string>
+	<key>consumerPerStructure</key>
+	<string>graphLevelSaturation</string>
+	<key>flexibleSignatureKind</key>
+	<string>mobxAndOperation</string>
+	<key>histogramPhaseOffset</key>
+	<string>clipperFromVariable</string>
+	<key>observerBufferShape</key>
+	<string>statelessNavigationVisibility</string>
+	<key>sliderEnvironmentCount</key>
+	<string>switchVarBound</string>
+	<key>synchronousChallengeFlags</key>
+	<string>buttonDuringFlyweight</string>
+	<key>usecaseBeyondTask</key>
+	<string>mobileContainerSize</string>
+</dict>
+</plist>

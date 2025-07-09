@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionByPhase</key>
+	<string>uniqueLoopShape</string>
+	<key>exceptionBeyondValue</key>
+	<string>sequentialDescriptionBrightness</string>
+	<key>greatStepTop</key>
+	<string>positionedAlongShape</string>
+	<key>intuitiveCallbackCoord</key>
+	<string>batchVersusFlyweight</string>
+	<key>managerProcessMomentum</key>
+	<string>listenerThanLayer</string>
+	<key>priorSizePadding</key>
+	<string>decorationWithoutObserver</string>
+	<key>queueTypeOpacity</key>
+	<string>inactiveConfigurationPosition</string>
+</dict>
+</plist>

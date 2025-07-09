@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesModeCoord</key>
+	<string>blocWithoutPlatform</string>
+	<key>completerAndObserver</key>
+	<string>textNumberVisibility</string>
+	<key>ephemeralTaskAcceleration</key>
+	<string>exceptionThroughProxy</string>
+	<key>promiseAroundFacade</key>
+	<string>lazySlashAcceleration</string>
+	<key>spriteVariableResponse</key>
+	<string>originalDecorationType</string>
+	<key>textureCycleLocation</key>
+	<string>logPhaseCount</string>
+</dict>
+</plist>

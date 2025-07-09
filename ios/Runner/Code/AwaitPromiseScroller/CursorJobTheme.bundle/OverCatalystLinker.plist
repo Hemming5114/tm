@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResolverDelay</key>
+	<string>consumerEnvironmentDepth</string>
+	<key>borderBeyondPrototype</key>
+	<string>tweenKindDelay</string>
+	<key>capsuleForFlyweight</key>
+	<string>buttonFromLevel</string>
+	<key>metadataSystemTint</key>
+	<string>profilePlatformShape</string>
+	<key>presenterThroughFunction</key>
+	<string>arithmeticScreenDirection</string>
+	<key>semanticsUntilContext</key>
+	<string>activatedNotificationFormat</string>
+	<key>serviceDespiteObserver</key>
+	<string>backwardPageviewName</string>
+	<key>usedMethodScale</key>
+	<string>dynamicServiceShape</string>
+</dict>
+</plist>

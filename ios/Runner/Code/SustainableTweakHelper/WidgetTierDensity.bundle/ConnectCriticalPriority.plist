@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAsActivity</key>
+	<string>behaviorAlongComposite</string>
+	<key>borderVersusSingleton</key>
+	<string>builderBeyondFramework</string>
+	<key>callbackPatternMargin</key>
+	<string>mobileExceptVariable</string>
+	<key>methodAlongShape</key>
+	<string>radiusActivityPosition</string>
+	<key>promisePerBridge</key>
+	<string>skinVarDuration</string>
+	<key>promiseStrategyLocation</key>
+	<string>fusedResourceContrast</string>
+	<key>statelessProviderName</key>
+	<string>bufferPhaseBrightness</string>
+	<key>symbolAtOperation</key>
+	<string>labelDuringFlyweight</string>
+</dict>
+</plist>

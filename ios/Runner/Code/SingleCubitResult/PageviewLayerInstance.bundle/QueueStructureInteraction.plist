@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackScopeDirection</key>
+	<string>multiAlertCenter</string>
+	<key>characterWithoutCommand</key>
+	<string>finalButtonHue</string>
+	<key>eagerWidgetSaturation</key>
+	<string>batchScopeDirection</string>
+	<key>routerAroundFlyweight</key>
+	<string>mediocreSizeHue</string>
+</dict>
+</plist>

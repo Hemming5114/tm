@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAdapterSpacing</key>
+	<string>tappableGridFormat</string>
+	<key>declarativeResourceFlags</key>
+	<string>frameFacadeEdge</string>
+	<key>extensionNearStyle</key>
+	<string>configurationFormDepth</string>
+	<key>iconUntilParameter</key>
+	<string>associatedLayoutOpacity</string>
+	<key>iterativeRouteHue</key>
+	<string>routeIncludeFacade</string>
+	<key>pointNearSystem</key>
+	<string>sortedTransitionAlignment</string>
+	<key>publicPrecisionTransparency</key>
+	<string>staticTopicScale</string>
+	<key>stampContainOperation</key>
+	<string>inheritedVariantCount</string>
+	<key>tappableManagerSkewy</key>
+	<string>threadVarBorder</string>
+	<key>toolAsWork</key>
+	<string>standaloneStreamShade</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVariableSkewx</key>
+	<string>durationAwayActivity</string>
+	<key>backwardOverlayEdge</key>
+	<string>gateModeVisible</string>
+	<key>interfaceAtState</key>
+	<string>borderChainPressure</string>
+	<key>scrollFlyweightDensity</key>
+	<string>rectBufferStatus</string>
+</dict>
+</plist>

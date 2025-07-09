@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioExceptMemento</key>
+	<string>layoutCompositeOpacity</string>
+	<key>associatedObserverAlignment</key>
+	<string>diffableResolverDuration</string>
+	<key>hyperbolicViewState</key>
+	<string>collectionVarStyle</string>
+	<key>requestStateRotation</key>
+	<string>checklistLikeVariable</string>
+	<key>stackScopeLocation</key>
+	<string>pointCommandValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridScopeSkewx</key>
+	<string>unsortedServiceEdge</string>
+	<key>groupContainOperation</key>
+	<string>layoutContainCycle</string>
+	<key>masterBesideState</key>
+	<string>streamLikeChain</string>
+	<key>movementLevelEdge</key>
+	<string>fixedPriorityDepth</string>
+	<key>particlePatternMode</key>
+	<string>handlerDecoratorInterval</string>
+	<key>smartProviderVelocity</key>
+	<string>prevPositionColor</string>
+	<key>taskWithMode</key>
+	<string>serviceVersusPrototype</string>
+	<key>typicalHeapValidation</key>
+	<string>unaryJobSkewy</string>
+</dict>
+</plist>

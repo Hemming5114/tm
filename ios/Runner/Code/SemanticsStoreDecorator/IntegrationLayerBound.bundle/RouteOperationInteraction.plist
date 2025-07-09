@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseRoleStyle</key>
+	<string>builderAsValue</string>
+	<key>easyAllocatorTransparency</key>
+	<string>indicatorViaNumber</string>
+	<key>easyHashMode</key>
+	<string>storageParamRate</string>
+	<key>priorTransformerValidation</key>
+	<string>normalCallbackDistance</string>
+	<key>topicLevelTail</key>
+	<string>beginnerTaskOffset</string>
+	<key>transitionAdapterBehavior</key>
+	<string>navigationWithAdapter</string>
+</dict>
+</plist>

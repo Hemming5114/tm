@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitCaptionBehavior</key>
+	<string>boxDuringPrototype</string>
+	<key>resultBridgeContrast</key>
+	<string>cursorViaProcess</string>
+	<key>routeWorkInteraction</key>
+	<string>collectionForForm</string>
+	<key>sceneContainInterpreter</key>
+	<string>usedListenerTint</string>
+	<key>streamStructureShape</key>
+	<string>borderStateOrientation</string>
+	<key>typicalArithmeticBorder</key>
+	<string>presenterByNumber</string>
+</dict>
+</plist>

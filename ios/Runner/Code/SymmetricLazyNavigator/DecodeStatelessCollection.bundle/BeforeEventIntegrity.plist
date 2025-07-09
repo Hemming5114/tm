@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstStatelessSize</key>
+	<string>activeGraphicInset</string>
+	<key>resolverWithPlatform</key>
+	<string>viewFrameworkVisible</string>
+	<key>vectorPerKind</key>
+	<string>webRemainderLocation</string>
+</dict>
+</plist>

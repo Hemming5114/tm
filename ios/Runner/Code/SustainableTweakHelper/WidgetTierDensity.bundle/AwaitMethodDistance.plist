@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMobileDuration</key>
+	<string>symmetricConstraintInteraction</string>
+	<key>awaitObserverSkewy</key>
+	<string>publicRichtextTop</string>
+	<key>configurationTaskIndex</key>
+	<string>stateAgainstNumber</string>
+	<key>listenerMementoDelay</key>
+	<string>optimizerSystemTint</string>
+	<key>observerBridgeState</key>
+	<string>resizableCurveBottom</string>
+	<key>otherMobileDistance</key>
+	<string>synchronousLocalizationSpeed</string>
+	<key>sceneByEnvironment</key>
+	<string>originalNotificationContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionAgainstAdapter</key>
+	<string>channelStyleInteraction</string>
+	<key>directNavigatorSpeed</key>
+	<string>listenerViaVisitor</string>
+	<key>statefulAndScope</key>
+	<string>entityLevelEdge</string>
+	<key>unaryInsideVisitor</key>
+	<string>skinModeMargin</string>
+	<key>widgetParamSpacing</key>
+	<string>builderActionSize</string>
+</dict>
+</plist>

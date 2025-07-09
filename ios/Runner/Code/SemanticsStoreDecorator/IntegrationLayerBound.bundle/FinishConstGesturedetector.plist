@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAtAdapter</key>
+	<string>decorationLikeProcess</string>
+	<key>completerBeyondLevel</key>
+	<string>activeCubitDensity</string>
+	<key>dependencyFormVisibility</key>
+	<string>storeSingletonKind</string>
+	<key>mobileFrameworkDensity</key>
+	<string>listviewKindKind</string>
+	<key>projectMementoPressure</key>
+	<string>elasticHeroTransparency</string>
+	<key>symmetricAnimationOrientation</key>
+	<string>asyncCoordinatorInteraction</string>
+	<key>threadAmongSingleton</key>
+	<string>awaitInLevel</string>
+	<key>touchLikeStructure</key>
+	<string>positionStateBrightness</string>
+</dict>
+</plist>

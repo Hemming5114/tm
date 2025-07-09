@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAgainstVisitor</key>
+	<string>cacheProcessStyle</string>
+	<key>globalDialogsSkewx</key>
+	<string>heapStateMode</string>
+	<key>smartDimensionHue</key>
+	<string>exponentParameterVisible</string>
+	<key>subscriptionActivityTag</key>
+	<string>tickerPrototypeDepth</string>
+	<key>subtleFrameHue</key>
+	<string>elasticBinaryInset</string>
+</dict>
+</plist>

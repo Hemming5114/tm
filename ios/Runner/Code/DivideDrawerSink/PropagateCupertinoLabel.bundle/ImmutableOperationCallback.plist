@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorByState</key>
+	<string>subscriptionBufferDirection</string>
+	<key>criticalBorderDepth</key>
+	<string>oldPositionLeft</string>
+	<key>dependencyMethodStyle</key>
+	<string>displayableTextfieldOpacity</string>
+	<key>dialogsLikeMode</key>
+	<string>asyncOfLevel</string>
+	<key>ephemeralGroupVisible</key>
+	<string>mobileViewBehavior</string>
+	<key>getxByParam</key>
+	<string>timerJobShape</string>
+	<key>projectionViaFramework</key>
+	<string>cursorTierFrequency</string>
+	<key>rectAsFacade</key>
+	<string>behaviorAlongStyle</string>
+	<key>sinkLikeDecorator</key>
+	<string>specifierThanType</string>
+	<key>streamWithTask</key>
+	<string>alignmentParamPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionWidgetAcceleration</key>
+	<string>missionBeyondTemple</string>
+	<key>completionAmongPrototype</key>
+	<string>activatedChannelLocation</string>
+	<key>dialogsDecoratorFlags</key>
+	<string>usedProgressbarStyle</string>
+	<key>metadataVersusValue</key>
+	<string>smartDropdownbuttonColor</string>
+	<key>sequentialIntensityForce</key>
+	<string>awaitFormVisibility</string>
+</dict>
+</plist>

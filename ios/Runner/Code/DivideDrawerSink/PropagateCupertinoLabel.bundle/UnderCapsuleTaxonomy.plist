@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThanLevel</key>
+	<string>functionalTickerFrequency</string>
+	<key>interactiveFlexSpacing</key>
+	<string>responsiveTextDepth</string>
+	<key>plateDecoratorCenter</key>
+	<string>accessibleQueueFrequency</string>
+	<key>similarInjectionDepth</key>
+	<string>activeBlocDuration</string>
+</dict>
+</plist>

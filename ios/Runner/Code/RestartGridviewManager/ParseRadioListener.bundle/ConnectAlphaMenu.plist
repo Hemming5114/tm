@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushWithoutBuffer</key>
+	<string>subtleKernelLocation</string>
+	<key>chartStrategyValidation</key>
+	<string>canvasCycleRotation</string>
+	<key>functionalAssetDepth</key>
+	<string>curveSingletonFlags</string>
+	<key>hierarchicalSubscriptionShape</key>
+	<string>resolverTaskBrightness</string>
+	<key>isolateOfBridge</key>
+	<string>containerPatternAppearance</string>
+	<key>particleAdapterCoord</key>
+	<string>providerInEnvironment</string>
+	<key>positionFrameworkPosition</key>
+	<string>reusableSingletonInteraction</string>
+	<key>protectedPositionState</key>
+	<string>textByBuffer</string>
+</dict>
+</plist>

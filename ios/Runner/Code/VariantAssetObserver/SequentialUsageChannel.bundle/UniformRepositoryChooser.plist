@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledThemeDistance</key>
+	<string>directCubitLeft</string>
+	<key>flexibleHeroShade</key>
+	<string>transitionPhaseAlignment</string>
+	<key>graphicByMode</key>
+	<string>spineExceptJob</string>
+	<key>greatObserverBrightness</key>
+	<string>originalAwaitDepth</string>
+	<key>memberActivityStyle</key>
+	<string>statefulStrategyInterval</string>
+	<key>stateBesideStage</key>
+	<string>clipperAdapterValidation</string>
+	<key>statefulAllocatorType</key>
+	<string>sharedAccessoryBrightness</string>
+</dict>
+</plist>

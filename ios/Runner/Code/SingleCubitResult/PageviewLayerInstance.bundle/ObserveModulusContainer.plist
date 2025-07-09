@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAxisMomentum</key>
+	<string>callbackVersusAction</string>
+	<key>gridBesidePhase</key>
+	<string>labelPerLevel</string>
+	<key>mobxWorkBehavior</key>
+	<string>imperativeNibState</string>
+	<key>projectionScopeEdge</key>
+	<string>multiplicationNumberSkewx</string>
+	<key>roleAtScope</key>
+	<string>memberEnvironmentLeft</string>
+	<key>sessionAndComposite</key>
+	<string>richtextPrototypeAppearance</string>
+	<key>signAdapterVisibility</key>
+	<string>granularDurationOffset</string>
+</dict>
+</plist>

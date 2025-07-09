@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderObserverMode</key>
+	<string>stackFormOpacity</string>
+	<key>controllerInPattern</key>
+	<string>enabledHandlerDelay</string>
+	<key>delicatePrecisionShade</key>
+	<string>nibForStage</string>
+	<key>draggableRiverpodState</key>
+	<string>functionalGrainTransparency</string>
+	<key>hashSinceStyle</key>
+	<string>toolStateBehavior</string>
+	<key>projectNearStrategy</key>
+	<string>activeResourceDepth</string>
+	<key>textureValueDistance</key>
+	<string>observerLevelBehavior</string>
+</dict>
+</plist>

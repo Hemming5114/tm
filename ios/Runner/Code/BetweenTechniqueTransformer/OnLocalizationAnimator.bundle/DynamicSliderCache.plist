@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpriteFormat</key>
+	<string>exponentSingletonDepth</string>
+	<key>alignmentEnvironmentShape</key>
+	<string>textContextOrigin</string>
+	<key>asyncPetTransparency</key>
+	<string>navigatorUntilFlyweight</string>
+	<key>gateNearOperation</key>
+	<string>compositionAlongOperation</string>
+	<key>listviewUntilActivity</key>
+	<string>baselineLayerEdge</string>
+	<key>sensorDecoratorStyle</key>
+	<string>secondTernaryInset</string>
+	<key>temporaryCompositionTension</key>
+	<string>referenceFlyweightSkewy</string>
+	<key>viewAndProxy</key>
+	<string>reductionPerAction</string>
+</dict>
+</plist>

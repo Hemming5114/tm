@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGraphInteraction</key>
+	<string>crudeCompleterDirection</string>
+	<key>equalizationFrameworkTint</key>
+	<string>streamAsEnvironment</string>
+	<key>framePlatformTint</key>
+	<string>allocatorBeyondFramework</string>
+	<key>instructionAdapterDelay</key>
+	<string>accessibleTextCenter</string>
+	<key>opaqueSwiftSkewy</key>
+	<string>zoneOperationFeedback</string>
+	<key>spotLayerBorder</key>
+	<string>monsterFrameworkTag</string>
+</dict>
+</plist>

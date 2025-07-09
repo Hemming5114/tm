@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFrameworkRate</key>
+	<string>basicStatefulMode</string>
+	<key>eventThanParam</key>
+	<string>controllerVarAppearance</string>
+	<key>interactiveRowSpeed</key>
+	<string>missionAlongTask</string>
+	<key>sessionSinceCommand</key>
+	<string>responsiveGraphicFrequency</string>
+	<key>webNavigatorShade</key>
+	<string>exponentParamOpacity</string>
+</dict>
+</plist>

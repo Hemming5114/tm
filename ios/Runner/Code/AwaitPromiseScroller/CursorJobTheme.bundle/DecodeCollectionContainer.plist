@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyResponseAcceleration</key>
+	<string>missionByValue</string>
+	<key>listviewExceptFramework</key>
+	<string>repositoryTaskOrientation</string>
+	<key>listviewIncludeFacade</key>
+	<string>labelPerSingleton</string>
+	<key>offsetAwayComposite</key>
+	<string>temporaryTimerMode</string>
+	<key>reductionThroughMemento</key>
+	<string>mobileNavigatorFormat</string>
+</dict>
+</plist>

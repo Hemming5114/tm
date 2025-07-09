@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterDuringPrototype</key>
+	<string>expandedDespiteVar</string>
+	<key>denseBehaviorCoord</key>
+	<string>spriteParameterForce</string>
+	<key>drawerEnvironmentFormat</key>
+	<string>assetMediatorInteraction</string>
+	<key>eagerRectVelocity</key>
+	<string>lastTouchLeft</string>
+	<key>iterativeGridColor</key>
+	<string>playbackShapeLeft</string>
+	<key>labelPlatformMode</key>
+	<string>storageStructureStatus</string>
+	<key>modulusBesideFacade</key>
+	<string>immediatePainterOrientation</string>
+	<key>resilientSignatureFormat</key>
+	<string>criticalSignatureAlignment</string>
+</dict>
+</plist>

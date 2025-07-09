@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandCycleVisibility</key>
+	<string>diffableBlocIndex</string>
+	<key>currentPopupShape</key>
+	<string>desktopDelegateCount</string>
+	<key>directCursorTint</key>
+	<string>tweenBeyondTask</string>
+	<key>eagerSymbolDistance</key>
+	<string>fusedMasterDensity</string>
+	<key>keyDescriptorDelay</key>
+	<string>unactivatedAlignmentOrigin</string>
+	<key>presenterBridgeVelocity</key>
+	<string>unactivatedCoordinatorInteraction</string>
+	<key>specifierBesideLevel</key>
+	<string>displayableBorderDistance</string>
+	<key>storageJobFeedback</key>
+	<string>imageMementoShade</string>
+</dict>
+</plist>

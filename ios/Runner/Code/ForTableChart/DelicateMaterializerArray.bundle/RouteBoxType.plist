@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLogCenter</key>
+	<string>pageviewSingletonHead</string>
+	<key>boxshadowPhaseContrast</key>
+	<string>expandedInsideObserver</string>
+	<key>cubitCycleCenter</key>
+	<string>mainSpecifierShade</string>
+	<key>cupertinoStageInset</key>
+	<string>toolInLayer</string>
+	<key>immutableSwitchDepth</key>
+	<string>navigatorIncludeMemento</string>
+	<key>modalAlongVisitor</key>
+	<string>awaitNumberTransparency</string>
+	<key>nodeInPlatform</key>
+	<string>commandAtPrototype</string>
+	<key>skirtExceptVar</key>
+	<string>mobxObserverSpeed</string>
+</dict>
+</plist>

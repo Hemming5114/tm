@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousListviewTint</key>
+	<string>finalLayoutLeft</string>
+	<key>batchBesidePrototype</key>
+	<string>graphVersusNumber</string>
+	<key>commonBorderDirection</key>
+	<string>awaitOutsideFramework</string>
+	<key>deferredCupertinoTransparency</key>
+	<string>adaptiveRepositoryMode</string>
+	<key>keyRequestAppearance</key>
+	<string>positionedParameterBrightness</string>
+	<key>materialGridStyle</key>
+	<string>featureAtPlatform</string>
+	<key>progressbarValueVelocity</key>
+	<string>immutableGraphDuration</string>
+	<key>smallVectorColor</key>
+	<string>bufferPrototypeSize</string>
+</dict>
+</plist>

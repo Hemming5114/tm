@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectStageAlignment</key>
+	<string>secondIconTop</string>
+	<key>fixedGrainLeft</key>
+	<string>cartesianContractionSkewy</string>
+	<key>fragmentAndTask</key>
+	<string>allocatorVariableRate</string>
+	<key>globalBaselineRotation</key>
+	<string>capsuleBesideType</string>
+	<key>mutableAnimatedcontainerBound</key>
+	<string>appbarPlatformOrientation</string>
+	<key>queryShapeType</key>
+	<string>publicFeatureSaturation</string>
+	<key>relationalEntityBorder</key>
+	<string>hashBesideSingleton</string>
+	<key>synchronousScreenPadding</key>
+	<string>stackBeyondOperation</string>
+</dict>
+</plist>

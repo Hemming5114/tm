@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialAnimationOpacity</key>
+	<string>listenerActivityFormat</string>
+	<key>grainAwayMode</key>
+	<string>resilientCubeTheme</string>
+	<key>isolateWithoutStage</key>
+	<string>singletonStyleTint</string>
+	<key>observerDespiteFlyweight</key>
+	<string>hyperbolicPromiseTension</string>
+	<key>skinPhaseDensity</key>
+	<string>primarySceneTransparency</string>
+</dict>
+</plist>

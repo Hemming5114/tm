@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFunctionTail</key>
+	<string>futureVarLeft</string>
+	<key>effectParamCount</key>
+	<string>symbolAsValue</string>
+	<key>scaleBesideStrategy</key>
+	<string>prevLabelEdge</string>
+	<key>sinkWithShape</key>
+	<string>storageShapeFormat</string>
+	<key>synchronousRequestDelay</key>
+	<string>variantNearPlatform</string>
+</dict>
+</plist>

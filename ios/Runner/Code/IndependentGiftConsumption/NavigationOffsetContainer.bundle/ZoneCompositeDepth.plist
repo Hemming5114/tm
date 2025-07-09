@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateDurationValidation</key>
+	<string>tangentStructureCenter</string>
+	<key>dynamicStateRight</key>
+	<string>playbackAtSystem</string>
+	<key>mediumConstraintInset</key>
+	<string>secondReferenceRight</string>
+	<key>mobileReferenceType</key>
+	<string>uniqueFutureRotation</string>
+	<key>notifierFromObserver</key>
+	<string>cardUntilKind</string>
+	<key>sizeScopeCoord</key>
+	<string>gridviewForCommand</string>
+</dict>
+</plist>

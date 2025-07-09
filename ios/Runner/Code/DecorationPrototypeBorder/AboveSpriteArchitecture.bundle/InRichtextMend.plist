@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativePriorityCount</key>
+	<string>opaquePaddingIndex</string>
+	<key>localizationSystemMode</key>
+	<string>pinchableCheckboxDelay</string>
+	<key>managerParamVisibility</key>
+	<string>spriteProxyInterval</string>
+	<key>marginWithoutDecorator</key>
+	<string>buttonViaState</string>
+	<key>providerSingletonHue</key>
+	<string>actionAgainstInterpreter</string>
+	<key>roleVarKind</key>
+	<string>profileFromDecorator</string>
+	<key>statefulViaCommand</key>
+	<string>imperativeCharacterBound</string>
+	<key>touchCycleBehavior</key>
+	<string>delegateFacadeVisibility</string>
+</dict>
+</plist>

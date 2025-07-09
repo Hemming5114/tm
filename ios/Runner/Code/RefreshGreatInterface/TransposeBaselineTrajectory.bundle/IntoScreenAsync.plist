@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVersusPattern</key>
+	<string>materialActivityInteraction</string>
+	<key>cubitAgainstShape</key>
+	<string>transitionChainAppearance</string>
+	<key>gradientLikeFunction</key>
+	<string>routeStageDuration</string>
+	<key>histogramBridgeSkewy</key>
+	<string>interactiveCallbackValidation</string>
+	<key>toolDuringProxy</key>
+	<string>requestAmongMethod</string>
+</dict>
+</plist>

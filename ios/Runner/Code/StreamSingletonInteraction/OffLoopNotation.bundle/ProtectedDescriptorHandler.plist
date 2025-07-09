@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directMobxEdge</key>
+	<string>chapterForOperation</string>
+	<key>globalAxisDepth</key>
+	<string>sliderAlongFramework</string>
+	<key>notifierAtPhase</key>
+	<string>taskOperationOpacity</string>
+	<key>resolverWithStyle</key>
+	<string>disparateExpandedColor</string>
+</dict>
+</plist>

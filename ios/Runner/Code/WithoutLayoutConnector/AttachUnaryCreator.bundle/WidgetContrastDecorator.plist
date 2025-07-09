@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAppbarAppearance</key>
+	<string>localProviderFeedback</string>
+	<key>characterBufferRate</key>
+	<string>finalRadiusRotation</string>
+	<key>flexPerCycle</key>
+	<string>signAgainstMode</string>
+	<key>lostSingletonDistance</key>
+	<string>persistentRouteFormat</string>
+	<key>navigatorPrototypeTension</key>
+	<string>materialTextShape</string>
+	<key>resolverAtParam</key>
+	<string>publicSlashColor</string>
+	<key>stampLikeLevel</key>
+	<string>widgetNearContext</string>
+	<key>uniformRectMargin</key>
+	<string>skinLayerDistance</string>
+</dict>
+</plist>

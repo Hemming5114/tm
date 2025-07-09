@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRoleRate</key>
+	<string>animationPerLevel</string>
+	<key>difficultObserverDirection</key>
+	<string>sliderTypeOffset</string>
+	<key>effectObserverDistance</key>
+	<string>assetScopeDuration</string>
+	<key>exceptionWorkSaturation</key>
+	<string>injectionChainBottom</string>
+	<key>grayscaleLayerIndex</key>
+	<string>tangentPhaseIndex</string>
+	<key>mobileTabbarAlignment</key>
+	<string>apertureDuringFacade</string>
+	<key>uniformAwaitDistance</key>
+	<string>usecaseAroundOperation</string>
+</dict>
+</plist>

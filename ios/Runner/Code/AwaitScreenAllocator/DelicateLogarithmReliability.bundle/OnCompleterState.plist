@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedChartVisibility</key>
+	<string>checklistFrameworkVisible</string>
+	<key>isolateByFramework</key>
+	<string>transitionActivityShade</string>
+	<key>materialOfType</key>
+	<string>oldTweenRate</string>
+	<key>titleBufferPressure</key>
+	<string>gateAtEnvironment</string>
+	<key>typicalChannelType</key>
+	<string>appbarStyleCount</string>
+</dict>
+</plist>

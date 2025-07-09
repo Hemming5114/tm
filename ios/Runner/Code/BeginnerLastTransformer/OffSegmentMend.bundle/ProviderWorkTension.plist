@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCycleVisibility</key>
+	<string>controllerAmongChain</string>
+	<key>appbarOfType</key>
+	<string>presenterThanTask</string>
+	<key>decorationBeyondComposite</key>
+	<string>cubitLikeDecorator</string>
+	<key>errorPerStrategy</key>
+	<string>sharedTopicTag</string>
+	<key>graphExceptNumber</key>
+	<string>resultOfPrototype</string>
+	<key>instructionKindPressure</key>
+	<string>graphFacadeDepth</string>
+	<key>scaffoldFunctionOrigin</key>
+	<string>binaryTempleOpacity</string>
+</dict>
+</plist>

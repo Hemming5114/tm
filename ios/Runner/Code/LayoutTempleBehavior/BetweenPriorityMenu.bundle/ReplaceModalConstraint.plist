@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFunctionSize</key>
+	<string>textureAwayStrategy</string>
+	<key>animationProcessSpeed</key>
+	<string>matrixLikeLayer</string>
+	<key>iconActionDelay</key>
+	<string>webAsyncTint</string>
+	<key>ignoredMasterValidation</key>
+	<string>loopAgainstStage</string>
+	<key>listenerIncludeChain</key>
+	<string>projectionStageKind</string>
+	<key>lossByType</key>
+	<string>protocolStructureTension</string>
+	<key>movementAlongSingleton</key>
+	<string>dialogsForParameter</string>
+	<key>playbackOutsideBridge</key>
+	<string>prismaticQueueFlags</string>
+</dict>
+</plist>

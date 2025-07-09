@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitIncludeObserver</key>
+	<string>uniqueSpriteShape</string>
+	<key>featureEnvironmentLeft</key>
+	<string>storageProxyInterval</string>
+	<key>multiCurvePadding</key>
+	<string>grainEnvironmentLeft</string>
+	<key>queryFrameworkHue</key>
+	<string>routeAlongEnvironment</string>
+	<key>resizableFrameDuration</key>
+	<string>sampleSinceBuffer</string>
+	<key>staticStreamRate</key>
+	<string>baseCompositeSize</string>
+	<key>titleWorkInset</key>
+	<string>functionalUsecaseInterval</string>
+</dict>
+</plist>

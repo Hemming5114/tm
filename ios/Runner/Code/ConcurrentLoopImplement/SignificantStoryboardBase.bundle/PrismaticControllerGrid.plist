@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionForShape</key>
+	<string>statefulGrayscaleRotation</string>
+	<key>customizedActionLocation</key>
+	<string>relationalContainerOrigin</string>
+	<key>firstSegueBorder</key>
+	<string>interfaceLayerStatus</string>
+	<key>geometricControllerBehavior</key>
+	<string>storyboardOutsideStage</string>
+	<key>graphicProcessRight</key>
+	<string>animatedTextVelocity</string>
+	<key>localizationParamRate</key>
+	<string>activatedCapacitiesCenter</string>
+	<key>operationObserverVelocity</key>
+	<string>decorationAboutMethod</string>
+	<key>paddingFromMediator</key>
+	<string>similarRouteDuration</string>
+	<key>parallelDelegateStyle</key>
+	<string>asyncBeyondState</string>
+</dict>
+</plist>

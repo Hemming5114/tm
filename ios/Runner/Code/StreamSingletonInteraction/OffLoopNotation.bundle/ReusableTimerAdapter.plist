@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigatorTint</key>
+	<string>serviceWithPattern</string>
+	<key>concreteStateDepth</key>
+	<string>listviewByStage</string>
+	<key>materialStreamDirection</key>
+	<string>explicitRiverpodShade</string>
+	<key>resilientReferenceInset</key>
+	<string>responsiveResultPosition</string>
+	<key>resourceLevelDensity</key>
+	<string>animatedcontainerFormDirection</string>
+	<key>segmentByTemple</key>
+	<string>decorationAmongActivity</string>
+</dict>
+</plist>

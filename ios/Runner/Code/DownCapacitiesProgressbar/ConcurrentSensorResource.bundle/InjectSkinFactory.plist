@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopRouteStyle</key>
+	<string>granularSpriteShade</string>
+	<key>diffableMapDirection</key>
+	<string>contractionAroundStrategy</string>
+	<key>menuActionMomentum</key>
+	<string>accessibleGemAppearance</string>
+	<key>persistentMenuRotation</key>
+	<string>liteConvolutionVisibility</string>
+	<key>serviceShapeSpeed</key>
+	<string>observerNearJob</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOperationCount</key>
+	<string>callbackShapeBehavior</string>
+	<key>cartesianWidgetAppearance</key>
+	<string>expandedOutsideBridge</string>
+	<key>commandStructureValidation</key>
+	<string>permissiveObserverDepth</string>
+	<key>descriptorInAction</key>
+	<string>ephemeralStoreDelay</string>
+	<key>hierarchicalSizeMode</key>
+	<string>rapidBlocVisible</string>
+	<key>memberTierOrigin</key>
+	<string>dynamicBlocOrigin</string>
+	<key>particleAtTier</key>
+	<string>unaryByNumber</string>
+	<key>pinchableQuerySaturation</key>
+	<string>liteBaselineShade</string>
+	<key>roleOfPlatform</key>
+	<string>segueStructureIndex</string>
+</dict>
+</plist>

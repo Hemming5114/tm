@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitActivityVelocity</key>
+	<string>largeSizedboxKind</string>
+	<key>gramCommandAcceleration</key>
+	<string>oldBuilderFrequency</string>
+	<key>intensityPerAction</key>
+	<string>resourceScopeCoord</string>
+	<key>listenerAsContext</key>
+	<string>gestureActionVisibility</string>
+	<key>listenerModeMode</key>
+	<string>largeEventTail</string>
+	<key>mediaqueryProcessCenter</key>
+	<string>activatedOffsetHead</string>
+	<key>observerWithoutCommand</key>
+	<string>ignoredTransitionCoord</string>
+	<key>optionBySingleton</key>
+	<string>resultAdapterPressure</string>
+	<key>otherGrainLeft</key>
+	<string>notifierParameterName</string>
+	<key>standaloneOptimizerHead</key>
+	<string>subsequentResultTail</string>
+</dict>
+</plist>

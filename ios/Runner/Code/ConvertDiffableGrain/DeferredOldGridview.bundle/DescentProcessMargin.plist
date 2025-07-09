@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBesideStage</key>
+	<string>chapterStageLocation</string>
+	<key>consultativeControllerAlignment</key>
+	<string>musicChainRotation</string>
+	<key>custompaintBridgeTail</key>
+	<string>buttonVarInteraction</string>
+	<key>interactorActionSpeed</key>
+	<string>sliderInMethod</string>
+	<key>largeActionRotation</key>
+	<string>localSkinIndex</string>
+	<key>otherInterfaceOpacity</key>
+	<string>routeCompositeRight</string>
+	<key>projectStrategyTension</key>
+	<string>retainedBufferHead</string>
+</dict>
+</plist>

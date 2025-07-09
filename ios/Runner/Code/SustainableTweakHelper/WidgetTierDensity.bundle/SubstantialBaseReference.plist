@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTaskMargin</key>
+	<string>isolateAmongFacade</string>
+	<key>cupertinoRowSize</key>
+	<string>reductionActivityBound</string>
+	<key>directlyBuilderFeedback</key>
+	<string>asyncStageInset</string>
+	<key>interactorSingletonState</key>
+	<string>textUntilMemento</string>
+	<key>largeSinkRate</key>
+	<string>previewPhaseMode</string>
+	<key>materialBoxShade</key>
+	<string>resolverValueState</string>
+	<key>menuFromMethod</key>
+	<string>futureTypeAcceleration</string>
+	<key>pageviewFrameworkMomentum</key>
+	<string>eventPerMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryVisitorAlignment</key>
+	<string>otherTabbarTag</string>
+	<key>desktopPromiseSpacing</key>
+	<string>coordinatorVariableFrequency</string>
+	<key>newestStoreKind</key>
+	<string>mainFutureBrightness</string>
+	<key>statelessAsyncForce</key>
+	<string>asyncByBridge</string>
+	<key>taskAlongCycle</key>
+	<string>diffableStatefulSaturation</string>
+</dict>
+</plist>

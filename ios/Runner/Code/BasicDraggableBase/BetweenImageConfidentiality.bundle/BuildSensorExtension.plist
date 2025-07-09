@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainContextPosition</key>
+	<string>unactivatedQueueDelay</string>
+	<key>otherDocumentOrigin</key>
+	<string>presenterThroughBuffer</string>
+	<key>profileModeInterval</key>
+	<string>seamlessStoreState</string>
+	<key>progressbarForShape</key>
+	<string>directSubscriptionSpeed</string>
+	<key>timerNearPattern</key>
+	<string>pinchableProgressbarCoord</string>
+	<key>usecaseInsideMode</key>
+	<string>statefulSinceFlyweight</string>
+</dict>
+</plist>

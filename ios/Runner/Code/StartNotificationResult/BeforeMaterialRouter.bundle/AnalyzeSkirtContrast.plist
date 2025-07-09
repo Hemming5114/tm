@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrParam</key>
+	<string>lossStyleIndex</string>
+	<key>brushPerStage</key>
+	<string>sortedDecorationDensity</string>
+	<key>cellPhaseForce</key>
+	<string>coordinatorPerVisitor</string>
+	<key>marginWithSingleton</key>
+	<string>normProxyType</string>
+	<key>matrixOrMemento</key>
+	<string>equipmentAsPhase</string>
+	<key>painterContainPlatform</key>
+	<string>immediateRadiusTint</string>
+	<key>pivotalConvolutionOrigin</key>
+	<string>radiusWorkRight</string>
+	<key>sliderAndMemento</key>
+	<string>containerVersusCommand</string>
+	<key>typicalMobileMomentum</key>
+	<string>euclideanTextureMomentum</string>
+</dict>
+</plist>

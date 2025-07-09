@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintJobName</key>
+	<string>beginnerAnchorColor</string>
+	<key>opaqueConsumerCenter</key>
+	<string>elasticSensorCenter</string>
+	<key>resourceWithFacade</key>
+	<string>elasticLabelSpeed</string>
+	<key>workflowAgainstPattern</key>
+	<string>layoutAlongCommand</string>
+</dict>
+</plist>

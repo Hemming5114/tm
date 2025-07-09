@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundNumber</key>
+	<string>persistentSpineState</string>
+	<key>dynamicEffectStatus</key>
+	<string>commonCanvasDelay</string>
+	<key>iconThroughInterpreter</key>
+	<string>cupertinoAsMode</string>
+	<key>indicatorVarOpacity</key>
+	<string>mediocreSegueStyle</string>
+	<key>interpolationBufferOffset</key>
+	<string>presenterForType</string>
+	<key>layerProcessStyle</key>
+	<string>tweenThanFacade</string>
+	<key>menuOrStage</key>
+	<string>completerOfParam</string>
+</dict>
+</plist>

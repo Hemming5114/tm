@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFromTier</key>
+	<string>beginnerListviewDelay</string>
+	<key>granularExtensionPadding</key>
+	<string>interfaceOutsideVariable</string>
+	<key>interactiveInteractorBrightness</key>
+	<string>semanticUsageFlags</string>
+	<key>pointLevelStatus</key>
+	<string>expandedBesideCommand</string>
+	<key>promiseVersusDecorator</key>
+	<string>slashBufferTop</string>
+	<key>widgetContainFramework</key>
+	<string>modulusOfStructure</string>
+</dict>
+</plist>

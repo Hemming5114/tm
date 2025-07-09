@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialResourceDelay</key>
+	<string>queryStageBound</string>
+	<key>fixedSubscriptionRate</key>
+	<string>sequentialTouchInterval</string>
+	<key>groupLayerOffset</key>
+	<string>navigationFlyweightFrequency</string>
+	<key>imperativeCompleterDirection</key>
+	<string>cellVisitorTop</string>
+	<key>lostHandlerSpacing</key>
+	<string>resolverFromFramework</string>
+	<key>sinkParameterSpeed</key>
+	<string>errorAndTask</string>
+	<key>subscriptionAdapterCount</key>
+	<string>finalGridviewAppearance</string>
+	<key>viewChainPressure</key>
+	<string>layerOutsideCycle</string>
+</dict>
+</plist>

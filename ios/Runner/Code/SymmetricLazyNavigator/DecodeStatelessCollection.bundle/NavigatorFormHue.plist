@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSingletonSpacing</key>
+	<string>largeColumnScale</string>
+	<key>builderVersusPlatform</key>
+	<string>backwardCommandVisibility</string>
+	<key>certificateInParameter</key>
+	<string>constraintDecoratorKind</string>
+	<key>draggableLayoutResponse</key>
+	<string>animatedCycleShape</string>
+	<key>firstRadioRight</key>
+	<string>enabledButtonDuration</string>
+	<key>newestRiverpodRate</key>
+	<string>substantialCaptionHead</string>
+	<key>normalWidgetCount</key>
+	<string>cardMediatorType</string>
+	<key>offsetOfVisitor</key>
+	<string>widgetFrameworkHead</string>
+	<key>prevGateBottom</key>
+	<string>coordinatorAndState</string>
+</dict>
+</plist>

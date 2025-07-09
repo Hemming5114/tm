@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTaskIndex</key>
+	<string>progressbarOutsideVariable</string>
+	<key>advancedConstraintSize</key>
+	<string>customListviewSpeed</string>
+	<key>constFlexSize</key>
+	<string>mapFacadeOffset</string>
+	<key>elasticModelDepth</key>
+	<string>serviceOrContext</string>
+	<key>fixedDescriptionIndex</key>
+	<string>animationContextRight</string>
+	<key>interfaceInsideVar</key>
+	<string>composableUsecaseDepth</string>
+	<key>lastStreamVelocity</key>
+	<string>hashProxyLocation</string>
+	<key>relationalSizedboxFeedback</key>
+	<string>resolverAboutStage</string>
+</dict>
+</plist>

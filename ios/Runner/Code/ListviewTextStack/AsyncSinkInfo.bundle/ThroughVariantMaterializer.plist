@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSinceAction</key>
+	<string>cacheCommandBrightness</string>
+	<key>cellSingletonShape</key>
+	<string>ignoredChannelResponse</string>
+	<key>crucialSliderCenter</key>
+	<string>routeStrategyCenter</string>
+	<key>customizedHeapBrightness</key>
+	<string>methodWorkAppearance</string>
+	<key>groupSinceVar</key>
+	<string>equalizationOfContext</string>
+	<key>sizeVariableOrientation</key>
+	<string>notificationStyleScale</string>
+	<key>uniformBufferTheme</key>
+	<string>accessibleFutureStyle</string>
+</dict>
+</plist>

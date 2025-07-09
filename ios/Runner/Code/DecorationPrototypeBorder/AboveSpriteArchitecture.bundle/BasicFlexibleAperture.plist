@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRemainderRate</key>
+	<string>checklistOrContext</string>
+	<key>flexByPhase</key>
+	<string>instructionActivityTension</string>
+	<key>invisibleOperationAlignment</key>
+	<string>cubitVersusContext</string>
+	<key>methodActionEdge</key>
+	<string>customNodeTension</string>
+	<key>methodAroundBridge</key>
+	<string>autoProviderOrientation</string>
+	<key>missedSineEdge</key>
+	<string>checkboxProxyOrigin</string>
+	<key>routeProxyOffset</key>
+	<string>bulletOrSystem</string>
+	<key>substantialPointOrigin</key>
+	<string>statelessAlphaEdge</string>
+</dict>
+</plist>

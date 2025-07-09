@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropySystemForce</key>
+	<string>subtleCaptionTag</string>
+	<key>gesturedetectorPatternAcceleration</key>
+	<string>imageBesideParam</string>
+	<key>labelAndComposite</key>
+	<string>localizationFlyweightContrast</string>
+	<key>matrixStrategyValidation</key>
+	<string>permanentDimensionSpeed</string>
+	<key>statefulDescriptorHead</key>
+	<string>lazyDimensionDuration</string>
+	<key>tabbarInEnvironment</key>
+	<string>basicRequestEdge</string>
+	<key>tensorDescriptorCenter</key>
+	<string>frameAroundFunction</string>
+</dict>
+</plist>

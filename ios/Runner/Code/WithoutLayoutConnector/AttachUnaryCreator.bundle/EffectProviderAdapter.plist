@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleVariableRate</key>
+	<string>techniqueThroughBuffer</string>
+	<key>checklistProcessCoord</key>
+	<string>rapidAlignmentShade</string>
+	<key>globalBuilderTheme</key>
+	<string>ignoredCheckboxAlignment</string>
+	<key>movementOutsidePlatform</key>
+	<string>petBesideValue</string>
+	<key>requiredWidgetTail</key>
+	<string>cupertinoSliderFeedback</string>
+	<key>tableOutsideStructure</key>
+	<string>consumerAwaySystem</string>
+	<key>usageTierDepth</key>
+	<string>promisePlatformDepth</string>
+</dict>
+</plist>

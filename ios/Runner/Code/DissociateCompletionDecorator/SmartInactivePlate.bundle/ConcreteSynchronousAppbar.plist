@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSingletonRotation</key>
+	<string>masterInWork</string>
+	<key>consultativeTitleKind</key>
+	<string>ignoredSignBehavior</string>
+	<key>imperativeQueueSize</key>
+	<string>cycleIncludeFunction</string>
+	<key>intuitiveDecorationColor</key>
+	<string>entityDuringCycle</string>
+	<key>mobxVariableOrientation</key>
+	<string>protectedMarginForce</string>
+	<key>pageviewContainFacade</key>
+	<string>groupContainCycle</string>
+	<key>rowVersusFlyweight</key>
+	<string>tabviewThroughSingleton</string>
+	<key>signLikeCycle</key>
+	<string>currentEqualizationPosition</string>
+</dict>
+</plist>

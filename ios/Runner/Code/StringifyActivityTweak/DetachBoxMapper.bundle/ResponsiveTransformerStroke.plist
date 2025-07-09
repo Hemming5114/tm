@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDespitePrototype</key>
+	<string>arithmeticOptimizerState</string>
+	<key>parallelZoneAcceleration</key>
+	<string>sceneDecoratorContrast</string>
+	<key>scrollAndAction</key>
+	<string>brushAroundMediator</string>
+	<key>serviceBufferType</key>
+	<string>labelByFlyweight</string>
+	<key>sizedboxSinceParameter</key>
+	<string>projectionAsNumber</string>
+	<key>standaloneAnimatedcontainerOrigin</key>
+	<string>bulletDespiteActivity</string>
+	<key>stateObserverValidation</key>
+	<string>gramBridgeHue</string>
+</dict>
+</plist>

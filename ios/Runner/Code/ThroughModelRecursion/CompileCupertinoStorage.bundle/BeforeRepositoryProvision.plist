@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTweenIndex</key>
+	<string>crudeSpriteAlignment</string>
+	<key>labelMediatorOffset</key>
+	<string>directlyFutureRate</string>
+	<key>presenterPrototypeDensity</key>
+	<string>standaloneRequestColor</string>
+	<key>progressbarAndCycle</key>
+	<string>asyncOfMode</string>
+	<key>protocolActivityTag</key>
+	<string>invisibleAwaitIndex</string>
+	<key>rowAroundBridge</key>
+	<string>pointPerBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledOptimizerBorder</key>
+	<string>invisibleQueueDistance</string>
+	<key>layerContextDuration</key>
+	<string>robustSliderAlignment</string>
+	<key>layoutInterpreterVelocity</key>
+	<string>alignmentFrameworkRotation</string>
+	<key>optionLikePhase</key>
+	<string>awaitDuringOperation</string>
+	<key>parallelZoneType</key>
+	<string>dialogsIncludeContext</string>
+	<key>presenterLikeInterpreter</key>
+	<string>layerAwayFunction</string>
+	<key>sinkMementoTag</key>
+	<string>specifierVersusFunction</string>
+	<key>specifyManagerPadding</key>
+	<string>activityAsAdapter</string>
+</dict>
+</plist>

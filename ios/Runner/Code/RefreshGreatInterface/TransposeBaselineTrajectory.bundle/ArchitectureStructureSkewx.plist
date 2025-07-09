@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSingletonTheme</key>
+	<string>storeThroughType</string>
+	<key>cursorSinceShape</key>
+	<string>transitionPatternCenter</string>
+	<key>granularChapterAppearance</key>
+	<string>baselinePerLevel</string>
+	<key>momentumEnvironmentFeedback</key>
+	<string>greatButtonAppearance</string>
+	<key>rectBesideFacade</key>
+	<string>publicFrameOrigin</string>
+	<key>storageOutsideFacade</key>
+	<string>checklistSystemTag</string>
+	<key>streamPlatformHue</key>
+	<string>storageMementoBottom</string>
+	<key>usedTransitionPosition</key>
+	<string>injectionTypeVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDelegateSkewx</key>
+	<string>rapidCertificateValidation</string>
+	<key>fusedChartKind</key>
+	<string>serviceLikeKind</string>
+	<key>intermediateTickerState</key>
+	<string>hardIndicatorEdge</string>
+	<key>mobileActivityStatus</key>
+	<string>isolateUntilEnvironment</string>
+	<key>storageOfNumber</key>
+	<string>skinInPattern</string>
+	<key>subtleButtonTension</key>
+	<string>tangentUntilActivity</string>
+	<key>tappableButtonSkewy</key>
+	<string>transitionAmongFacade</string>
+</dict>
+</plist>

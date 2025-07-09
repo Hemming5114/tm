@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTaskScale</key>
+	<string>widgetVersusCycle</string>
+	<key>asynchronousAlignmentRotation</key>
+	<string>lazyBatchStatus</string>
+	<key>backwardGridviewIndex</key>
+	<string>cellUntilPlatform</string>
+	<key>flexibleAsyncSpeed</key>
+	<string>descriptionThanSystem</string>
+	<key>robustFrameSaturation</key>
+	<string>fixedStorageColor</string>
+	<key>singleHashSkewy</key>
+	<string>tappableLayerStyle</string>
+	<key>standalonePresenterPosition</key>
+	<string>entityAlongObserver</string>
+	<key>tablePerCommand</key>
+	<string>menuVarName</string>
+	<key>widgetChainSpeed</key>
+	<string>mapNumberTension</string>
+</dict>
+</plist>

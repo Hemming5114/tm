@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFormMomentum</key>
+	<string>canvasContextName</string>
+	<key>containerParameterFeedback</key>
+	<string>gemTaskPressure</string>
+	<key>featureModeIndex</key>
+	<string>intuitiveSegmentCenter</string>
+	<key>previewParamSize</key>
+	<string>statefulModePosition</string>
+	<key>segmentCommandDuration</key>
+	<string>effectContainStyle</string>
+	<key>stepScopeBehavior</key>
+	<string>nativeIsolateStatus</string>
+</dict>
+</plist>

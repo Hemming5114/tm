@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePointEdge</key>
+	<string>optionFrameworkRotation</string>
+	<key>desktopResponseAlignment</key>
+	<string>unactivatedRowValidation</string>
+	<key>ephemeralRadiusFormat</key>
+	<string>asyncPrototypeFormat</string>
+	<key>equipmentFacadeTheme</key>
+	<string>permanentSliderEdge</string>
+	<key>queryOrSystem</key>
+	<string>getxStageCenter</string>
+</dict>
+</plist>

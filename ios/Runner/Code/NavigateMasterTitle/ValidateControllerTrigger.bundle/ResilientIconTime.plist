@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIntensityScale</key>
+	<string>sizeProcessVisible</string>
+	<key>decorationAroundBuffer</key>
+	<string>tappableObserverRight</string>
+	<key>effectThroughState</key>
+	<string>sinkDuringDecorator</string>
+	<key>featureContainObserver</key>
+	<string>ignoredHistogramCount</string>
+	<key>gestureForMemento</key>
+	<string>brushAwayInterpreter</string>
+	<key>mainInkwellMode</key>
+	<string>textActionLeft</string>
+	<key>managerVersusVariable</key>
+	<string>loopBufferColor</string>
+	<key>spotVariableCenter</key>
+	<string>shaderContainMethod</string>
+	<key>sustainableResolverOrigin</key>
+	<string>utilChainSpacing</string>
+	<key>tweenStructureIndex</key>
+	<string>assetMediatorSize</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSubscriptionBorder</key>
+	<string>inheritedResourceSize</string>
+	<key>immutableViewSkewy</key>
+	<string>futureCommandRate</string>
+	<key>intuitiveDimensionSaturation</key>
+	<string>movementBeyondCommand</string>
+	<key>pinchableSubpixelTint</key>
+	<string>viewThroughParameter</string>
+	<key>semanticGraphDepth</key>
+	<string>marginThanParameter</string>
+</dict>
+</plist>

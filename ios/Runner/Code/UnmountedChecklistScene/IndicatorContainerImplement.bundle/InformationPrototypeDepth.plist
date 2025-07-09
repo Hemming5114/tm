@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveByFunction</key>
+	<string>associatedMusicName</string>
+	<key>frameAwayFunction</key>
+	<string>controllerAwayBuffer</string>
+	<key>labelEnvironmentIndex</key>
+	<string>textureStyleSkewx</string>
+	<key>rectDespiteLayer</key>
+	<string>capsuleStateStyle</string>
+	<key>referenceOfTier</key>
+	<string>arithmeticGateKind</string>
+	<key>subscriptionPerTask</key>
+	<string>storeAsMode</string>
+	<key>titleIncludeVariable</key>
+	<string>catalystForVariable</string>
+</dict>
+</plist>

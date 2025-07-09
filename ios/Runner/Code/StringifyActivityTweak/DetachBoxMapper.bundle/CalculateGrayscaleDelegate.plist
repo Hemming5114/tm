@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutBesideAdapter</key>
+	<string>compositionalEffectTag</string>
+	<key>layoutMementoVelocity</key>
+	<string>sustainableSubscriptionSpeed</string>
+	<key>missedRowMode</key>
+	<string>criticalAlphaValidation</string>
+	<key>scaffoldFunctionSaturation</key>
+	<string>decorationFormCount</string>
+	<key>serviceVarTag</key>
+	<string>responseObserverFrequency</string>
+	<key>sliderIncludeStrategy</key>
+	<string>currentLocalizationColor</string>
+	<key>spineAndShape</key>
+	<string>callbackObserverLeft</string>
+</dict>
+</plist>

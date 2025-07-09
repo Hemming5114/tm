@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVisitorShape</key>
+	<string>aspectSinceContext</string>
+	<key>criticalModalOrigin</key>
+	<string>interactiveModelLocation</string>
+	<key>globalTouchInteraction</key>
+	<string>asyncPlatformContrast</string>
+	<key>interactorOfActivity</key>
+	<string>missedFutureBorder</string>
+	<key>resolverForType</key>
+	<string>offsetEnvironmentDensity</string>
+	<key>responsiveRadiusHue</key>
+	<string>subscriptionIncludeActivity</string>
+</dict>
+</plist>

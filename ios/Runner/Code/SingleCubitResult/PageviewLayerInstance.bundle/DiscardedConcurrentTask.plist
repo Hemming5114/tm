@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyKindRotation</key>
+	<string>protectedViewTint</string>
+	<key>previewDespiteMethod</key>
+	<string>alignmentKindTheme</string>
+	<key>protocolFromComposite</key>
+	<string>spriteCommandSkewy</string>
+	<key>standaloneMediaqueryVisibility</key>
+	<string>rectWorkRotation</string>
+	<key>tabviewJobTail</key>
+	<string>ephemeralFramePadding</string>
+	<key>transitionThanStyle</key>
+	<string>gatePlatformVelocity</string>
+</dict>
+</plist>

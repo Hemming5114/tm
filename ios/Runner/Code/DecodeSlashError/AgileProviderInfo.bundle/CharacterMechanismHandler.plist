@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderNearType</key>
+	<string>deferredErrorTheme</string>
+	<key>cubitScopeLocation</key>
+	<string>allocatorContainState</string>
+	<key>sinkActionTint</key>
+	<string>mainAnimatedcontainerInset</string>
+	<key>symmetricParticleHue</key>
+	<string>globalSpinePadding</string>
+	<key>titleExceptFramework</key>
+	<string>statelessAdapterShade</string>
+	<key>zoneMementoType</key>
+	<string>metadataVersusMode</string>
+</dict>
+</plist>

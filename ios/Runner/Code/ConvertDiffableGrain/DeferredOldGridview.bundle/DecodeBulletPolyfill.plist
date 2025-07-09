@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedServiceTransparency</key>
+	<string>priorityViaMemento</string>
+	<key>effectMediatorShape</key>
+	<string>enabledDialogsAlignment</string>
+	<key>imageForMediator</key>
+	<string>permanentScrollLeft</string>
+	<key>isolateAmongPhase</key>
+	<string>liteMetadataDelay</string>
+	<key>menuBridgeBehavior</key>
+	<string>declarativeUsageVisibility</string>
+	<key>mutableFragmentColor</key>
+	<string>scaleInsideState</string>
+	<key>originalAnimationDuration</key>
+	<string>entropyOperationOpacity</string>
+	<key>robustExceptionTag</key>
+	<string>statelessConstraintVisible</string>
+	<key>segueJobForce</key>
+	<string>largeGraphSize</string>
+	<key>timerContainMethod</key>
+	<string>usecaseBeyondJob</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMenuStyle</key>
+	<string>integerOutsideMemento</string>
+	<key>immutableEffectForce</key>
+	<string>prevStreamDepth</string>
+	<key>pinchableGraphSpeed</key>
+	<string>nibAsBuffer</string>
+	<key>previewTypeSpeed</key>
+	<string>stateFunctionRotation</string>
+	<key>specifierWithKind</key>
+	<string>routeAndLevel</string>
+</dict>
+</plist>

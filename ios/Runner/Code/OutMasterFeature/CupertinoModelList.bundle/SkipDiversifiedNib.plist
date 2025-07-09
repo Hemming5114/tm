@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventUntilCycle</key>
+	<string>nodeAboutScope</string>
+	<key>exceptionAndMode</key>
+	<string>controllerAtBuffer</string>
+	<key>functionalPageviewTail</key>
+	<string>richtextWorkBound</string>
+	<key>handlerProcessCount</key>
+	<string>associatedMomentumScale</string>
+	<key>scrollNearWork</key>
+	<string>secondLayoutDuration</string>
+	<key>taskTypeTransparency</key>
+	<string>activityAsWork</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedResultAcceleration</key>
+	<string>basicResponseInteraction</string>
+	<key>graphicStructureStyle</key>
+	<string>swiftLikeAction</string>
+	<key>handlerOrProxy</key>
+	<string>checkboxIncludeBridge</string>
+	<key>loopFromProxy</key>
+	<string>capsulePerContext</string>
+	<key>requestAboutValue</key>
+	<string>curveSystemVisibility</string>
+	<key>secondCustompaintTail</key>
+	<string>exponentAndValue</string>
+	<key>ternaryVarInterval</key>
+	<string>interfaceLayerScale</string>
+</dict>
+</plist>

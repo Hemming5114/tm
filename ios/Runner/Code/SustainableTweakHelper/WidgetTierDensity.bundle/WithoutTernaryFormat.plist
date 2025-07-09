@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStorageStyle</key>
+	<string>handlerKindInset</string>
+	<key>gateAroundVariable</key>
+	<string>basicEntityTransparency</string>
+	<key>histogramOperationBehavior</key>
+	<string>controllerTierEdge</string>
+	<key>intermediateEntityTint</key>
+	<string>gradientSingletonMargin</string>
+	<key>nextAlignmentHue</key>
+	<string>exponentNumberEdge</string>
+	<key>reactiveRoleOrientation</key>
+	<string>tabbarThroughCycle</string>
+	<key>usageTierPosition</key>
+	<string>geometricTextName</string>
+</dict>
+</plist>

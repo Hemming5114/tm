@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandByJob</key>
+	<string>uniqueScrollDistance</string>
+	<key>commandTypeOffset</key>
+	<string>protectedLabelFormat</string>
+	<key>controllerOrAdapter</key>
+	<string>projectAroundTask</string>
+	<key>difficultStateOpacity</key>
+	<string>mapContainAdapter</string>
+	<key>gesturedetectorAsObserver</key>
+	<string>unaryAndBuffer</string>
+	<key>observerWorkInset</key>
+	<string>widgetMethodTop</string>
+	<key>queueAndInterpreter</key>
+	<string>plateAroundState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncResultCenter</key>
+	<string>reducerAroundOperation</string>
+	<key>batchValueScale</key>
+	<string>storyboardMementoFormat</string>
+	<key>deferredInstructionTail</key>
+	<string>drawerActionPosition</string>
+	<key>handlerFromStyle</key>
+	<string>largeChannelEdge</string>
+	<key>layoutPlatformScale</key>
+	<string>aspectLevelDepth</string>
+	<key>routerAlongValue</key>
+	<string>dedicatedQueueTint</string>
+	<key>subtleQueueType</key>
+	<string>offsetPhaseDuration</string>
+	<key>vectorAwayStage</key>
+	<string>discardedMenuPadding</string>
+	<key>zoneDecoratorRight</key>
+	<string>scaleVariableDensity</string>
+</dict>
+</plist>

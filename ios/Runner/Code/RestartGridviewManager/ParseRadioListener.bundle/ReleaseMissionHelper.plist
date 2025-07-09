@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationChainType</key>
+	<string>mediumFuturePadding</string>
+	<key>indicatorVersusCycle</key>
+	<string>alignmentVersusBuffer</string>
+	<key>overlayWorkOrientation</key>
+	<string>giftSingletonVisibility</string>
+	<key>particleBridgeType</key>
+	<string>resourceIncludeBridge</string>
+	<key>segmentExceptFunction</key>
+	<string>remainderDecoratorPadding</string>
+	<key>segmentLikeBridge</key>
+	<string>constraintByFlyweight</string>
+	<key>titleCycleTension</key>
+	<string>prevProjectionVisible</string>
+</dict>
+</plist>

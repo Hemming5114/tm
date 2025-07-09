@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateIncludeFramework</key>
+	<string>modalBeyondType</string>
+	<key>layerStrategyTag</key>
+	<string>hierarchicalRequestScale</string>
+	<key>multiplicationPhaseSkewy</key>
+	<string>rowAmongFramework</string>
+	<key>utilAboutMethod</key>
+	<string>directConstraintDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorExceptWork</key>
+	<string>coordinatorDuringTask</string>
+	<key>curveFlyweightAlignment</key>
+	<string>grayscaleFacadeStyle</string>
+	<key>finalSegmentEdge</key>
+	<string>cubitInSingleton</string>
+	<key>localizationValueOffset</key>
+	<string>interactiveCubeShape</string>
+	<key>observerIncludeState</key>
+	<string>modalOfComposite</string>
+	<key>projectionExceptObserver</key>
+	<string>cycleParameterEdge</string>
+	<key>repositoryVisitorOffset</key>
+	<string>subtleFactoryIndex</string>
+	<key>statelessSegueHue</key>
+	<string>fusedObserverColor</string>
+</dict>
+</plist>

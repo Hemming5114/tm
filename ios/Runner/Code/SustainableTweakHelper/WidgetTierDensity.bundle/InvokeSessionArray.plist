@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncListviewStyle</key>
+	<string>matrixPatternOpacity</string>
+	<key>euclideanScaleScale</key>
+	<string>fixedControllerVelocity</string>
+	<key>playbackDuringVar</key>
+	<string>graphNearFramework</string>
+	<key>resilientMemberBound</key>
+	<string>ignoredPreviewFeedback</string>
+	<key>sequentialGridOrientation</key>
+	<string>cursorFacadeAppearance</string>
+	<key>symmetricCheckboxAcceleration</key>
+	<string>mobxInterpreterBound</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAtCommand</key>
+	<string>originalToolRotation</string>
+	<key>completionPlatformBehavior</key>
+	<string>cartesianGesturedetectorDirection</string>
+	<key>denseTransitionTension</key>
+	<string>constTransformerLocation</string>
+	<key>drawerOfTemple</key>
+	<string>assetExceptStyle</string>
+	<key>heapOutsideFlyweight</key>
+	<string>painterAsTask</string>
+	<key>hyperbolicTimerBrightness</key>
+	<string>marginActionName</string>
+	<key>interfaceAgainstPrototype</key>
+	<string>priorityExceptStrategy</string>
+	<key>managerModeMomentum</key>
+	<string>statefulThanPrototype</string>
+	<key>mobileSingletonSpacing</key>
+	<string>particleFromParameter</string>
+</dict>
+</plist>

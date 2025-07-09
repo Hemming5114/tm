@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGateStatus</key>
+	<string>priorityUntilState</string>
+	<key>diversifiedSliderPadding</key>
+	<string>pinchableExpandedFeedback</string>
+	<key>factoryAgainstPattern</key>
+	<string>storyboardAndParameter</string>
+	<key>persistentLayoutState</key>
+	<string>shaderNearScope</string>
+	<key>singletonInterpreterAppearance</key>
+	<string>exponentAsAdapter</string>
+	<key>unactivatedGradientDirection</key>
+	<string>labelInsidePhase</string>
+</dict>
+</plist>

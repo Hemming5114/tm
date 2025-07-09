@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorModePressure</key>
+	<string>associatedMetadataShade</string>
+	<key>cubitActivityDirection</key>
+	<string>keyPresenterDepth</string>
+	<key>inactiveStorageContrast</key>
+	<string>offsetNumberDensity</string>
+	<key>interactorLikeTier</key>
+	<string>stateOutsideStage</string>
+	<key>logarithmTempleMode</key>
+	<string>hardHandlerState</string>
+</dict>
+</plist>

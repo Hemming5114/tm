@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateStrategyInteraction</key>
+	<string>animatedcontainerSingletonForce</string>
+	<key>completerAndEnvironment</key>
+	<string>cycleBridgeTransparency</string>
+	<key>completionVarDelay</key>
+	<string>textureFormBound</string>
+	<key>curveFlyweightDelay</key>
+	<string>eagerPositionedOrigin</string>
+	<key>elasticTransformerDepth</key>
+	<string>repositoryMementoPressure</string>
+	<key>interpolationDespiteMemento</key>
+	<string>reducerExceptProxy</string>
+	<key>requiredBulletBehavior</key>
+	<string>managerActivityStatus</string>
+	<key>tweenAroundObserver</key>
+	<string>themeThroughMode</string>
+	<key>widgetPhaseHead</key>
+	<string>globalCommandTension</string>
+</dict>
+</plist>

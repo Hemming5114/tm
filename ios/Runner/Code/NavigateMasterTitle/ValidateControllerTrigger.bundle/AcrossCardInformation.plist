@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProtocolCount</key>
+	<string>integerViaAction</string>
+	<key>cupertinoSingletonCount</key>
+	<string>awaitParamCount</string>
+	<key>diffableStackForce</key>
+	<string>completerPlatformDepth</string>
+	<key>factoryObserverStyle</key>
+	<string>sliderWithoutStage</string>
+	<key>inkwellModeDensity</key>
+	<string>presenterOutsideForm</string>
+	<key>interpolationScopeHue</key>
+	<string>cartesianGridDuration</string>
+	<key>navigatorPrototypeCount</key>
+	<string>positionedVersusLevel</string>
+	<key>offsetAroundMethod</key>
+	<string>diversifiedReducerResponse</string>
+	<key>stampIncludeState</key>
+	<string>statelessDespiteWork</string>
+	<key>widgetShapeDelay</key>
+	<string>opaqueTextAcceleration</string>
+</dict>
+</plist>

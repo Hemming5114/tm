@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleOfFlyweight</key>
+	<string>flexAndCycle</string>
+	<key>listenerAgainstFlyweight</key>
+	<string>intermediateExceptionBorder</string>
+	<key>momentumBeyondComposite</key>
+	<string>intensityStyleTint</string>
+	<key>persistentEqualizationHue</key>
+	<string>priorityStructureTheme</string>
+	<key>singleCallbackSaturation</key>
+	<string>musicNearWork</string>
+	<key>switchAroundPattern</key>
+	<string>skinBesideVar</string>
+</dict>
+</plist>

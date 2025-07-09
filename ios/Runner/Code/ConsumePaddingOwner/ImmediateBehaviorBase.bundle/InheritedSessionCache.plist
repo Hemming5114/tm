@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSymbolValidation</key>
+	<string>decorationFunctionBound</string>
+	<key>gramActivityContrast</key>
+	<string>canvasCompositeColor</string>
+	<key>handlerBridgeValidation</key>
+	<string>resultAwayVar</string>
+	<key>hashCommandAppearance</key>
+	<string>sceneSinceCommand</string>
+	<key>painterAtVar</key>
+	<string>animationStructureSpacing</string>
+	<key>sliderBufferTheme</key>
+	<string>precisionAmongType</string>
+	<key>synchronousTickerScale</key>
+	<string>semanticsTierColor</string>
+	<key>transformerProcessSkewy</key>
+	<string>storeDuringPhase</string>
+</dict>
+</plist>

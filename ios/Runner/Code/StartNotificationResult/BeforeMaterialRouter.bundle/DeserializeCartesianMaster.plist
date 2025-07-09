@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTypeRotation</key>
+	<string>viewPerInterpreter</string>
+	<key>bitrateActivityPadding</key>
+	<string>equalizationOfVar</string>
+	<key>completerViaCommand</key>
+	<string>semanticsPlatformBehavior</string>
+	<key>firstRouteCenter</key>
+	<string>backwardExponentScale</string>
+	<key>flexibleNodeTheme</key>
+	<string>completerObserverMargin</string>
+	<key>reductionPerProcess</key>
+	<string>stepValueHue</string>
+	<key>sensorForActivity</key>
+	<string>scrollableCubeIndex</string>
+	<key>tabbarBeyondMethod</key>
+	<string>permanentSpineBound</string>
+</dict>
+</plist>

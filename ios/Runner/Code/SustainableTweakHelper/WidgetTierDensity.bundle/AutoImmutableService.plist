@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAssetDuration</key>
+	<string>presenterPlatformRotation</string>
+	<key>callbackPerPhase</key>
+	<string>integerOfParameter</string>
+	<key>constSkinOrientation</key>
+	<string>resizableGridviewDensity</string>
+	<key>customGridLocation</key>
+	<string>originalOverlayBound</string>
+	<key>cycleWithoutParameter</key>
+	<string>masterPatternFormat</string>
+	<key>factoryTempleValidation</key>
+	<string>storageKindRight</string>
+	<key>seamlessCompleterTop</key>
+	<string>crucialSampleBehavior</string>
+	<key>sortedCurveInset</key>
+	<string>uniformMenuHead</string>
+</dict>
+</plist>

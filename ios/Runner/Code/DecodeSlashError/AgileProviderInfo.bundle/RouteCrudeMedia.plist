@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNumberBehavior</key>
+	<string>alignmentContainLayer</string>
+	<key>builderFunctionEdge</key>
+	<string>storyboardCompositeType</string>
+	<key>hardRepositorySpacing</key>
+	<string>pinchableBoxshadowResponse</string>
+	<key>layoutPerBuffer</key>
+	<string>providerStyleFeedback</string>
+	<key>loopFromState</key>
+	<string>spotSinceActivity</string>
+	<key>screenActivityForce</key>
+	<string>touchFrameworkOpacity</string>
+	<key>scrollLikeBridge</key>
+	<string>blocActionDirection</string>
+</dict>
+</plist>

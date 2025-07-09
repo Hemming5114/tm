@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAlongStrategy</key>
+	<string>graphLikeNumber</string>
+	<key>cupertinoMenuType</key>
+	<string>cubitWithoutFlyweight</string>
+	<key>curveAndForm</key>
+	<string>controllerFlyweightScale</string>
+	<key>customRectIndex</key>
+	<string>listviewForFlyweight</string>
+	<key>interactiveRowTint</key>
+	<string>disabledPopupOrientation</string>
+	<key>priorHandlerDensity</key>
+	<string>protectedGramVisible</string>
+	<key>promiseAroundValue</key>
+	<string>staticPageviewFeedback</string>
+	<key>stateAlongMediator</key>
+	<string>positionedFrameworkDepth</string>
+	<key>textOperationName</key>
+	<string>segueJobDepth</string>
+</dict>
+</plist>

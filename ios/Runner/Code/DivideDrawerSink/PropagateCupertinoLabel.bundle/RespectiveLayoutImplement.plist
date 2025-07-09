@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCompositeResponse</key>
+	<string>resizableBufferKind</string>
+	<key>compositionalResponseInteraction</key>
+	<string>chartPerValue</string>
+	<key>nibIncludeWork</key>
+	<string>gateParamDelay</string>
+	<key>remainderAsNumber</key>
+	<string>rectContainWork</string>
+	<key>semanticPromiseTint</key>
+	<string>sliderFlyweightPosition</string>
+	<key>spriteAsKind</key>
+	<string>chapterTypeBound</string>
+	<key>statelessDependencyInterval</key>
+	<string>activeTickerDistance</string>
+</dict>
+</plist>

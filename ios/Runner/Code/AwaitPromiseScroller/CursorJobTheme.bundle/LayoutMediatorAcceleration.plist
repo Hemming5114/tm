@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInjectionName</key>
+	<string>optimizerOfKind</string>
+	<key>checkboxKindVisibility</key>
+	<string>sampleUntilLevel</string>
+	<key>effectPerObserver</key>
+	<string>customAwaitCount</string>
+	<key>tableNearEnvironment</key>
+	<string>typicalBinarySpeed</string>
+</dict>
+</plist>

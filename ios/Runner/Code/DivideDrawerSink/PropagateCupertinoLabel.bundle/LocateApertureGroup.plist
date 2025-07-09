@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInDecorator</key>
+	<string>queueSystemShade</string>
+	<key>builderNumberTint</key>
+	<string>utilCommandContrast</string>
+	<key>chartCompositePressure</key>
+	<string>secondHandlerContrast</string>
+	<key>constraintScopeVisibility</key>
+	<string>opaqueThreadLocation</string>
+	<key>isolateDespiteLevel</key>
+	<string>loopFlyweightPadding</string>
+	<key>paddingOperationTag</key>
+	<string>globalMethodVisible</string>
+	<key>positionJobBound</key>
+	<string>advancedOperationOrientation</string>
+</dict>
+</plist>

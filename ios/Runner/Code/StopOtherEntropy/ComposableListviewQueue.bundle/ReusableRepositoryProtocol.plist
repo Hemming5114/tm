@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFlyweightOrientation</key>
+	<string>timerScopeHue</string>
+	<key>disabledSubpixelShade</key>
+	<string>keyQueueBottom</string>
+	<key>nextStoreStyle</key>
+	<string>serviceLikeStage</string>
+	<key>retainedChartBrightness</key>
+	<string>projectionValueCoord</string>
+</dict>
+</plist>

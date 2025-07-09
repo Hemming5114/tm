@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintUntilPhase</key>
+	<string>shaderTypeTheme</string>
+	<key>effectFromPrototype</key>
+	<string>kernelDuringValue</string>
+	<key>effectStrategyDensity</key>
+	<string>groupExceptTier</string>
+	<key>materialEnvironmentFlags</key>
+	<string>inactiveResourceContrast</string>
+	<key>nativeInterfaceBrightness</key>
+	<string>denseParticleBehavior</string>
+	<key>swiftBeyondMediator</key>
+	<string>robustPetInset</string>
+	<key>uniqueStateBehavior</key>
+	<string>commandVisitorVelocity</string>
+</dict>
+</plist>

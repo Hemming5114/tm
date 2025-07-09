@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAboutMode</key>
+	<string>controllerPerProcess</string>
+	<key>cartesianLayoutBehavior</key>
+	<string>advancedConstraintVelocity</string>
+	<key>coordinatorAgainstOperation</key>
+	<string>tappableContainerMomentum</string>
+	<key>gateVariableMode</key>
+	<string>awaitMementoPressure</string>
+	<key>kernelLayerInteraction</key>
+	<string>buttonJobInset</string>
+	<key>movementMementoRight</key>
+	<string>missedMobxSaturation</string>
+	<key>richtextSinceForm</key>
+	<string>appbarChainSaturation</string>
+	<key>symbolLevelBrightness</key>
+	<string>overlayObserverBrightness</string>
+	<key>tensorAnimationOrigin</key>
+	<string>errorOrPattern</string>
+</dict>
+</plist>

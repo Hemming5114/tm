@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentPrototypeValidation</key>
+	<string>nibStructureScale</string>
+	<key>effectFlyweightValidation</key>
+	<string>inactiveEventTheme</string>
+	<key>gridCommandInteraction</key>
+	<string>bulletUntilAdapter</string>
+	<key>respectiveInteractorBound</key>
+	<string>cosineFlyweightResponse</string>
+	<key>slashPatternMode</key>
+	<string>activeSkirtCount</string>
+	<key>tweenScopeFormat</key>
+	<string>diffableScreenTint</string>
+</dict>
+</plist>

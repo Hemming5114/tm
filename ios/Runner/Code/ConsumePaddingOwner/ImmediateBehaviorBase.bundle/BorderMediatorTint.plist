@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStateBound</key>
+	<string>secondThreadIndex</string>
+	<key>exceptionInterpreterBrightness</key>
+	<string>apertureAsLevel</string>
+	<key>geometricThreadHue</key>
+	<string>batchWithSystem</string>
+	<key>missedExceptionCenter</key>
+	<string>widgetTierPadding</string>
+	<key>statelessStoryboardMargin</key>
+	<string>desktopServiceAcceleration</string>
+	<key>uniformThemeDirection</key>
+	<string>titleStrategyBound</string>
+</dict>
+</plist>

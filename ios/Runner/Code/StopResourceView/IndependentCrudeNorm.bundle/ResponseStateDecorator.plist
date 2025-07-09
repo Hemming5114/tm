@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionIsolateFormat</key>
+	<string>composableStoreTop</string>
+	<key>curveContextVisible</key>
+	<string>hashPerVisitor</string>
+	<key>customizedPainterInterval</key>
+	<string>gridviewBridgePadding</string>
+	<key>directlyBorderSpeed</key>
+	<string>mediocreDecorationMode</string>
+	<key>drawerBufferKind</key>
+	<string>adaptiveDropdownbuttonDuration</string>
+	<key>injectionBufferBound</key>
+	<string>subsequentTopicTag</string>
+	<key>navigatorIncludeShape</key>
+	<string>aspectratioStageHead</string>
+	<key>observerContainTask</key>
+	<string>asyncCommandInteraction</string>
+	<key>resourceAsType</key>
+	<string>globalRowPosition</string>
+	<key>tensorChartEdge</key>
+	<string>reactiveGroupShade</string>
+</dict>
+</plist>

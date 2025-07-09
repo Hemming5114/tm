@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWorkFeedback</key>
+	<string>eventEnvironmentAcceleration</string>
+	<key>desktopRichtextPressure</key>
+	<string>interfacePerFunction</string>
+	<key>discardedIsolateShape</key>
+	<string>techniqueActivityBound</string>
+	<key>easyRequestRate</key>
+	<string>awaitSystemSpeed</string>
+	<key>matrixStageRotation</key>
+	<string>widgetVersusChain</string>
+	<key>momentumPatternHue</key>
+	<string>respectiveMaterialTint</string>
+	<key>serviceVisitorDuration</key>
+	<string>normalMonsterOpacity</string>
+	<key>specifierOrKind</key>
+	<string>logModeTheme</string>
+	<key>storageVersusPhase</key>
+	<string>observerWithoutStrategy</string>
+</dict>
+</plist>

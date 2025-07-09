@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSpineTension</key>
+	<string>brushJobInset</string>
+	<key>handlerModeBehavior</key>
+	<string>spineOutsideFacade</string>
+	<key>ignoredFeatureTransparency</key>
+	<string>axisDuringState</string>
+	<key>nibPhaseShade</key>
+	<string>activatedGateInset</string>
+	<key>offsetNearStage</key>
+	<string>commandAtParameter</string>
+	<key>routeSinceCommand</key>
+	<string>sensorViaTask</string>
+	<key>signatureAsValue</key>
+	<string>observerSystemShape</string>
+</dict>
+</plist>

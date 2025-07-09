@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPerActivity</key>
+	<string>scrollAlongFunction</string>
+	<key>borderDuringState</key>
+	<string>paddingLayerMode</string>
+	<key>modalPhaseState</key>
+	<string>controllerObserverInset</string>
+	<key>specifyEntityStyle</key>
+	<string>rowAwayParam</string>
+	<key>spotDespiteScope</key>
+	<string>concurrentContainerHue</string>
+	<key>transitionAgainstKind</key>
+	<string>mediumParticleOrientation</string>
+	<key>unactivatedUnaryRight</key>
+	<string>easyUnaryHead</string>
+</dict>
+</plist>

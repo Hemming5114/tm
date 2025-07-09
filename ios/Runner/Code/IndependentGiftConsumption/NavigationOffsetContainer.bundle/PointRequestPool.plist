@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTierInterval</key>
+	<string>curveBufferCoord</string>
+	<key>custompaintAndProcess</key>
+	<string>seamlessCurveLeft</string>
+	<key>equalizationAtProcess</key>
+	<string>resolverIncludePhase</string>
+	<key>instructionProcessOpacity</key>
+	<string>boxPerMethod</string>
+	<key>mediocreBufferFormat</key>
+	<string>lazyTickerRate</string>
+	<key>resilientModalTint</key>
+	<string>asyncCommandStyle</string>
+	<key>stampValueOffset</key>
+	<string>granularExceptionAppearance</string>
+	<key>typicalChartColor</key>
+	<string>ephemeralPositionedColor</string>
+</dict>
+</plist>

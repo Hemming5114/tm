@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionCompositeSpeed</key>
+	<string>animatedStackScale</string>
+	<key>cupertinoByVar</key>
+	<string>interactorStateLeft</string>
+	<key>secondPlateSkewy</key>
+	<string>uniformStatefulDensity</string>
+	<key>statefulTransitionSkewy</key>
+	<string>mobileExceptMethod</string>
+</dict>
+</plist>

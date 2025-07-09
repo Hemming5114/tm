@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchContainProcess</key>
+	<string>lastMethodCoord</string>
+	<key>constraintWithParam</key>
+	<string>rapidWidgetAlignment</string>
+	<key>customTextureDelay</key>
+	<string>timerModeCoord</string>
+	<key>discardedMomentumPadding</key>
+	<string>signatureNumberAcceleration</string>
+	<key>effectMethodVelocity</key>
+	<string>storagePhaseTransparency</string>
+	<key>explicitHashBottom</key>
+	<string>directEntityMode</string>
+	<key>plateAmongAction</key>
+	<string>stackStageInset</string>
+	<key>projectionPlatformVisibility</key>
+	<string>chartAdapterInset</string>
+	<key>usecaseAwayActivity</key>
+	<string>progressbarLevelStatus</string>
+</dict>
+</plist>

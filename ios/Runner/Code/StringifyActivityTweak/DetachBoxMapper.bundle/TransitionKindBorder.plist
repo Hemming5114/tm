@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUnaryDelay</key>
+	<string>listviewBesideProxy</string>
+	<key>behaviorViaMemento</key>
+	<string>webTitleTransparency</string>
+	<key>functionalTaskInset</key>
+	<string>notificationFacadeResponse</string>
+	<key>globalRectAppearance</key>
+	<string>granularLabelMomentum</string>
+	<key>pivotalNodePosition</key>
+	<string>tickerAlongParam</string>
+	<key>viewSingletonColor</key>
+	<string>asyncAlongLayer</string>
+</dict>
+</plist>

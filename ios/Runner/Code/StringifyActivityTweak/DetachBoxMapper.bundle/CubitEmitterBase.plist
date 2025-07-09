@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellFlyweightDistance</key>
+	<string>sensorExceptStrategy</string>
+	<key>coordinatorViaInterpreter</key>
+	<string>transitionDuringStage</string>
+	<key>handlerVarCount</key>
+	<string>normalDependencyShape</string>
+	<key>providerStructureShape</key>
+	<string>resourceBeyondForm</string>
+	<key>rapidWidgetTint</key>
+	<string>stateOrFacade</string>
+	<key>semanticSampleStyle</key>
+	<string>shaderViaLayer</string>
+	<key>smallChartSpeed</key>
+	<string>equalizationCommandTension</string>
+</dict>
+</plist>

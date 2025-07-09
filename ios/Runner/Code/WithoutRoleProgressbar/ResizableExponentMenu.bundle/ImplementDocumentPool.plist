@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellScopeStyle</key>
+	<string>protectedLocalizationTheme</string>
+	<key>permanentWorkflowLocation</key>
+	<string>dropdownbuttonAgainstTier</string>
+	<key>spriteFormPosition</key>
+	<string>certificateModeResponse</string>
+</dict>
+</plist>

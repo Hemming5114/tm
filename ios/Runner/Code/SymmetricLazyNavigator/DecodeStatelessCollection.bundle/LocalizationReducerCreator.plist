@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticUsageInterval</key>
+	<string>diffableZoneRight</string>
+	<key>constraintProxyOrientation</key>
+	<string>resolverFunctionBehavior</string>
+	<key>effectCommandTag</key>
+	<string>singletonBesideInterpreter</string>
+	<key>nextGridOffset</key>
+	<string>stampInterpreterPosition</string>
+	<key>projectionVisitorPadding</key>
+	<string>marginWorkScale</string>
+	<key>scaleSinceNumber</key>
+	<string>effectThanContext</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralCoordinatorStyle</key>
+	<string>dedicatedTransformerTop</string>
+	<key>geometricModelPosition</key>
+	<string>gradientPerAdapter</string>
+	<key>grayscaleDecoratorColor</key>
+	<string>swiftPhaseEdge</string>
+	<key>modulusValueHue</key>
+	<string>unactivatedCubitTint</string>
+	<key>semanticsProcessSpacing</key>
+	<string>synchronousMovementLocation</string>
+	<key>switchViaPattern</key>
+	<string>topicBesideOperation</string>
+	<key>textfieldNumberEdge</key>
+	<string>textParamLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableEntropyCenter</key>
+	<string>textureFunctionCoord</string>
+	<key>protectedActivityState</key>
+	<string>notificationEnvironmentRotation</string>
+	<key>requestOutsideSingleton</key>
+	<string>widgetJobTheme</string>
+	<key>webAllocatorSize</key>
+	<string>routerContainStyle</string>
+	<key>widgetAgainstVariable</key>
+	<string>standaloneTabviewMode</string>
+</dict>
+</plist>

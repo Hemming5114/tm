@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryMediatorVelocity</key>
+	<string>resizableSegueScale</string>
+	<key>awaitStagePosition</key>
+	<string>errorScopeLeft</string>
+	<key>factoryLikeStyle</key>
+	<string>localizationStateResponse</string>
+	<key>gesturedetectorModeSize</key>
+	<string>relationalCollectionBehavior</string>
+	<key>graphicBeyondVisitor</key>
+	<string>plateWithFlyweight</string>
+	<key>injectionViaLevel</key>
+	<string>containerNearProxy</string>
+	<key>notifierStructureShape</key>
+	<string>opaqueDependencySize</string>
+	<key>observerThanFlyweight</key>
+	<string>commandCycleLocation</string>
+	<key>sceneJobDepth</key>
+	<string>coordinatorFrameworkVisibility</string>
+	<key>usecaseViaFramework</key>
+	<string>cursorKindAppearance</string>
+</dict>
+</plist>

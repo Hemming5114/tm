@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransitionMomentum</key>
+	<string>presenterFrameworkIndex</string>
+	<key>gramAdapterScale</key>
+	<string>dropdownbuttonForPhase</string>
+	<key>largeTabbarLocation</key>
+	<string>geometricContractionDuration</string>
+	<key>routeIncludeBuffer</key>
+	<string>activatedPaddingSaturation</string>
+	<key>sequentialZoneTop</key>
+	<string>arithmeticSizeBorder</string>
+	<key>statelessViewMode</key>
+	<string>modelTypeOffset</string>
+</dict>
+</plist>

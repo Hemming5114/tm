@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorCycleCoord</key>
+	<string>overlayForScope</string>
+	<key>drawerActivitySpacing</key>
+	<string>permanentInterfaceAcceleration</string>
+	<key>modalCycleMomentum</key>
+	<string>usedCompleterPadding</string>
+	<key>pointVariableAcceleration</key>
+	<string>storeAsNumber</string>
+	<key>repositoryCycleHead</key>
+	<string>swiftKindPosition</string>
+</dict>
+</plist>

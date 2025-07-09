@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintLevelRotation</key>
+	<string>checklistActionTheme</string>
+	<key>gateUntilKind</key>
+	<string>rowObserverForce</string>
+	<key>interfaceChainBorder</key>
+	<string>numericalCubitDensity</string>
+	<key>mediaqueryParameterTint</key>
+	<string>descriptorBeyondFacade</string>
+	<key>multiUsecaseInteraction</key>
+	<string>entityIncludeTier</string>
+	<key>timerAgainstMemento</key>
+	<string>stateScopeDirection</string>
+</dict>
+</plist>

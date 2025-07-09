@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerDuringPlatform</key>
+	<string>delegateInsideWork</string>
+	<key>fragmentProcessSize</key>
+	<string>batchVariableSize</string>
+	<key>matrixWithoutFacade</key>
+	<string>smallIsolateForce</string>
+	<key>newestStreamScale</key>
+	<string>crudeAnimationSaturation</string>
+	<key>rapidAnimationAlignment</key>
+	<string>specifyMomentumValidation</string>
+	<key>spotValueType</key>
+	<string>navigatorModeStatus</string>
+</dict>
+</plist>

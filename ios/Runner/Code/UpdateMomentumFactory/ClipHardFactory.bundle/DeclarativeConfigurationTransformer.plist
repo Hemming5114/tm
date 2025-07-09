@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedRouteSkewy</key>
+	<string>queueValueBehavior</string>
+	<key>effectThroughBuffer</key>
+	<string>flexAmongMethod</string>
+	<key>inheritedControllerStyle</key>
+	<string>optionDuringComposite</string>
+	<key>mediumMasterLocation</key>
+	<string>relationalProtocolKind</string>
+	<key>profileViaFlyweight</key>
+	<string>controllerOrTask</string>
+	<key>resultIncludeLayer</key>
+	<string>basicTextureOrigin</string>
+	<key>sizeWithFlyweight</key>
+	<string>delicateControllerDepth</string>
+</dict>
+</plist>

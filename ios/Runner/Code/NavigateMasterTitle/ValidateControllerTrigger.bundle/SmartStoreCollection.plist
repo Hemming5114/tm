@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInStyle</key>
+	<string>ignoredUtilLocation</string>
+	<key>commandActivityTail</key>
+	<string>mutableCapsulePosition</string>
+	<key>frameUntilStage</key>
+	<string>navigatorValueBorder</string>
+	<key>indicatorFrameworkFormat</key>
+	<string>responsiveResolverDelay</string>
+</dict>
+</plist>

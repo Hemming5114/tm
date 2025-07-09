@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnimatedcontainerInterval</key>
+	<string>parallelMetadataTint</string>
+	<key>asyncQueueStyle</key>
+	<string>builderOperationTint</string>
+	<key>lastUsageName</key>
+	<string>delegateExceptChain</string>
+	<key>scaffoldByValue</key>
+	<string>lossAgainstStrategy</string>
+</dict>
+</plist>

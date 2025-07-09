@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedKernelShape</key>
+	<string>cubeShapeDistance</string>
+	<key>gesturedetectorOperationSize</key>
+	<string>imageOrValue</string>
+	<key>offsetInsideFunction</key>
+	<string>lazyVectorOffset</string>
+	<key>pageviewDespiteSystem</key>
+	<string>localizationAwayObserver</string>
+</dict>
+</plist>

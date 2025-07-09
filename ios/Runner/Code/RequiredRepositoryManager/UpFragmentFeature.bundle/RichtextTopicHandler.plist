@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionAwayFacade</key>
+	<string>asyncAndVariable</string>
+	<key>constraintEnvironmentOrigin</key>
+	<string>taskPerDecorator</string>
+	<key>dialogsAndFlyweight</key>
+	<string>methodDespiteCommand</string>
+	<key>lazyTernaryOpacity</key>
+	<string>mediaqueryAwayAdapter</string>
+	<key>pageviewAroundKind</key>
+	<string>zoneNumberName</string>
+	<key>promiseTaskShape</key>
+	<string>zoneVersusVisitor</string>
+	<key>stepContainPlatform</key>
+	<string>gridviewExceptEnvironment</string>
+</dict>
+</plist>

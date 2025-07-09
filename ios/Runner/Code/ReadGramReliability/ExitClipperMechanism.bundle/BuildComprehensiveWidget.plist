@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationObserverTail</key>
+	<string>diffableOperationStyle</string>
+	<key>eagerVectorVisible</key>
+	<string>integerMementoScale</string>
+	<key>integerObserverCoord</key>
+	<string>constStorageInteraction</string>
+	<key>momentumWithSingleton</key>
+	<string>sortedButtonSpacing</string>
+	<key>nextGraphicTop</key>
+	<string>storeOutsideMediator</string>
+	<key>reusableRepositoryTint</key>
+	<string>mutableBulletName</string>
+</dict>
+</plist>

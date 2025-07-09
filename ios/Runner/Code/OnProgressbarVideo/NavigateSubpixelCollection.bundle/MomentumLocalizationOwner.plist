@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilPhase</key>
+	<string>textSystemTension</string>
+	<key>completionSystemStyle</key>
+	<string>lostSegueAlignment</string>
+	<key>decorationStylePadding</key>
+	<string>transitionNearMemento</string>
+	<key>interactorProcessBound</key>
+	<string>callbackWithPlatform</string>
+	<key>presenterInsidePhase</key>
+	<string>sliderAtBuffer</string>
+	<key>statelessNearVar</key>
+	<string>convolutionWithMediator</string>
+	<key>themeVarSize</key>
+	<string>priorityParameterForce</string>
+</dict>
+</plist>

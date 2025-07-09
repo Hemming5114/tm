@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInLayer</key>
+	<string>blocScopeTransparency</string>
+	<key>cursorActivityTail</key>
+	<string>drawerEnvironmentAcceleration</string>
+	<key>dialogsCycleDirection</key>
+	<string>gridFormKind</string>
+	<key>observerParamOrigin</key>
+	<string>mapInterpreterOpacity</string>
+	<key>usedStreamVisibility</key>
+	<string>menuAsFlyweight</string>
+	<key>webEntropyOpacity</key>
+	<string>checkboxVarEdge</string>
+</dict>
+</plist>

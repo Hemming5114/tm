@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureStateRotation</key>
+	<string>fusedConstraintBehavior</string>
+	<key>gesturedetectorAgainstFramework</key>
+	<string>positionAndSingleton</string>
+	<key>interfaceAndObserver</key>
+	<string>protocolModeFormat</string>
+	<key>pointWithoutMethod</key>
+	<string>tweenBeyondFacade</string>
+</dict>
+</plist>

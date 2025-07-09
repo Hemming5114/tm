@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFunctionSkewy</key>
+	<string>providerValueStyle</string>
+	<key>kernelAtParam</key>
+	<string>textOutsideFramework</string>
+	<key>managerAboutParameter</key>
+	<string>previewVariableMode</string>
+	<key>navigatorTempleInset</key>
+	<string>nativeStampMargin</string>
+	<key>protectedDropdownbuttonOpacity</key>
+	<string>navigatorAsVisitor</string>
+	<key>protectedMobileKind</key>
+	<string>rowVersusCycle</string>
+</dict>
+</plist>

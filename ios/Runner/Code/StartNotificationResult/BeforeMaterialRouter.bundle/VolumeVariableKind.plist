@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleEdge</key>
+	<string>delegatePhaseCenter</string>
+	<key>constraintAsStage</key>
+	<string>brushStructureTheme</string>
+	<key>ephemeralGateInterval</key>
+	<string>staticCurveDistance</string>
+	<key>liteCompleterDuration</key>
+	<string>scaffoldVariableTag</string>
+	<key>modalInCycle</key>
+	<string>frameIncludeMethod</string>
+	<key>routerProcessCoord</key>
+	<string>allocatorChainDirection</string>
+	<key>singletonThroughTask</key>
+	<string>cupertinoThanScope</string>
+</dict>
+</plist>

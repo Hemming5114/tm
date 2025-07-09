@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationForAdapter</key>
+	<string>rowInsideCommand</string>
+	<key>globalAllocatorSaturation</key>
+	<string>radioOutsideForm</string>
+	<key>injectionVariableRate</key>
+	<string>robustIsolateStatus</string>
+	<key>kernelFlyweightVelocity</key>
+	<string>frameMementoName</string>
+</dict>
+</plist>

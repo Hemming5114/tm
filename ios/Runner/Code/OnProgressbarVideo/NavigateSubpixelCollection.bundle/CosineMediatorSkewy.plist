@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContainMode</key>
+	<string>effectNearBridge</string>
+	<key>animationPerAction</key>
+	<string>publicCupertinoContrast</string>
+	<key>exceptionAdapterEdge</key>
+	<string>labelPatternInteraction</string>
+	<key>gridAgainstPattern</key>
+	<string>viewAgainstVisitor</string>
+	<key>inactiveMissionFeedback</key>
+	<string>signatureInsideKind</string>
+	<key>observerParamAlignment</key>
+	<string>hyperbolicPageviewCenter</string>
+	<key>progressbarByLayer</key>
+	<string>labelTempleIndex</string>
+	<key>routeFlyweightDistance</key>
+	<string>pinchableCosineDepth</string>
+	<key>scrollableEventAppearance</key>
+	<string>sliderSingletonSaturation</string>
+	<key>spriteWorkDepth</key>
+	<string>projectUntilLevel</string>
+</dict>
+</plist>

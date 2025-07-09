@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStyleCount</key>
+	<string>unsortedResolverTransparency</string>
+	<key>dedicatedTweenCount</key>
+	<string>awaitAtActivity</string>
+	<key>gesturedetectorCommandEdge</key>
+	<string>buttonAlongLayer</string>
+	<key>greatAsyncFormat</key>
+	<string>textureShapeFormat</string>
+	<key>mediaProcessInset</key>
+	<string>priorTransformerCount</string>
+	<key>mediocreChannelsOffset</key>
+	<string>tensorContainerDepth</string>
+	<key>projectionTaskFlags</key>
+	<string>deferredAspectEdge</string>
+	<key>radiusPerContext</key>
+	<string>singleRowShape</string>
+	<key>signatureObserverCoord</key>
+	<string>viewActionType</string>
+</dict>
+</plist>

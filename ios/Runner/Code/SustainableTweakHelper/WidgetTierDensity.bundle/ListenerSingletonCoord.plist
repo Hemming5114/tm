@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSegueHue</key>
+	<string>handlerWorkEdge</string>
+	<key>cardBridgeFeedback</key>
+	<string>blocPlatformBottom</string>
+	<key>euclideanScaleBehavior</key>
+	<string>constSpotDensity</string>
+	<key>gateAgainstFlyweight</key>
+	<string>reductionVariableVisible</string>
+	<key>popupBesideChain</key>
+	<string>logarithmViaCycle</string>
+	<key>precisionActionPadding</key>
+	<string>chapterFacadeMomentum</string>
+	<key>profileCompositeOpacity</key>
+	<string>themePhaseInterval</string>
+	<key>resolverVariableDensity</key>
+	<string>actionJobOpacity</string>
+</dict>
+</plist>

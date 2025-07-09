@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBesideStyle</key>
+	<string>crucialSampleSize</string>
+	<key>canvasAsVariable</key>
+	<string>grayscaleFromMemento</string>
+	<key>checkboxStrategyDelay</key>
+	<string>specifyMaterialShape</string>
+	<key>coordinatorStageDistance</key>
+	<string>gesturedetectorTypeVelocity</string>
+	<key>descriptionContextCoord</key>
+	<string>vectorOperationRight</string>
+	<key>imageMediatorInterval</key>
+	<string>flexibleTopicInset</string>
+	<key>scaffoldLayerInteraction</key>
+	<string>relationalProfileSpacing</string>
+	<key>taskTaskHead</key>
+	<string>operationCommandAcceleration</string>
+</dict>
+</plist>

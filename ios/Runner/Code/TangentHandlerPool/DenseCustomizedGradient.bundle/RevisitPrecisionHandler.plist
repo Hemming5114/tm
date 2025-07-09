@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAdapterScale</key>
+	<string>grayscaleInsideFunction</string>
+	<key>dynamicCellVisibility</key>
+	<string>masterAtStructure</string>
+	<key>petAsTier</key>
+	<string>chartNumberSaturation</string>
+	<key>playbackTierBehavior</key>
+	<string>containerSinceState</string>
+</dict>
+</plist>

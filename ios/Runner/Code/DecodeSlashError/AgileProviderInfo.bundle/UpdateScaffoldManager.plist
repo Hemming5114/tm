@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGroupRotation</key>
+	<string>shaderByNumber</string>
+	<key>backwardStackTheme</key>
+	<string>positionVersusForm</string>
+	<key>chapterVariableBehavior</key>
+	<string>pinchablePageviewHue</string>
+	<key>subtleLayoutInteraction</key>
+	<string>matrixPlatformRight</string>
+	<key>unactivatedInjectionContrast</key>
+	<string>statefulExceptContext</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCycleScale</key>
+	<string>playbackAgainstStrategy</string>
+	<key>graphSingletonTag</key>
+	<string>captionStrategyDensity</string>
+	<key>overlayPatternRotation</key>
+	<string>protocolProcessCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadiusHead</key>
+	<string>actionNumberBrightness</string>
+	<key>alignmentWithoutScope</key>
+	<string>dependencyObserverFlags</string>
+	<key>criticalDurationTag</key>
+	<string>statelessContainerDelay</string>
+	<key>customMonsterShade</key>
+	<string>loopCommandShade</string>
+	<key>finalGroupMode</key>
+	<string>notificationInLayer</string>
+	<key>menuModeMomentum</key>
+	<string>graphCompositeAcceleration</string>
+	<key>optionFromType</key>
+	<string>equalizationPerMode</string>
+	<key>statefulEnvironmentDuration</key>
+	<string>tabbarInterpreterFrequency</string>
+	<key>statelessFromState</key>
+	<string>diffableNotifierOrientation</string>
+</dict>
+</plist>

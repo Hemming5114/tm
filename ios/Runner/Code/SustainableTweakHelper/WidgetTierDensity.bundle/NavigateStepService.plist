@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentReducerVisible</key>
+	<string>callbackDuringPhase</string>
+	<key>elasticKernelForce</key>
+	<string>overlayStageCount</string>
+	<key>localizationWithoutLayer</key>
+	<string>accessoryMementoIndex</string>
+	<key>projectOperationCount</key>
+	<string>mobxInBuffer</string>
+</dict>
+</plist>

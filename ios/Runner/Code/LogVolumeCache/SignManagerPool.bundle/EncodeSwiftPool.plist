@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTimerTransparency</key>
+	<string>dynamicCommandFeedback</string>
+	<key>explicitWidgetIndex</key>
+	<string>subsequentSpotHead</string>
+	<key>fusedControllerFrequency</key>
+	<string>tappableTaskFeedback</string>
+	<key>imageBesideParameter</key>
+	<string>relationalObserverHead</string>
+	<key>interactiveEntityContrast</key>
+	<string>singletonMementoFlags</string>
+	<key>mobileConstraintSpeed</key>
+	<string>autoListenerOrientation</string>
+	<key>rowVersusOperation</key>
+	<string>constraintBeyondProcess</string>
+	<key>sequentialActionForce</key>
+	<string>loopSinceTask</string>
+</dict>
+</plist>

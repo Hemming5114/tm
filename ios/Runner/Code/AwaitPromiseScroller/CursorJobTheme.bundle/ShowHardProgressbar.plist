@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitScreenTension</key>
+	<string>bufferExceptChain</string>
+	<key>futureBufferCoord</key>
+	<string>layoutByStrategy</string>
+	<key>interfaceIncludeFramework</key>
+	<string>sceneBeyondDecorator</string>
+	<key>mediaqueryPhaseHue</key>
+	<string>symmetricMenuStatus</string>
+	<key>mobileReducerPadding</key>
+	<string>offsetPlatformStatus</string>
+	<key>reductionVersusDecorator</key>
+	<string>hardStorageCoord</string>
+</dict>
+</plist>

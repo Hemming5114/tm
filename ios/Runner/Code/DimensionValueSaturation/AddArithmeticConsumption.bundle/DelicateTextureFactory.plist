@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedServiceDepth</key>
+	<string>histogramAroundLevel</string>
+	<key>asyncPrototypeBound</key>
+	<string>referenceProcessInset</string>
+	<key>instructionDuringMode</key>
+	<string>inkwellProxyTransparency</string>
+	<key>normThroughType</key>
+	<string>sizeStyleDepth</string>
+	<key>smallCursorPosition</key>
+	<string>crucialSessionRight</string>
+	<key>smartBorderBrightness</key>
+	<string>desktopTableFlags</string>
+</dict>
+</plist>

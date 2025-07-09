@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBlocTransparency</key>
+	<string>navigatorPerVisitor</string>
+	<key>blocMementoFeedback</key>
+	<string>materialEntityMargin</string>
+	<key>curvePerState</key>
+	<string>sequentialSceneVelocity</string>
+	<key>draggableIconFeedback</key>
+	<string>subscriptionFrameworkDepth</string>
+	<key>globalSinkTheme</key>
+	<string>slashInLayer</string>
+	<key>repositoryTierRotation</key>
+	<string>resolverSingletonTheme</string>
+	<key>sizedboxExceptInterpreter</key>
+	<string>injectionOutsideStyle</string>
+	<key>titleVisitorLeft</key>
+	<string>draggableAssetLeft</string>
+</dict>
+</plist>

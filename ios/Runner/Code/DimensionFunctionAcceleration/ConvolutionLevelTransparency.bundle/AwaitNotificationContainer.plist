@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationInterpreterFlags</key>
+	<string>arithmeticAsKind</string>
+	<key>opaqueLayerFlags</key>
+	<string>inheritedSpritePadding</string>
+	<key>pivotalButtonVelocity</key>
+	<string>scaleWithTask</string>
+	<key>prismaticWidgetContrast</key>
+	<string>dedicatedStreamOpacity</string>
+	<key>sizeShapeForce</key>
+	<string>sequentialRiverpodOrigin</string>
+	<key>tangentObserverPosition</key>
+	<string>textfieldBeyondStructure</string>
+</dict>
+</plist>

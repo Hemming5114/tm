@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableMediaqueryInterval</key>
+	<string>monsterWorkInset</string>
+	<key>listenerActionFlags</key>
+	<string>constraintDecoratorSpeed</string>
+	<key>mutablePresenterMargin</key>
+	<string>completionTypeInterval</string>
+	<key>projectionAgainstValue</key>
+	<string>responseFromChain</string>
+	<key>storageValueType</key>
+	<string>asynchronousLoopBrightness</string>
+	<key>variantAlongStructure</key>
+	<string>routeOrObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logParamShade</key>
+	<string>optimizerKindBound</string>
+	<key>optionCompositeSpeed</key>
+	<string>basicRouteInset</string>
+	<key>parallelNavigatorInset</key>
+	<string>optionParamMargin</string>
+	<key>resolverDecoratorFlags</key>
+	<string>errorAsMethod</string>
+	<key>robustHandlerTheme</key>
+	<string>radiusAdapterAlignment</string>
+	<key>singleCupertinoAppearance</key>
+	<string>displayableSingletonBehavior</string>
+	<key>spriteWithoutSystem</key>
+	<string>coordinatorChainKind</string>
+	<key>staticTabviewAcceleration</key>
+	<string>playbackAwayState</string>
+	<key>variantOutsideShape</key>
+	<string>bulletContextSpacing</string>
+</dict>
+</plist>

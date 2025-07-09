@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConstraintLeft</key>
+	<string>geometricResolverBorder</string>
+	<key>batchForTemple</key>
+	<string>entityInsideComposite</string>
+	<key>boxWithStage</key>
+	<string>listviewModeStyle</string>
+	<key>cartesianModalResponse</key>
+	<string>logarithmForPhase</string>
+	<key>checkboxViaStage</key>
+	<string>viewFormFlags</string>
+	<key>interactorEnvironmentContrast</key>
+	<string>sharedConvolutionFlags</string>
+	<key>resolverAdapterTop</key>
+	<string>tabbarFormAppearance</string>
+	<key>transitionSystemTop</key>
+	<string>largeFlexShape</string>
+</dict>
+</plist>

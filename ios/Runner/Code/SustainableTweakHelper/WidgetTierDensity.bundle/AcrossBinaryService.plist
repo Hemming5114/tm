@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loopDuringState</key>
+	<string>reactiveGestureInset</string>
+	<key>lossAmongVisitor</key>
+	<string>gradientBufferRight</string>
+	<key>mediaVersusShape</key>
+	<string>themeAgainstFacade</string>
+	<key>permissiveAsyncBound</key>
+	<string>numericalUsageIndex</string>
+	<key>reactiveSinkShade</key>
+	<string>eagerTabbarCount</string>
+	<key>sampleAgainstFacade</key>
+	<string>navigatorVarVelocity</string>
+</dict>
+</plist>

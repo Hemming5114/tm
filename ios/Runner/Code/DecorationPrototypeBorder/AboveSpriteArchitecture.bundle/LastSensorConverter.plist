@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStyleForce</key>
+	<string>hardCardRate</string>
+	<key>checklistForVar</key>
+	<string>secondColumnInset</string>
+	<key>finalTickerMargin</key>
+	<string>tappableSizeSkewy</string>
+	<key>handlerBySystem</key>
+	<string>keyRadioBound</string>
+	<key>intensityWorkTint</key>
+	<string>channelsIncludeFramework</string>
+	<key>localizationForProcess</key>
+	<string>curveBridgePressure</string>
+</dict>
+</plist>

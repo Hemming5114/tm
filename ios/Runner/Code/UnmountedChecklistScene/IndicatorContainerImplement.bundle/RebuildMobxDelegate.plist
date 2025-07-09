@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStructureCount</key>
+	<string>displayableMetadataPressure</string>
+	<key>retainedTextBorder</key>
+	<string>frameLayerDuration</string>
+	<key>singletonPlatformInset</key>
+	<string>petSystemScale</string>
+	<key>taskProxyInteraction</key>
+	<string>tweenActivityDensity</string>
+</dict>
+</plist>

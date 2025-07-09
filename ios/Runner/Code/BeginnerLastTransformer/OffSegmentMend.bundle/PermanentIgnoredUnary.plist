@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionShapeFeedback</key>
+	<string>taskTaskCount</string>
+	<key>euclideanPopupFeedback</key>
+	<string>declarativeDelegateRotation</string>
+	<key>modelActionStyle</key>
+	<string>featureFromProcess</string>
+	<key>usedListenerScale</key>
+	<string>spriteObserverMode</string>
+</dict>
+</plist>

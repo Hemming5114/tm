@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxScopeRotation</key>
+	<string>isolateLayerFrequency</string>
+	<key>collectionScopeSaturation</key>
+	<string>scrollSystemColor</string>
+	<key>displayableTitlePadding</key>
+	<string>navigatorPrototypeBehavior</string>
+	<key>queueFlyweightRotation</key>
+	<string>configurationAgainstObserver</string>
+	<key>radiusKindInterval</key>
+	<string>providerOfSingleton</string>
+	<key>subsequentNavigatorFrequency</key>
+	<string>persistentGateRate</string>
+</dict>
+</plist>

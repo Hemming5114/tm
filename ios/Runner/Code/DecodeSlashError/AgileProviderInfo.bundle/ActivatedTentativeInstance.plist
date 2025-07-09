@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerValueBorder</key>
+	<string>tensorWorkflowRight</string>
+	<key>functionalAllocatorBottom</key>
+	<string>mobileSignSize</string>
+	<key>interactiveSceneOrientation</key>
+	<string>spriteLayerSize</string>
+	<key>menuParamCoord</key>
+	<string>transitionVariableFrequency</string>
+	<key>notificationWithFlyweight</key>
+	<string>nodeWorkBehavior</string>
+	<key>optimizerStrategyDensity</key>
+	<string>positionValueDirection</string>
+	<key>timerThanShape</key>
+	<string>shaderWorkCoord</string>
+	<key>unaryViaProcess</key>
+	<string>constraintStyleVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapTypeVisible</key>
+	<string>sensorFromActivity</string>
+	<key>indicatorExceptAction</key>
+	<string>modulusInMode</string>
+	<key>intensitySingletonInteraction</key>
+	<string>taskByChain</string>
+	<key>materialBoxFrequency</key>
+	<string>providerParamHue</string>
+	<key>protectedPlaybackSpacing</key>
+	<string>largeFeatureBehavior</string>
+	<key>tickerContextType</key>
+	<string>asynchronousManagerKind</string>
+	<key>webMarginVelocity</key>
+	<string>frameDuringState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTierOffset</key>
+	<string>cupertinoResponseVisibility</string>
+	<key>commandDespiteSingleton</key>
+	<string>semanticMusicCoord</string>
+	<key>dependencyStrategyFormat</key>
+	<string>operationForLevel</string>
+	<key>mediumGridAppearance</key>
+	<string>interactorProxySkewx</string>
+	<key>nodePhaseFormat</key>
+	<string>progressbarThanStrategy</string>
+	<key>resilientRiverpodOpacity</key>
+	<string>imagePhaseInterval</string>
+</dict>
+</plist>

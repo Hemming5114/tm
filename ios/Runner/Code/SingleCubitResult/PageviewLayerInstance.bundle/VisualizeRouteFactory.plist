@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionCompositeKind</key>
+	<string>cubitAndVisitor</string>
+	<key>graphicOrAction</key>
+	<string>navigationPatternBottom</string>
+	<key>managerStateTint</key>
+	<string>specifyRouteRight</string>
+	<key>operationIncludeStrategy</key>
+	<string>positionInScope</string>
+	<key>reactiveUsecaseInterval</key>
+	<string>entropyWithoutInterpreter</string>
+	<key>storageForMediator</key>
+	<string>newestResponseCount</string>
+</dict>
+</plist>

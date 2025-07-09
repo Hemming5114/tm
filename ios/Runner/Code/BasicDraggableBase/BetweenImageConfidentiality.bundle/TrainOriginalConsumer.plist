@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistTempleBehavior</key>
+	<string>behaviorStructureDuration</string>
+	<key>customLogBehavior</key>
+	<string>widgetFromStyle</string>
+	<key>iterativeIndicatorBrightness</key>
+	<string>layerBeyondPlatform</string>
+	<key>unsortedReducerVisible</key>
+	<string>synchronousColumnHue</string>
+</dict>
+</plist>

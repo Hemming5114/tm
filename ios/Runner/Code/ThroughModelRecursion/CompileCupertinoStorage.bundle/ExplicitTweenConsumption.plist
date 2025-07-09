@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMobileEdge</key>
+	<string>queryUntilSingleton</string>
+	<key>consumerDecoratorBehavior</key>
+	<string>elasticDocumentResponse</string>
+	<key>decorationInsidePhase</key>
+	<string>fragmentPerParameter</string>
+	<key>finalBuilderDistance</key>
+	<string>widgetOrCycle</string>
+	<key>logFlyweightMode</key>
+	<string>workflowPrototypeSkewx</string>
+	<key>taskWithoutBuffer</key>
+	<string>backwardScreenFlags</string>
+	<key>webRadiusShape</key>
+	<string>riverpodDespitePrototype</string>
+	<key>widgetBesideInterpreter</key>
+	<string>documentWithShape</string>
+</dict>
+</plist>

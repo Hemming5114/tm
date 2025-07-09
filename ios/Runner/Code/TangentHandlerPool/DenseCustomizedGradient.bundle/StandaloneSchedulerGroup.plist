@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerProxySaturation</key>
+	<string>interactiveDescriptionBrightness</string>
+	<key>buttonLevelShade</key>
+	<string>mutablePopupFeedback</string>
+	<key>currentControllerLeft</key>
+	<string>smallClipperHead</string>
+	<key>hyperbolicConvolutionVisible</key>
+	<string>captionFunctionVelocity</string>
+	<key>multiGrainOrientation</key>
+	<string>delegateInStrategy</string>
+	<key>nodeMediatorInset</key>
+	<string>aspectratioBufferInset</string>
+</dict>
+</plist>

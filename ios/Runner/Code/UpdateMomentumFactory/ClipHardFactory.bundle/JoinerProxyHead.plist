@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFunctionSpacing</key>
+	<string>standaloneNodeFeedback</string>
+	<key>chartNearKind</key>
+	<string>commandFromLevel</string>
+	<key>deferredObserverInset</key>
+	<string>crudeContainerTheme</string>
+	<key>geometricShaderAppearance</key>
+	<string>overlayPerDecorator</string>
+	<key>numericalEntropyTag</key>
+	<string>uniformScaffoldSize</string>
+	<key>otherOperationIndex</key>
+	<string>multiAsyncEdge</string>
+	<key>resolverTypeEdge</key>
+	<string>materialToolDistance</string>
+</dict>
+</plist>

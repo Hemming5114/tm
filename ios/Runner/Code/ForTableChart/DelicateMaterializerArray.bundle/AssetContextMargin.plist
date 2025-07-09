@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxStructureMode</key>
+	<string>instructionBesideMemento</string>
+	<key>containerInFacade</key>
+	<string>independentTouchFlags</string>
+	<key>grainThroughBridge</key>
+	<string>parallelVariantStyle</string>
+	<key>isolateShapeSkewy</key>
+	<string>advancedEntityCoord</string>
+	<key>presenterByPrototype</key>
+	<string>heapFlyweightShade</string>
+	<key>resultPerPlatform</key>
+	<string>serviceSinceFunction</string>
+	<key>smartStackFormat</key>
+	<string>decorationAmongCycle</string>
+	<key>zoneValueFlags</key>
+	<string>multiplicationProcessHead</string>
+</dict>
+</plist>

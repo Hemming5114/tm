@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRequestStyle</key>
+	<string>immediateSlashKind</string>
+	<key>buttonAboutOperation</key>
+	<string>radiusTierCenter</string>
+	<key>consumerFacadeStatus</key>
+	<string>sizeParamAlignment</string>
+	<key>dependencyTaskOrigin</key>
+	<string>primaryGraphicOpacity</string>
+	<key>dialogsOfSingleton</key>
+	<string>tabviewTempleAppearance</string>
+	<key>euclideanStreamVisibility</key>
+	<string>temporaryErrorShade</string>
+	<key>imageValueBehavior</key>
+	<string>streamOperationInset</string>
+	<key>layoutCycleSaturation</key>
+	<string>curveCycleAlignment</string>
+	<key>normalBorderFeedback</key>
+	<string>spineAmongJob</string>
+</dict>
+</plist>

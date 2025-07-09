@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAgainstDecorator</key>
+	<string>gemEnvironmentOpacity</string>
+	<key>controllerAtStage</key>
+	<string>sliderMediatorBound</string>
+	<key>decorationPerInterpreter</key>
+	<string>notifierIncludeStrategy</string>
+	<key>exceptionCompositeOffset</key>
+	<string>completionAroundSingleton</string>
+	<key>globalBorderMargin</key>
+	<string>featureDuringStyle</string>
+	<key>listenerAlongStructure</key>
+	<string>sinkStrategyMode</string>
+	<key>marginThanOperation</key>
+	<string>skirtInMediator</string>
+	<key>menuAsActivity</key>
+	<string>prevTextOrientation</string>
+	<key>protectedRiverpodIndex</key>
+	<string>semanticAnimationSpeed</string>
+	<key>singletonDespiteTemple</key>
+	<string>providerWithBridge</string>
+</dict>
+</plist>

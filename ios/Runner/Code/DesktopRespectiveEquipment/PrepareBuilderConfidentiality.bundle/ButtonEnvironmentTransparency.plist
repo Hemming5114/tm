@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSpineSaturation</key>
+	<string>specifyObserverFeedback</string>
+	<key>canvasFromKind</key>
+	<string>crudeProtocolResponse</string>
+	<key>rowAwayStyle</key>
+	<string>parallelCubitSpacing</string>
+	<key>signStyleName</key>
+	<string>mediumAllocatorShape</string>
+	<key>statelessPlatformValidation</key>
+	<string>dynamicListenerVisible</string>
+	<key>statelessRadiusInterval</key>
+	<string>persistentHistogramPadding</string>
+	<key>typicalLayerMode</key>
+	<string>topicThroughPrototype</string>
+</dict>
+</plist>

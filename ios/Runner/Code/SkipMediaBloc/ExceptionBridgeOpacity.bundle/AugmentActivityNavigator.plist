@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAsLevel</key>
+	<string>textAwaySingleton</string>
+	<key>chartOperationCoord</key>
+	<string>globalBufferBrightness</string>
+	<key>desktopBorderRate</key>
+	<string>interfaceInDecorator</string>
+	<key>labelMementoCount</key>
+	<string>sinkAtAction</string>
+	<key>scaffoldInsidePhase</key>
+	<string>textPerScope</string>
+	<key>staticPromiseDistance</key>
+	<string>channelsPerFramework</string>
+	<key>streamProxyDirection</key>
+	<string>sessionStrategyType</string>
+	<key>textureDespiteObserver</key>
+	<string>profileOfScope</string>
+</dict>
+</plist>

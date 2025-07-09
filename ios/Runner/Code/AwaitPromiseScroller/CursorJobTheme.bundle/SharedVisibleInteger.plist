@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewCommandDuration</key>
+	<string>streamObserverPosition</string>
+	<key>pointDespiteMethod</key>
+	<string>memberInsideBridge</string>
+	<key>scrollableDropdownbuttonDirection</key>
+	<string>newestMenuFlags</string>
+	<key>sinkTypeSaturation</key>
+	<string>sliderPlatformRate</string>
+</dict>
+</plist>

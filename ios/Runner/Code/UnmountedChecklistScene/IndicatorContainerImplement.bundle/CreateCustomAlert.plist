@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityWithoutPlatform</key>
+	<string>cursorOrLevel</string>
+	<key>animationWithAdapter</key>
+	<string>compositionInterpreterTransparency</string>
+	<key>cosineIncludeStyle</key>
+	<string>descriptionTierRate</string>
+	<key>deferredCustompaintBottom</key>
+	<string>managerDecoratorDensity</string>
+	<key>displayableRectResponse</key>
+	<string>semanticsPrototypeContrast</string>
+	<key>explicitThemeFormat</key>
+	<string>entityOrStyle</string>
+	<key>featureEnvironmentOrigin</key>
+	<string>intensityParameterBrightness</string>
+	<key>monsterProcessPosition</key>
+	<string>skinDecoratorScale</string>
+	<key>sliderFromJob</key>
+	<string>isolateMementoShape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAndSingleton</key>
+	<string>canvasInsidePattern</string>
+	<key>containerContainKind</key>
+	<string>priorProgressbarLeft</string>
+	<key>containerOfTask</key>
+	<string>rapidChartBorder</string>
+	<key>dependencyAroundProxy</key>
+	<string>slashDuringSingleton</string>
+	<key>equipmentActivityHue</key>
+	<string>responseDecoratorDistance</string>
+	<key>eventEnvironmentForce</key>
+	<string>desktopIsolateBottom</string>
+	<key>granularHistogramDistance</key>
+	<string>intensityTaskSkewy</string>
+	<key>radiusCommandFormat</key>
+	<string>controllerPlatformShade</string>
+	<key>secondCheckboxVisible</key>
+	<string>widgetProcessInset</string>
+</dict>
+</plist>

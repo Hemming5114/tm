@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorShapeFrequency</key>
+	<string>notificationAroundBuffer</string>
+	<key>beginnerModalSpacing</key>
+	<string>clipperAsTask</string>
+	<key>constBlocState</key>
+	<string>spotActionHue</string>
+	<key>directGateDensity</key>
+	<string>interactorVisitorRight</string>
+	<key>groupPrototypeAppearance</key>
+	<string>constraintWithoutPhase</string>
+	<key>resolverUntilPattern</key>
+	<string>navigatorNumberSpeed</string>
+	<key>streamAsState</key>
+	<string>observerThroughFramework</string>
+</dict>
+</plist>

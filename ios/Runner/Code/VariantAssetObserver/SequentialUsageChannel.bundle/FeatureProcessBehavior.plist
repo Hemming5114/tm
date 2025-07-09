@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowForEnvironment</key>
+	<string>permissiveProviderBorder</string>
+	<key>frameProxyStyle</key>
+	<string>disabledIntensityValidation</string>
+	<key>plateWithoutWork</key>
+	<string>frameFlyweightTransparency</string>
+	<key>prismaticWidgetDuration</key>
+	<string>controllerExceptShape</string>
+	<key>repositoryKindShape</key>
+	<string>bitrateTierBorder</string>
+	<key>timerAndFlyweight</key>
+	<string>positionFormVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheTypeDuration</key>
+	<string>sortedImageFeedback</string>
+	<key>listviewIncludeBuffer</key>
+	<string>stackMediatorRight</string>
+	<key>rowVarBound</key>
+	<string>curveFromInterpreter</string>
+	<key>storeAsTask</key>
+	<string>checkboxOrBridge</string>
+	<key>uniformTextfieldMomentum</key>
+	<string>independentBuilderMode</string>
+</dict>
+</plist>

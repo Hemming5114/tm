@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSingletonShape</key>
+	<string>customizedWidgetContrast</string>
+	<key>curveDecoratorDepth</key>
+	<string>taskAndMethod</string>
+	<key>equalizationAgainstFlyweight</key>
+	<string>explicitBinaryColor</string>
+	<key>imperativeEffectTransparency</key>
+	<string>sessionMementoStatus</string>
+	<key>listviewCommandScale</key>
+	<string>staticContractionLeft</string>
+	<key>plateAndProcess</key>
+	<string>uniqueSpriteBound</string>
+	<key>touchNumberMomentum</key>
+	<string>requiredStatefulShape</string>
+	<key>utilFacadeSize</key>
+	<string>observerAroundProxy</string>
+	<key>widgetNumberDuration</key>
+	<string>specifierThroughMethod</string>
+</dict>
+</plist>

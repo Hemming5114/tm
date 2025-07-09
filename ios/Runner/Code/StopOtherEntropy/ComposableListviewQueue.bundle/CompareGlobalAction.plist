@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeResourceFlags</key>
+	<string>borderPatternType</string>
+	<key>dimensionAgainstParam</key>
+	<string>modulusProxyRotation</string>
+	<key>featureStrategyTail</key>
+	<string>nativeReducerName</string>
+	<key>finalReductionVisibility</key>
+	<string>previewAtProxy</string>
+	<key>hardSegmentOpacity</key>
+	<string>enabledControllerOffset</string>
+	<key>methodActivityState</key>
+	<string>graphCycleMargin</string>
+	<key>opaqueInjectionInterval</key>
+	<string>navigatorBesideStage</string>
+	<key>seamlessActivityTransparency</key>
+	<string>commandFacadeRight</string>
+	<key>textLayerMode</key>
+	<string>associatedInteractorKind</string>
+	<key>uniqueTitleInterval</key>
+	<string>desktopTernaryBrightness</string>
+</dict>
+</plist>

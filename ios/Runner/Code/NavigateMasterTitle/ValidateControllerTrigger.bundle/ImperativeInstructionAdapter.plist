@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitParamTint</key>
+	<string>scrollStructureAlignment</string>
+	<key>cubitTaskBottom</key>
+	<string>opaqueReducerPosition</string>
+	<key>labelExceptComposite</key>
+	<string>containerWorkTag</string>
+	<key>lastNotifierResponse</key>
+	<string>resultFromComposite</string>
+</dict>
+</plist>

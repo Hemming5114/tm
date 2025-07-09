@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStrategySaturation</key>
+	<string>cubitBridgeSaturation</string>
+	<key>dimensionActivityAppearance</key>
+	<string>decorationTempleStyle</string>
+	<key>groupThanNumber</key>
+	<string>curveStageDelay</string>
+	<key>routeStrategyContrast</key>
+	<string>activeSpriteOpacity</string>
+	<key>rowOutsideNumber</key>
+	<string>oldAlphaTint</string>
+	<key>statefulByAction</key>
+	<string>effectContainValue</string>
+	<key>tickerCyclePressure</key>
+	<string>cursorProcessMargin</string>
+	<key>widgetAroundSystem</key>
+	<string>swiftStateTransparency</string>
+</dict>
+</plist>

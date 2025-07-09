@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeOffsetForce</key>
+	<string>utilFormKind</string>
+	<key>ignoredCompositionDistance</key>
+	<string>sizeAgainstKind</string>
+	<key>logAndComposite</key>
+	<string>permissiveTransitionPadding</string>
+	<key>pivotalMaterialTransparency</key>
+	<string>taskCompositeTransparency</string>
+	<key>publicSwiftMargin</key>
+	<string>constBuilderPressure</string>
+	<key>seamlessMobxBottom</key>
+	<string>musicAgainstPlatform</string>
+	<key>storageJobMode</key>
+	<string>disparateRoutePressure</string>
+	<key>uniformSliderDirection</key>
+	<string>gemOfProcess</string>
+	<key>widgetCompositeBrightness</key>
+	<string>hierarchicalPriorityTint</string>
+</dict>
+</plist>

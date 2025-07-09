@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFrameworkFlags</key>
+	<string>statefulBlocStyle</string>
+	<key>currentReducerLeft</key>
+	<string>sineMementoLeft</string>
+	<key>explicitControllerDensity</key>
+	<string>reductionAwayAdapter</string>
+	<key>isolateSingletonTheme</key>
+	<string>adaptiveWorkflowTransparency</string>
+	<key>listenerTierPressure</key>
+	<string>timerCompositeBorder</string>
+	<key>tappableGesturedetectorAlignment</key>
+	<string>newestMusicLeft</string>
+	<key>uniqueSizedboxStyle</key>
+	<string>marginActivityType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertWorkMode</key>
+	<string>tabbarDespiteChain</string>
+	<key>borderUntilLevel</key>
+	<string>swiftFromBuffer</string>
+	<key>histogramForParameter</key>
+	<string>spriteInsideMediator</string>
+	<key>stampKindDirection</key>
+	<string>inheritedResourceShape</string>
+	<key>taskDuringAction</key>
+	<string>buttonWorkLocation</string>
+</dict>
+</plist>

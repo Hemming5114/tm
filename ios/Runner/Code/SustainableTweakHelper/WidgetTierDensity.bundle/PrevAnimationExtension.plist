@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityModeAppearance</key>
+	<string>gridviewExceptCycle</string>
+	<key>animationAmongDecorator</key>
+	<string>constraintSingletonRight</string>
+	<key>arithmeticLikeInterpreter</key>
+	<string>popupVariablePosition</string>
+	<key>assetAsPlatform</key>
+	<string>capacitiesShapeHead</string>
+	<key>cartesianWorkflowValidation</key>
+	<string>certificateParamContrast</string>
+	<key>diversifiedScaffoldTint</key>
+	<string>giftWorkRotation</string>
+	<key>eagerBitrateValidation</key>
+	<string>exceptionViaFacade</string>
+	<key>isolateBridgeCenter</key>
+	<string>groupLayerSkewy</string>
+	<key>pivotalGradientShade</key>
+	<string>pinchableInteractorFlags</string>
+	<key>shaderStageTension</key>
+	<string>streamEnvironmentVisibility</string>
+</dict>
+</plist>

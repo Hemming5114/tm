@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMethodName</key>
+	<string>scrollAsMediator</string>
+	<key>eagerLayoutMargin</key>
+	<string>providerInLayer</string>
+	<key>effectExceptFlyweight</key>
+	<string>explicitUsageName</string>
+	<key>layoutWorkContrast</key>
+	<string>basicCompleterHue</string>
+	<key>mainTopicIndex</key>
+	<string>behaviorStrategyLocation</string>
+	<key>referenceActionState</key>
+	<string>particlePatternSkewy</string>
+	<key>repositorySystemDirection</key>
+	<string>certificateDecoratorContrast</string>
+</dict>
+</plist>

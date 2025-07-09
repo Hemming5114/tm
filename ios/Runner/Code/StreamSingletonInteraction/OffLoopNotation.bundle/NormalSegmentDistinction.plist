@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContextTransparency</key>
+	<string>listenerVarFeedback</string>
+	<key>cacheSinceLayer</key>
+	<string>baseStageInset</string>
+	<key>deferredCompleterHead</key>
+	<string>completerFlyweightSaturation</string>
+	<key>equipmentLikeStage</key>
+	<string>imperativeKernelFeedback</string>
+	<key>explicitEqualizationOrigin</key>
+	<string>bufferFacadeBorder</string>
+	<key>gesturedetectorShapeInteraction</key>
+	<string>remainderMediatorRotation</string>
+	<key>globalLayoutSpacing</key>
+	<string>getxForVar</string>
+	<key>heapNumberRate</key>
+	<string>hierarchicalHistogramState</string>
+	<key>sliderAlongStrategy</key>
+	<string>asyncBaseRate</string>
+</dict>
+</plist>

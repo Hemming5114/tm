@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logStrategyBrightness</key>
+	<string>independentStepSpeed</string>
+	<key>loopFlyweightPadding</key>
+	<string>uniformAsyncRate</string>
+	<key>modalAndShape</key>
+	<string>finalTitleFormat</string>
+	<key>notificationInterpreterForce</key>
+	<string>rowCycleTail</string>
+	<key>reactiveTextIndex</key>
+	<string>mediumMethodOffset</string>
+	<key>requestPhaseAlignment</key>
+	<string>positionNumberName</string>
+	<key>secondZoneResponse</key>
+	<string>petAmongFlyweight</string>
+</dict>
+</plist>

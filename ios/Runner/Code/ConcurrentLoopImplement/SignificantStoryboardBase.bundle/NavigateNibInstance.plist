@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPaddingFlags</key>
+	<string>associatedAnchorSize</string>
+	<key>cursorExceptEnvironment</key>
+	<string>diffableVectorTail</string>
+	<key>eventKindAlignment</key>
+	<string>diffableFactoryInteraction</string>
+	<key>gridviewProcessFormat</key>
+	<string>promiseAgainstLayer</string>
+	<key>hardGestureFlags</key>
+	<string>associatedResponsePadding</string>
+	<key>observerBufferBehavior</key>
+	<string>configurationSingletonFeedback</string>
+	<key>particleShapeTheme</key>
+	<string>radiusObserverVelocity</string>
+	<key>positionKindTop</key>
+	<string>flexibleMetadataScale</string>
+</dict>
+</plist>

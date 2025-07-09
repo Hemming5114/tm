@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellAwayMediator</key>
+	<string>spineAdapterPosition</string>
+	<key>providerWithoutContext</key>
+	<string>mapForFramework</string>
+	<key>reducerOfVariable</key>
+	<string>progressbarScopeVisible</string>
+	<key>scrollInStrategy</key>
+	<string>lazyListenerBottom</string>
+	<key>statelessIncludeLevel</key>
+	<string>unactivatedDecorationVisibility</string>
+</dict>
+</plist>

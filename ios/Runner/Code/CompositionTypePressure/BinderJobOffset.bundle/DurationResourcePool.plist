@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterValueIndex</key>
+	<string>oldAnimationRight</string>
+	<key>convolutionLevelDirection</key>
+	<string>curveChainResponse</string>
+	<key>currentGrayscaleCenter</key>
+	<string>cupertinoTextureOrientation</string>
+	<key>multiConstraintSpacing</key>
+	<string>sizeTypeMargin</string>
+	<key>pivotalTitleCount</key>
+	<string>bufferAwayBridge</string>
+	<key>tabbarFunctionMode</key>
+	<string>largeViewName</string>
+</dict>
+</plist>

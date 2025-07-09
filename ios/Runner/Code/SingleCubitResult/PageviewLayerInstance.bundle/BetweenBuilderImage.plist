@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInsideTemple</key>
+	<string>constraintVisitorInterval</string>
+	<key>compositionalSkinShade</key>
+	<string>drawerAgainstTemple</string>
+	<key>inkwellAwayFacade</key>
+	<string>positionDuringFlyweight</string>
+	<key>layerAlongProxy</key>
+	<string>liteDurationTop</string>
+	<key>riverpodCycleName</key>
+	<string>singletonScopeForce</string>
+	<key>symbolMethodBehavior</key>
+	<string>reusableStatefulKind</string>
+	<key>vectorVersusSingleton</key>
+	<string>decorationAwayPhase</string>
+</dict>
+</plist>

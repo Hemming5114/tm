@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferModeFeedback</key>
+	<string>samplePlatformCoord</string>
+	<key>containerOperationStyle</key>
+	<string>eagerPreviewOrientation</string>
+	<key>currentBuilderSpacing</key>
+	<string>rapidSpriteBottom</string>
+	<key>lostInterfaceTop</key>
+	<string>layerFrameworkFeedback</string>
+	<key>spriteCommandRate</key>
+	<string>vectorFrameworkInteraction</string>
+</dict>
+</plist>

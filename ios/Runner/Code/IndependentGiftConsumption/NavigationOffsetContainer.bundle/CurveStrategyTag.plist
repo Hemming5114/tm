@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTextfieldBound</key>
+	<string>widgetCommandDensity</string>
+	<key>marginPhaseFeedback</key>
+	<string>inkwellAtBridge</string>
+	<key>permissiveStreamTop</key>
+	<string>deferredCommandResponse</string>
+	<key>resolverAboutProcess</key>
+	<string>draggableTextInteraction</string>
+	<key>signAdapterCoord</key>
+	<string>cardBeyondPhase</string>
+	<key>textureTierPressure</key>
+	<string>semanticPreviewOpacity</string>
+	<key>typicalCollectionDepth</key>
+	<string>playbackCycleLeft</string>
+</dict>
+</plist>

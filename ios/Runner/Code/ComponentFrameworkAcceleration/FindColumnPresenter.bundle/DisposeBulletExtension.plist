@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDependencyLeft</key>
+	<string>singletonKindEdge</string>
+	<key>buttonInsideVisitor</key>
+	<string>robustCompletionDuration</string>
+	<key>documentWithBridge</key>
+	<string>isolateBridgeDepth</string>
+	<key>explicitIntensityMode</key>
+	<string>boxNearStructure</string>
+	<key>techniquePrototypeIndex</key>
+	<string>sharedRectShape</string>
+</dict>
+</plist>

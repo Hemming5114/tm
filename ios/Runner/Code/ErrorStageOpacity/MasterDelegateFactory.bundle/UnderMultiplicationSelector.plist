@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicLocalizationDelay</key>
+	<string>elasticSessionTheme</string>
+	<key>pointAwaySingleton</key>
+	<string>variantFromParam</string>
+	<key>rowEnvironmentShape</key>
+	<string>threadTypeFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerByKind</key>
+	<string>entropyVariableVisible</string>
+	<key>gramScopeBottom</key>
+	<string>resultContextSize</string>
+	<key>metadataWithShape</key>
+	<string>radiusStructureFlags</string>
+	<key>methodSingletonValidation</key>
+	<string>localizationModeAppearance</string>
+	<key>modelDecoratorBorder</key>
+	<string>coordinatorPrototypeEdge</string>
+</dict>
+</plist>

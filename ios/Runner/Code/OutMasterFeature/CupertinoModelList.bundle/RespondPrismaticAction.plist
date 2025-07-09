@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredReducerResponse</key>
+	<string>mapLayerValidation</string>
+	<key>intermediateButtonRotation</key>
+	<string>navigatorAboutOperation</string>
+	<key>largeRowVisibility</key>
+	<string>indicatorThroughPlatform</string>
+	<key>painterOfFlyweight</key>
+	<string>disabledLoopLocation</string>
+	<key>plateInsideMemento</key>
+	<string>eventNumberOffset</string>
+	<key>semanticStampColor</key>
+	<string>liteChannelsBottom</string>
+	<key>spineEnvironmentState</key>
+	<string>previewStructureFlags</string>
+</dict>
+</plist>

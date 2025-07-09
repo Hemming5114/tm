@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNormMargin</key>
+	<string>inactiveEventMargin</string>
+	<key>containerModeTheme</key>
+	<string>seamlessReferenceValidation</string>
+	<key>durationAgainstSystem</key>
+	<string>cartesianFactoryDensity</string>
+	<key>heroDuringCycle</key>
+	<string>stateKindSkewy</string>
+	<key>kernelAsSingleton</key>
+	<string>intermediateGemEdge</string>
+	<key>mediumStatefulDensity</key>
+	<string>mobxMediatorShape</string>
+	<key>scrollableStoreCoord</key>
+	<string>timerLikeTemple</string>
+	<key>textAroundInterpreter</key>
+	<string>spotStructureCount</string>
+	<key>transitionVarDirection</key>
+	<string>singleTaskSpeed</string>
+</dict>
+</plist>

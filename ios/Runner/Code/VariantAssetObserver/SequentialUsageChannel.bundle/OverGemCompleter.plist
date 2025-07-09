@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitGraphState</key>
+	<string>requestLevelDepth</string>
+	<key>resourceTypeInset</key>
+	<string>durationBeyondCycle</string>
+	<key>timerSystemTransparency</key>
+	<string>ignoredConsumerStyle</string>
+	<key>unactivatedQueueType</key>
+	<string>storageStateRate</string>
+	<key>widgetTierAppearance</key>
+	<string>grainContainParameter</string>
+</dict>
+</plist>

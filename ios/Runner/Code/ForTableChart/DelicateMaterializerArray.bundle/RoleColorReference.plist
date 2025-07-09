@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateBufferAcceleration</key>
+	<string>layerSystemScale</string>
+	<key>chartPrototypeHue</key>
+	<string>sortedSubpixelBorder</string>
+	<key>convolutionSingletonBehavior</key>
+	<string>entityByMediator</string>
+	<key>delegateOperationRight</key>
+	<string>concreteDependencyDensity</string>
+	<key>grainAtLayer</key>
+	<string>rowThroughPlatform</string>
+	<key>mobileAboutSystem</key>
+	<string>resultShapeEdge</string>
+	<key>previewLayerInteraction</key>
+	<string>isolateActionFeedback</string>
+	<key>stampDecoratorBottom</key>
+	<string>intuitiveDependencyAcceleration</string>
+	<key>subpixelSingletonPadding</key>
+	<string>heapSinceTier</string>
+</dict>
+</plist>

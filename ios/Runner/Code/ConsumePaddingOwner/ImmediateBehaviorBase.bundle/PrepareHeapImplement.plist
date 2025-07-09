@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSystemFormat</key>
+	<string>heroInsideFramework</string>
+	<key>inactiveTransitionAppearance</key>
+	<string>smallMethodDirection</string>
+	<key>nextMobxAppearance</key>
+	<string>queryOrCycle</string>
+	<key>prevCallbackAppearance</key>
+	<string>checkboxAtFlyweight</string>
+	<key>remainderAgainstTask</key>
+	<string>accessoryPlatformSkewy</string>
+	<key>staticCompleterStyle</key>
+	<string>sampleModeValidation</string>
+</dict>
+</plist>

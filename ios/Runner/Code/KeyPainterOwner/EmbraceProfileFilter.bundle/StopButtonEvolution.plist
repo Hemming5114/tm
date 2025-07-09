@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideSingleton</key>
+	<string>featureViaValue</string>
+	<key>dependencyFacadeType</key>
+	<string>eventModeTransparency</string>
+	<key>errorProxyMode</key>
+	<string>responsiveFutureDirection</string>
+	<key>hardTransitionAppearance</key>
+	<string>nativeCharacterBorder</string>
+	<key>injectionPatternInset</key>
+	<string>aspectMementoDistance</string>
+	<key>musicTaskMargin</key>
+	<string>menuContextResponse</string>
+	<key>primaryObserverCoord</key>
+	<string>fragmentIncludeActivity</string>
+	<key>shaderMediatorMomentum</key>
+	<string>positionedOutsideStrategy</string>
+</dict>
+</plist>

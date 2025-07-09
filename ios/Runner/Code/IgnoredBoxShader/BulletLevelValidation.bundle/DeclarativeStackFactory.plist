@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphBridgeOpacity</key>
+	<string>handlerBeyondBridge</string>
+	<key>mediaqueryStyleDelay</key>
+	<string>beginnerCommandSpeed</string>
+	<key>pivotalSpriteSpeed</key>
+	<string>equalizationVersusPhase</string>
+	<key>presenterAwayParam</key>
+	<string>flexibleIsolateTheme</string>
+	<key>secondPriorityIndex</key>
+	<string>callbackOutsideInterpreter</string>
+	<key>tweenViaMediator</key>
+	<string>flexAlongContext</string>
+</dict>
+</plist>

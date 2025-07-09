@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveSpineVelocity</key>
+	<string>masterOrParameter</string>
+	<key>lastCommandHue</key>
+	<string>activityFromParam</string>
+	<key>lastVariantShape</key>
+	<string>captionDecoratorDirection</string>
+	<key>menuBridgeSaturation</key>
+	<string>originalFutureVisible</string>
+	<key>querySinceSystem</key>
+	<string>easyEquipmentTransparency</string>
+	<key>resourceWithShape</key>
+	<string>equipmentStyleDelay</string>
+	<key>vectorPatternState</key>
+	<string>overlayActionColor</string>
+</dict>
+</plist>

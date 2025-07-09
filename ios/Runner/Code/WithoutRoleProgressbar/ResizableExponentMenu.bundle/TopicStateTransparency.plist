@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPerChain</key>
+	<string>resourceAboutKind</string>
+	<key>errorFromMode</key>
+	<string>parallelTabviewOrientation</string>
+	<key>materialStackSize</key>
+	<string>tensorStorageType</string>
+	<key>paddingContextAppearance</key>
+	<string>backwardDescriptorBottom</string>
+	<key>protocolVisitorTint</key>
+	<string>serviceValueAppearance</string>
+</dict>
+</plist>

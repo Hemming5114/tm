@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPhaseAlignment</key>
+	<string>completerStyleValidation</string>
+	<key>hashFlyweightContrast</key>
+	<string>titleAboutMemento</string>
+	<key>lostCaptionTag</key>
+	<string>compositionContainChain</string>
+	<key>scrollLevelFlags</key>
+	<string>cupertinoFeatureVelocity</string>
+</dict>
+</plist>

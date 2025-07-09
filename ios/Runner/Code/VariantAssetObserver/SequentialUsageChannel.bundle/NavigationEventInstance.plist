@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateWithoutMode</key>
+	<string>sequentialRepositorySpeed</string>
+	<key>channelNearBridge</key>
+	<string>radioEnvironmentOffset</string>
+	<key>mainTaskFlags</key>
+	<string>symbolByTier</string>
+	<key>menuFromPattern</key>
+	<string>eagerStreamFrequency</string>
+	<key>modelThroughSingleton</key>
+	<string>localizationAboutPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSystemDirection</key>
+	<string>handlerFrameworkLeft</string>
+	<key>mutableEventBehavior</key>
+	<string>presenterProxyVisible</string>
+	<key>tappableShaderVisible</key>
+	<string>modalWorkSkewy</string>
+	<key>textureJobValidation</key>
+	<string>grainForParam</string>
+</dict>
+</plist>

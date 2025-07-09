@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorOutsideState</key>
+	<string>positionedStageType</string>
+	<key>displayableParticleFeedback</key>
+	<string>asyncAnimationDistance</string>
+	<key>loopFromChain</key>
+	<string>convolutionBeyondComposite</string>
+	<key>textFacadeValidation</key>
+	<string>iterativeRouteColor</string>
+	<key>topicAlongComposite</key>
+	<string>mapAgainstStrategy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionSingletonStyle</key>
+	<string>consultativeBitrateDuration</string>
+	<key>entropyWithoutChain</key>
+	<string>visibleSubpixelTail</string>
+	<key>equalizationOperationDuration</key>
+	<string>singletonOperationFeedback</string>
+	<key>shaderProcessVisible</key>
+	<string>fragmentFlyweightHead</string>
+	<key>synchronousTableLeft</key>
+	<string>lastGrayscaleAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBesideMemento</key>
+	<string>topicCommandName</string>
+	<key>blocMediatorPadding</key>
+	<string>singleInteractorCenter</string>
+	<key>catalystForVisitor</key>
+	<string>queryLevelAcceleration</string>
+	<key>groupThanVar</key>
+	<string>delegateInBridge</string>
+	<key>observerDecoratorShade</key>
+	<string>gridAgainstSingleton</string>
+</dict>
+</plist>

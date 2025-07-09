@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHeroType</key>
+	<string>collectionStateShape</string>
+	<key>borderIncludeStrategy</key>
+	<string>modulusWithoutVariable</string>
+	<key>currentPromiseTheme</key>
+	<string>consumerMethodTint</string>
+	<key>liteSessionCoord</key>
+	<string>injectionWithoutCycle</string>
+	<key>offsetFrameworkAcceleration</key>
+	<string>segmentFormRotation</string>
+	<key>offsetMediatorTag</key>
+	<string>immutableStepTheme</string>
+</dict>
+</plist>

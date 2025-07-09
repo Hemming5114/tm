@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOutsideBridge</key>
+	<string>composableMetadataStyle</string>
+	<key>commandCycleEdge</key>
+	<string>scrollableQueueStatus</string>
+	<key>controllerFrameworkSpacing</key>
+	<string>smallEffectFrequency</string>
+	<key>criticalStepCenter</key>
+	<string>typicalSampleAppearance</string>
+	<key>priorityLikePlatform</key>
+	<string>zoneAroundSingleton</string>
+	<key>queryAgainstParam</key>
+	<string>channelContainKind</string>
+</dict>
+</plist>

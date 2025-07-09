@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesParamTransparency</key>
+	<string>streamMementoSkewx</string>
+	<key>multiplicationAndParameter</key>
+	<string>completerPhaseAlignment</string>
+	<key>parallelProviderValidation</key>
+	<string>gemFromActivity</string>
+	<key>uniformArithmeticOffset</key>
+	<string>requestEnvironmentOffset</string>
+</dict>
+</plist>

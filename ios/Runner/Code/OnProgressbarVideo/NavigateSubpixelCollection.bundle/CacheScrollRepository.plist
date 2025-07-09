@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMediaquerySkewy</key>
+	<string>shaderWithoutFacade</string>
+	<key>dependencyAboutDecorator</key>
+	<string>checkboxViaStyle</string>
+	<key>desktopDrawerVisibility</key>
+	<string>completionSinceMethod</string>
+	<key>futureUntilParameter</key>
+	<string>concurrentSkirtBehavior</string>
+	<key>resultIncludeDecorator</key>
+	<string>streamOutsideFlyweight</string>
+	<key>tangentPhaseKind</key>
+	<string>associatedPositionedResponse</string>
+</dict>
+</plist>

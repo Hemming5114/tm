@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queueStrategyVelocity</key>
+	<string>errorBeyondInterpreter</string>
+	<key>rapidAccessorySize</key>
+	<string>heapAmongChain</string>
+	<key>slashJobSpacing</key>
+	<string>profileScopeTag</string>
+	<key>synchronousInteractorStyle</key>
+	<string>effectWithForm</string>
+	<key>tickerChainFlags</key>
+	<string>streamModeOrigin</string>
+	<key>usecaseBufferCenter</key>
+	<string>methodAroundPhase</string>
+	<key>vectorIncludeMethod</key>
+	<string>gateStateDirection</string>
+</dict>
+</plist>

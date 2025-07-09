@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTableMode</key>
+	<string>directCanvasSaturation</string>
+	<key>finalBehaviorLeft</key>
+	<string>responsiveDependencyContrast</string>
+	<key>intensityPhaseCenter</key>
+	<string>riverpodTaskAlignment</string>
+	<key>materialUtilBorder</key>
+	<string>buttonFunctionShade</string>
+	<key>sortedActivityTension</key>
+	<string>tabviewUntilStrategy</string>
+	<key>statelessReducerInterval</key>
+	<string>synchronousImageResponse</string>
+</dict>
+</plist>

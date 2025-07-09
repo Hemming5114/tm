@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSingletonStyle</key>
+	<string>stackCompositePosition</string>
+	<key>collectionChainSaturation</key>
+	<string>completerSinceStyle</string>
+	<key>completionAtLayer</key>
+	<string>compositionalTextOpacity</string>
+	<key>directBlocRotation</key>
+	<string>adaptiveResponseFrequency</string>
+	<key>projectionBridgeInterval</key>
+	<string>stateMethodFormat</string>
+	<key>toolDespiteVariable</key>
+	<string>isolateThanValue</string>
+</dict>
+</plist>

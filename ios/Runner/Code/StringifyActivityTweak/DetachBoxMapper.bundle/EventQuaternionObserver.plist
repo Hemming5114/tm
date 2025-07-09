@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResponseBound</key>
+	<string>labelFrameworkSaturation</string>
+	<key>dynamicThemeTransparency</key>
+	<string>decorationAroundComposite</string>
+	<key>monsterOutsideCommand</key>
+	<string>bulletAgainstSystem</string>
+	<key>stackWithKind</key>
+	<string>loopCommandBorder</string>
+	<key>subscriptionVersusComposite</key>
+	<string>robustSliderSaturation</string>
+	<key>timerValueVisibility</key>
+	<string>concreteFactorySkewx</string>
+</dict>
+</plist>

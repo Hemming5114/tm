@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInKind</key>
+	<string>entityFrameworkBrightness</string>
+	<key>mediocreListenerMargin</key>
+	<string>navigatorChainShade</string>
+	<key>mobileCurveBottom</key>
+	<string>assetFlyweightPadding</string>
+	<key>popupInSystem</key>
+	<string>navigatorProxyRight</string>
+	<key>queryOrScope</key>
+	<string>popupPlatformStyle</string>
+	<key>reductionFormTag</key>
+	<string>asyncFacadeDelay</string>
+	<key>utilLikeVisitor</key>
+	<string>cycleWithoutObserver</string>
+</dict>
+</plist>

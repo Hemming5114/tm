@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAtOperation</key>
+	<string>singletonCommandLocation</string>
+	<key>anchorViaFacade</key>
+	<string>memberOperationName</string>
+	<key>associatedDocumentPosition</key>
+	<string>radiusAtState</string>
+	<key>commandModeSpeed</key>
+	<string>semanticHashKind</string>
+	<key>configurationViaKind</key>
+	<string>routeOutsideBuffer</string>
+	<key>streamForFacade</key>
+	<string>priorityFlyweightTop</string>
+</dict>
+</plist>

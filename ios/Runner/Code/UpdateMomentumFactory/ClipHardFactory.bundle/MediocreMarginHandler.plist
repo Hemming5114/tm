@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationPerOperation</key>
+	<string>consultativeRectForce</string>
+	<key>diffableButtonDensity</key>
+	<string>euclideanGraphDirection</string>
+	<key>durationCycleSaturation</key>
+	<string>ignoredStoreBehavior</string>
+	<key>labelForFunction</key>
+	<string>textureChainDelay</string>
+	<key>mobxSingletonMargin</key>
+	<string>globalResponseOpacity</string>
+	<key>reductionVariableTension</key>
+	<string>cubitByScope</string>
+</dict>
+</plist>

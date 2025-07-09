@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMenuBorder</key>
+	<string>imagePerParam</string>
+	<key>borderStyleBrightness</key>
+	<string>sineWithFramework</string>
+	<key>channelsMediatorDelay</key>
+	<string>workflowTaskMargin</string>
+	<key>labelPatternBehavior</key>
+	<string>reusableSymbolFeedback</string>
+	<key>mediocreStoryboardVelocity</key>
+	<string>stepStageCoord</string>
+	<key>screenContextTension</key>
+	<string>intermediateDurationForce</string>
+	<key>spriteModeMargin</key>
+	<string>mapOutsideCycle</string>
+	<key>timerPatternStatus</key>
+	<string>alignmentWithoutParam</string>
+</dict>
+</plist>

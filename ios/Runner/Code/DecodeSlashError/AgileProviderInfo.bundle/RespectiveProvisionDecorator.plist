@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedExponentBorder</key>
+	<string>apertureBridgeMargin</string>
+	<key>comprehensiveAlignmentRight</key>
+	<string>symmetricSpriteResponse</string>
+	<key>iconTierOrientation</key>
+	<string>stampAsType</string>
+	<key>parallelDurationFlags</key>
+	<string>displayableSingletonOpacity</string>
+	<key>sensorAgainstPattern</key>
+	<string>scrollAlongPattern</string>
+</dict>
+</plist>

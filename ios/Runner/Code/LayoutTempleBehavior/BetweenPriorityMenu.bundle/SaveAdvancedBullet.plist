@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInForm</key>
+	<string>stateLevelCoord</string>
+	<key>cupertinoWithShape</key>
+	<string>cartesianProgressbarOrientation</string>
+	<key>documentExceptFacade</key>
+	<string>stepOutsideMediator</string>
+	<key>featurePhaseBrightness</key>
+	<string>rowSinceChain</string>
+	<key>loopVarTag</key>
+	<string>delegateForPrototype</string>
+	<key>sceneCompositeVisibility</key>
+	<string>backwardHeroAcceleration</string>
+	<key>spriteContextForce</key>
+	<string>progressbarPatternVelocity</string>
+	<key>textBesidePlatform</key>
+	<string>autoListviewTop</string>
+	<key>visibleCompositionMargin</key>
+	<string>playbackVersusJob</string>
+</dict>
+</plist>

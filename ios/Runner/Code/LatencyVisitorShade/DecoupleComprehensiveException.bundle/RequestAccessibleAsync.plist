@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSkinInterval</key>
+	<string>profileFromMediator</string>
+	<key>completerDuringPrototype</key>
+	<string>injectionFromEnvironment</string>
+	<key>draggableMethodAppearance</key>
+	<string>opaqueControllerMode</string>
+	<key>interactorAwayProcess</key>
+	<string>positionedLikeFramework</string>
+	<key>layoutNearMethod</key>
+	<string>aspectActivityFormat</string>
+	<key>observerProxyEdge</key>
+	<string>normalQueryDelay</string>
+	<key>progressbarDuringTask</key>
+	<string>routeDuringObserver</string>
+</dict>
+</plist>

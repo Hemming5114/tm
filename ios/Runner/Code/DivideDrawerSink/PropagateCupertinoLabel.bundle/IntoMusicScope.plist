@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalCubitShape</key>
+	<string>activatedAllocatorAppearance</string>
+	<key>interactorWithPhase</key>
+	<string>gateViaStrategy</string>
+	<key>multiCaptionVisibility</key>
+	<string>memberOutsideScope</string>
+	<key>providerDespiteFlyweight</key>
+	<string>equalizationByFacade</string>
+	<key>specifyBorderInteraction</key>
+	<string>easyFutureLocation</string>
+	<key>stateThanState</key>
+	<string>transitionAgainstComposite</string>
+	<key>unactivatedStampFlags</key>
+	<string>usedQueueEdge</string>
+</dict>
+</plist>

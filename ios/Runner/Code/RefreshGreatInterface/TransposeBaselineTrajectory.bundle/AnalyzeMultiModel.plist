@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateLevelSpeed</key>
+	<string>liteRowContrast</string>
+	<key>cubitActionSize</key>
+	<string>richtextChainTransparency</string>
+	<key>offsetAdapterBrightness</key>
+	<string>characterPhaseBrightness</string>
+	<key>riverpodVersusCycle</key>
+	<string>heroValueRotation</string>
+	<key>routerBufferMomentum</key>
+	<string>lazyCommandDirection</string>
+	<key>sophisticatedButtonEdge</key>
+	<string>instructionFromLayer</string>
+	<key>usecaseStateDensity</key>
+	<string>textfieldPatternTint</string>
+</dict>
+</plist>

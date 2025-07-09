@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCubitInset</key>
+	<string>segmentModeBrightness</string>
+	<key>configurationLevelMargin</key>
+	<string>directInterpolationSkewx</string>
+	<key>desktopTickerBehavior</key>
+	<string>frameUntilFramework</string>
+	<key>isolateAndContext</key>
+	<string>accessibleActionTint</string>
+	<key>precisionWithoutShape</key>
+	<string>assetAmongValue</string>
+	<key>resourceThroughMethod</key>
+	<string>convolutionViaPhase</string>
+</dict>
+</plist>

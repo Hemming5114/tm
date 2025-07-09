@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandCommandSpeed</key>
+	<string>stampOutsideTemple</string>
+	<key>eventPatternRotation</key>
+	<string>descriptionVisitorVisible</string>
+	<key>granularTimerOrigin</key>
+	<string>optimizerVersusTask</string>
+	<key>localizationMethodFrequency</key>
+	<string>convolutionChainBottom</string>
+	<key>lostMissionOffset</key>
+	<string>operationVisitorPadding</string>
+	<key>movementStyleLeft</key>
+	<string>euclideanRepositoryBottom</string>
+	<key>positionStateIndex</key>
+	<string>textVersusObserver</string>
+	<key>positionedAlongProxy</key>
+	<string>challengeAroundSystem</string>
+	<key>taskLikeMediator</key>
+	<string>taskForShape</string>
+</dict>
+</plist>

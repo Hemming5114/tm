@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubscriptionFeedback</key>
+	<string>crucialGroupName</string>
+	<key>associatedTextTheme</key>
+	<string>capacitiesViaPattern</string>
+	<key>currentCacheSpeed</key>
+	<string>offsetLayerIndex</string>
+	<key>effectPerPhase</key>
+	<string>firstProviderTag</string>
+	<key>effectWorkRotation</key>
+	<string>resourceFunctionPadding</string>
+	<key>hyperbolicGridKind</key>
+	<string>sharedInterpolationFrequency</string>
+	<key>listenerAgainstBridge</key>
+	<string>scaleFromBuffer</string>
+	<key>permanentCubitTint</key>
+	<string>builderSystemOpacity</string>
+	<key>prevSensorName</key>
+	<string>singletonViaPhase</string>
+	<key>zoneInsideForm</key>
+	<string>streamByLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorFormat</key>
+	<string>newestChannelInteraction</string>
+	<key>bulletInsideVisitor</key>
+	<string>errorMediatorRight</string>
+	<key>effectVersusEnvironment</key>
+	<string>dynamicCurveValidation</string>
+	<key>injectionStateMode</key>
+	<string>grainDespitePrototype</string>
+	<key>reactiveLoopTheme</key>
+	<string>sinkWithoutShape</string>
+	<key>screenFunctionTop</key>
+	<string>progressbarViaObserver</string>
+	<key>taskWithoutOperation</key>
+	<string>routeMediatorLeft</string>
+	<key>vectorStrategyAlignment</key>
+	<string>constMenuFrequency</string>
+</dict>
+</plist>

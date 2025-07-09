@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGraphPressure</key>
+	<string>modalObserverResponse</string>
+	<key>brushBeyondStrategy</key>
+	<string>variantAtCycle</string>
+	<key>dependencyIncludeSystem</key>
+	<string>methodCycleAcceleration</string>
+	<key>gesturedetectorBesideWork</key>
+	<string>rapidManagerPadding</string>
+	<key>grayscalePlatformVisibility</key>
+	<string>parallelBlocColor</string>
+	<key>hashFunctionTint</key>
+	<string>labelContainPlatform</string>
+	<key>projectThroughInterpreter</key>
+	<string>logUntilPhase</string>
+	<key>sustainableGesturedetectorTheme</key>
+	<string>momentumInsideOperation</string>
+	<key>temporarySpotSaturation</key>
+	<string>monsterCompositePosition</string>
+</dict>
+</plist>

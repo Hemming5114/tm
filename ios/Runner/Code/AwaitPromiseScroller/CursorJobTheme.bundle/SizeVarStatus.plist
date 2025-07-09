@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAdapterRate</key>
+	<string>vectorSystemPosition</string>
+	<key>controllerEnvironmentTop</key>
+	<string>segueContextVisible</string>
+	<key>interfaceDuringTask</key>
+	<string>persistentLayoutCount</string>
+	<key>materialDimensionInterval</key>
+	<string>tappableAnimatedcontainerVisible</string>
+	<key>semanticDurationHead</key>
+	<string>hashWorkInterval</string>
+	<key>sizedboxTierSpacing</key>
+	<string>imageAsPrototype</string>
+	<key>sophisticatedObserverMode</key>
+	<string>titleAboutTier</string>
+	<key>textDespiteTier</key>
+	<string>logAndSingleton</string>
+	<key>viewActivityHead</key>
+	<string>viewModeInteraction</string>
+</dict>
+</plist>

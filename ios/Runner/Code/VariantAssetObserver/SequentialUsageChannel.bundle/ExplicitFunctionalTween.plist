@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFromObserver</key>
+	<string>immutableRouterBrightness</string>
+	<key>firstLogBrightness</key>
+	<string>bufferMementoAlignment</string>
+	<key>notifierScopePosition</key>
+	<string>presenterStyleMode</string>
+	<key>timerSystemOffset</key>
+	<string>navigatorByMethod</string>
+</dict>
+</plist>

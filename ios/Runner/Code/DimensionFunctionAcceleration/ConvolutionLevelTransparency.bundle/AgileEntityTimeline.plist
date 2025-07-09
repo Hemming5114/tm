@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintPerComposite</key>
+	<string>vectorSinceState</string>
+	<key>missionOutsideValue</key>
+	<string>delegateSincePattern</string>
+	<key>screenProxyStatus</key>
+	<string>tappableLogValidation</string>
+	<key>sizePrototypeStyle</key>
+	<string>labelNearInterpreter</string>
+	<key>textfieldScopeShade</key>
+	<string>clipperInCommand</string>
+</dict>
+</plist>

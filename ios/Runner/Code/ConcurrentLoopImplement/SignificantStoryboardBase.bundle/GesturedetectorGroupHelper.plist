@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleModelBrightness</key>
+	<string>rectOfKind</string>
+	<key>optimizerContextKind</key>
+	<string>rowBeyondBuffer</string>
+	<key>priorityContainStrategy</key>
+	<string>durationActivityDuration</string>
+	<key>segmentIncludeVar</key>
+	<string>responsiveAnimationDepth</string>
+	<key>viewEnvironmentVelocity</key>
+	<string>discardedAlignmentForce</string>
+</dict>
+</plist>

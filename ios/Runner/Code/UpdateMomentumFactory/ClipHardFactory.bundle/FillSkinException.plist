@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasTypeShade</key>
+	<string>resourceProcessStyle</string>
+	<key>currentControllerPosition</key>
+	<string>mapAndSingleton</string>
+	<key>easyPetFlags</key>
+	<string>stepBesideFlyweight</string>
+	<key>effectNumberStyle</key>
+	<string>skinStyleBottom</string>
+	<key>gramStageHue</key>
+	<string>interpolationLevelScale</string>
+	<key>momentumInForm</key>
+	<string>opaqueColumnName</string>
+	<key>semanticsPerMemento</key>
+	<string>difficultAssetIndex</string>
+	<key>workflowMementoForce</key>
+	<string>swiftSingletonDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartChainEdge</key>
+	<string>iterativeCallbackInteraction</string>
+	<key>configurationVisitorRight</key>
+	<string>queryCycleColor</string>
+	<key>containerPerBuffer</key>
+	<string>sessionParameterStyle</string>
+	<key>enabledGradientBehavior</key>
+	<string>columnBridgeTransparency</string>
+	<key>resourceCommandResponse</key>
+	<string>sliderUntilBuffer</string>
+	<key>scrollNearBuffer</key>
+	<string>lazyQueueTag</string>
+	<key>sliderObserverVisibility</key>
+	<string>gridWorkDirection</string>
+	<key>unaryStyleTop</key>
+	<string>gestureInsideJob</string>
+</dict>
+</plist>

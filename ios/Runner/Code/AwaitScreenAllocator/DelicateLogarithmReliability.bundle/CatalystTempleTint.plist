@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystActionFormat</key>
+	<string>mediumLabelDirection</string>
+	<key>discardedVectorScale</key>
+	<string>screenViaFramework</string>
+	<key>ignoredSpriteState</key>
+	<string>sessionExceptFramework</string>
+	<key>permanentTextSpeed</key>
+	<string>spotPatternCoord</string>
+	<key>streamMediatorTag</key>
+	<string>webErrorSkewx</string>
+</dict>
+</plist>

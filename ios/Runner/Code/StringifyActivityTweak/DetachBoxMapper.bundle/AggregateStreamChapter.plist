@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAmongStyle</key>
+	<string>mutableNibAlignment</string>
+	<key>eventExceptVariable</key>
+	<string>sessionByScope</string>
+	<key>frameEnvironmentSkewy</key>
+	<string>bufferVersusState</string>
+	<key>graphicCommandTail</key>
+	<string>logarithmFacadeKind</string>
+	<key>labelInParameter</key>
+	<string>asynchronousCollectionScale</string>
+	<key>mutableSizeOpacity</key>
+	<string>gemFlyweightTension</string>
+	<key>nativeNotificationForce</key>
+	<string>tableContainScope</string>
+	<key>originalAllocatorResponse</key>
+	<string>rapidSubscriptionPressure</string>
+	<key>scrollableCoordinatorIndex</key>
+	<string>certificateSinceFunction</string>
+	<key>sinkActionSkewy</key>
+	<string>ignoredSkinAppearance</string>
+</dict>
+</plist>

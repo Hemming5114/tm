@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorParamBound</key>
+	<string>builderAlongSingleton</string>
+	<key>arithmeticLayerBorder</key>
+	<string>sortedEventSize</string>
+	<key>cupertinoForFlyweight</key>
+	<string>largeChannelState</string>
+	<key>largeSinkInset</key>
+	<string>signWithoutState</string>
+	<key>listenerForProcess</key>
+	<string>dynamicPainterTint</string>
+	<key>primaryGroupOpacity</key>
+	<string>similarResourceInteraction</string>
+	<key>sampleAtCommand</key>
+	<string>hyperbolicZoneResponse</string>
+</dict>
+</plist>

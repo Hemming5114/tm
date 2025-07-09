@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisParamBehavior</key>
+	<string>gridAroundSystem</string>
+	<key>inkwellOutsideParameter</key>
+	<string>usecaseVariableTag</string>
+	<key>lostWidgetFormat</key>
+	<string>heroFlyweightBehavior</string>
+	<key>responseExceptDecorator</key>
+	<string>menuAroundLevel</string>
+	<key>scrollLayerValidation</key>
+	<string>futureThroughPhase</string>
+	<key>tickerProxyFeedback</key>
+	<string>textLevelForce</string>
+	<key>typicalScrollPadding</key>
+	<string>semanticReferenceMomentum</string>
+</dict>
+</plist>

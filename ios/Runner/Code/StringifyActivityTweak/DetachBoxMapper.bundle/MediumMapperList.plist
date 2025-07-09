@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInsideBridge</key>
+	<string>requestTaskHue</string>
+	<key>directGrayscaleBorder</key>
+	<string>protectedNibVisible</string>
+	<key>functionalTextureInteraction</key>
+	<string>eventVariableAlignment</string>
+	<key>offsetBridgeMargin</key>
+	<string>publicProgressbarPosition</string>
+	<key>sustainablePositionName</key>
+	<string>reductionTierResponse</string>
+</dict>
+</plist>

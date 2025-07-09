@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSampleHead</key>
+	<string>concurrentSessionName</string>
+	<key>isolateByPlatform</key>
+	<string>nativeSampleTheme</string>
+	<key>logActionCenter</key>
+	<string>optionWithOperation</string>
+	<key>repositoryThanOperation</key>
+	<string>animatedCallbackRotation</string>
+	<key>signatureSingletonType</key>
+	<string>relationalGateOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeQueryMode</key>
+	<string>sequentialSizedboxLocation</string>
+	<key>spotAboutActivity</key>
+	<string>textureVariableCoord</string>
+	<key>transitionBufferFrequency</key>
+	<string>widgetStrategyTop</string>
+	<key>uniqueScaffoldAcceleration</key>
+	<string>vectorCommandVisible</string>
+</dict>
+</plist>

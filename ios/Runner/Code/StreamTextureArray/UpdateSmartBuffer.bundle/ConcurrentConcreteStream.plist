@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileListviewVelocity</key>
+	<string>compositionalMissionPadding</string>
+	<key>bitrateAmongVariable</key>
+	<string>usageInMode</string>
+	<key>chartTierAppearance</key>
+	<string>resourceContextOpacity</string>
+	<key>cupertinoMultiplicationInteraction</key>
+	<string>navigatorLevelSpeed</string>
+	<key>gesturedetectorMediatorOrientation</key>
+	<string>topicStateTension</string>
+	<key>providerProcessLocation</key>
+	<string>responsiveSingletonSpacing</string>
+	<key>remainderFromAction</key>
+	<string>reactivePainterStatus</string>
+</dict>
+</plist>

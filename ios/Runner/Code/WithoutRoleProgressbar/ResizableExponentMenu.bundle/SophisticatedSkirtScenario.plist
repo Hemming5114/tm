@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonOrKind</key>
+	<string>dynamicCanvasFrequency</string>
+	<key>effectParameterCount</key>
+	<string>gestureAsEnvironment</string>
+	<key>mobileStrategyPressure</key>
+	<string>rectValueFeedback</string>
+	<key>resizableInjectionInteraction</key>
+	<string>staticInteractorDirection</string>
+	<key>sharedTabviewCount</key>
+	<string>containerInMode</string>
+	<key>typicalToolEdge</key>
+	<string>delegateBesideContext</string>
+	<key>usageVariableMargin</key>
+	<string>advancedBlocSpeed</string>
+</dict>
+</plist>

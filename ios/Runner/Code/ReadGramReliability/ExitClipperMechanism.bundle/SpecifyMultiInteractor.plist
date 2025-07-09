@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorOutsidePrototype</key>
+	<string>uniqueObserverInset</string>
+	<key>cycleContextAlignment</key>
+	<string>streamViaMemento</string>
+	<key>ephemeralAnimationContrast</key>
+	<string>handlerIncludePhase</string>
+	<key>imageAlongPlatform</key>
+	<string>rowAroundAction</string>
+	<key>immediateBitrateTint</key>
+	<string>tweenBeyondMemento</string>
+	<key>inkwellNumberOpacity</key>
+	<string>protocolOutsideFacade</string>
+	<key>resizableNodeCenter</key>
+	<string>priorityStyleOffset</string>
+	<key>responsiveBuilderOffset</key>
+	<string>unaryProcessMargin</string>
+	<key>tabviewWithPlatform</key>
+	<string>durationChainLocation</string>
+</dict>
+</plist>

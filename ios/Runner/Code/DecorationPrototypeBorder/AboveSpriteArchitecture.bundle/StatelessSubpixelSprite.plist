@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStagePosition</key>
+	<string>assetScopePosition</string>
+	<key>containerDespiteStage</key>
+	<string>priorTransitionMargin</string>
+	<key>gesturedetectorScopeResponse</key>
+	<string>typicalActionSkewx</string>
+	<key>immediateMasterResponse</key>
+	<string>liteBufferKind</string>
+	<key>inactiveMissionShade</key>
+	<string>painterProcessOpacity</string>
+	<key>masterCycleBorder</key>
+	<string>dependencyAdapterType</string>
+	<key>tweenShapeTint</key>
+	<string>publicCompleterHue</string>
+</dict>
+</plist>

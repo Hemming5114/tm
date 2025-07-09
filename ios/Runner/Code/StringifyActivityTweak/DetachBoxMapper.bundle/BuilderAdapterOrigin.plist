@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeProcessType</key>
+	<string>streamUntilCycle</string>
+	<key>configurationBufferDistance</key>
+	<string>cellFromSingleton</string>
+	<key>coordinatorOutsideShape</key>
+	<string>factorySystemColor</string>
+	<key>eventInsideCycle</key>
+	<string>checklistActivityShade</string>
+	<key>futureAgainstMode</key>
+	<string>persistentCacheRight</string>
+	<key>navigationAlongType</key>
+	<string>awaitSinceTask</string>
+	<key>rowActionBound</key>
+	<string>sequentialServiceKind</string>
+	<key>sliderPrototypeShade</key>
+	<string>draggableLabelOrientation</string>
+</dict>
+</plist>

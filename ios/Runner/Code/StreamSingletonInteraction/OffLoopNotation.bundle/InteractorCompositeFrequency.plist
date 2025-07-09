@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeNavigationFormat</key>
+	<string>graphFormDensity</string>
+	<key>ignoredManagerRight</key>
+	<string>cubitAsLayer</string>
+	<key>listenerBridgeSkewx</key>
+	<string>textureAlongPhase</string>
+	<key>robustBlocFormat</key>
+	<string>normalTweenBound</string>
+	<key>sessionDecoratorRight</key>
+	<string>dynamicControllerTransparency</string>
+	<key>zonePrototypeTint</key>
+	<string>challengeNumberPadding</string>
+</dict>
+</plist>

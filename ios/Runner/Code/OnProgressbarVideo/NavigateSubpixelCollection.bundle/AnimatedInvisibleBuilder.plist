@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFrameValidation</key>
+	<string>draggableCharacterInterval</string>
+	<key>customizedPopupInterval</key>
+	<string>allocatorSingletonInset</string>
+	<key>flexScopeStatus</key>
+	<string>backwardGraphShape</string>
+	<key>geometricRowSkewx</key>
+	<string>basicLabelTail</string>
+	<key>pageviewBeyondFacade</key>
+	<string>segmentViaObserver</string>
+	<key>singleCompleterTop</key>
+	<string>sceneFrameworkSpacing</string>
+</dict>
+</plist>

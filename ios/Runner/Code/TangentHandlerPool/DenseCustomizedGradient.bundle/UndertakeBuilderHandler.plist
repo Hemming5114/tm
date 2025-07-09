@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeObserverInterval</key>
+	<string>utilFormBrightness</string>
+	<key>isolateSingletonInterval</key>
+	<string>mobileTaskAcceleration</string>
+	<key>layerMediatorResponse</key>
+	<string>consumerAdapterAppearance</string>
+	<key>listviewCompositeCoord</key>
+	<string>catalystDespiteProxy</string>
+	<key>mobileBlocRotation</key>
+	<string>radiusMementoCenter</string>
+	<key>popupProcessValidation</key>
+	<string>particleFrameworkMomentum</string>
+	<key>querySingletonIndex</key>
+	<string>staticSignatureFrequency</string>
+	<key>requestScopeMode</key>
+	<string>aspectAsMode</string>
+	<key>scaleVisitorName</key>
+	<string>appbarInterpreterBound</string>
+	<key>vectorViaNumber</key>
+	<string>completionActionInterval</string>
+</dict>
+</plist>

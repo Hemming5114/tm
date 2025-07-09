@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitInsideInterpreter</key>
+	<string>capsuleInProcess</string>
+	<key>completerUntilPattern</key>
+	<string>pinchableSampleOpacity</string>
+	<key>featureCompositeSpeed</key>
+	<string>persistentRequestShape</string>
+	<key>indicatorAsMethod</key>
+	<string>sizeScopeFormat</string>
+	<key>methodVersusMethod</key>
+	<string>ephemeralManagerMode</string>
+	<key>modalShapePosition</key>
+	<string>modelAwayStrategy</string>
+	<key>reductionOfCycle</key>
+	<string>brushInterpreterTag</string>
+	<key>scaffoldNearStyle</key>
+	<string>permissiveDocumentState</string>
+</dict>
+</plist>

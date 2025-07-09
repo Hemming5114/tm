@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBesideObserver</key>
+	<string>sensorIncludeType</string>
+	<key>blocSinceSingleton</key>
+	<string>listenerSystemRotation</string>
+	<key>consumerAroundSingleton</key>
+	<string>buttonInterpreterValidation</string>
+	<key>equalizationAndDecorator</key>
+	<string>rectDuringEnvironment</string>
+	<key>flexibleHandlerTension</key>
+	<string>mediumNavigationCount</string>
+	<key>immutableRichtextTint</key>
+	<string>rectParamTint</string>
+	<key>lossPlatformInset</key>
+	<string>cubitParameterRight</string>
+	<key>semanticEventStyle</key>
+	<string>permissiveRequestInteraction</string>
+</dict>
+</plist>

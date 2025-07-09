@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoActionFlags</key>
+	<string>routerOperationOffset</string>
+	<key>particleAdapterPadding</key>
+	<string>numericalAlignmentTop</string>
+	<key>requiredStoryboardFormat</key>
+	<string>factoryExceptFacade</string>
+	<key>samplePlatformTag</key>
+	<string>handlerVariablePosition</string>
+	<key>sliderStructureState</key>
+	<string>collectionAdapterValidation</string>
+	<key>stepFormBound</key>
+	<string>basicBufferTop</string>
+	<key>subscriptionMediatorTint</key>
+	<string>denseAnimationSkewx</string>
+</dict>
+</plist>

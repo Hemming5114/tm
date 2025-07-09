@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphTempleMomentum</key>
+	<string>similarRoleResponse</string>
+	<key>prevTableRotation</key>
+	<string>retainedLocalizationRotation</string>
+	<key>radiusOutsideComposite</key>
+	<string>repositoryProxyTransparency</string>
+	<key>stateCycleDepth</key>
+	<string>alphaUntilFlyweight</string>
+	<key>subscriptionProxyShade</key>
+	<string>intensityScopeSpeed</string>
+</dict>
+</plist>

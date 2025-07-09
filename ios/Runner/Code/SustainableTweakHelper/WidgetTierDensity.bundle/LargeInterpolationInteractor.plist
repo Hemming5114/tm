@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAnimatedcontainerLocation</key>
+	<string>menuWithoutEnvironment</string>
+	<key>gesturedetectorExceptShape</key>
+	<string>rowAmongPhase</string>
+	<key>granularQueueStyle</key>
+	<string>numericalIndicatorTheme</string>
+	<key>layerParamFeedback</key>
+	<string>skirtForObserver</string>
+	<key>managerByStrategy</key>
+	<string>usageViaShape</string>
+	<key>requiredSizedboxDensity</key>
+	<string>riverpodIncludeObserver</string>
+	<key>stateStageBorder</key>
+	<string>animatedEntitySkewx</string>
+	<key>storyboardPrototypeRotation</key>
+	<string>callbackAsVar</string>
+</dict>
+</plist>

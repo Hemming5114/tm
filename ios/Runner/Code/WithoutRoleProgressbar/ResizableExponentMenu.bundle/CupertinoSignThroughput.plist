@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCapsuleKind</key>
+	<string>dialogsModeBound</string>
+	<key>frameNumberTheme</key>
+	<string>globalProfileAcceleration</string>
+	<key>heroDecoratorEdge</key>
+	<string>kernelVersusInterpreter</string>
+	<key>logarithmParameterFeedback</key>
+	<string>requestMementoStyle</string>
+	<key>mediumUtilVisible</key>
+	<string>effectPerValue</string>
+	<key>techniqueShapeValidation</key>
+	<string>hardCompleterInterval</string>
+</dict>
+</plist>

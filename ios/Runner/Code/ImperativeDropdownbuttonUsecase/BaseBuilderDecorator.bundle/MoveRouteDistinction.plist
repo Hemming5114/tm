@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSessionMargin</key>
+	<string>asyncBufferTag</string>
+	<key>coordinatorWithoutPlatform</key>
+	<string>cupertinoStackRate</string>
+	<key>mobileDuringWork</key>
+	<string>cubeTaskColor</string>
+	<key>uniqueReductionTension</key>
+	<string>significantTickerTint</string>
+</dict>
+</plist>

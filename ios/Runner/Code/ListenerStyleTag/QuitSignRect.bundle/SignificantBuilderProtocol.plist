@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMetadataFlags</key>
+	<string>viewLikeFunction</string>
+	<key>controllerObserverPressure</key>
+	<string>staticThemeInterval</string>
+	<key>convolutionIncludeShape</key>
+	<string>unaryVarSpeed</string>
+	<key>diffableUsageDuration</key>
+	<string>entitySingletonInterval</string>
+	<key>labelDecoratorDepth</key>
+	<string>popupFromForm</string>
+	<key>petPlatformValidation</key>
+	<string>robustCapacitiesSkewy</string>
+	<key>retainedSingletonFrequency</key>
+	<string>multiScaleVisible</string>
+	<key>reusableStepFormat</key>
+	<string>topicStageForce</string>
+</dict>
+</plist>

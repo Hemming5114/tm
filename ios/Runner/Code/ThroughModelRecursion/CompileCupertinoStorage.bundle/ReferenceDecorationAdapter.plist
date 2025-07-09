@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnObserverEdge</key>
+	<string>heroProcessRotation</string>
+	<key>completerThroughMode</key>
+	<string>denseSliderRight</string>
+	<key>currentOptimizerAlignment</key>
+	<string>gridviewDuringStage</string>
+	<key>declarativeCompleterFormat</key>
+	<string>navigatorCommandTag</string>
+	<key>fixedWorkflowColor</key>
+	<string>menuSingletonTint</string>
+	<key>hardSessionEdge</key>
+	<string>alphaDuringLevel</string>
+	<key>streamAtMethod</key>
+	<string>particleMethodRight</string>
+	<key>threadNearAdapter</key>
+	<string>litePresenterDuration</string>
+</dict>
+</plist>

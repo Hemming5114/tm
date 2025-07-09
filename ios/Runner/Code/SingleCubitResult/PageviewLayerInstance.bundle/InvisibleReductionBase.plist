@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSegueShape</key>
+	<string>segmentThroughStrategy</string>
+	<key>arithmeticVersusDecorator</key>
+	<string>descriptionAgainstMediator</string>
+	<key>handlerContainInterpreter</key>
+	<string>singletonInterpreterType</string>
+	<key>integerVersusState</key>
+	<string>particlePlatformTop</string>
+	<key>labelMethodSaturation</key>
+	<string>menuEnvironmentBound</string>
+	<key>marginVarLeft</key>
+	<string>eventStageDelay</string>
+	<key>materialInterpolationBehavior</key>
+	<string>associatedScaffoldBrightness</string>
+</dict>
+</plist>

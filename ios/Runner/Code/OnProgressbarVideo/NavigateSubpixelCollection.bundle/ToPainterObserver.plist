@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBoxshadowDepth</key>
+	<string>substantialCupertinoMode</string>
+	<key>blocThanStyle</key>
+	<string>spriteByShape</string>
+	<key>dropdownbuttonVarVisibility</key>
+	<string>persistentScrollInteraction</string>
+	<key>equipmentOperationHue</key>
+	<string>mobxStyleBrightness</string>
+</dict>
+</plist>

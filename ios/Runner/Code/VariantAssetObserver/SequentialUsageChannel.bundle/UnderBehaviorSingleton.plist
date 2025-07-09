@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableLoopShade</key>
+	<string>plateAboutCommand</string>
+	<key>normOrTask</key>
+	<string>cubitFacadeRotation</string>
+	<key>resolverFunctionColor</key>
+	<string>actionViaInterpreter</string>
+	<key>sessionMethodTheme</key>
+	<string>characterTypeSkewx</string>
+</dict>
+</plist>

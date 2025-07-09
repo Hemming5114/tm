@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSubscriptionVisibility</key>
+	<string>actionModeEdge</string>
+	<key>controllerProcessSkewx</key>
+	<string>materialCheckboxTransparency</string>
+	<key>criticalTopicDepth</key>
+	<string>stackExceptMethod</string>
+	<key>disabledReducerRight</key>
+	<string>independentMaterialCount</string>
+	<key>disparateSampleMode</key>
+	<string>popupPerParam</string>
+	<key>interactiveBorderName</key>
+	<string>completerProxyInterval</string>
+	<key>responseParamBorder</key>
+	<string>completerIncludeJob</string>
+	<key>visibleInjectionState</key>
+	<string>entropyBeyondActivity</string>
+</dict>
+</plist>

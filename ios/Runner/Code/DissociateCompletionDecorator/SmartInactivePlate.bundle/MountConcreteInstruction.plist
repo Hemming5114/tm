@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFromFacade</key>
+	<string>navigationAsStructure</string>
+	<key>dynamicPriorityInterval</key>
+	<string>missedDialogsDistance</string>
+	<key>immutableButtonDepth</key>
+	<string>criticalScrollTransparency</string>
+	<key>imperativeBlocSpacing</key>
+	<string>singleDropdownbuttonBehavior</string>
+	<key>interfaceValueOrientation</key>
+	<string>immediateLayoutEdge</string>
+	<key>lastExceptionHue</key>
+	<string>sizePerActivity</string>
+	<key>offsetTierType</key>
+	<string>kernelInsideVisitor</string>
+	<key>priorityForForm</key>
+	<string>usedMobxAcceleration</string>
+	<key>sliderAwayCommand</key>
+	<string>localSliderForce</string>
+</dict>
+</plist>

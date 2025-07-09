@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellCompositeFormat</key>
+	<string>gateFrameworkMargin</string>
+	<key>originalHandlerOrigin</key>
+	<string>multiMediaAppearance</string>
+	<key>persistentClipperVelocity</key>
+	<string>originalTabbarIndex</string>
+	<key>petModeAlignment</key>
+	<string>groupForInterpreter</string>
+	<key>specifierAlongStrategy</key>
+	<string>interactorAroundLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAtDecorator</key>
+	<string>listenerFlyweightBound</string>
+	<key>cubitStateValidation</key>
+	<string>standaloneEqualizationFlags</string>
+	<key>drawerNumberLeft</key>
+	<string>grainStyleContrast</string>
+	<key>gradientOrAction</key>
+	<string>advancedSpotBrightness</string>
+	<key>providerStructureOrientation</key>
+	<string>intuitiveFutureScale</string>
+	<key>rowProcessSize</key>
+	<string>futureEnvironmentAlignment</string>
+	<key>sinkFacadeTag</key>
+	<string>apertureAmongCycle</string>
+	<key>streamCycleStyle</key>
+	<string>sequentialNavigationMomentum</string>
+</dict>
+</plist>

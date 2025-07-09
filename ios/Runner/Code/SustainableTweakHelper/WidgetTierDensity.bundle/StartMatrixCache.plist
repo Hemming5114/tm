@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAsKind</key>
+	<string>flexibleCubitFeedback</string>
+	<key>constraintPerParam</key>
+	<string>elasticMovementMode</string>
+	<key>controllerAmongType</key>
+	<string>entropyByMethod</string>
+	<key>layerTypeLocation</key>
+	<string>giftPrototypeTint</string>
+	<key>liteResultBehavior</key>
+	<string>commandModeCenter</string>
+	<key>retainedHeroCenter</key>
+	<string>accessoryAlongComposite</string>
+	<key>semanticCatalystAppearance</key>
+	<string>textfieldCommandKind</string>
+	<key>serviceOfActivity</key>
+	<string>frameUntilStrategy</string>
+</dict>
+</plist>

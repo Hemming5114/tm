@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePriorityPadding</key>
+	<string>opaqueSignatureBorder</string>
+	<key>alignmentWithFramework</key>
+	<string>binaryCompositeShape</string>
+	<key>completerOrBridge</key>
+	<string>topicAtEnvironment</string>
+	<key>configurationAsFacade</key>
+	<string>webAllocatorVisibility</string>
+	<key>grayscaleStageSkewx</key>
+	<string>anchorOfVar</string>
+	<key>loopThanCycle</key>
+	<string>titleThanStrategy</string>
+	<key>sinkAsState</key>
+	<string>statefulOutsideFlyweight</string>
+	<key>taskInMode</key>
+	<string>spineAboutVisitor</string>
+	<key>tensorLabelSize</key>
+	<string>finalIntensityDuration</string>
+</dict>
+</plist>

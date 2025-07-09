@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerExceptBridge</key>
+	<string>widgetThroughObserver</string>
+	<key>behaviorFromEnvironment</key>
+	<string>unactivatedRiverpodTop</string>
+	<key>gestureFunctionShade</key>
+	<string>advancedGrainAppearance</string>
+	<key>hyperbolicBlocDensity</key>
+	<string>modelStructureFeedback</string>
+	<key>mutableBulletTail</key>
+	<string>borderIncludeVar</string>
+	<key>persistentProjectOpacity</key>
+	<string>modelAlongCycle</string>
+	<key>profileShapeShape</key>
+	<string>standaloneRectMargin</string>
+	<key>routeFlyweightStatus</key>
+	<string>grayscaleViaMemento</string>
+	<key>semanticsMediatorDirection</key>
+	<string>richtextOutsideWork</string>
+</dict>
+</plist>

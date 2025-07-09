@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioByKind</key>
+	<string>controllerForMediator</string>
+	<key>constraintAtStage</key>
+	<string>timerLikeVariable</string>
+	<key>constraintBufferTail</key>
+	<string>monsterFlyweightOrigin</string>
+	<key>containerSingletonSpeed</key>
+	<string>autoViewSkewy</string>
+	<key>explicitServiceTail</key>
+	<string>particleChainDepth</string>
+	<key>projectTaskFormat</key>
+	<string>invisibleNormSaturation</string>
+</dict>
+</plist>

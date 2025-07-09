@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureNearLayer</key>
+	<string>utilJobState</string>
+	<key>mediumEventDistance</key>
+	<string>repositoryLevelCoord</string>
+	<key>nativePlaybackOrientation</key>
+	<string>progressbarNearComposite</string>
+	<key>radioWorkLeft</key>
+	<string>effectActivitySaturation</string>
+	<key>sessionAndMemento</key>
+	<string>independentExceptionSkewy</string>
+	<key>tweenAgainstAction</key>
+	<string>tensorCollectionColor</string>
+</dict>
+</plist>

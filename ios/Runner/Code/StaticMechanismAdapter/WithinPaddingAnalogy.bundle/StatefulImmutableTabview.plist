@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeIconStatus</key>
+	<string>sustainableSymbolAppearance</string>
+	<key>descriptionAsInterpreter</key>
+	<string>cellVarTransparency</string>
+	<key>kernelBufferValidation</key>
+	<string>alignmentCommandSpeed</string>
+	<key>normalGraphicKind</key>
+	<string>staticInjectionResponse</string>
+	<key>pageviewAsEnvironment</key>
+	<string>imageAroundVisitor</string>
+	<key>providerCycleTag</key>
+	<string>eagerCoordinatorOrientation</string>
+	<key>queueAboutVisitor</key>
+	<string>missionJobBorder</string>
+	<key>titleLevelMomentum</key>
+	<string>typicalGridDepth</string>
+	<key>widgetStateResponse</key>
+	<string>smallModelDepth</string>
+</dict>
+</plist>

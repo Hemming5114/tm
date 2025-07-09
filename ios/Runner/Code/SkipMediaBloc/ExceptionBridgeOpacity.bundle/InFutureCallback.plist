@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAsState</key>
+	<string>unsortedLoopOrientation</string>
+	<key>actionBridgeAcceleration</key>
+	<string>buttonParamOffset</string>
+	<key>containerContextContrast</key>
+	<string>scrollWithBridge</string>
+	<key>labelStrategyPressure</key>
+	<string>cardPlatformAppearance</string>
+	<key>skirtBeyondScope</key>
+	<string>accessibleStatefulKind</string>
+</dict>
+</plist>

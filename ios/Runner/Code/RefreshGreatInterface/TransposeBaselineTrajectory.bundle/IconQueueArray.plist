@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelViaValue</key>
+	<string>observerActionSpacing</string>
+	<key>completerModeBorder</key>
+	<string>dependencyAtActivity</string>
+	<key>errorAlongLayer</key>
+	<string>allocatorIncludeCycle</string>
+	<key>interfaceDespiteOperation</key>
+	<string>constraintNumberSpacing</string>
+	<key>multiplicationDuringOperation</key>
+	<string>smallServiceDelay</string>
+	<key>providerDespiteStage</key>
+	<string>customizedServiceInterval</string>
+	<key>sceneNearState</key>
+	<string>rapidTickerAppearance</string>
+	<key>swiftFunctionScale</key>
+	<string>musicThroughCommand</string>
+</dict>
+</plist>

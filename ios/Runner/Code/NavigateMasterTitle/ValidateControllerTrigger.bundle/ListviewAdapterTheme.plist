@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintLayerTag</key>
+	<string>multiplicationStageName</string>
+	<key>grainContainChain</key>
+	<string>subtleGrainFormat</string>
+	<key>heroProcessFrequency</key>
+	<string>switchVarHue</string>
+	<key>localPresenterInset</key>
+	<string>localizationAsContext</string>
+	<key>signSingletonVisible</key>
+	<string>riverpodAsContext</string>
+	<key>statelessConstraintHue</key>
+	<string>asynchronousSignatureRotation</string>
+</dict>
+</plist>

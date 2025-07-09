@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityCycleStyle</key>
+	<string>priorityChainInteraction</string>
+	<key>alignmentDuringWork</key>
+	<string>arithmeticThroughPhase</string>
+	<key>coordinatorThanAdapter</key>
+	<string>cupertinoActionBehavior</string>
+	<key>effectSingletonAlignment</key>
+	<string>subtleMapSpeed</string>
+	<key>hashWithoutLevel</key>
+	<string>reductionTierName</string>
+	<key>responsiveGateFlags</key>
+	<string>vectorActivityBorder</string>
+	<key>signatureDecoratorAcceleration</key>
+	<string>sensorAboutMode</string>
+	<key>specifierProxyHead</key>
+	<string>intuitivePetCoord</string>
+	<key>standaloneLabelHue</key>
+	<string>monsterThanVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAgainstMethod</key>
+	<string>histogramSingletonSkewx</string>
+	<key>constraintLikeParam</key>
+	<string>monsterThroughBuffer</string>
+	<key>imperativeDescriptionCount</key>
+	<string>staticTaskStyle</string>
+	<key>intuitiveQueryRate</key>
+	<string>composableSampleOffset</string>
+	<key>transformerAsEnvironment</key>
+	<string>requiredRowMargin</string>
+</dict>
+</plist>

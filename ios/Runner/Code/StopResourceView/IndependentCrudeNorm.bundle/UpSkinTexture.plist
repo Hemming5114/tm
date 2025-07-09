@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTextPosition</key>
+	<string>radioCompositeVelocity</string>
+	<key>baseSinceStage</key>
+	<string>spotSystemColor</string>
+	<key>indicatorShapeContrast</key>
+	<string>sliderVarOrigin</string>
+	<key>queueFlyweightInteraction</key>
+	<string>actionKindShade</string>
+	<key>resourceDespiteSingleton</key>
+	<string>blocProcessVisible</string>
+	<key>serviceWithFlyweight</key>
+	<string>actionAsTier</string>
+	<key>tabviewObserverHue</key>
+	<string>paddingAmongVar</string>
+	<key>tensorInstructionName</key>
+	<string>operationForParameter</string>
+</dict>
+</plist>

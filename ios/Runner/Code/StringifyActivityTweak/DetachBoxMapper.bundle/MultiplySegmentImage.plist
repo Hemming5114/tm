@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonViaState</key>
+	<string>explicitProtocolBehavior</string>
+	<key>configurationAgainstTier</key>
+	<string>featurePlatformType</string>
+	<key>greatLocalizationDepth</key>
+	<string>offsetSystemDirection</string>
+	<key>handlerIncludeBuffer</key>
+	<string>backwardStoryboardVelocity</string>
+	<key>plateAndMode</key>
+	<string>optionKindDuration</string>
+	<key>sliderContainTier</key>
+	<string>tweenVariableVisible</string>
+	<key>staticGramEdge</key>
+	<string>autoTickerSkewy</string>
+	<key>uniformActivityEdge</key>
+	<string>dynamicHashBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAdapterFrequency</key>
+	<string>usageInsideVariable</string>
+	<key>displayableSceneDepth</key>
+	<string>navigatorThroughComposite</string>
+	<key>durationStateOrientation</key>
+	<string>originalContainerSkewx</string>
+	<key>ephemeralTimerPosition</key>
+	<string>declarativeSubscriptionBound</string>
+	<key>nodeAndTier</key>
+	<string>topicNumberPosition</string>
+	<key>otherTaskTag</key>
+	<string>robustRadioFormat</string>
+	<key>reducerWithStage</key>
+	<string>grainPerContext</string>
+	<key>relationalStoreVelocity</key>
+	<string>cupertinoTierInterval</string>
+</dict>
+</plist>

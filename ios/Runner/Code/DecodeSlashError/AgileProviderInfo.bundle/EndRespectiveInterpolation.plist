@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartInFacade</key>
+	<string>activeTransformerBehavior</string>
+	<key>disabledModelKind</key>
+	<string>actionTierDelay</string>
+	<key>ephemeralDialogsFeedback</key>
+	<string>desktopCaptionAcceleration</string>
+	<key>intermediateChecklistTheme</key>
+	<string>mainDependencySize</string>
+	<key>listviewViaVariable</key>
+	<string>particleAsCycle</string>
+	<key>marginShapeTint</key>
+	<string>giftAlongComposite</string>
+	<key>rowDespiteParameter</key>
+	<string>unsortedAlignmentCenter</string>
+	<key>subpixelValueEdge</key>
+	<string>dedicatedProviderLeft</string>
+	<key>themeVarMargin</key>
+	<string>switchAtCycle</string>
+</dict>
+</plist>

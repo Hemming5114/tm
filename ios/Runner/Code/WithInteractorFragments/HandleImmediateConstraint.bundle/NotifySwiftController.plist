@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCycleHue</key>
+	<string>resourceTypeShade</string>
+	<key>coordinatorPerActivity</key>
+	<string>touchOutsideVariable</string>
+	<key>delegateInChain</key>
+	<string>compositionalAllocatorOffset</string>
+	<key>difficultResolverTint</key>
+	<string>enabledAsyncHue</string>
+	<key>pivotalCapsuleMargin</key>
+	<string>labelAlongStructure</string>
+</dict>
+</plist>

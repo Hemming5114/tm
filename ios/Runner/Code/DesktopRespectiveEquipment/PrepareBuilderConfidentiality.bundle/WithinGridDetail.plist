@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChecklistSpacing</key>
+	<string>flexibleAppbarTint</string>
+	<key>blocContainPattern</key>
+	<string>challengeNearScope</string>
+	<key>constTextCenter</key>
+	<string>taskDecoratorSpacing</string>
+	<key>elasticResultDuration</key>
+	<string>numericalPriorityBorder</string>
+	<key>responseFunctionAppearance</key>
+	<string>concreteRowOffset</string>
+	<key>threadCompositeDepth</key>
+	<string>immutableKernelTag</string>
+	<key>unsortedMonsterRate</key>
+	<string>numericalDependencyTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStageAcceleration</key>
+	<string>primaryNavigatorRotation</string>
+	<key>curveOutsideActivity</key>
+	<string>skinProxyTop</string>
+	<key>finalMetadataVelocity</key>
+	<string>popupAboutDecorator</string>
+	<key>instructionAboutTier</key>
+	<string>localizationWithoutFramework</string>
+	<key>oldButtonDirection</key>
+	<string>mediocreCommandTransparency</string>
+	<key>taskOrMediator</key>
+	<string>textfieldDuringLayer</string>
+	<key>threadAwayCommand</key>
+	<string>sineEnvironmentVelocity</string>
+	<key>tickerAndTemple</key>
+	<string>customizedModulusDistance</string>
+</dict>
+</plist>

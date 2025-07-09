@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBesidePhase</key>
+	<string>tensorPreviewTransparency</string>
+	<key>draggableRadiusCenter</key>
+	<string>reductionVarSaturation</string>
+	<key>exponentPerMethod</key>
+	<string>responseNumberLocation</string>
+	<key>getxViaTask</key>
+	<string>localizationStageFeedback</string>
+	<key>giftVarResponse</key>
+	<string>directChartInteraction</string>
+	<key>rowStyleState</key>
+	<string>integerContainVar</string>
+	<key>storePerPattern</key>
+	<string>positionUntilShape</string>
+	<key>tappableAwaitSize</key>
+	<string>symmetricAnimationName</string>
+</dict>
+</plist>

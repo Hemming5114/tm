@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedLogarithmFeedback</key>
+	<string>baselineSystemColor</string>
+	<key>iterativeGridValidation</key>
+	<string>sliderModeTension</string>
+	<key>standaloneSessionOpacity</key>
+	<string>scrollWithSingleton</string>
+	<key>widgetAdapterShape</key>
+	<string>sampleBesidePlatform</string>
+</dict>
+</plist>

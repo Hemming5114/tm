@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerExceptVariable</key>
+	<string>denseExtensionFormat</string>
+	<key>displayableColumnMode</key>
+	<string>positionCompositeAlignment</string>
+	<key>fixedAsyncOrigin</key>
+	<string>asynchronousLabelBorder</string>
+	<key>fusedResultTheme</key>
+	<string>utilObserverStatus</string>
+	<key>immutableCallbackBrightness</key>
+	<string>independentMapCount</string>
+</dict>
+</plist>

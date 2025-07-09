@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureCycleShape</key>
+	<string>vectorIncludeMediator</string>
+	<key>heroAroundShape</key>
+	<string>progressbarForStyle</string>
+	<key>listenerAboutState</key>
+	<string>layoutViaFramework</string>
+</dict>
+</plist>

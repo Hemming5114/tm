@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContainerContrast</key>
+	<string>fixedControllerSpacing</string>
+	<key>asyncPrecisionRight</key>
+	<string>queryCompositeDistance</string>
+	<key>difficultDialogsDuration</key>
+	<string>iconPerProcess</string>
+	<key>dynamicCommandHue</key>
+	<string>memberIncludeState</string>
+	<key>notificationNearComposite</key>
+	<string>globalContainerPressure</string>
+	<key>paddingObserverDepth</key>
+	<string>singleDependencyShade</string>
+	<key>presenterLevelLeft</key>
+	<string>batchNearTask</string>
+	<key>storyboardVariableSaturation</key>
+	<string>mutableAwaitSkewy</string>
+	<key>variantTempleSkewy</key>
+	<string>sharedSizeScale</string>
+</dict>
+</plist>

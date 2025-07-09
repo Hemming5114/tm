@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeResourceFlags</key>
+	<string>backwardBitrateSpeed</string>
+	<key>adaptiveExceptionVisibility</key>
+	<string>delegateAlongAction</string>
+	<key>awaitFrameworkSize</key>
+	<string>subscriptionFrameworkCoord</string>
+	<key>concurrentFactoryScale</key>
+	<string>navigationInSingleton</string>
+	<key>histogramOperationTop</key>
+	<string>chapterObserverAlignment</string>
+	<key>labelStrategySaturation</key>
+	<string>widgetOutsideStrategy</string>
+	<key>reducerIncludeVariable</key>
+	<string>spotCycleFeedback</string>
+	<key>sinkWithoutStyle</key>
+	<string>techniqueAndParameter</string>
+	<key>titleBridgeCoord</key>
+	<string>metadataUntilActivity</string>
+</dict>
+</plist>

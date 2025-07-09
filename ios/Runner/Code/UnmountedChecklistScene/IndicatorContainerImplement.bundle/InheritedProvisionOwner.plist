@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostDrawerBottom</key>
+	<string>robustImageVisibility</string>
+	<key>previewOutsideStyle</key>
+	<string>responsiveCollectionDepth</string>
+	<key>reducerFromLevel</key>
+	<string>currentCellMode</string>
+	<key>requestOrPrototype</key>
+	<string>imperativeTextInset</string>
+	<key>seamlessProjectionAlignment</key>
+	<string>sliderInsideFunction</string>
+	<key>similarLayoutScale</key>
+	<string>permissiveCommandBottom</string>
+	<key>transitionNumberShape</key>
+	<string>tweenKindCount</string>
+	<key>viewAroundValue</key>
+	<string>eagerExpandedType</string>
+</dict>
+</plist>

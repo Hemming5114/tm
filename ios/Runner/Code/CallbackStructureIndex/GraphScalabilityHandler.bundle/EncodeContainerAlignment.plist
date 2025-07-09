@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityCompositePressure</key>
+	<string>cupertinoModelIndex</string>
+	<key>associatedMaterialState</key>
+	<string>gatePerType</string>
+	<key>coordinatorEnvironmentLocation</key>
+	<string>viewAgainstForm</string>
+	<key>interactorObserverBrightness</key>
+	<string>routerTierOffset</string>
+	<key>popupAndKind</key>
+	<string>actionAmongTier</string>
+	<key>scrollableZoneRight</key>
+	<string>gatePrototypeVisible</string>
+	<key>secondNibState</key>
+	<string>tickerThroughScope</string>
+	<key>sinkTierShade</key>
+	<string>eventFlyweightHue</string>
+</dict>
+</plist>

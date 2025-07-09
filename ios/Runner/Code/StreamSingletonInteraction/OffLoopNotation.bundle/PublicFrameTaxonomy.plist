@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTaskSpacing</key>
+	<string>isolateSystemOrientation</string>
+	<key>commandPerPattern</key>
+	<string>musicCompositeTop</string>
+	<key>localBatchSpacing</key>
+	<string>actionScopeInset</string>
+	<key>permissiveInterfacePosition</key>
+	<string>directlyCellEdge</string>
+	<key>pinchableAwaitSkewy</key>
+	<string>gramPhaseRight</string>
+	<key>reusableIsolateVisibility</key>
+	<string>dynamicDelegateMomentum</string>
+	<key>sustainableHandlerForce</key>
+	<string>subscriptionFacadeValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProxyStyle</key>
+	<string>baseThroughComposite</string>
+	<key>disabledLabelAlignment</key>
+	<string>skinPerWork</string>
+	<key>exponentInsideScope</key>
+	<string>shaderMementoName</string>
+	<key>resolverBesideFacade</key>
+	<string>borderLevelCoord</string>
+	<key>routeIncludeFlyweight</key>
+	<string>positionTypeCenter</string>
+	<key>topicLikeState</key>
+	<string>statelessFormInteraction</string>
+</dict>
+</plist>

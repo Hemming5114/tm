@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryPhaseBorder</key>
+	<string>decorationAroundStage</string>
+	<key>composableControllerCenter</key>
+	<string>agileInteractorSize</string>
+	<key>dependencyFromAction</key>
+	<string>axisKindOpacity</string>
+	<key>dependencyScopeTransparency</key>
+	<string>diffableCurveSpacing</string>
+	<key>layoutOutsideCommand</key>
+	<string>tweenAsActivity</string>
+	<key>missionIncludeFunction</key>
+	<string>listenerTypeCoord</string>
+	<key>smallContainerMomentum</key>
+	<string>positionedStructureAppearance</string>
+	<key>unaryByFacade</key>
+	<string>accordionRadioPosition</string>
+</dict>
+</plist>

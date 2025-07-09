@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateIndex</key>
+	<string>permanentGridAcceleration</string>
+	<key>bufferWithVisitor</key>
+	<string>nibIncludeJob</string>
+	<key>containerDecoratorOpacity</key>
+	<string>priorVectorTransparency</string>
+	<key>durationWithoutActivity</key>
+	<string>pinchableQueryDelay</string>
+	<key>layoutVersusCycle</key>
+	<string>constraintVarStyle</string>
+	<key>persistentCommandSaturation</key>
+	<string>parallelSpriteShape</string>
+	<key>richtextMediatorFeedback</key>
+	<string>usedButtonFlags</string>
+	<key>unactivatedScaffoldVelocity</key>
+	<string>nativeCupertinoVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetInShape</key>
+	<string>arithmeticErrorBorder</string>
+	<key>commonNotifierShape</key>
+	<string>progressbarDespiteShape</string>
+	<key>delegateModePadding</key>
+	<string>mediumCellName</string>
+	<key>protocolProxyDuration</key>
+	<string>radiusAsProxy</string>
+	<key>secondMetadataColor</key>
+	<string>radiusThanOperation</string>
+	<key>stackInsideState</key>
+	<string>notifierAsProxy</string>
+</dict>
+</plist>

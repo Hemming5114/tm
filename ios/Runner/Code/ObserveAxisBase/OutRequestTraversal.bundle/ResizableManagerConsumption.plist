@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFrameworkResponse</key>
+	<string>materialSegmentSpacing</string>
+	<key>boxshadowSinceSingleton</key>
+	<string>seamlessCoordinatorEdge</string>
+	<key>configurationInsideTask</key>
+	<string>offsetVersusPlatform</string>
+	<key>controllerAdapterEdge</key>
+	<string>equalizationVersusFunction</string>
+	<key>durationPerComposite</key>
+	<string>cacheActivitySaturation</string>
+	<key>equalizationLayerName</key>
+	<string>mutableIsolateStatus</string>
+	<key>expandedNearStage</key>
+	<string>equipmentBridgeFlags</string>
+	<key>offsetAgainstAction</key>
+	<string>entityDuringValue</string>
+	<key>prismaticSinkOrigin</key>
+	<string>customCubitSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOperationSpeed</key>
+	<string>liteModelFormat</string>
+	<key>cardLikeStructure</key>
+	<string>animationActivitySpacing</string>
+	<key>dedicatedMethodBrightness</key>
+	<string>explicitSegmentDistance</string>
+	<key>groupOrBridge</key>
+	<string>elasticBlocEdge</string>
+	<key>resultIncludeBuffer</key>
+	<string>customSegmentTag</string>
+	<key>storyboardTypeRotation</key>
+	<string>matrixProcessBorder</string>
+</dict>
+</plist>

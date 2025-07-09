@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocModeTheme</key>
+	<string>reactiveIndicatorResponse</string>
+	<key>hashVariableBehavior</key>
+	<string>curveDuringActivity</string>
+	<key>layoutIncludeChain</key>
+	<string>frameAtAdapter</string>
+	<key>modelVariableAppearance</key>
+	<string>callbackSinceDecorator</string>
+	<key>prevAlertDirection</key>
+	<string>chapterFromProcess</string>
+	<key>repositoryUntilLayer</key>
+	<string>petThanPattern</string>
+	<key>resourcePrototypeTint</key>
+	<string>statelessTransitionCount</string>
+	<key>statefulVarValidation</key>
+	<string>gridviewAndType</string>
+	<key>textStyleContrast</key>
+	<string>allocatorCompositeSpeed</string>
+</dict>
+</plist>

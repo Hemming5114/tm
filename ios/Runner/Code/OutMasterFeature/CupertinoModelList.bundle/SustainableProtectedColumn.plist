@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionPlatformStyle</key>
+	<string>behaviorSinceAdapter</string>
+	<key>heapProcessTint</key>
+	<string>widgetStyleEdge</string>
+	<key>inkwellActionName</key>
+	<string>stackDecoratorSize</string>
+	<key>interpolationAboutBridge</key>
+	<string>viewFormResponse</string>
+	<key>listenerDespiteStrategy</key>
+	<string>multiDelegateTint</string>
+	<key>navigatorAtSingleton</key>
+	<string>resizableLocalizationHead</string>
+	<key>titleVarPosition</key>
+	<string>vectorAgainstOperation</string>
+</dict>
+</plist>

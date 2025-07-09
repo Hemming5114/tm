@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChallengeFlags</key>
+	<string>prismaticSpriteBorder</string>
+	<key>blocMediatorMode</key>
+	<string>channelParameterAppearance</string>
+	<key>certificateOutsideProcess</key>
+	<string>configurationFromScope</string>
+	<key>errorKindShade</key>
+	<string>inkwellPatternMargin</string>
+	<key>functionalSinkAlignment</key>
+	<string>controllerVisitorOffset</string>
+	<key>giftStyleBrightness</key>
+	<string>intensityAboutComposite</string>
+	<key>mediumCompleterVisibility</key>
+	<string>logPhaseTop</string>
+	<key>radiusAmongVisitor</key>
+	<string>stackInsideLayer</string>
+	<key>taskAndProxy</key>
+	<string>interactiveStorageBrightness</string>
+	<key>usecaseDuringVar</key>
+	<string>nativeActionAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheBesideObserver</key>
+	<string>stampExceptMemento</string>
+	<key>displayableTransitionSaturation</key>
+	<string>threadAgainstFacade</string>
+	<key>effectBeyondContext</key>
+	<string>certificateNearVisitor</string>
+	<key>operationActivityContrast</key>
+	<string>actionInsideLevel</string>
+	<key>pinchableSineTheme</key>
+	<string>navigatorForSingleton</string>
+	<key>progressbarActivityCenter</key>
+	<string>dependencyActivityFlags</string>
+	<key>tabbarTaskForce</key>
+	<string>stateStyleTag</string>
+	<key>taskOutsideWork</key>
+	<string>reducerAlongMemento</string>
+</dict>
+</plist>

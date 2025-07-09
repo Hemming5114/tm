@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChecklistInterval</key>
+	<string>interactiveOperationHue</string>
+	<key>cursorOrDecorator</key>
+	<string>animationAndStructure</string>
+	<key>decorationActivityHead</key>
+	<string>themeBridgeTop</string>
+	<key>discardedStoryboardFeedback</key>
+	<string>errorDecoratorContrast</string>
+	<key>documentContainScope</key>
+	<string>customizedResolverContrast</string>
+	<key>extensionOutsideVariable</key>
+	<string>displayableEntityOffset</string>
+	<key>layerFlyweightDelay</key>
+	<string>diversifiedReducerDirection</string>
+	<key>layoutChainRate</key>
+	<string>sliderAndFunction</string>
+	<key>segueAmongObserver</key>
+	<string>respectiveManagerOffset</string>
+</dict>
+</plist>

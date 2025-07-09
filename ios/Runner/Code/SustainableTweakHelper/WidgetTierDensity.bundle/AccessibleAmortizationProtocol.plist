@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCompositeShape</key>
+	<string>constraintForAction</string>
+	<key>animationFlyweightTheme</key>
+	<string>mediumModalOrigin</string>
+	<key>inactiveSwitchTint</key>
+	<string>durationLikeMode</string>
+	<key>nativeTransformerSkewy</key>
+	<string>retainedShaderEdge</string>
+	<key>navigatorInsideFacade</key>
+	<string>navigationAtFacade</string>
+	<key>tweenInterpreterBottom</key>
+	<string>protocolObserverRotation</string>
+</dict>
+</plist>

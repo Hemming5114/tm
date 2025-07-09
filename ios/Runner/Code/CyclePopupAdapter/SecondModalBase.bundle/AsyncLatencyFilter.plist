@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardPerVariable</key>
+	<string>intensitySinceValue</string>
+	<key>chapterViaParameter</key>
+	<string>brushLevelDelay</string>
+	<key>customizedBaselineVisibility</key>
+	<string>constToolSize</string>
+	<key>diversifiedArithmeticSaturation</key>
+	<string>basicExtensionTail</string>
+	<key>inheritedInterpolationRight</key>
+	<string>tweenPhaseDuration</string>
+	<key>missedMetadataBottom</key>
+	<string>documentLevelRotation</string>
+	<key>prevBinarySize</key>
+	<string>controllerVarContrast</string>
+	<key>projectionAroundActivity</key>
+	<string>sampleOrMethod</string>
+	<key>signKindTop</key>
+	<string>spineAwayState</string>
+</dict>
+</plist>

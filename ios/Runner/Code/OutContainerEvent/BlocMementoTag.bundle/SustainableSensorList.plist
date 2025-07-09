@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBesideJob</key>
+	<string>matrixNumberVelocity</string>
+	<key>bitrateVersusShape</key>
+	<string>frameCycleBrightness</string>
+	<key>eagerAsyncScale</key>
+	<string>labelContextStyle</string>
+	<key>temporaryConvolutionSpeed</key>
+	<string>observerFacadeDensity</string>
+	<key>titleMediatorPosition</key>
+	<string>notifierTempleBound</string>
+	<key>unactivatedExpandedResponse</key>
+	<string>usedConvolutionLocation</string>
+</dict>
+</plist>

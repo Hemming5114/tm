@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackJobContrast</key>
+	<string>curveProcessName</string>
+	<key>checklistPatternShape</key>
+	<string>sineAgainstSystem</string>
+	<key>dimensionKindCoord</key>
+	<string>transformerMediatorFormat</string>
+	<key>heapAlongBuffer</key>
+	<string>concurrentConsumerTag</string>
+	<key>switchFlyweightFrequency</key>
+	<string>queueWithoutInterpreter</string>
+	<key>usageThroughPattern</key>
+	<string>layoutVersusTemple</string>
+	<key>usecaseAroundProxy</key>
+	<string>columnStructureRotation</string>
+	<key>vectorIncludeActivity</key>
+	<string>allocatorAdapterStatus</string>
+</dict>
+</plist>

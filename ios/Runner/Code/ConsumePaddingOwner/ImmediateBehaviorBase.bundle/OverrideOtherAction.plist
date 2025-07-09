@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBufferBorder</key>
+	<string>lastThreadAppearance</string>
+	<key>constraintPrototypeBound</key>
+	<string>slashDecoratorInset</string>
+	<key>particleByStyle</key>
+	<string>indicatorSinceObserver</string>
+	<key>roleFromFramework</key>
+	<string>backwardLayerTail</string>
+	<key>routeAndChain</key>
+	<string>advancedFactoryBound</string>
+	<key>storeModeFeedback</key>
+	<string>radioStageInterval</string>
+	<key>swiftOperationOffset</key>
+	<string>overlayStyleKind</string>
+</dict>
+</plist>

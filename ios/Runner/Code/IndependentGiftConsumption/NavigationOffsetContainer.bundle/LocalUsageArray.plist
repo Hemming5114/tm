@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVariableRate</key>
+	<string>materialViaProcess</string>
+	<key>capsuleDuringProxy</key>
+	<string>binaryWithBridge</string>
+	<key>checkboxAgainstParameter</key>
+	<string>spotPatternSize</string>
+	<key>listviewWithParameter</key>
+	<string>inheritedColumnSkewy</string>
+	<key>streamOfTask</key>
+	<string>stateVersusFlyweight</string>
+	<key>textAboutBuffer</key>
+	<string>cosineIncludeProcess</string>
+</dict>
+</plist>

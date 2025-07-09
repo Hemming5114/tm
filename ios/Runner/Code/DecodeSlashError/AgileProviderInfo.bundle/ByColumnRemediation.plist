@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationSystemScale</key>
+	<string>layerPerDecorator</string>
+	<key>reactiveChannelPosition</key>
+	<string>sceneProcessSaturation</string>
+	<key>shaderTypeBound</key>
+	<string>deferredFutureBehavior</string>
+	<key>titleStructureBrightness</key>
+	<string>navigatorAdapterOpacity</string>
+	<key>workflowContextTop</key>
+	<string>metadataThanMethod</string>
+</dict>
+</plist>

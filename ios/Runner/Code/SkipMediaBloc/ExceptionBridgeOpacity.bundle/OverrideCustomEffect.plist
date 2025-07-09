@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedSignStyle</key>
+	<string>explicitNibCenter</string>
+	<key>hierarchicalScreenAppearance</key>
+	<string>normInterpreterStyle</string>
+	<key>independentOptimizerBorder</key>
+	<string>euclideanNotificationStyle</string>
+	<key>labelShapeName</key>
+	<string>basicTransformerHead</string>
+	<key>layerProcessValidation</key>
+	<string>reductionScopeVisible</string>
+	<key>layoutShapeKind</key>
+	<string>interactiveMomentumForce</string>
+	<key>normWithLayer</key>
+	<string>vectorScopeIndex</string>
+	<key>oldGemTint</key>
+	<string>baselineMethodSkewy</string>
+	<key>particleVarTail</key>
+	<string>controllerAwayEnvironment</string>
+</dict>
+</plist>

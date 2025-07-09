@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerFlyweightVisible</key>
+	<string>concreteFactoryBrightness</string>
+	<key>controllerBeyondFlyweight</key>
+	<string>asyncLayoutTop</string>
+	<key>gradientBridgeName</key>
+	<string>logAndTask</string>
+	<key>imperativeCustompaintTint</key>
+	<string>cupertinoContractionLocation</string>
+	<key>intuitiveUsageStatus</key>
+	<string>navigatorChainDirection</string>
+	<key>seamlessSizeSaturation</key>
+	<string>originalZoneDirection</string>
+</dict>
+</plist>

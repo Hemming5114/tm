@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCertificatePosition</key>
+	<string>unaryAndScope</string>
+	<key>adaptiveContainerShape</key>
+	<string>reactiveCubitIndex</string>
+	<key>blocStyleTint</key>
+	<string>primaryMasterDepth</string>
+	<key>logTypeState</key>
+	<string>columnInStructure</string>
+	<key>permissiveBrushShade</key>
+	<string>positionPatternStyle</string>
+	<key>providerOfActivity</key>
+	<string>significantCertificateBorder</string>
+	<key>textPlatformAcceleration</key>
+	<string>pageviewAboutSingleton</string>
+</dict>
+</plist>

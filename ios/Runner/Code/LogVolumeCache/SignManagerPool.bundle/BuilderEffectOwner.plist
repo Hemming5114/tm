@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchJobFormat</key>
+	<string>interactorMediatorInset</string>
+	<key>completerFrameworkBorder</key>
+	<string>certificateAtComposite</string>
+	<key>custompaintContextState</key>
+	<string>statefulBlocTheme</string>
+	<key>difficultBufferMode</key>
+	<string>directThreadFormat</string>
+	<key>heroEnvironmentSaturation</key>
+	<string>imperativeSessionInset</string>
+	<key>marginLikeProcess</key>
+	<string>capsuleBufferMargin</string>
+	<key>navigatorOfStyle</key>
+	<string>fixedStreamKind</string>
+	<key>operationFlyweightOrientation</key>
+	<string>streamScopeTransparency</string>
+	<key>permanentDrawerBehavior</key>
+	<string>alignmentActivityDirection</string>
+</dict>
+</plist>

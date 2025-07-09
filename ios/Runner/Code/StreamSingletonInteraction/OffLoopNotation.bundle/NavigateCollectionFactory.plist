@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryInsideTier</key>
+	<string>globalAnimationOrientation</string>
+	<key>compositionCommandTag</key>
+	<string>clipperInsideEnvironment</string>
+	<key>eagerGrainTop</key>
+	<string>cubitStateSpeed</string>
+	<key>expandedObserverForce</key>
+	<string>navigationShapeValidation</string>
+	<key>isolateModeHead</key>
+	<string>inheritedCursorSkewx</string>
+	<key>notificationProcessInset</key>
+	<string>mainObserverSize</string>
+	<key>smallNormEdge</key>
+	<string>providerVersusProxy</string>
+	<key>zoneDecoratorContrast</key>
+	<string>asynchronousListviewIndex</string>
+</dict>
+</plist>

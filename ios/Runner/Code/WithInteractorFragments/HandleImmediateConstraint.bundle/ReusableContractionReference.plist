@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAtInterpreter</key>
+	<string>currentShaderTop</string>
+	<key>compositionalDecorationColor</key>
+	<string>basicPositionedTransparency</string>
+	<key>optimizerWithoutSingleton</key>
+	<string>largeSinkVisibility</string>
+	<key>uniqueCursorStatus</key>
+	<string>serviceFlyweightVisible</string>
+</dict>
+</plist>

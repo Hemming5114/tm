@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAroundStrategy</key>
+	<string>dialogsFromSingleton</string>
+	<key>blocShapeDelay</key>
+	<string>secondLoopDelay</string>
+	<key>containerWithFlyweight</key>
+	<string>methodStageEdge</string>
+	<key>lastStateDirection</key>
+	<string>offsetFormScale</string>
+	<key>mobileMediatorDuration</key>
+	<string>delicateGroupCount</string>
+	<key>sampleCompositeTail</key>
+	<string>grayscaleScopeForce</string>
+</dict>
+</plist>

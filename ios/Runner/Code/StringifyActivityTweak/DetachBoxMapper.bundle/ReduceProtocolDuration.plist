@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackKindDepth</key>
+	<string>columnThroughStructure</string>
+	<key>containerSincePrototype</key>
+	<string>resizableMobileShade</string>
+	<key>dimensionPerOperation</key>
+	<string>listviewLikeFramework</string>
+	<key>previewViaAction</key>
+	<string>iterativePlaybackTransparency</string>
+	<key>stateAtProcess</key>
+	<string>multiParticleAcceleration</string>
+	<key>typicalSinkTension</key>
+	<string>graphInBridge</string>
+</dict>
+</plist>

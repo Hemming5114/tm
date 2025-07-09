@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCapsuleEdge</key>
+	<string>composableCompleterIndex</string>
+	<key>declarativeMethodAppearance</key>
+	<string>appbarStateMode</string>
+	<key>normalProjectInterval</key>
+	<string>interactorSystemDepth</string>
+	<key>robustBaselineMode</key>
+	<string>alignmentParamShape</string>
+	<key>tappableProgressbarOffset</key>
+	<string>constListviewMode</string>
+</dict>
+</plist>

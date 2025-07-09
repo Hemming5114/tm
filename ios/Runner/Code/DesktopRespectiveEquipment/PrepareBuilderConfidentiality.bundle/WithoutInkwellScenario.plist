@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeEventLeft</key>
+	<string>reusableLocalizationTint</string>
+	<key>resolverSinceFacade</key>
+	<string>containerOperationState</string>
+	<key>routeAlongFacade</key>
+	<string>logDuringSystem</string>
+</dict>
+</plist>

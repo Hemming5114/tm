@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPerBridge</key>
+	<string>rectPhaseFrequency</string>
+	<key>dynamicLayoutInset</key>
+	<string>singletonContainVariable</string>
+	<key>injectionAtPlatform</key>
+	<string>pageviewProcessTag</string>
+	<key>localizationDuringObserver</key>
+	<string>injectionPerTask</string>
+	<key>sophisticatedGridLocation</key>
+	<string>topicParamHue</string>
+	<key>webIndicatorSpeed</key>
+	<string>viewMethodKind</string>
+</dict>
+</plist>

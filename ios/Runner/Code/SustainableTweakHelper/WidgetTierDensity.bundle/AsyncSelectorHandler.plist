@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerParamStatus</key>
+	<string>listenerAndMediator</string>
+	<key>deferredGemShape</key>
+	<string>directlyConstraintVelocity</string>
+	<key>gridviewAgainstShape</key>
+	<string>threadForJob</string>
+	<key>listviewFormTail</key>
+	<string>durationTypeValidation</string>
+	<key>specifySliderIndex</key>
+	<string>globalDescriptionOrigin</string>
+	<key>textBeyondLayer</key>
+	<string>heroMediatorRate</string>
+</dict>
+</plist>

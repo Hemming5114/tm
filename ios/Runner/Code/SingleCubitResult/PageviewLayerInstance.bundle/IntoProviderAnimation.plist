@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftTypeMargin</key>
+	<string>viewDecoratorSaturation</string>
+	<key>screenVisitorDelay</key>
+	<string>listenerAndEnvironment</string>
+	<key>scrollOperationDirection</key>
+	<string>routerAdapterRight</string>
+</dict>
+</plist>

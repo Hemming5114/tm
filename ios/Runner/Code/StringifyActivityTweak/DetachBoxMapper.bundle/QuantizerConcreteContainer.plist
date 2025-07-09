@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTypeInteraction</key>
+	<string>actionVariableTint</string>
+	<key>eagerTickerTransparency</key>
+	<string>mobxTempleCoord</string>
+	<key>featureExceptComposite</key>
+	<string>dynamicLabelFrequency</string>
+	<key>futureLikePlatform</key>
+	<string>localizationOutsideLayer</string>
+	<key>momentumAroundMediator</key>
+	<string>rapidCompleterTransparency</string>
+	<key>painterMethodMargin</key>
+	<string>mobileAnimationKind</string>
+	<key>sliderBeyondState</key>
+	<string>richtextCompositeIndex</string>
+	<key>stepSinceNumber</key>
+	<string>zoneFlyweightOrientation</string>
+	<key>touchChainDensity</key>
+	<string>enabledOffsetShade</string>
+	<key>widgetByFunction</key>
+	<string>webSemanticsContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioContainMemento</key>
+	<string>stackInKind</string>
+	<key>captionFrameworkFormat</key>
+	<string>graphicFacadeStyle</string>
+	<key>channelJobKind</key>
+	<string>shaderMementoBorder</string>
+	<key>commandStructureAppearance</key>
+	<string>layoutInEnvironment</string>
+	<key>constIsolateInteraction</key>
+	<string>fixedIntensitySpeed</string>
+	<key>semanticIsolateEdge</key>
+	<string>slashAboutMode</string>
+</dict>
+</plist>

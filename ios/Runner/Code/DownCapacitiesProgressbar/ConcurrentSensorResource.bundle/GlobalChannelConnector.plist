@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoColumnColor</key>
+	<string>resizableKernelCoord</string>
+	<key>batchDespiteValue</key>
+	<string>previewViaInterpreter</string>
+	<key>buttonContextPressure</key>
+	<string>hardProviderForce</string>
+	<key>dimensionAboutContext</key>
+	<string>responsiveBufferOrientation</string>
+	<key>elasticChartFrequency</key>
+	<string>movementDecoratorRotation</string>
+	<key>queueOperationDelay</key>
+	<string>asyncCallbackCenter</string>
+	<key>singletonAsAdapter</key>
+	<string>decorationScopeBehavior</string>
+</dict>
+</plist>

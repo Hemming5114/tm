@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerCommandVisibility</key>
+	<string>storyboardSinceLevel</string>
+	<key>coordinatorThroughVariable</key>
+	<string>animationPatternDepth</string>
+	<key>groupFromPrototype</key>
+	<string>radiusForState</string>
+	<key>isolateByMediator</key>
+	<string>specifierLikeForm</string>
+</dict>
+</plist>

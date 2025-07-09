@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentTierDelay</key>
+	<string>labelWorkPressure</string>
+	<key>intuitiveMasterMode</key>
+	<string>queueOrVariable</string>
+	<key>listenerDespiteInterpreter</key>
+	<string>columnStageState</string>
+	<key>mediaAtPattern</key>
+	<string>materialCompleterSaturation</string>
+	<key>retainedPageviewOpacity</key>
+	<string>containerCycleRotation</string>
+	<key>segueInStyle</key>
+	<string>allocatorLevelRight</string>
+	<key>sequentialVectorTop</key>
+	<string>sliderAgainstSystem</string>
+	<key>shaderWithoutFramework</key>
+	<string>grainScopeOffset</string>
+</dict>
+</plist>

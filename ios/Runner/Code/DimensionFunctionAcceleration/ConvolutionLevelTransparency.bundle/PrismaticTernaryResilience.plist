@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCycleFlags</key>
+	<string>adaptiveReductionRotation</string>
+	<key>compositionalCubitEdge</key>
+	<string>uniqueProviderFeedback</string>
+	<key>intermediateTaskTag</key>
+	<string>subpixelThanPlatform</string>
+	<key>momentumBufferBound</key>
+	<string>matrixAtTier</string>
+	<key>particleForStyle</key>
+	<string>delegateFrameworkOrigin</string>
+	<key>responseProxyFormat</key>
+	<string>titleInPrototype</string>
+	<key>sensorTempleRight</key>
+	<string>sceneStyleBehavior</string>
+	<key>touchCommandTop</key>
+	<string>handlerAtVariable</string>
+	<key>usageInterpreterContrast</key>
+	<string>timerCommandHead</string>
+</dict>
+</plist>

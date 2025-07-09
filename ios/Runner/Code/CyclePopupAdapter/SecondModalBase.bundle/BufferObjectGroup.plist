@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monsterAlongPlatform</key>
+	<string>asyncModeLeft</string>
+	<key>stateBufferVisible</key>
+	<string>extensionOutsidePhase</string>
+	<key>switchStrategyForce</key>
+	<string>iterativeConfigurationPosition</string>
+	<key>widgetVariableDelay</key>
+	<string>positionedModeFlags</string>
+</dict>
+</plist>

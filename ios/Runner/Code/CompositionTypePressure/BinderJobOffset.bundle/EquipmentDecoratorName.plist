@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSampleRate</key>
+	<string>shaderPlatformDelay</string>
+	<key>inactiveMediaqueryVisibility</key>
+	<string>completionContainDecorator</string>
+	<key>invisibleReducerShape</key>
+	<string>delegateCommandColor</string>
+	<key>mutableLayerSkewy</key>
+	<string>bitrateSystemBorder</string>
+	<key>otherScrollBorder</key>
+	<string>arithmeticCharacterBound</string>
+	<key>sortedFutureMode</key>
+	<string>tangentOrChain</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShapeMargin</key>
+	<string>channelsParamDuration</string>
+	<key>batchWorkStatus</key>
+	<string>widgetForSystem</string>
+	<key>channelActivityAppearance</key>
+	<string>widgetPlatformInterval</string>
+	<key>coordinatorAdapterMargin</key>
+	<string>accessibleRichtextRate</string>
+	<key>elasticTabbarBrightness</key>
+	<string>notificationFromState</string>
+	<key>inkwellNearTask</key>
+	<string>composableIsolateInterval</string>
+	<key>interactorJobCenter</key>
+	<string>tweenBeyondFunction</string>
+	<key>mediocreProviderLeft</key>
+	<string>interactiveServicePosition</string>
+</dict>
+</plist>

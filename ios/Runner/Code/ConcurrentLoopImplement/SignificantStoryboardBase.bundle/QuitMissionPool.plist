@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetKindCenter</key>
+	<string>spriteTierPosition</string>
+	<key>effectInsidePlatform</key>
+	<string>denseFutureFrequency</string>
+	<key>gramActivitySkewy</key>
+	<string>textureWithoutMemento</string>
+	<key>slashMediatorRate</key>
+	<string>curveAsBuffer</string>
+	<key>smallSegmentBorder</key>
+	<string>mutableRouterTop</string>
+</dict>
+</plist>

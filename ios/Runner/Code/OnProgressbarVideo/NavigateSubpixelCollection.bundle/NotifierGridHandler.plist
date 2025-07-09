@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFacadeSkewy</key>
+	<string>immediateAnimationBrightness</string>
+	<key>featurePhaseVelocity</key>
+	<string>controllerForChain</string>
+	<key>loopPhaseInset</key>
+	<string>inkwellOperationBorder</string>
+	<key>shaderForType</key>
+	<string>tweenVisitorHue</string>
+	<key>subscriptionAtOperation</key>
+	<string>requestOrLevel</string>
+	<key>workflowStyleMode</key>
+	<string>themeFlyweightState</string>
+</dict>
+</plist>

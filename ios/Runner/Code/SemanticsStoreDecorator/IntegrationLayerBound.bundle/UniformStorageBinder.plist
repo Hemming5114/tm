@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveTierSaturation</key>
+	<string>previewVisitorMomentum</string>
+	<key>dedicatedSpotSaturation</key>
+	<string>assetForKind</string>
+	<key>sinkLayerValidation</key>
+	<string>transitionCommandIndex</string>
+	<key>subpixelKindDepth</key>
+	<string>granularReducerMode</string>
+	<key>unsortedMediaCenter</key>
+	<string>statelessPrototypePosition</string>
+	<key>workflowVisitorState</key>
+	<string>dependencyOrChain</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyLayerTheme</key>
+	<string>priorityMethodLocation</string>
+	<key>enabledResultSkewx</key>
+	<string>greatAsyncCount</string>
+	<key>featureWithEnvironment</key>
+	<string>serviceActivityRate</string>
+	<key>labelCommandOrientation</key>
+	<string>channelsStructureTension</string>
+	<key>menuChainTheme</key>
+	<string>transitionViaMode</string>
+	<key>menuStateRotation</key>
+	<string>grainVersusType</string>
+	<key>playbackValueVisibility</key>
+	<string>reusableRouteInset</string>
+	<key>textVersusPrototype</key>
+	<string>seamlessSizedboxColor</string>
+	<key>workflowProcessRotation</key>
+	<string>gemAndLevel</string>
+</dict>
+</plist>

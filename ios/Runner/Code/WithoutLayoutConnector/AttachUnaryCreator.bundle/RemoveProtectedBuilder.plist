@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPatternFlags</key>
+	<string>projectLayerStatus</string>
+	<key>apertureOfLevel</key>
+	<string>liteWidgetValidation</string>
+	<key>dependencyOfProcess</key>
+	<string>textAgainstState</string>
+	<key>directPositionColor</key>
+	<string>oldScreenVelocity</string>
+	<key>eagerFrameTheme</key>
+	<string>scrollableRemainderHue</string>
+	<key>effectProcessTheme</key>
+	<string>durationSystemSpeed</string>
+	<key>futureCompositeStyle</key>
+	<string>accordionTransitionAppearance</string>
+	<key>interactorCycleDirection</key>
+	<string>resourceBeyondStage</string>
+	<key>observerIncludeFacade</key>
+	<string>alphaActionRotation</string>
+	<key>progressbarFacadeCount</key>
+	<string>positionedIncludeAction</string>
+</dict>
+</plist>

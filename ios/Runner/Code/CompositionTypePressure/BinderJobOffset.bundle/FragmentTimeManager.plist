@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableConstraintTransparency</key>
+	<string>anchorThroughVariable</string>
+	<key>factoryIncludeAction</key>
+	<string>threadOrComposite</string>
+	<key>futureVisitorBottom</key>
+	<string>eventTypeSaturation</string>
+	<key>hashExceptBuffer</key>
+	<string>interfaceOrOperation</string>
+	<key>nibOrMediator</key>
+	<string>interactorStateContrast</string>
+	<key>persistentStampShape</key>
+	<string>requestWithoutState</string>
+	<key>serviceOperationResponse</key>
+	<string>projectAmongJob</string>
+	<key>stateAtAction</key>
+	<string>synchronousGrainPressure</string>
+</dict>
+</plist>

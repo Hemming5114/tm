@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewFromWork</key>
+	<string>sceneParameterVisible</string>
+	<key>handlerOrCommand</key>
+	<string>topicFunctionTag</string>
+	<key>inheritedStreamTheme</key>
+	<string>methodOrParameter</string>
+	<key>normActionHue</key>
+	<string>slashAndScope</string>
+</dict>
+</plist>

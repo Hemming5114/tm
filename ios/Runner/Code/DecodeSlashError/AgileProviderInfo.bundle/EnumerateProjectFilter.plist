@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVariableSpacing</key>
+	<string>compositionalSkinMargin</string>
+	<key>bulletSingletonOpacity</key>
+	<string>activatedActivityTag</string>
+	<key>gramFacadeRotation</key>
+	<string>fusedRoleColor</string>
+	<key>heroObserverScale</key>
+	<string>errorActivityScale</string>
+	<key>immutableQueueCount</key>
+	<string>tweenPerJob</string>
+	<key>modelUntilProxy</key>
+	<string>stepFormState</string>
+	<key>permissiveSceneMargin</key>
+	<string>independentSinkSpacing</string>
+	<key>progressbarVisitorBrightness</key>
+	<string>storeDuringLevel</string>
+	<key>respectiveExponentFeedback</key>
+	<string>usageDespiteScope</string>
+</dict>
+</plist>

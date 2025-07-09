@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStateSpeed</key>
+	<string>streamViaContext</string>
+	<key>coordinatorBeyondMediator</key>
+	<string>stackWithShape</string>
+	<key>durationNearPrototype</key>
+	<string>chartCycleVelocity</string>
+	<key>multiplicationAlongStrategy</key>
+	<string>assetMediatorDirection</string>
+	<key>nextViewPadding</key>
+	<string>instructionAroundVisitor</string>
+	<key>routeAroundObserver</key>
+	<string>profileIncludeValue</string>
+	<key>spineCommandAlignment</key>
+	<string>usageOrMethod</string>
+</dict>
+</plist>

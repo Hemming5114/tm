@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAboutCycle</key>
+	<string>providerStyleType</string>
+	<key>delegatePerStage</key>
+	<string>denseWidgetState</string>
+	<key>easySizeType</key>
+	<string>streamDuringJob</string>
+	<key>mainPreviewSize</key>
+	<string>opaqueAnimationTheme</string>
+	<key>oldPromiseShade</key>
+	<string>lastLocalizationCount</string>
+	<key>transformerObserverHue</key>
+	<string>materialByPattern</string>
+</dict>
+</plist>

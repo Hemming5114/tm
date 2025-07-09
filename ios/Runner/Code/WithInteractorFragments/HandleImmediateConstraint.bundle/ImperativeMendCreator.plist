@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetShapeHue</key>
+	<string>observerValueResponse</string>
+	<key>constraintStateFeedback</key>
+	<string>publicInteractorForce</string>
+	<key>featureByForm</key>
+	<string>queryAboutFacade</string>
+	<key>fragmentUntilChain</key>
+	<string>staticCubitLocation</string>
+	<key>switchAtState</key>
+	<string>exceptionOrState</string>
+	<key>tabbarAndObserver</key>
+	<string>easyStateTension</string>
+	<key>visibleCupertinoDensity</key>
+	<string>activityOperationTension</string>
+</dict>
+</plist>

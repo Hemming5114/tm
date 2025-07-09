@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmJobTop</key>
+	<string>gradientTempleSpeed</string>
+	<key>oldDescriptorBehavior</key>
+	<string>immediateIntegerSpacing</string>
+	<key>resolverDespitePlatform</key>
+	<string>declarativePromiseSpeed</string>
+	<key>sharedSliderInset</key>
+	<string>labelNumberSpacing</string>
+</dict>
+</plist>

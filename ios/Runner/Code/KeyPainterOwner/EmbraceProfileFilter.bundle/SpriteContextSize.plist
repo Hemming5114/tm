@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDecoratorBehavior</key>
+	<string>dialogsBridgeBottom</string>
+	<key>cupertinoFacadeAcceleration</key>
+	<string>hardWidgetFormat</string>
+	<key>draggableServiceScale</key>
+	<string>immutableLossShade</string>
+	<key>prevSegmentDelay</key>
+	<string>multiGemColor</string>
+	<key>unactivatedOperationDensity</key>
+	<string>firstIntensityTension</string>
+	<key>widgetStructureAppearance</key>
+	<string>scrollableTextfieldStyle</string>
+</dict>
+</plist>

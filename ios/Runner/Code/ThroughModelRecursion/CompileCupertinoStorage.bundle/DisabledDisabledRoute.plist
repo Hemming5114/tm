@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLayerVisibility</key>
+	<string>materialUntilFramework</string>
+	<key>coordinatorTaskShape</key>
+	<string>heapOrSystem</string>
+	<key>firstMomentumSaturation</key>
+	<string>gradientVersusMode</string>
+	<key>hierarchicalDelegateBound</key>
+	<string>skirtBeyondVisitor</string>
+	<key>priorityCompositeSaturation</key>
+	<string>difficultNavigatorMomentum</string>
+	<key>singletonForShape</key>
+	<string>scaleModeAppearance</string>
+	<key>storageTypeRate</key>
+	<string>semanticTickerOrientation</string>
+	<key>timerOfVisitor</key>
+	<string>reducerMethodDelay</string>
+	<key>unactivatedSpriteRotation</key>
+	<string>protocolCommandDirection</string>
+</dict>
+</plist>

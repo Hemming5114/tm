@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonNearParam</key>
+	<string>localDecorationBorder</string>
+	<key>collectionValueVisibility</key>
+	<string>declarativeCacheTag</string>
+	<key>consultativeDependencyFormat</key>
+	<string>currentTopicHue</string>
+	<key>deferredVariantColor</key>
+	<string>elasticAllocatorType</string>
+	<key>interactorDespiteParam</key>
+	<string>iconIncludeOperation</string>
+	<key>particleProcessSpacing</key>
+	<string>composableCurveValidation</string>
+</dict>
+</plist>

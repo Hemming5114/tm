@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAllocatorSkewx</key>
+	<string>curveContainProcess</string>
+	<key>advancedMaterialKind</key>
+	<string>positionProcessMargin</string>
+	<key>capsuleIncludeFlyweight</key>
+	<string>frameLevelSkewx</string>
+	<key>collectionDecoratorTheme</key>
+	<string>interfaceAboutSingleton</string>
+	<key>crucialDependencySpeed</key>
+	<string>navigatorAtProcess</string>
+	<key>dynamicFrameAlignment</key>
+	<string>positionedAroundMethod</string>
+	<key>factoryCommandState</key>
+	<string>arithmeticTempleScale</string>
+	<key>listenerSystemDelay</key>
+	<string>documentSingletonScale</string>
+	<key>mobxBeyondAction</key>
+	<string>bufferBridgeMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonListenerBehavior</key>
+	<string>threadInsideJob</string>
+	<key>deferredIntegerVisibility</key>
+	<string>signatureProcessHue</string>
+	<key>iconMementoOpacity</key>
+	<string>dependencyInsideEnvironment</string>
+	<key>secondCaptionContrast</key>
+	<string>toolContextShade</string>
+	<key>subpixelFormIndex</key>
+	<string>offsetForFramework</string>
+	<key>transformerStateName</key>
+	<string>seamlessPreviewColor</string>
+</dict>
+</plist>

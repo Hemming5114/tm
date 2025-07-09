@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStrategyShape</key>
+	<string>accessoryByType</string>
+	<key>columnCycleFlags</key>
+	<string>fixedMethodRotation</string>
+	<key>plateMethodInteraction</key>
+	<string>scrollableQueueShape</string>
+	<key>reactiveSampleVisibility</key>
+	<string>curveProcessDirection</string>
+	<key>routerViaStructure</key>
+	<string>tensorViewAcceleration</string>
+	<key>storageTypeAcceleration</key>
+	<string>challengeContainNumber</string>
+</dict>
+</plist>

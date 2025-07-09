@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardContextInteraction</key>
+	<string>localizationInterpreterFeedback</string>
+	<key>criticalVectorType</key>
+	<string>smartExpandedMargin</string>
+	<key>logForProcess</key>
+	<string>rowInMemento</string>
+	<key>projectionVarInset</key>
+	<string>reactiveFramePadding</string>
+	<key>reducerLevelDepth</key>
+	<string>transformerAndSingleton</string>
+	<key>routerStyleDistance</key>
+	<string>secondMonsterDistance</string>
+	<key>scaleForType</key>
+	<string>progressbarFacadeState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityParamContrast</key>
+	<string>composableLayerHue</string>
+	<key>isolateObserverOpacity</key>
+	<string>tappableLayerResponse</string>
+	<key>keyActionMomentum</key>
+	<string>slashOperationStatus</string>
+	<key>publicSignatureFlags</key>
+	<string>collectionFrameworkPadding</string>
+	<key>temporaryFutureStyle</key>
+	<string>textThanProcess</string>
+	<key>timerAgainstProxy</key>
+	<string>localPainterFeedback</string>
+</dict>
+</plist>

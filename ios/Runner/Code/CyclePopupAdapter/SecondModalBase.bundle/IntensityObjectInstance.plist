@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestRectMargin</key>
+	<string>menuAroundFramework</string>
+	<key>presenterValueAlignment</key>
+	<string>groupThroughFacade</string>
+	<key>sceneNumberRate</key>
+	<string>asyncAndChain</string>
+	<key>unactivatedAlphaPressure</key>
+	<string>resilientHandlerStatus</string>
+</dict>
+</plist>

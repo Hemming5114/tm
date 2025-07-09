@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonJobDelay</key>
+	<string>persistentGraphicSkewy</string>
+	<key>gateInParameter</key>
+	<string>normModeOffset</string>
+	<key>graphicPlatformVelocity</key>
+	<string>mobileActionDepth</string>
+	<key>normalControllerRotation</key>
+	<string>fusedNodeForce</string>
+	<key>statefulListenerAcceleration</key>
+	<string>tableForScope</string>
+</dict>
+</plist>

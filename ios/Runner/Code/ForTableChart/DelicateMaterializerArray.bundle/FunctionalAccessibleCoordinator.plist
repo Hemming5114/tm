@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromPrototype</key>
+	<string>streamWithoutFlyweight</string>
+	<key>buttonAlongMemento</key>
+	<string>symmetricInterfaceLeft</string>
+	<key>checkboxOutsideProxy</key>
+	<string>listenerLikeMediator</string>
+	<key>gradientNumberMode</key>
+	<string>associatedTitleContrast</string>
+	<key>repositoryValueRate</key>
+	<string>listenerStructureBehavior</string>
+	<key>tensorMediaDensity</key>
+	<string>handlerVersusPhase</string>
+	<key>uniformSpotEdge</key>
+	<string>roleOfWork</string>
+</dict>
+</plist>

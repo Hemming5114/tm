@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStateColor</key>
+	<string>indicatorParameterSpeed</string>
+	<key>liteResolverTag</key>
+	<string>sampleProcessOpacity</string>
+	<key>permanentReferenceBehavior</key>
+	<string>dynamicPopupBehavior</string>
+	<key>resourceStageMomentum</key>
+	<string>observerStateTail</string>
+	<key>riverpodCommandPosition</key>
+	<string>commonAnimationVisible</string>
+	<key>scrollableCosineLocation</key>
+	<string>graphMediatorMode</string>
+	<key>slashInsideProxy</key>
+	<string>mobxProxyRight</string>
+	<key>textDecoratorTension</key>
+	<string>accordionConstraintTag</string>
+</dict>
+</plist>

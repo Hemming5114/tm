@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVarRotation</key>
+	<string>axisShapeSkewy</string>
+	<key>clipperVisitorLocation</key>
+	<string>viewExceptVisitor</string>
+	<key>cubeProcessInset</key>
+	<string>boxOperationBottom</string>
+	<key>isolateViaLevel</key>
+	<string>metadataStrategyDelay</string>
+	<key>labelAboutPattern</key>
+	<string>containerObserverBehavior</string>
+	<key>resolverSystemForce</key>
+	<string>immediateSwiftDuration</string>
+</dict>
+</plist>

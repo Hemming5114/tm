@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryEnvironmentDistance</key>
+	<string>resourceAgainstOperation</string>
+	<key>cubitByStrategy</key>
+	<string>geometricCoordinatorPressure</string>
+	<key>delegateDespiteFlyweight</key>
+	<string>descriptionAsWork</string>
+	<key>desktopResolverFormat</key>
+	<string>builderLevelVisibility</string>
+	<key>durationValueOrigin</key>
+	<string>elasticSpecifierFlags</string>
+	<key>groupBufferSize</key>
+	<string>isolateByStage</string>
+	<key>materialCachePadding</key>
+	<string>viewLikeMediator</string>
+	<key>methodBeyondMediator</key>
+	<string>asynchronousExtensionDensity</string>
+	<key>skinMementoSkewx</key>
+	<string>notifierChainDuration</string>
+</dict>
+</plist>

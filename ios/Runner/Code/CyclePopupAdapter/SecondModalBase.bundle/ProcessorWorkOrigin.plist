@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUntilSystem</key>
+	<string>rowForOperation</string>
+	<key>configurationViaBuffer</key>
+	<string>streamPhaseSize</string>
+	<key>sliderInsideOperation</key>
+	<string>oldAxisCenter</string>
+	<key>stackShapeBehavior</key>
+	<string>optimizerForPrototype</string>
+	<key>textLayerVisibility</key>
+	<string>otherLabelCoord</string>
+	<key>usedLayerState</key>
+	<string>cartesianDrawerDuration</string>
+</dict>
+</plist>

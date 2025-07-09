@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureCompositeFlags</key>
+	<string>imperativeCompletionDepth</string>
+	<key>immediateSingletonTransparency</key>
+	<string>equalizationWithoutWork</string>
+	<key>layoutBeyondWork</key>
+	<string>rowDuringSingleton</string>
+	<key>lostInkwellRotation</key>
+	<string>precisionValueRight</string>
+	<key>missedStepIndex</key>
+	<string>invisibleLocalizationContrast</string>
+	<key>projectAsLayer</key>
+	<string>taskModeState</string>
+	<key>streamBeyondFunction</key>
+	<string>notificationStrategySkewx</string>
+	<key>substantialCompositionFeedback</key>
+	<string>tableFormDensity</string>
+	<key>tickerProxyDistance</key>
+	<string>spriteObserverEdge</string>
+</dict>
+</plist>

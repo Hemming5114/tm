@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBeyondStructure</key>
+	<string>stackKindColor</string>
+	<key>delegateKindSkewy</key>
+	<string>skirtStyleCenter</string>
+	<key>gestureBridgeDensity</key>
+	<string>immutableCompleterFrequency</string>
+	<key>sensorShapeTheme</key>
+	<string>buttonKindShape</string>
+	<key>texturePerTier</key>
+	<string>logarithmBufferBottom</string>
+	<key>variantTemplePadding</key>
+	<string>animationFrameworkHead</string>
+</dict>
+</plist>

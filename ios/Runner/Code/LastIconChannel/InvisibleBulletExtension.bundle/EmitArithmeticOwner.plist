@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAndPrototype</key>
+	<string>sliderCycleSpeed</string>
+	<key>coordinatorBufferLeft</key>
+	<string>cursorInsideCycle</string>
+	<key>delicateMenuSkewx</key>
+	<string>profileObserverSkewy</string>
+	<key>drawerThanFramework</key>
+	<string>constraintActionValidation</string>
+	<key>multiUnaryScale</key>
+	<string>semanticConstraintScale</string>
+	<key>responsiveTweenVelocity</key>
+	<string>customizedReducerTag</string>
+	<key>sharedCallbackFormat</key>
+	<string>nativeAwaitTail</string>
+</dict>
+</plist>

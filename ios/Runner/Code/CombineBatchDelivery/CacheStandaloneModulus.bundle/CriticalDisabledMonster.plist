@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAroundMediator</key>
+	<string>globalMobileOrientation</string>
+	<key>priorEntityAlignment</key>
+	<string>gesturedetectorStageBorder</string>
+	<key>radiusInStructure</key>
+	<string>screenLevelOrigin</string>
+	<key>reusableFutureIndex</key>
+	<string>disabledListenerInteraction</string>
+	<key>serviceProxyVisible</key>
+	<string>graphJobSize</string>
+	<key>stateVariableTop</key>
+	<string>commandSinceAdapter</string>
+	<key>timerTempleBorder</key>
+	<string>asyncMementoPosition</string>
+	<key>toolBufferOpacity</key>
+	<string>parallelCompleterMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonParameterOrientation</key>
+	<string>menuWithoutAdapter</string>
+	<key>entityAdapterTransparency</key>
+	<string>storeIncludeAdapter</string>
+	<key>graphicAtContext</key>
+	<string>tickerForBridge</string>
+	<key>handlerThroughScope</key>
+	<string>reusableChecklistSkewy</string>
+	<key>roleFromEnvironment</key>
+	<string>bitrateForStructure</string>
+	<key>topicUntilVariable</key>
+	<string>effectBesideForm</string>
+</dict>
+</plist>

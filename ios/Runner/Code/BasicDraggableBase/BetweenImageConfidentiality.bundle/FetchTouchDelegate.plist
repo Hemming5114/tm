@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledChannelsBorder</key>
+	<string>awaitActionState</string>
+	<key>prismaticDropdownbuttonFeedback</key>
+	<string>custompaintOfStyle</string>
+	<key>tickerAroundPlatform</key>
+	<string>otherMonsterTheme</string>
+	<key>timerBufferDuration</key>
+	<string>equipmentExceptAction</string>
+</dict>
+</plist>

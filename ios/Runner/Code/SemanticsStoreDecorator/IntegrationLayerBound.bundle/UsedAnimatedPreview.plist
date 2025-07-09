@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateChainOrientation</key>
+	<string>sinkFromCommand</string>
+	<key>injectionTypeSaturation</key>
+	<string>eventStrategyDelay</string>
+	<key>pivotalDialogsState</key>
+	<string>popupCommandEdge</string>
+	<key>spotPerSystem</key>
+	<string>resolverFormShade</string>
+	<key>vectorAdapterBrightness</key>
+	<string>immediateScaleBrightness</string>
+</dict>
+</plist>

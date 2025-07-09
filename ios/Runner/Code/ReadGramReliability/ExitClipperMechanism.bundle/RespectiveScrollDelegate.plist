@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterpreterFeedback</key>
+	<string>heapObserverFormat</string>
+	<key>borderForMethod</key>
+	<string>asyncForScope</string>
+	<key>cupertinoAlongStyle</key>
+	<string>loopStyleCenter</string>
+	<key>nativeSpriteSaturation</key>
+	<string>lazySceneTransparency</string>
+	<key>resourceAboutPhase</key>
+	<string>invisibleAllocatorShape</string>
+</dict>
+</plist>

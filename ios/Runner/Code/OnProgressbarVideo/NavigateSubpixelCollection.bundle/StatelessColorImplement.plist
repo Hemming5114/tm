@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAsProxy</key>
+	<string>animationOperationAppearance</string>
+	<key>dependencySinceVisitor</key>
+	<string>rectByComposite</string>
+	<key>graphActionValidation</key>
+	<string>labelForMemento</string>
+	<key>offsetNearVisitor</key>
+	<string>gateAtVisitor</string>
+	<key>queryVariableBottom</key>
+	<string>variantExceptJob</string>
+	<key>scaffoldCycleBorder</key>
+	<string>streamActionTheme</string>
+	<key>scaffoldTierSaturation</key>
+	<string>factoryAlongMemento</string>
+	<key>sinkOfPattern</key>
+	<string>customizedCupertinoOpacity</string>
+	<key>tappableDecorationForce</key>
+	<string>timerWithSingleton</string>
+</dict>
+</plist>

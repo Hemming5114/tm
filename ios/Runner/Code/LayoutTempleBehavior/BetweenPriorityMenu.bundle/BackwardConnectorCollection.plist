@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActivitySpacing</key>
+	<string>logByCommand</string>
+	<key>boxshadowEnvironmentFeedback</key>
+	<string>themeLayerName</string>
+	<key>gestureThroughDecorator</key>
+	<string>signFunctionColor</string>
+	<key>hierarchicalMethodRotation</key>
+	<string>semanticEventDuration</string>
+	<key>intensityBufferLeft</key>
+	<string>commonControllerSpeed</string>
+	<key>labelContextStatus</key>
+	<string>optionParamDistance</string>
+	<key>listenerDuringComposite</key>
+	<string>navigatorThanType</string>
+	<key>methodParamDensity</key>
+	<string>pinchableGateSpeed</string>
+	<key>rectAroundParam</key>
+	<string>custompaintActivityShade</string>
+	<key>viewParameterCount</key>
+	<string>statelessAsVar</string>
+</dict>
+</plist>

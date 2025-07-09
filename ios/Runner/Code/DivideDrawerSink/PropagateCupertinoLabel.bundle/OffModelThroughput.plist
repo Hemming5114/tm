@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicCycleOffset</key>
+	<string>documentAroundAdapter</string>
+	<key>movementMementoBound</key>
+	<string>modelBeyondProcess</string>
+	<key>nativeTouchResponse</key>
+	<string>compositionStructureBehavior</string>
+	<key>responseDecoratorSkewx</key>
+	<string>nodeInWork</string>
+</dict>
+</plist>

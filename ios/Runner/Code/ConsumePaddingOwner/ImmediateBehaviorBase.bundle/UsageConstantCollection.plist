@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTextureBound</key>
+	<string>actionOperationStatus</string>
+	<key>animatedcontainerUntilComposite</key>
+	<string>currentEquipmentName</string>
+	<key>assetOfType</key>
+	<string>desktopHandlerMargin</string>
+	<key>channelsFacadeIndex</key>
+	<string>geometricScaleOrientation</string>
+	<key>providerLikeCycle</key>
+	<string>configurationStateName</string>
+	<key>responsiveIntegerHue</key>
+	<string>otherUtilResponse</string>
+	<key>rowProcessOffset</key>
+	<string>brushFromNumber</string>
+	<key>segueAdapterTheme</key>
+	<string>finalZoneDuration</string>
+	<key>visibleStorePadding</key>
+	<string>taskAlongStrategy</string>
+</dict>
+</plist>

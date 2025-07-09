@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBeyondProcess</key>
+	<string>spriteEnvironmentBehavior</string>
+	<key>errorScopeVisible</key>
+	<string>dialogsExceptPlatform</string>
+	<key>grainContainVar</key>
+	<string>instructionPerFlyweight</string>
+	<key>temporaryMenuSpeed</key>
+	<string>missionDecoratorType</string>
+</dict>
+</plist>

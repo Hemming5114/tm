@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromVariable</key>
+	<string>reusableBinaryDuration</string>
+	<key>crucialEffectRate</key>
+	<string>responseWithAction</string>
+	<key>denseTitleSpacing</key>
+	<string>tappableChannelOpacity</string>
+	<key>labelNearScope</key>
+	<string>intermediateSpriteVisibility</string>
+	<key>materialDependencyDelay</key>
+	<string>custompaintFormDelay</string>
+	<key>otherCompositionColor</key>
+	<string>delegateVariablePressure</string>
+	<key>positionStageTension</key>
+	<string>timerForObserver</string>
+	<key>routeOutsideMemento</key>
+	<string>publicExponentTail</string>
+	<key>utilCommandBehavior</key>
+	<string>customizedAsyncOrigin</string>
+</dict>
+</plist>

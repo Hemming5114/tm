@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMenuDepth</key>
+	<string>notificationFrameworkInteraction</string>
+	<key>disparateGroupRotation</key>
+	<string>accordionBuilderColor</string>
+	<key>draggableCycleTail</key>
+	<string>offsetProxyValidation</string>
+	<key>routeWithoutSingleton</key>
+	<string>signatureForStructure</string>
+	<key>semanticPriorityDepth</key>
+	<string>notifierVisitorRate</string>
+	<key>sliderFromShape</key>
+	<string>cupertinoEnvironmentIndex</string>
+	<key>statelessStackTop</key>
+	<string>exceptionActionDepth</string>
+	<key>synchronousResponseMargin</key>
+	<string>diffableCommandMargin</string>
+	<key>uniformMaterialMode</key>
+	<string>expandedOperationLeft</string>
+</dict>
+</plist>

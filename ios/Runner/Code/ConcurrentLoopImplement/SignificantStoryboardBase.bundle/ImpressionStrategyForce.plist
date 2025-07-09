@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeMomentumCenter</key>
+	<string>symmetricSemanticsLocation</string>
+	<key>listviewBufferDelay</key>
+	<string>easyActionLeft</string>
+	<key>reactiveTransitionRate</key>
+	<string>hierarchicalCollectionVisibility</string>
+	<key>sustainableGesturedetectorDensity</key>
+	<string>statefulCoordinatorAcceleration</string>
+	<key>transitionWithOperation</key>
+	<string>requestDespiteCycle</string>
+	<key>unsortedCubeAlignment</key>
+	<string>tappableTextLeft</string>
+</dict>
+</plist>

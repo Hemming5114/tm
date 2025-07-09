@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageAdapterForce</key>
+	<string>viewValueFrequency</string>
+	<key>popupObserverBound</key>
+	<string>referenceTierTag</string>
+	<key>scrollableDecorationLocation</key>
+	<string>timerExceptScope</string>
+	<key>typicalCollectionVelocity</key>
+	<string>streamCycleState</string>
+</dict>
+</plist>

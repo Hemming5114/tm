@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateOutsideOperation</key>
+	<string>sortedProfileBehavior</string>
+	<key>positionedLevelPressure</key>
+	<string>factoryOutsideContext</string>
+	<key>singleSinkVelocity</key>
+	<string>sessionAroundFlyweight</string>
+	<key>staticMonsterColor</key>
+	<string>sceneOfProxy</string>
+	<key>topicParameterValidation</key>
+	<string>tabviewDespiteFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseVersusAction</key>
+	<string>sliderSystemBound</string>
+	<key>dedicatedGrainBottom</key>
+	<string>axisViaLevel</string>
+	<key>draggableAsyncTag</key>
+	<string>intuitivePositionMode</string>
+	<key>gridDuringScope</key>
+	<string>directlyGridviewPadding</string>
+	<key>logarithmOutsideTask</key>
+	<string>animationWithoutOperation</string>
+	<key>navigatorOutsideMethod</key>
+	<string>histogramMediatorOrigin</string>
+	<key>opaqueInterpolationCount</key>
+	<string>cursorLikeMediator</string>
+	<key>usageVariableBehavior</key>
+	<string>queueTaskTag</string>
+</dict>
+</plist>

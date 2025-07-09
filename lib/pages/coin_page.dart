@@ -295,8 +295,8 @@ class _CoinPageState extends State<CoinPage> {
                         child: GridView.builder(
                           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                             crossAxisCount: 2,
-                            crossAxisSpacing: 10,
-                            mainAxisSpacing: 10,
+                            crossAxisSpacing: 11,
+                            mainAxisSpacing: 11,
                             childAspectRatio: 1.5,
                           ),
                           itemCount: _coinPlans.length,

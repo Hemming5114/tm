@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPlatformVelocity</key>
+	<string>tableFormStyle</string>
+	<key>columnTierForce</key>
+	<string>curveDecoratorTint</string>
+	<key>fixedConfigurationSkewy</key>
+	<string>geometricCaptionRight</string>
+	<key>multiChannelTop</key>
+	<string>frameParameterSkewx</string>
+	<key>persistentAwaitType</key>
+	<string>catalystCommandDepth</string>
+	<key>richtextPlatformCoord</key>
+	<string>tabbarActionEdge</string>
+	<key>scrollableCurveVisibility</key>
+	<string>resultBufferTint</string>
+</dict>
+</plist>

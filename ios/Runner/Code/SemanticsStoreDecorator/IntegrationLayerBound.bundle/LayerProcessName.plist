@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAndTier</key>
+	<string>dedicatedSlashSpacing</string>
+	<key>desktopGetxOrientation</key>
+	<string>temporaryDurationHue</string>
+	<key>graphObserverMargin</key>
+	<string>nodeActionStyle</string>
+	<key>grayscaleFromPhase</key>
+	<string>clipperProcessShade</string>
+	<key>lastCupertinoKind</key>
+	<string>gesturePerMediator</string>
+	<key>observerOutsideInterpreter</key>
+	<string>exponentThroughAdapter</string>
+	<key>shaderOutsideMediator</key>
+	<string>buttonLikeForm</string>
+	<key>viewBeyondFacade</key>
+	<string>nativeNotifierFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerContainPattern</key>
+	<string>transformerScopeResponse</string>
+	<key>curveFunctionSkewy</key>
+	<string>sliderAsDecorator</string>
+	<key>deferredEventAppearance</key>
+	<string>usecaseByCommand</string>
+	<key>mobxByPhase</key>
+	<string>disparateEqualizationTag</string>
+	<key>widgetStageResponse</key>
+	<string>blocFormIndex</string>
+</dict>
+</plist>

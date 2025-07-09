@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryTierHue</key>
+	<string>coordinatorActivityState</string>
+	<key>granularMasterBehavior</key>
+	<string>touchFlyweightDirection</string>
+	<key>hierarchicalLossType</key>
+	<string>offsetPrototypeVelocity</string>
+	<key>storageSinceFlyweight</key>
+	<string>smartResourceLocation</string>
+	<key>viewAtPattern</key>
+	<string>awaitForInterpreter</string>
+</dict>
+</plist>

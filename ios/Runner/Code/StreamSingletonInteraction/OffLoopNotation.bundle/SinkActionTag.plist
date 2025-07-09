@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAmongStyle</key>
+	<string>cursorAlongAdapter</string>
+	<key>coordinatorPerBridge</key>
+	<string>easyTweenInteraction</string>
+	<key>customizedStreamBehavior</key>
+	<string>routerAwayInterpreter</string>
+	<key>decorationDuringBridge</key>
+	<string>signTierDensity</string>
+	<key>ephemeralAxisSkewy</key>
+	<string>keyTransitionShape</string>
+	<key>immediateNotificationInset</key>
+	<string>profileThroughScope</string>
+	<key>zoneDecoratorColor</key>
+	<string>symbolFunctionOrigin</string>
+</dict>
+</plist>

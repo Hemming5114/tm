@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableControllerBrightness</key>
+	<string>parallelTableVelocity</string>
+	<key>delegateParamName</key>
+	<string>borderAtProcess</string>
+	<key>dynamicPositionRate</key>
+	<string>keyButtonOrigin</string>
+	<key>factoryFacadeOffset</key>
+	<string>prevMissionLocation</string>
+	<key>gateShapeTop</key>
+	<string>euclideanContainerSpeed</string>
+	<key>giftCycleResponse</key>
+	<string>serviceTierSaturation</string>
+	<key>immutableColumnColor</key>
+	<string>crudeSubpixelVisibility</string>
+	<key>rapidButtonHue</key>
+	<string>blocInCommand</string>
+	<key>sensorThroughTemple</key>
+	<string>hierarchicalActionEdge</string>
+</dict>
+</plist>

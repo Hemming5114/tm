@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarThroughParameter</key>
+	<string>chapterActivityAlignment</string>
+	<key>cupertinoSlashPosition</key>
+	<string>modalWithObserver</string>
+	<key>errorModeSkewx</key>
+	<string>interpolationWithoutVar</string>
+	<key>errorViaBridge</key>
+	<string>sizeAndNumber</string>
+</dict>
+</plist>

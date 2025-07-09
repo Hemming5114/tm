@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTransformerDepth</key>
+	<string>utilBesideProxy</string>
+	<key>chartStrategyPressure</key>
+	<string>statePerLayer</string>
+	<key>gridProcessTop</key>
+	<string>staticLabelOffset</string>
+	<key>otherSliderValidation</key>
+	<string>actionAroundAdapter</string>
+	<key>statelessDelegateDuration</key>
+	<string>topicWorkFormat</string>
+	<key>storageMediatorTail</key>
+	<string>boxAsTier</string>
+	<key>utilActivityPadding</key>
+	<string>smallResultAlignment</string>
+</dict>
+</plist>

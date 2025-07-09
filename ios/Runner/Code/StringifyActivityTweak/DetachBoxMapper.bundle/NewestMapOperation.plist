@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitWithoutStrategy</key>
+	<string>liteModalStatus</string>
+	<key>completionStyleVelocity</key>
+	<string>matrixForProxy</string>
+	<key>gesturedetectorAsVariable</key>
+	<string>queueParameterFlags</string>
+	<key>globalTextfieldTint</key>
+	<string>nextNodeIndex</string>
+	<key>invisibleChallengeRight</key>
+	<string>fusedCompleterTail</string>
+	<key>resolverLikePhase</key>
+	<string>storyboardProxyValidation</string>
+	<key>specifyCommandShape</key>
+	<string>cursorStructurePadding</string>
+	<key>transitionChainSkewx</key>
+	<string>titleVarRate</string>
+</dict>
+</plist>

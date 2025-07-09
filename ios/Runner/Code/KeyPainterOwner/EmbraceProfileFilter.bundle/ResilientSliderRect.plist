@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePresenterShade</key>
+	<string>gesturedetectorStageHue</string>
+	<key>cursorTempleDuration</key>
+	<string>statelessFunctionOffset</string>
+	<key>scaffoldEnvironmentCoord</key>
+	<string>precisionNearAdapter</string>
+	<key>segmentDespitePhase</key>
+	<string>symmetricReducerFeedback</string>
+	<key>textObserverCoord</key>
+	<string>statefulForFlyweight</string>
+	<key>widgetAdapterDepth</key>
+	<string>activatedNibAlignment</string>
+	<key>workflowStrategyTheme</key>
+	<string>constLogEdge</string>
+</dict>
+</plist>

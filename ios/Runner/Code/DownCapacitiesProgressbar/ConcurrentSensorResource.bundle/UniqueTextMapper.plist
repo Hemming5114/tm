@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStackAppearance</key>
+	<string>positionedStructureAlignment</string>
+	<key>coordinatorAboutProxy</key>
+	<string>gesturedetectorProxyAppearance</string>
+	<key>descriptionAmongFlyweight</key>
+	<string>methodLevelDuration</string>
+	<key>equalizationBeyondStrategy</key>
+	<string>storageAlongStyle</string>
+	<key>responsiveGraphFlags</key>
+	<string>similarInkwellOpacity</string>
+	<key>segueParamDepth</key>
+	<string>sophisticatedDependencyOffset</string>
+	<key>viewFacadeName</key>
+	<string>descriptorEnvironmentBound</string>
+</dict>
+</plist>

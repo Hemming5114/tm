@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertNumberValidation</key>
+	<string>grayscaleValueType</string>
+	<key>animationOfVisitor</key>
+	<string>flexAsChain</string>
+	<key>containerIncludeInterpreter</key>
+	<string>opaqueGestureSkewx</string>
+	<key>handlerDespiteObserver</key>
+	<string>usageScopeOrientation</string>
+</dict>
+</plist>

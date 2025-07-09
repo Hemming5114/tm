@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasModeRotation</key>
+	<string>sinkPerTask</string>
+	<key>geometricMethodTag</key>
+	<string>sharedLayoutHue</string>
+	<key>inactiveModalBehavior</key>
+	<string>symmetricStampTop</string>
+	<key>permissiveDelegateScale</key>
+	<string>criticalErrorMode</string>
+	<key>serviceDecoratorDelay</key>
+	<string>disabledSineTransparency</string>
+	<key>transitionViaMode</key>
+	<string>retainedBulletRotation</string>
+	<key>typicalPopupCenter</key>
+	<string>agileHandlerTension</string>
+</dict>
+</plist>

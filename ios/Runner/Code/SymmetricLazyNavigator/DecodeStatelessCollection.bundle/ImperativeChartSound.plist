@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDuringMemento</key>
+	<string>awaitAlongStrategy</string>
+	<key>hierarchicalTransformerInteraction</key>
+	<string>compositionalProviderTransparency</string>
+	<key>intuitiveTransformerIndex</key>
+	<string>loopBesideAdapter</string>
+	<key>transitionParamMargin</key>
+	<string>interpolationOutsideShape</string>
+	<key>zonePhaseDistance</key>
+	<string>customizedViewRate</string>
+</dict>
+</plist>

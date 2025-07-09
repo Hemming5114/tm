@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStyleMode</key>
+	<string>secondCursorAcceleration</string>
+	<key>flexibleServiceBrightness</key>
+	<string>singleActivitySpeed</string>
+	<key>gateCommandPosition</key>
+	<string>advancedPlateResponse</string>
+	<key>listviewVersusProcess</key>
+	<string>compositionalSlashBehavior</string>
+</dict>
+</plist>

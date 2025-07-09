@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAwaitVisibility</key>
+	<string>storageForActivity</string>
+	<key>featurePlatformCenter</key>
+	<string>listviewExceptMediator</string>
+	<key>greatParticleTail</key>
+	<string>columnBesideJob</string>
+	<key>layoutTierValidation</key>
+	<string>advancedResponseStatus</string>
+	<key>remainderNearAction</key>
+	<string>curveActivityDistance</string>
+	<key>requestAtDecorator</key>
+	<string>listenerForDecorator</string>
+	<key>routeThanCycle</key>
+	<string>nodeInsideFlyweight</string>
+	<key>segmentInterpreterState</key>
+	<string>symbolOfContext</string>
+	<key>visibleWidgetOpacity</key>
+	<string>retainedQueryFrequency</string>
+</dict>
+</plist>

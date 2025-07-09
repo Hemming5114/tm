@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChannelsBrightness</key>
+	<string>composableMenuVelocity</string>
+	<key>decorationStrategySkewy</key>
+	<string>materialLossBottom</string>
+	<key>featureViaTask</key>
+	<string>advancedAnchorRight</string>
+	<key>gramFormSaturation</key>
+	<string>synchronousObserverOffset</string>
+	<key>interpolationFromFlyweight</key>
+	<string>swiftFrameworkOrigin</string>
+	<key>logFromMemento</key>
+	<string>immutableProgressbarInterval</string>
+	<key>statelessAsStructure</key>
+	<string>textForObserver</string>
+</dict>
+</plist>

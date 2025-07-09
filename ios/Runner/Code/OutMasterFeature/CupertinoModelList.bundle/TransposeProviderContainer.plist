@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalExtensionFlags</key>
+	<string>gesturedetectorDecoratorContrast</string>
+	<key>hierarchicalCallbackInteraction</key>
+	<string>streamAndMode</string>
+	<key>lostAllocatorName</key>
+	<string>featureDespiteStructure</string>
+	<key>multiplicationCommandPadding</key>
+	<string>tweenAgainstShape</string>
+	<key>paddingOfMemento</key>
+	<string>touchAroundChain</string>
+	<key>resourceLevelFrequency</key>
+	<string>layoutBufferSpeed</string>
+	<key>uniqueTitlePadding</key>
+	<string>protocolAdapterResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLayerAppearance</key>
+	<string>captionChainBehavior</string>
+	<key>checklistAdapterSize</key>
+	<string>sizeAgainstLevel</string>
+	<key>completerAndBridge</key>
+	<string>controllerInsideStructure</string>
+	<key>completionAdapterTail</key>
+	<string>denseConstraintDirection</string>
+	<key>convolutionBeyondBuffer</key>
+	<string>previewVarMomentum</string>
+	<key>curveFormDepth</key>
+	<string>swiftOutsideScope</string>
+	<key>lazyTouchStyle</key>
+	<string>otherIntensityShape</string>
+	<key>permissiveInteractorDensity</key>
+	<string>offsetStateFeedback</string>
+	<key>pivotalGetxMode</key>
+	<string>rectMediatorAppearance</string>
+	<key>spotViaPattern</key>
+	<string>requestFacadePadding</string>
+</dict>
+</plist>

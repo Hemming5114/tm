@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsidePhase</key>
+	<string>masterVersusStage</string>
+	<key>animationPhaseForce</key>
+	<string>denseEquipmentFlags</string>
+	<key>gridValueCoord</key>
+	<string>movementTierStyle</string>
+	<key>remainderParamBrightness</key>
+	<string>smallGesturedetectorOpacity</string>
+	<key>resultKindType</key>
+	<string>futureThanScope</string>
+</dict>
+</plist>

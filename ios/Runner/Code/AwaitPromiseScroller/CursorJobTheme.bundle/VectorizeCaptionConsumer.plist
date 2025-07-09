@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModelTheme</key>
+	<string>spriteMediatorEdge</string>
+	<key>explicitChecklistHead</key>
+	<string>rowKindSize</string>
+	<key>flexibleOptimizerOrientation</key>
+	<string>convolutionPlatformResponse</string>
+	<key>menuFacadeVisibility</key>
+	<string>intensityObserverDuration</string>
+	<key>normalListenerContrast</key>
+	<string>allocatorProcessDuration</string>
+	<key>playbackTaskVisible</key>
+	<string>titleFacadeDuration</string>
+	<key>taskVersusStage</key>
+	<string>alphaAsObserver</string>
+</dict>
+</plist>

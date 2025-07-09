@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPatternIndex</key>
+	<string>mediaqueryFunctionStyle</string>
+	<key>asyncExceptActivity</key>
+	<string>resourceBySingleton</string>
+	<key>dedicatedTitleOrientation</key>
+	<string>bufferPhasePadding</string>
+	<key>directUsageDirection</key>
+	<string>builderAsFramework</string>
+	<key>gesturedetectorStyleRate</key>
+	<string>paddingAgainstObserver</string>
+	<key>hierarchicalSizeLocation</key>
+	<string>storeAsKind</string>
+	<key>ignoredCertificateTop</key>
+	<string>protocolLikeFacade</string>
+</dict>
+</plist>

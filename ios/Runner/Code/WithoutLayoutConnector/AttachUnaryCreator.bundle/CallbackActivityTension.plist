@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLocalizationFeedback</key>
+	<string>uniformMarginStatus</string>
+	<key>checklistFlyweightBound</key>
+	<string>accessibleCurveKind</string>
+	<key>contractionCommandCount</key>
+	<string>columnParameterBrightness</string>
+	<key>effectIncludeActivity</key>
+	<string>independentTextureFlags</string>
+	<key>grayscaleUntilVariable</key>
+	<string>blocScopeSaturation</string>
+	<key>heapLikeTask</key>
+	<string>tabbarContainDecorator</string>
+	<key>intensityEnvironmentOrigin</key>
+	<string>completerInterpreterDepth</string>
+	<key>scaleLayerAppearance</key>
+	<string>appbarStructureTail</string>
+	<key>usecasePatternSkewx</key>
+	<string>containerModeMomentum</string>
+	<key>widgetBridgeTag</key>
+	<string>menuWithStrategy</string>
+</dict>
+</plist>

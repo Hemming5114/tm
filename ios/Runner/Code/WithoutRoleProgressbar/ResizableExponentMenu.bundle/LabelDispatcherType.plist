@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constBufferType</key>
+	<string>eventModeTheme</string>
+	<key>cupertinoLikeForm</key>
+	<string>nativeSemanticsSize</string>
+	<key>desktopReducerVisibility</key>
+	<string>sessionFunctionOpacity</string>
+	<key>dialogsPerLevel</key>
+	<string>momentumScopeInterval</string>
+	<key>overlayAmongSingleton</key>
+	<string>protectedCharacterFlags</string>
+	<key>particleTypeSaturation</key>
+	<string>titleDuringMediator</string>
+	<key>pivotalGraphicValidation</key>
+	<string>radioStructureHue</string>
+	<key>scrollableSessionDuration</key>
+	<string>stateAmongVariable</string>
+	<key>utilWithContext</key>
+	<string>immutableAlphaHue</string>
+</dict>
+</plist>

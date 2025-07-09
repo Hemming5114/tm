@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGroupContrast</key>
+	<string>resourceExceptPrototype</string>
+	<key>bufferFlyweightLocation</key>
+	<string>eventAmongPrototype</string>
+	<key>cubeMediatorCenter</key>
+	<string>descriptionAboutMediator</string>
+	<key>effectPatternHead</key>
+	<string>numericalClipperTint</string>
+	<key>largeRowColor</key>
+	<string>comprehensiveTangentShape</string>
+	<key>requestScopeDuration</key>
+	<string>backwardCupertinoHead</string>
+</dict>
+</plist>

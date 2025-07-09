@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectVariableSkewy</key>
+	<string>rectPatternFrequency</string>
+	<key>gesturedetectorEnvironmentPosition</key>
+	<string>painterPatternBehavior</string>
+	<key>graphInAdapter</key>
+	<string>lazyCurveScale</string>
+	<key>gridMementoDistance</key>
+	<string>fixedBlocLocation</string>
+	<key>handlerExceptCommand</key>
+	<string>inactiveDelegateInset</string>
+	<key>largeInteractorInset</key>
+	<string>globalSwitchHead</string>
+</dict>
+</plist>

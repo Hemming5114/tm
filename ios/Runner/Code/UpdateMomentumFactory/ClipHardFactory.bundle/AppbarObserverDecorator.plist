@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandStageBehavior</key>
+	<string>operationViaVar</string>
+	<key>flexNearObserver</key>
+	<string>previewAgainstChain</string>
+	<key>gesturedetectorIncludeFramework</key>
+	<string>dependencyFromPhase</string>
+	<key>independentCoordinatorLeft</key>
+	<string>draggableAnchorAlignment</string>
+	<key>interactorNumberAlignment</key>
+	<string>documentDecoratorHead</string>
+	<key>logarithmLayerBorder</key>
+	<string>mediumLayoutDistance</string>
+	<key>popupAsKind</key>
+	<string>gridCycleTop</string>
+</dict>
+</plist>

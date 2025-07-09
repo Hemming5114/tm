@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelWorkInterval</key>
+	<string>localizationForFramework</string>
+	<key>histogramKindLeft</key>
+	<string>slashProxyDirection</string>
+	<key>layoutPerProxy</key>
+	<string>slashAwayBuffer</string>
+	<key>mainErrorTransparency</key>
+	<string>checkboxScopeStatus</string>
+</dict>
+</plist>

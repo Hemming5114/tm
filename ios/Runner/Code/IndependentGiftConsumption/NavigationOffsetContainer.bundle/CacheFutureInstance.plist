@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisNearScope</key>
+	<string>radiusForTier</string>
+	<key>constraintLayerName</key>
+	<string>finalEquipmentTail</string>
+	<key>finalButtonPosition</key>
+	<string>largePresenterSize</string>
+	<key>hardAccessoryTail</key>
+	<string>stackInType</string>
+	<key>positionStructureState</key>
+	<string>queueParamVisible</string>
+	<key>resolverMediatorLeft</key>
+	<string>variantInsideStructure</string>
+	<key>significantTableOpacity</key>
+	<string>sliderAtFramework</string>
+	<key>variantFromProxy</key>
+	<string>dependencyAgainstInterpreter</string>
+</dict>
+</plist>

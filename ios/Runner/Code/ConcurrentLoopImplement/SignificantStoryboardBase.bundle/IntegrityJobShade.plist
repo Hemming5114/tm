@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorStructureStatus</key>
+	<string>sequentialScaleOffset</string>
+	<key>descriptorDuringComposite</key>
+	<string>contractionAsAction</string>
+	<key>desktopDelegateInteraction</key>
+	<string>respectiveObserverKind</string>
+	<key>marginAndOperation</key>
+	<string>interfaceOutsideFlyweight</string>
+	<key>memberAndPlatform</key>
+	<string>descriptionShapePosition</string>
+</dict>
+</plist>

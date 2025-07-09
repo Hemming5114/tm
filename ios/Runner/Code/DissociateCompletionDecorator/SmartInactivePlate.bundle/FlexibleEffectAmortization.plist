@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStrategyDensity</key>
+	<string>constMarginLocation</string>
+	<key>inactiveProviderOrientation</key>
+	<string>agileCatalystSize</string>
+	<key>missionNumberKind</key>
+	<string>invisiblePaddingHue</string>
+	<key>uniformObserverOrigin</key>
+	<string>functionalTransitionAppearance</string>
+</dict>
+</plist>

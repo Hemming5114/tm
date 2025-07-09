@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queueOfTier</key>
+	<string>sensorAgainstWork</string>
+	<key>resolverShapeSpeed</key>
+	<string>independentChannelFormat</string>
+	<key>sceneOutsideParameter</key>
+	<string>customizedNodeTension</string>
+	<key>sliderAboutPlatform</key>
+	<string>mediumBoxVisible</string>
+</dict>
+</plist>

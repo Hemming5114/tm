@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProviderEdge</key>
+	<string>taskModeOpacity</string>
+	<key>autoSubscriptionScale</key>
+	<string>documentScopeAppearance</string>
+	<key>cubitParameterAppearance</key>
+	<string>flexibleWidgetTension</string>
+	<key>descriptorOfContext</key>
+	<string>labelVisitorLeft</string>
+	<key>hierarchicalCupertinoVisible</key>
+	<string>usedDescriptionCenter</string>
+	<key>isolateAlongVisitor</key>
+	<string>discardedGrainCoord</string>
+	<key>multiMultiplicationHue</key>
+	<string>tabviewEnvironmentShape</string>
+	<key>navigatorStateDirection</key>
+	<string>euclideanSkirtPosition</string>
+	<key>responseOutsideCycle</key>
+	<string>activeQueueTag</string>
+</dict>
+</plist>

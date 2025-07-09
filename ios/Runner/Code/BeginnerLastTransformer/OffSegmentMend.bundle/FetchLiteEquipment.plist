@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOutsideTemple</key>
+	<string>resizableDocumentInset</string>
+	<key>deferredHandlerInterval</key>
+	<string>independentTabviewStyle</string>
+	<key>directWidgetShade</key>
+	<string>baselineSystemAcceleration</string>
+	<key>immutableTransitionHue</key>
+	<string>globalNodeOrientation</string>
+	<key>mobileProjectionStyle</key>
+	<string>sinkPhaseMargin</string>
+	<key>smallOverlayPosition</key>
+	<string>canvasThroughObserver</string>
+	<key>smartSingletonStyle</key>
+	<string>reusableSpriteRate</string>
+	<key>stateFlyweightSize</key>
+	<string>dimensionKindType</string>
+	<key>synchronousFactoryHead</key>
+	<string>effectAgainstContext</string>
+</dict>
+</plist>

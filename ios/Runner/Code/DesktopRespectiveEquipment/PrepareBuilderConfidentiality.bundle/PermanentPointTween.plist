@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAdapterColor</key>
+	<string>mutableDrawerShade</string>
+	<key>bulletContainInterpreter</key>
+	<string>usecaseDecoratorShape</string>
+	<key>diffableCollectionTension</key>
+	<string>storageContextValidation</string>
+	<key>fixedAnimatedcontainerOrigin</key>
+	<string>builderFacadeMode</string>
+	<key>rowPlatformDepth</key>
+	<string>cupertinoWorkDensity</string>
+	<key>scaleVersusBuffer</key>
+	<string>checklistCommandStyle</string>
+	<key>similarBaseKind</key>
+	<string>textWithoutStructure</string>
+	<key>similarViewBehavior</key>
+	<string>bufferVersusProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAmongBuffer</key>
+	<string>tableByForm</string>
+	<key>chartProxyValidation</key>
+	<string>transitionLayerFrequency</string>
+	<key>dedicatedDurationInteraction</key>
+	<string>hardInterfaceVisibility</string>
+	<key>grayscaleVarOrientation</key>
+	<string>shaderTaskAlignment</string>
+	<key>localizationThroughSingleton</key>
+	<string>responseAsBridge</string>
+	<key>reducerPrototypeBottom</key>
+	<string>materialThroughType</string>
+	<key>secondMethodEdge</key>
+	<string>eventAtSystem</string>
+	<key>taskAgainstOperation</key>
+	<string>unactivatedNodeScale</string>
+</dict>
+</plist>

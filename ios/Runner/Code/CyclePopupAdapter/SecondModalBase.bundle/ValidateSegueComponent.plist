@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInteractorRotation</key>
+	<string>symmetricLayoutLeft</string>
+	<key>delegateModeDelay</key>
+	<string>displayableFrameVelocity</string>
+	<key>imperativeTaskShade</key>
+	<string>skinDuringFlyweight</string>
+	<key>nodeFromForm</key>
+	<string>directChallengeColor</string>
+	<key>shaderBesideFacade</key>
+	<string>stateWithoutStyle</string>
+	<key>shaderTierBrightness</key>
+	<string>rectParameterTension</string>
+</dict>
+</plist>

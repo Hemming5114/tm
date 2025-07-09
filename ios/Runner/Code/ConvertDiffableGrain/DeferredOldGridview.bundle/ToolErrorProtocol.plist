@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBehaviorStyle</key>
+	<string>staticCatalystOpacity</string>
+	<key>effectFacadeSpacing</key>
+	<string>commonDelegateTheme</string>
+	<key>iterativeAlignmentCoord</key>
+	<string>nativeScrollTension</string>
+	<key>singleStatefulValidation</key>
+	<string>providerEnvironmentVisibility</string>
+	<key>topicIncludeObserver</key>
+	<string>blocContainMethod</string>
+</dict>
+</plist>

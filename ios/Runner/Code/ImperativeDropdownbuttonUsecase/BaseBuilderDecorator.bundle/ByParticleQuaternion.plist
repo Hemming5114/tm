@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRepositoryResponse</key>
+	<string>logStyleKind</string>
+	<key>buttonVariableFeedback</key>
+	<string>servicePerLevel</string>
+	<key>modalWithoutValue</key>
+	<string>curveAdapterFeedback</string>
+	<key>petVersusTask</key>
+	<string>previewUntilMode</string>
+	<key>serviceOutsideVariable</key>
+	<string>sceneStyleResponse</string>
+	<key>sortedIsolateInterval</key>
+	<string>coordinatorInsideAdapter</string>
+	<key>standaloneCurveValidation</key>
+	<string>sessionInterpreterKind</string>
+</dict>
+</plist>

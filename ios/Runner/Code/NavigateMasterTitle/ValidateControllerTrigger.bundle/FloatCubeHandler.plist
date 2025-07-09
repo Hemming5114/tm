@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVersusMethod</key>
+	<string>currentPointAlignment</string>
+	<key>factoryOutsideSystem</key>
+	<string>themeChainTag</string>
+	<key>finalPageviewInteraction</key>
+	<string>declarativePageviewHead</string>
+	<key>reductionCompositeDensity</key>
+	<string>grainFormFormat</string>
+</dict>
+</plist>

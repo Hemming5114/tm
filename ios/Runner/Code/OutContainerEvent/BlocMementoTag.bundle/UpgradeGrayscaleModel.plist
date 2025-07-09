@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCommandOrientation</key>
+	<string>usageFunctionScale</string>
+	<key>cacheTaskSpeed</key>
+	<string>tappableConstraintForce</string>
+	<key>criticalOptimizerInteraction</key>
+	<string>hierarchicalStateDensity</string>
+	<key>methodPrototypeInteraction</key>
+	<string>largeConstraintName</string>
+	<key>normalProtocolVisibility</key>
+	<string>clipperNearPhase</string>
+	<key>presenterContextBorder</key>
+	<string>bitrateStrategyMomentum</string>
+	<key>rowByMode</key>
+	<string>assetVersusVar</string>
+	<key>standaloneRouterVisibility</key>
+	<string>mainVectorTop</string>
+	<key>usedBlocBound</key>
+	<string>immediateInteractorVisible</string>
+</dict>
+</plist>

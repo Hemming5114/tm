@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTypeDensity</key>
+	<string>sophisticatedEqualizationSkewy</string>
+	<key>controllerLevelAcceleration</key>
+	<string>binaryFacadeAcceleration</string>
+	<key>drawerFormStyle</key>
+	<string>overlayViaProxy</string>
+	<key>errorPerCycle</key>
+	<string>sophisticatedCommandTint</string>
+	<key>exceptionOrVar</key>
+	<string>roleAroundVar</string>
+	<key>heapThanStage</key>
+	<string>factoryCycleVelocity</string>
+	<key>resilientDialogsCount</key>
+	<string>controllerScopeTransparency</string>
+	<key>sequentialAssetOrigin</key>
+	<string>utilLevelName</string>
+	<key>spriteSingletonInterval</key>
+	<string>sceneStateFormat</string>
+</dict>
+</plist>

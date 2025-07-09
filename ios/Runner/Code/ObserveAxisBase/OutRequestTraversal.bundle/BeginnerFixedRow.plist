@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStorageBehavior</key>
+	<string>descriptorThroughFlyweight</string>
+	<key>diffableNotificationDirection</key>
+	<string>typicalNavigationDuration</string>
+	<key>finalSinkDelay</key>
+	<string>utilWorkVisible</string>
+	<key>futureModeDirection</key>
+	<string>flexibleLabelRate</string>
+	<key>gradientProcessSkewy</key>
+	<string>richtextModeSaturation</string>
+	<key>heapNearMemento</key>
+	<string>riverpodFunctionAppearance</string>
+	<key>interfaceThanTask</key>
+	<string>dimensionBufferBottom</string>
+	<key>kernelAboutActivity</key>
+	<string>alphaContainParameter</string>
+</dict>
+</plist>

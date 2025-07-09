@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonContextDensity</key>
+	<string>entropySystemName</string>
+	<key>dependencyAmongVisitor</key>
+	<string>methodAroundFramework</string>
+	<key>desktopAlignmentSkewy</key>
+	<string>queuePrototypeHead</string>
+	<key>firstTechniqueDelay</key>
+	<string>scaleAdapterAlignment</string>
+	<key>richtextContainScope</key>
+	<string>sustainableScrollFlags</string>
+	<key>standaloneZoneScale</key>
+	<string>graphTaskBrightness</string>
+	<key>titleOrProcess</key>
+	<string>missedLocalizationKind</string>
+</dict>
+</plist>

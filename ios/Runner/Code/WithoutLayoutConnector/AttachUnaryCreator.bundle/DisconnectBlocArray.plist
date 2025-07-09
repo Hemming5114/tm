@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardSystemValidation</key>
+	<string>chartSingletonShape</string>
+	<key>customPetBehavior</key>
+	<string>fusedCacheEdge</string>
+	<key>flexibleEquipmentLeft</key>
+	<string>coordinatorDecoratorFrequency</string>
+	<key>operationDecoratorShape</key>
+	<string>sliderAmongStrategy</string>
+	<key>pinchableTransitionInset</key>
+	<string>chartAmongPhase</string>
+</dict>
+</plist>

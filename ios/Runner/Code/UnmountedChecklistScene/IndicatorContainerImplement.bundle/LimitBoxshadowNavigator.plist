@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconAtStrategy</key>
+	<string>localizationJobBorder</string>
+	<key>particleLayerRate</key>
+	<string>bitrateBesideMediator</string>
+	<key>rectWithoutPlatform</key>
+	<string>roleAndNumber</string>
+	<key>synchronousGrainStatus</key>
+	<string>permissiveParticleFlags</string>
+</dict>
+</plist>

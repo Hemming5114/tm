@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAwayAdapter</key>
+	<string>requiredPreviewFeedback</string>
+	<key>constraintWithLevel</key>
+	<string>plateChainRotation</string>
+	<key>gramMementoAcceleration</key>
+	<string>asyncButtonFrequency</string>
+	<key>heapLevelPressure</key>
+	<string>granularStatefulTag</string>
+	<key>signMethodMode</key>
+	<string>particleProcessDepth</string>
+	<key>similarSceneColor</key>
+	<string>reductionPhaseColor</string>
+</dict>
+</plist>

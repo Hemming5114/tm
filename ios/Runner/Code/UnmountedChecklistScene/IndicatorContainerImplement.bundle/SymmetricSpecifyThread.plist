@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticResourceOrientation</key>
+	<string>temporaryGraphColor</string>
+	<key>collectionWithMode</key>
+	<string>originalRouteStyle</string>
+	<key>presenterProxyType</key>
+	<string>spriteFacadeKind</string>
+	<key>reducerContextInterval</key>
+	<string>multiTaskVisible</string>
+	<key>resolverAroundSingleton</key>
+	<string>uniqueLocalizationTint</string>
+	<key>titleFlyweightContrast</key>
+	<string>instructionSinceStage</string>
+	<key>workflowMementoTransparency</key>
+	<string>configurationInterpreterTheme</string>
+</dict>
+</plist>

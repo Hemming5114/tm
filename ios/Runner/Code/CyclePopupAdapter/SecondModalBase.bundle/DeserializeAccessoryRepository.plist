@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAlongStyle</key>
+	<string>topicAgainstParam</string>
+	<key>discardedPaddingCoord</key>
+	<string>globalBitrateDuration</string>
+	<key>layerOrDecorator</key>
+	<string>liteSignRight</string>
+	<key>rectPatternEdge</key>
+	<string>signObserverInteraction</string>
+	<key>singletonForJob</key>
+	<string>groupWithoutOperation</string>
+	<key>staticAlertState</key>
+	<string>progressbarAlongFacade</string>
+	<key>storageProcessState</key>
+	<string>equipmentEnvironmentMargin</string>
+</dict>
+</plist>

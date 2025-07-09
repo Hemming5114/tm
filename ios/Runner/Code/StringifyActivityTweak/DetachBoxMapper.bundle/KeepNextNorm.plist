@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAlongFunction</key>
+	<string>characterStrategyShape</string>
+	<key>easyEventVelocity</key>
+	<string>cupertinoAssetCenter</string>
+	<key>graphDecoratorFormat</key>
+	<string>labelParameterDuration</string>
+	<key>hyperbolicInterfaceFlags</key>
+	<string>segueVisitorInterval</string>
+	<key>mobxFromStyle</key>
+	<string>fusedActionLocation</string>
+	<key>positionInsideLayer</key>
+	<string>statefulFacadeDirection</string>
+	<key>resilientSessionState</key>
+	<string>activityCompositeSize</string>
+	<key>staticResourceOffset</key>
+	<string>behaviorSystemContrast</string>
+</dict>
+</plist>

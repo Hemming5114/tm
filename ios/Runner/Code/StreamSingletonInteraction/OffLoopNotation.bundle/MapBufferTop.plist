@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateChannelsAcceleration</key>
+	<string>baselineAroundChain</string>
+	<key>fusedUsecaseKind</key>
+	<string>gridviewPatternOrientation</string>
+	<key>granularProgressbarPressure</key>
+	<string>materialListenerMargin</string>
+	<key>routerPhaseBottom</key>
+	<string>baselineAgainstInterpreter</string>
+	<key>sortedResourceVisible</key>
+	<string>cosineLikeChain</string>
+</dict>
+</plist>

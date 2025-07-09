@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAsPlatform</key>
+	<string>routeOperationLeft</string>
+	<key>borderOutsideComposite</key>
+	<string>declarativeUsecaseRight</string>
+	<key>exceptionVisitorLocation</key>
+	<string>transformerNumberAlignment</string>
+	<key>frameAtStage</key>
+	<string>workflowInCommand</string>
+	<key>interfaceOperationScale</key>
+	<string>layoutWithStrategy</string>
+	<key>invisibleInterpolationTag</key>
+	<string>sineVariableDensity</string>
+	<key>keyStreamMode</key>
+	<string>sessionStateTail</string>
+	<key>paddingAgainstMediator</key>
+	<string>standaloneSkinTension</string>
+	<key>priorityNumberFlags</key>
+	<string>skirtPrototypeRotation</string>
+</dict>
+</plist>

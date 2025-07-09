@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveProtocolLocation</key>
+	<string>taskInsideStage</string>
+	<key>getxFromState</key>
+	<string>precisionInsideInterpreter</string>
+	<key>intermediateConfigurationFlags</key>
+	<string>reusableSamplePadding</string>
+	<key>layoutChainDensity</key>
+	<string>progressbarActionTransparency</string>
+	<key>positionDecoratorSize</key>
+	<string>resourceEnvironmentBrightness</string>
+	<key>tweenBridgeTheme</key>
+	<string>sharedServiceRate</string>
+	<key>vectorCycleDensity</key>
+	<string>immediateFutureInteraction</string>
+</dict>
+</plist>

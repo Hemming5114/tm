@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOfStrategy</key>
+	<string>mobileAroundActivity</string>
+	<key>nativeCharacterVisibility</key>
+	<string>enabledDelegateLeft</string>
+	<key>nodeVisitorState</key>
+	<string>nibOrComposite</string>
+	<key>tickerPhaseVelocity</key>
+	<string>sinkAtMemento</string>
+	<key>typicalOffsetMomentum</key>
+	<string>ignoredMasterResponse</string>
+</dict>
+</plist>

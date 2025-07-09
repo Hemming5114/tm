@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOfProcess</key>
+	<string>containerWithoutContext</string>
+	<key>callbackStyleIndex</key>
+	<string>challengeAtBuffer</string>
+	<key>displayableInteractorDelay</key>
+	<string>uniformUsageFeedback</string>
+	<key>graphValueMode</key>
+	<string>capsuleModeDuration</string>
+	<key>numericalBoxshadowTop</key>
+	<string>currentProtocolPadding</string>
+	<key>scaleFromPhase</key>
+	<string>pivotalCompositionMargin</string>
+</dict>
+</plist>

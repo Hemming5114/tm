@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInjectionAcceleration</key>
+	<string>buttonTempleFeedback</string>
+	<key>baselineViaStage</key>
+	<string>constraintContextBorder</string>
+	<key>coordinatorChainSkewy</key>
+	<string>navigatorProcessRate</string>
+	<key>draggableErrorMargin</key>
+	<string>statefulProxyOrigin</string>
+	<key>ephemeralErrorStatus</key>
+	<string>symbolParameterAlignment</string>
+	<key>layoutAlongSystem</key>
+	<string>scrollableLocalizationVisible</string>
+</dict>
+</plist>

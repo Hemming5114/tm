@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureIncludePrototype</key>
+	<string>intensityUntilProxy</string>
+	<key>blocAsStrategy</key>
+	<string>customPresenterMargin</string>
+	<key>discardedChannelsDirection</key>
+	<string>captionAtParameter</string>
+	<key>groupStyleHue</key>
+	<string>toolStageDuration</string>
+	<key>primaryBinaryMode</key>
+	<string>temporaryManagerType</string>
+	<key>singleCaptionMargin</key>
+	<string>commandContextStatus</string>
+	<key>smallGrainFormat</key>
+	<string>criticalSingletonAcceleration</string>
+	<key>smallKernelBottom</key>
+	<string>geometricInterpolationShade</string>
+	<key>statefulAroundTask</key>
+	<string>unactivatedTextEdge</string>
+	<key>tabviewOperationFormat</key>
+	<string>coordinatorLikeWork</string>
+</dict>
+</plist>

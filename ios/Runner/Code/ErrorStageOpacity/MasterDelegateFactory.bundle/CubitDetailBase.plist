@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPhaseAcceleration</key>
+	<string>histogramKindCenter</string>
+	<key>awaitAgainstLayer</key>
+	<string>seamlessCoordinatorResponse</string>
+	<key>cupertinoFormOrigin</key>
+	<string>durationAdapterType</string>
+	<key>decorationFormInset</key>
+	<string>delegateOperationVisibility</string>
+	<key>extensionMementoRight</key>
+	<string>observerScopeColor</string>
+	<key>injectionOperationAcceleration</key>
+	<string>tappableProjectLocation</string>
+	<key>multiPositionedDelay</key>
+	<string>actionVarMomentum</string>
+	<key>reactiveParticleKind</key>
+	<string>tappablePreviewFeedback</string>
+	<key>resolverWithoutSystem</key>
+	<string>graphNumberRight</string>
+	<key>scrollableAnimationSpeed</key>
+	<string>actionBesideKind</string>
+</dict>
+</plist>

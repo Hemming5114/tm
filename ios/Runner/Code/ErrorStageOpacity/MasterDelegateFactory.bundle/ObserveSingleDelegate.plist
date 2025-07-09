@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSystemVelocity</key>
+	<string>singletonAndFramework</string>
+	<key>delegateExceptKind</key>
+	<string>projectionActionOrientation</string>
+	<key>ephemeralLabelBound</key>
+	<string>animatedOffsetSkewx</string>
+	<key>flexibleBuilderStatus</key>
+	<string>effectKindAppearance</string>
+	<key>handlerIncludeKind</key>
+	<string>visibleIntegerSpacing</string>
+	<key>remainderOperationMomentum</key>
+	<string>declarativeRequestCenter</string>
+	<key>smartCoordinatorColor</key>
+	<string>statefulDecoratorMode</string>
+</dict>
+</plist>

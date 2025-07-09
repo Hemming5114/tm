@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBridgeEdge</key>
+	<string>gesturedetectorProcessAcceleration</string>
+	<key>histogramAndType</key>
+	<string>projectCycleAcceleration</string>
+	<key>reductionTempleRotation</key>
+	<string>clipperCycleOrigin</string>
+	<key>sortedTouchSpeed</key>
+	<string>managerSystemCoord</string>
+	<key>subtleBulletMargin</key>
+	<string>delicateStoreHead</string>
+</dict>
+</plist>

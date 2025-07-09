@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAtPlatform</key>
+	<string>variantBesideForm</string>
+	<key>immutableFutureBehavior</key>
+	<string>pinchableObserverOrigin</string>
+	<key>mobileFlexVisible</key>
+	<string>draggableTransitionPosition</string>
+	<key>positionedWithoutShape</key>
+	<string>dedicatedTweenStyle</string>
+	<key>reactiveSkinMomentum</key>
+	<string>crucialAlphaBehavior</string>
+	<key>repositoryForPhase</key>
+	<string>symbolTempleScale</string>
+	<key>responseVersusFacade</key>
+	<string>clipperAboutMediator</string>
+	<key>subtleListenerColor</key>
+	<string>streamMementoOffset</string>
+	<key>vectorPatternBound</key>
+	<string>routeStateSpeed</string>
+</dict>
+</plist>

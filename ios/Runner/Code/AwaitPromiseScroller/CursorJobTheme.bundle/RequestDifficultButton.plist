@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSystemRotation</key>
+	<string>durationUntilPattern</string>
+	<key>dimensionAlongTemple</key>
+	<string>storeOutsideTemple</string>
+	<key>explicitEventAcceleration</key>
+	<string>arithmeticOptimizerOrigin</string>
+	<key>handlerAlongSingleton</key>
+	<string>axisKindOrigin</string>
+	<key>metadataAsTemple</key>
+	<string>concurrentAxisOrigin</string>
+	<key>modulusByFlyweight</key>
+	<string>resolverTempleAcceleration</string>
+	<key>progressbarModePosition</key>
+	<string>usedWidgetDirection</string>
+	<key>queueLevelPadding</key>
+	<string>functionalMethodPadding</string>
+	<key>textureFunctionInteraction</key>
+	<string>lazyResourcePressure</string>
+	<key>zoneAwayStrategy</key>
+	<string>grainStyleCenter</string>
+</dict>
+</plist>

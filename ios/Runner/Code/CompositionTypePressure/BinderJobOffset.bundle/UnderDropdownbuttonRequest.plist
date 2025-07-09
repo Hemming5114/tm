@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorViaVariable</key>
+	<string>storyboardOrAdapter</string>
+	<key>backwardActivitySpeed</key>
+	<string>behaviorStageTransparency</string>
+	<key>cubitLevelShape</key>
+	<string>desktopReducerBottom</string>
+	<key>functionalPriorityBehavior</key>
+	<string>cubitThanVar</string>
+	<key>managerCycleOrigin</key>
+	<string>variantStateFeedback</string>
+	<key>originalVectorBehavior</key>
+	<string>graphAtStrategy</string>
+	<key>protocolThanVar</key>
+	<string>reusableTechniqueShade</string>
+	<key>statelessProviderColor</key>
+	<string>baselineVersusCommand</string>
+	<key>transformerFrameworkScale</key>
+	<string>themeAgainstScope</string>
+</dict>
+</plist>

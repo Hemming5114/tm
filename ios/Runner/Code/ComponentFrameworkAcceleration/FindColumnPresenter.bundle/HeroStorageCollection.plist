@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNavigatorDuration</key>
+	<string>smallRadiusContrast</string>
+	<key>completionThroughMode</key>
+	<string>crucialUsageAlignment</string>
+	<key>diffablePageviewScale</key>
+	<string>tickerChainScale</string>
+	<key>ephemeralSceneDepth</key>
+	<string>animatedModalEdge</string>
+	<key>scrollDecoratorInset</key>
+	<string>routeBridgeVelocity</string>
+	<key>subscriptionOrParameter</key>
+	<string>stackPatternColor</string>
+</dict>
+</plist>

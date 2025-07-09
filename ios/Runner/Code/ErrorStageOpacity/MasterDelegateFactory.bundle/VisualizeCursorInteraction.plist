@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFactoryDensity</key>
+	<string>widgetFormDensity</string>
+	<key>commonWidgetStyle</key>
+	<string>independentAnimationHead</string>
+	<key>customDurationPadding</key>
+	<string>intensityExceptFramework</string>
+	<key>mainButtonSpacing</key>
+	<string>navigatorWorkForce</string>
+	<key>resultBeyondSingleton</key>
+	<string>interfacePrototypeDensity</string>
+	<key>spineSinceFacade</key>
+	<string>dynamicMasterTransparency</string>
+	<key>temporaryMasterPressure</key>
+	<string>functionalBitrateMomentum</string>
+	<key>utilThroughValue</key>
+	<string>streamThanChain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStateStyle</key>
+	<string>projectProxyPressure</string>
+	<key>finalOffsetInset</key>
+	<string>cursorOrState</string>
+	<key>routeAsLayer</key>
+	<string>accordionWidgetFormat</string>
+	<key>rowBesideMemento</key>
+	<string>completionStageAppearance</string>
+	<key>textWithoutBridge</key>
+	<string>titleActionColor</string>
+	<key>threadPlatformIndex</key>
+	<string>capacitiesPatternLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOutsideActivity</key>
+	<string>intensityParameterShape</string>
+	<key>configurationAsCommand</key>
+	<string>memberOperationState</string>
+	<key>normalSampleShape</key>
+	<string>tabviewActionTag</string>
+	<key>standaloneNibDirection</key>
+	<string>curvePlatformSpeed</string>
+</dict>
+</plist>

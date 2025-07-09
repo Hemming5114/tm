@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBuilderTheme</key>
+	<string>overlayMethodTransparency</string>
+	<key>buttonThroughStrategy</key>
+	<string>pageviewTierEdge</string>
+	<key>commandOperationSkewx</key>
+	<string>textureStructureVisible</string>
+	<key>composableTaskBehavior</key>
+	<string>lazyVectorTransparency</string>
+	<key>largeEntropyTheme</key>
+	<string>tickerAndPattern</string>
+	<key>layerMementoSpacing</key>
+	<string>resilientControllerMargin</string>
+	<key>relationalBrushSpacing</key>
+	<string>asynchronousTopicInterval</string>
+	<key>relationalMethodOrientation</key>
+	<string>tickerFromState</string>
+	<key>semanticBehaviorFlags</key>
+	<string>statefulFactoryPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableTransformerType</key>
+	<string>equalizationInterpreterBrightness</string>
+	<key>memberByChain</key>
+	<string>boxShapeResponse</string>
+	<key>modalInPlatform</key>
+	<string>autoModalDirection</string>
+	<key>mutableRouteDensity</key>
+	<string>nibChainDepth</string>
+	<key>sophisticatedIntegerDepth</key>
+	<string>chapterInJob</string>
+	<key>swiftContainChain</key>
+	<string>integerLikeStrategy</string>
+</dict>
+</plist>

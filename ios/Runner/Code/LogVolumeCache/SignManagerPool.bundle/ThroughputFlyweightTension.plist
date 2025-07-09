@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasDecoratorTransparency</key>
+	<string>handlerNumberOffset</string>
+	<key>loopSystemBound</key>
+	<string>assetAdapterSkewy</string>
+	<key>managerIncludeInterpreter</key>
+	<string>semanticsPhaseValidation</string>
+	<key>riverpodThroughStyle</key>
+	<string>newestBoxshadowAcceleration</string>
+	<key>singleResourceScale</key>
+	<string>sineDecoratorFlags</string>
+</dict>
+</plist>

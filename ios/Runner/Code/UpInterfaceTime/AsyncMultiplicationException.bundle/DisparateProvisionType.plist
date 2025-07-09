@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerAndEnvironment</key>
+	<string>fixedSceneStyle</string>
+	<key>newestPresenterBound</key>
+	<string>customizedAllocatorVisible</string>
+	<key>resizableQueueInterval</key>
+	<string>skinChainSkewy</string>
+	<key>spotFromVar</key>
+	<string>scrollableChartHead</string>
+	<key>symmetricAnimationSpeed</key>
+	<string>declarativeSegmentDepth</string>
+	<key>textureAmongActivity</key>
+	<string>masterCycleResponse</string>
+	<key>touchOutsideAdapter</key>
+	<string>inheritedStatelessKind</string>
+</dict>
+</plist>

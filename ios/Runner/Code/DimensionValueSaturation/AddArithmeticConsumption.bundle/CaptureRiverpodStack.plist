@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGridviewSpacing</key>
+	<string>instructionBeyondCommand</string>
+	<key>grainCompositeValidation</key>
+	<string>immutableConfigurationSpeed</string>
+	<key>normalTransitionTint</key>
+	<string>variantSingletonOrigin</string>
+	<key>observerVarCoord</key>
+	<string>storyboardScopeOrigin</string>
+	<key>positionMethodLeft</key>
+	<string>segueMediatorDepth</string>
+	<key>prismaticExceptionOrientation</key>
+	<string>lostFutureDirection</string>
+	<key>spriteInterpreterEdge</key>
+	<string>coordinatorParamRight</string>
+	<key>topicDecoratorDuration</key>
+	<string>dependencyMediatorOpacity</string>
+</dict>
+</plist>

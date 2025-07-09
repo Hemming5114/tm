@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseSpacing</key>
+	<string>eventByCycle</string>
+	<key>gesturedetectorTierAlignment</key>
+	<string>multiThemeTransparency</string>
+	<key>missedUtilStatus</key>
+	<string>delegateThroughBridge</string>
+	<key>smartStepType</key>
+	<string>richtextTierCoord</string>
+	<key>staticConfigurationValidation</key>
+	<string>effectWorkSize</string>
+</dict>
+</plist>

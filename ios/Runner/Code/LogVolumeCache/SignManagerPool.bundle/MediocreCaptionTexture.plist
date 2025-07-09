@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionPrototypeStyle</key>
+	<string>singletonViaContext</string>
+	<key>cursorJobOrientation</key>
+	<string>controllerAtBuffer</string>
+	<key>interfaceProcessOrigin</key>
+	<string>arithmeticBulletTail</string>
+	<key>lostTaskMargin</key>
+	<string>skirtLayerContrast</string>
+	<key>positionAwayCommand</key>
+	<string>fusedEntityName</string>
+	<key>queueAroundProxy</key>
+	<string>interactorAsKind</string>
+	<key>remainderShapeName</key>
+	<string>featureValueType</string>
+</dict>
+</plist>

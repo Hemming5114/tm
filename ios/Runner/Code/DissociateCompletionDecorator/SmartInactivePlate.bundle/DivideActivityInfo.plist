@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBulletRight</key>
+	<string>binarySystemSize</string>
+	<key>draggableSignatureTheme</key>
+	<string>fusedProgressbarBorder</string>
+	<key>durationValueTransparency</key>
+	<string>cacheAtDecorator</string>
+	<key>frameForTier</key>
+	<string>cycleOutsideBuffer</string>
+	<key>priorMusicFrequency</key>
+	<string>pointSingletonPadding</string>
+	<key>sustainableCoordinatorTop</key>
+	<string>repositoryJobMargin</string>
+</dict>
+</plist>

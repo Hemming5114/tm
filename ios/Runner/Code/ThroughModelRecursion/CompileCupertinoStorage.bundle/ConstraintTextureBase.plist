@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerStyleCount</key>
+	<string>dedicatedRouterType</string>
+	<key>independentAxisDirection</key>
+	<string>advancedCompositionBottom</string>
+	<key>opaqueTitleSkewy</key>
+	<string>activatedViewAlignment</string>
+	<key>requiredSliderOffset</key>
+	<string>resolverNearStyle</string>
+	<key>sharedCompletionValidation</key>
+	<string>lazyAnimatedcontainerRight</string>
+	<key>sineBeyondPlatform</key>
+	<string>loopDuringTask</string>
+</dict>
+</plist>

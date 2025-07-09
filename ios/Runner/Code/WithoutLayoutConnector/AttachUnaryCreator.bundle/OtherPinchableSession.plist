@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLevelFormat</key>
+	<string>enabledMaterialSpeed</string>
+	<key>durationBesideKind</key>
+	<string>delegateThroughParameter</string>
+	<key>heapTypeOffset</key>
+	<string>lazyConfigurationFrequency</string>
+	<key>observerBeyondFacade</key>
+	<string>textPhaseLocation</string>
+	<key>rectShapeBehavior</key>
+	<string>gramNearFacade</string>
+	<key>relationalQueryState</key>
+	<string>pivotalTransitionState</string>
+	<key>sceneContextFeedback</key>
+	<string>widgetModeFlags</string>
+</dict>
+</plist>

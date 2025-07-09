@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackProxyTop</key>
+	<string>desktopLayerInset</string>
+	<key>directlyConfigurationOffset</key>
+	<string>stackTempleAppearance</string>
+	<key>documentCompositeScale</key>
+	<string>listenerFormSize</string>
+	<key>draggableRowPadding</key>
+	<string>directlyMethodAlignment</string>
+	<key>inheritedDescriptorTail</key>
+	<string>webTransitionCoord</string>
+	<key>mediumCaptionMargin</key>
+	<string>touchAmongParam</string>
+	<key>repositoryTemplePosition</key>
+	<string>responseKindFrequency</string>
+	<key>streamByProcess</key>
+	<string>sustainableUsecaseBehavior</string>
+	<key>subsequentIntegerVisibility</key>
+	<string>metadataLayerCoord</string>
+</dict>
+</plist>

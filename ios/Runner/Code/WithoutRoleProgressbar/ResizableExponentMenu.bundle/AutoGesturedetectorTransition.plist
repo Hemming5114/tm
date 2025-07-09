@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCommandTransparency</key>
+	<string>interfaceOutsideTier</string>
+	<key>blocBesideContext</key>
+	<string>newestPainterDepth</string>
+	<key>decorationStrategyInterval</key>
+	<string>constraintNumberBehavior</string>
+	<key>gesturedetectorVersusTask</key>
+	<string>isolateBridgeName</string>
+	<key>multiTimerLeft</key>
+	<string>tabbarPhaseValidation</string>
+	<key>priorMethodBottom</key>
+	<string>criticalMomentumContrast</string>
+</dict>
+</plist>

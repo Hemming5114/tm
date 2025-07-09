@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInstructionRate</key>
+	<string>dynamicEquipmentCoord</string>
+	<key>extensionLevelMode</key>
+	<string>comprehensiveViewLocation</string>
+	<key>featureThroughAction</key>
+	<string>geometricPainterHue</string>
+	<key>hierarchicalAlphaTheme</key>
+	<string>checklistContainChain</string>
+	<key>nextPlateHead</key>
+	<string>materialProviderColor</string>
+	<key>smallCaptionLocation</key>
+	<string>cubitPerPlatform</string>
+	<key>spotByStrategy</key>
+	<string>beginnerInterfaceTheme</string>
+	<key>spotScopeRight</key>
+	<string>movementNearStyle</string>
+</dict>
+</plist>

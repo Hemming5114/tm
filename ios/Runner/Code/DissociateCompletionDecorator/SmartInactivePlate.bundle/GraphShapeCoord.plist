@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDespiteLevel</key>
+	<string>textParameterResponse</string>
+	<key>decorationAgainstCommand</key>
+	<string>mobileCanvasPadding</string>
+	<key>delicateThreadBehavior</key>
+	<string>independentNavigatorCount</string>
+	<key>responseSingletonVisible</key>
+	<string>interfaceStrategyBound</string>
+</dict>
+</plist>

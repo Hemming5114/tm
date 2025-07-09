@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionAgainstMode</key>
+	<string>immediateTaskMode</string>
+	<key>interfacePerCycle</key>
+	<string>methodMethodFeedback</string>
+	<key>layoutCycleBottom</key>
+	<string>temporaryTabviewTint</string>
+	<key>responseTierInterval</key>
+	<string>painterStyleTheme</string>
+	<key>utilNearFramework</key>
+	<string>graphOutsideTier</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCommandSkewx</key>
+	<string>gridObserverSkewy</string>
+	<key>behaviorOutsideTier</key>
+	<string>ignoredPlaybackPosition</string>
+	<key>durationByComposite</key>
+	<string>checklistIncludeTask</string>
+	<key>optionAlongFacade</key>
+	<string>blocLayerPressure</string>
+	<key>standaloneAnchorMargin</key>
+	<string>comprehensiveCurveFeedback</string>
+	<key>usedZoneRight</key>
+	<string>mobxByFunction</string>
+</dict>
+</plist>

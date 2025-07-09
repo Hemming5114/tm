@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureIncludeMode</key>
+	<string>mainGroupAlignment</string>
+	<key>diffableCompleterBehavior</key>
+	<string>oldOptimizerVelocity</string>
+	<key>hierarchicalReducerStyle</key>
+	<string>boxAndStage</string>
+	<key>interactorDuringPhase</key>
+	<string>methodContainParam</string>
+	<key>pivotalPageviewPressure</key>
+	<string>timerProcessCenter</string>
+	<key>statelessFromPlatform</key>
+	<string>singleCycleColor</string>
+	<key>unsortedStackPadding</key>
+	<string>independentExpandedPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConstraintFeedback</key>
+	<string>sortedLayoutFrequency</string>
+	<key>offsetBufferEdge</key>
+	<string>concreteGemStyle</string>
+	<key>queryForPlatform</key>
+	<string>resilientLayerName</string>
+	<key>routeVersusInterpreter</key>
+	<string>textOperationPadding</string>
+</dict>
+</plist>

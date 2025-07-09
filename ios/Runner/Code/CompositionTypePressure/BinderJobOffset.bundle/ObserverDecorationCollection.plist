@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDuringInterpreter</key>
+	<string>currentAnimationCoord</string>
+	<key>customIntensitySize</key>
+	<string>tappableAccessoryRotation</string>
+	<key>inkwellObserverMomentum</key>
+	<string>axisExceptChain</string>
+	<key>nodeEnvironmentStyle</key>
+	<string>euclideanControllerShape</string>
+	<key>standaloneEquipmentInset</key>
+	<string>cartesianRouteTheme</string>
+</dict>
+</plist>

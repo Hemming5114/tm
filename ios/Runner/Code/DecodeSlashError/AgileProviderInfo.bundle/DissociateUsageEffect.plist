@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBufferDelay</key>
+	<string>associatedChannelTop</string>
+	<key>asynchronousGridviewCoord</key>
+	<string>inkwellParameterRight</string>
+	<key>chartAdapterSkewx</key>
+	<string>interactiveStreamTension</string>
+	<key>completerViaProcess</key>
+	<string>draggableResourceDuration</string>
+	<key>mapOperationLeft</key>
+	<string>layoutTaskType</string>
+	<key>missedStampStatus</key>
+	<string>labelMediatorSize</string>
+	<key>notifierMediatorFeedback</key>
+	<string>iconStyleFlags</string>
+	<key>requestShapeSkewx</key>
+	<string>isolateVariableBehavior</string>
+	<key>temporaryConstraintForce</key>
+	<string>pointInScope</string>
+</dict>
+</plist>

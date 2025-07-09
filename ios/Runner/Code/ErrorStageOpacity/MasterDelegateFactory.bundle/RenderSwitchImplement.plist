@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLevelVelocity</key>
+	<string>liteMissionBound</string>
+	<key>factoryBesideStyle</key>
+	<string>storeBeyondLevel</string>
+	<key>normalBuilderOpacity</key>
+	<string>sliderWithWork</string>
+	<key>playbackSincePhase</key>
+	<string>featurePerForm</string>
+	<key>singleToolState</key>
+	<string>intuitiveRectTint</string>
+</dict>
+</plist>

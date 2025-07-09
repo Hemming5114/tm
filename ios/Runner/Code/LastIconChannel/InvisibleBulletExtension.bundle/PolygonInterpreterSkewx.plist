@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerTempleSaturation</key>
+	<string>respectiveStreamTop</string>
+	<key>globalDialogsStyle</key>
+	<string>lastDecorationBound</string>
+	<key>inactiveConstraintSaturation</key>
+	<string>concurrentStoreTop</string>
+	<key>respectiveCardSpeed</key>
+	<string>permissiveButtonFlags</string>
+	<key>semanticRequestEdge</key>
+	<string>baseTypeSkewx</string>
+	<key>sequentialIntensityLocation</key>
+	<string>loopPerChain</string>
+</dict>
+</plist>

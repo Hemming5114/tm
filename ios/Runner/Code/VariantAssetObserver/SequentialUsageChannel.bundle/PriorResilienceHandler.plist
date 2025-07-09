@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPriorityScale</key>
+	<string>sensorBufferEdge</string>
+	<key>declarativeWorkflowBorder</key>
+	<string>localizationSingletonName</string>
+	<key>dropdownbuttonOperationLeft</key>
+	<string>columnEnvironmentVisibility</string>
+	<key>entropyAgainstLayer</key>
+	<string>prismaticPlaybackDistance</string>
+	<key>equalizationAgainstNumber</key>
+	<string>publicDependencyAppearance</string>
+	<key>interactiveGroupLocation</key>
+	<string>routerTempleSkewy</string>
+	<key>subtleMarginFeedback</key>
+	<string>accordionOverlayDelay</string>
+</dict>
+</plist>

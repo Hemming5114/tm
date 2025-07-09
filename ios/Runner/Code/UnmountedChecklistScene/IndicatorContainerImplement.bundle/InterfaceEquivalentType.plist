@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitForChain</key>
+	<string>delegateInsideScope</string>
+	<key>hashNearChain</key>
+	<string>viewWithoutMemento</string>
+	<key>interactorAgainstLevel</key>
+	<string>animationAtStyle</string>
+	<key>roleInsideAdapter</key>
+	<string>tensorConstraintStatus</string>
+</dict>
+</plist>

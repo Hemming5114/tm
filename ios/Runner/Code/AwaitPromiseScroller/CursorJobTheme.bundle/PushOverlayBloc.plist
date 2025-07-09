@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonScopeSpacing</key>
+	<string>musicTempleLocation</string>
+	<key>curveAwayShape</key>
+	<string>heroTypeSpeed</string>
+	<key>previewValueLeft</key>
+	<string>crucialMovementCenter</string>
+	<key>webNotificationMargin</key>
+	<string>responseSinceParam</string>
+</dict>
+</plist>

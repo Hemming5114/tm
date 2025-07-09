@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOrFacade</key>
+	<string>navigatorAlongType</string>
+	<key>positionOrCycle</key>
+	<string>indicatorMementoShape</string>
+	<key>resizableControllerFeedback</key>
+	<string>intensityWithoutStrategy</string>
+	<key>serviceNearFacade</key>
+	<string>interactorAdapterSkewy</string>
+	<key>subpixelObserverMomentum</key>
+	<string>sharedGemRight</string>
+	<key>taskFromFlyweight</key>
+	<string>seamlessPresenterCoord</string>
+	<key>taskPerFacade</key>
+	<string>comprehensiveViewSaturation</string>
+</dict>
+</plist>

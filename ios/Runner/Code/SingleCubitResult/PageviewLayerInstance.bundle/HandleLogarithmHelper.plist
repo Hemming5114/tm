@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAgainstParameter</key>
+	<string>transitionWithJob</string>
+	<key>awaitAlongBuffer</key>
+	<string>promiseInsideVariable</string>
+	<key>composableOverlayColor</key>
+	<string>constraintAsType</string>
+	<key>featureActivityOrigin</key>
+	<string>asynchronousSliderHue</string>
+	<key>mediaStyleColor</key>
+	<string>sophisticatedSampleVisibility</string>
+	<key>resultBesideVar</key>
+	<string>stateOutsideAdapter</string>
+	<key>similarSubscriptionRate</key>
+	<string>menuEnvironmentRight</string>
+	<key>smartCurveBottom</key>
+	<string>durationTaskRate</string>
+	<key>uniformPopupBrightness</key>
+	<string>groupVersusSystem</string>
+</dict>
+</plist>

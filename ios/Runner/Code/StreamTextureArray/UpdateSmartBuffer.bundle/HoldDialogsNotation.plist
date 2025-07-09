@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAgainstParam</key>
+	<string>smartFutureOrigin</string>
+	<key>graphMethodResponse</key>
+	<string>streamAndBuffer</string>
+	<key>intermediateRouterRate</key>
+	<string>mainTextureDelay</string>
+	<key>rectStageSize</key>
+	<string>completerPerPhase</string>
+	<key>reducerCompositeTheme</key>
+	<string>richtextProcessBorder</string>
+	<key>similarCoordinatorAcceleration</key>
+	<string>opaqueChartMode</string>
+</dict>
+</plist>

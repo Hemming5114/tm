@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAlongStrategy</key>
+	<string>grayscaleThanActivity</string>
+	<key>interactiveAxisDensity</key>
+	<string>statefulProcessHue</string>
+	<key>pageviewObserverResponse</key>
+	<string>resultParameterMode</string>
+	<key>queryAlongKind</key>
+	<string>semanticResolverSkewy</string>
+	<key>responsiveIsolateTint</key>
+	<string>nodeLikeValue</string>
+	<key>sustainableSubscriptionFrequency</key>
+	<string>immutableFeaturePosition</string>
+</dict>
+</plist>

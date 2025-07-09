@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintCompositeTheme</key>
+	<string>marginPerCommand</string>
+	<key>disabledBrushName</key>
+	<string>publicResourceDirection</string>
+	<key>labelContainFlyweight</key>
+	<string>metadataScopeTail</string>
+	<key>lazyModalIndex</key>
+	<string>uniformCubitInset</string>
+	<key>parallelCanvasOpacity</key>
+	<string>touchCommandIndex</string>
+	<key>spriteAgainstFramework</key>
+	<string>delegateAlongVisitor</string>
+	<key>tensorBinaryAcceleration</key>
+	<string>accessoryAmongOperation</string>
+	<key>unaryOrMediator</key>
+	<string>queryAtCommand</string>
+</dict>
+</plist>

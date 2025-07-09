@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedThemePadding</key>
+	<string>aspectratioVarKind</string>
+	<key>anchorExceptAction</key>
+	<string>independentPopupSaturation</string>
+	<key>enabledUsageDirection</key>
+	<string>rowActionStatus</string>
+	<key>movementDuringAction</key>
+	<string>actionChainInset</string>
+</dict>
+</plist>

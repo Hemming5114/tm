@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryIncludeDecorator</key>
+	<string>bufferOperationTransparency</string>
+	<key>immutableMenuSkewx</key>
+	<string>cacheThroughScope</string>
+	<key>layoutChainState</key>
+	<string>observerWithoutDecorator</string>
+	<key>riverpodEnvironmentCount</key>
+	<string>interactorPatternStatus</string>
+	<key>sequentialDecorationContrast</key>
+	<string>routeSystemType</string>
+	<key>tabbarOutsideFlyweight</key>
+	<string>routeJobTheme</string>
+</dict>
+</plist>

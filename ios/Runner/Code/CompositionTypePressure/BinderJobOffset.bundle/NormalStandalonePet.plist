@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAndFlyweight</key>
+	<string>spriteViaActivity</string>
+	<key>composableBinaryLeft</key>
+	<string>axisValueValidation</string>
+	<key>hardLayerBottom</key>
+	<string>requiredPaddingSpeed</string>
+	<key>hashOperationStyle</key>
+	<string>curveOutsideBuffer</string>
+	<key>kernelChainAcceleration</key>
+	<string>visiblePositionSaturation</string>
+	<key>layoutJobSpeed</key>
+	<string>workflowPatternBound</string>
+	<key>musicThroughParameter</key>
+	<string>dependencyStageBorder</string>
+	<key>routeLevelKind</key>
+	<string>diffableTextfieldStyle</string>
+	<key>seamlessServiceTop</key>
+	<string>futureInsideFacade</string>
+</dict>
+</plist>

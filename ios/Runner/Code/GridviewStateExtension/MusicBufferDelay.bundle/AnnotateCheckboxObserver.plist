@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOutsideCommand</key>
+	<string>equipmentLevelDelay</string>
+	<key>deferredGrainTail</key>
+	<string>stateChainKind</string>
+	<key>symmetricProviderAcceleration</key>
+	<string>radiusAlongInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeInteractorKind</key>
+	<string>durationStageInteraction</string>
+	<key>enabledFuturePosition</key>
+	<string>routeProxyLeft</string>
+	<key>explicitEqualizationPressure</key>
+	<string>drawerOutsideLayer</string>
+	<key>methodAtParam</key>
+	<string>completerBeyondTask</string>
+	<key>numericalMissionKind</key>
+	<string>textContextStyle</string>
+	<key>statelessShapeState</key>
+	<string>behaviorOperationInset</string>
+</dict>
+</plist>

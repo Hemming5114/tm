@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAgainstProxy</key>
+	<string>resourceOrPattern</string>
+	<key>constraintAtTask</key>
+	<string>riverpodPerBuffer</string>
+	<key>errorCycleType</key>
+	<string>graphicWithVar</string>
+	<key>modelNearDecorator</key>
+	<string>kernelProcessSpacing</string>
+	<key>notifierAtFramework</key>
+	<string>extensionOutsideBridge</string>
+	<key>particleVarStyle</key>
+	<string>mainNavigatorInterval</string>
+</dict>
+</plist>

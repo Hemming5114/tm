@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteOptimizerPosition</key>
+	<string>sizeViaPattern</string>
+	<key>curveAsPhase</key>
+	<string>prevBaseTheme</string>
+	<key>discardedTransitionHead</key>
+	<string>rowTierSpacing</string>
+	<key>factorySystemMomentum</key>
+	<string>skirtModePadding</string>
+	<key>mediaCompositeBorder</key>
+	<string>seamlessLocalizationTag</string>
+	<key>resultDuringMethod</key>
+	<string>normalDecorationCenter</string>
+	<key>tappableChapterVelocity</key>
+	<string>draggableInterfaceRate</string>
+</dict>
+</plist>

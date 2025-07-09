@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPhaseStatus</key>
+	<string>workflowOrBridge</string>
+	<key>decorationByTask</key>
+	<string>delegateOrVariable</string>
+	<key>disabledCycleOffset</key>
+	<string>iconUntilPhase</string>
+	<key>greatResponseVelocity</key>
+	<string>associatedPointDensity</string>
+	<key>ignoredRequestSkewy</key>
+	<string>semanticGridDepth</string>
+	<key>transformerBufferVisible</key>
+	<string>taskAwayVariable</string>
+	<key>uniqueMethodRate</key>
+	<string>builderAmongAction</string>
+</dict>
+</plist>

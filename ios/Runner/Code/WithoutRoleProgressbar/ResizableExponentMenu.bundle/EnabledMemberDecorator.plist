@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDecoratorMode</key>
+	<string>lostMemberFrequency</string>
+	<key>consumerKindInteraction</key>
+	<string>heapByMode</string>
+	<key>groupTypeAlignment</key>
+	<string>appbarLikeOperation</string>
+	<key>integerLikePattern</key>
+	<string>eventActionSpeed</string>
+	<key>notificationDespitePattern</key>
+	<string>segueWithCommand</string>
+	<key>providerThroughContext</key>
+	<string>cosinePlatformHue</string>
+	<key>robustErrorOrigin</key>
+	<string>disabledOffsetLeft</string>
+	<key>segmentWithoutType</key>
+	<string>unsortedScrollOrientation</string>
+	<key>sessionCycleFeedback</key>
+	<string>handlerStageShape</string>
+	<key>substantialSpriteVisible</key>
+	<string>capsuleUntilFlyweight</string>
+</dict>
+</plist>

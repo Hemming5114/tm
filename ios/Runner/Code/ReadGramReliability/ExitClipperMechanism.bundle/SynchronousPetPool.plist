@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAlongCycle</key>
+	<string>callbackWorkOpacity</string>
+	<key>configurationDespiteSingleton</key>
+	<string>deferredTextureBrightness</string>
+	<key>coordinatorThroughBuffer</key>
+	<string>autoSymbolForce</string>
+	<key>gestureMethodDensity</key>
+	<string>containerStyleDuration</string>
+	<key>invisibleActivityTransparency</key>
+	<string>resultFrameworkInset</string>
+	<key>lossMediatorBrightness</key>
+	<string>customizedModelAppearance</string>
+	<key>reducerCycleShade</key>
+	<string>composableMobxRight</string>
+	<key>remainderOfBuffer</key>
+	<string>stateFacadePadding</string>
+	<key>subscriptionTierOpacity</key>
+	<string>seamlessFrameBehavior</string>
+	<key>utilNearObserver</key>
+	<string>displayableTaskCoord</string>
+</dict>
+</plist>

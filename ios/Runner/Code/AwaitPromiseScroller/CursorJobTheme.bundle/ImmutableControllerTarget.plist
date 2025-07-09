@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferWithMediator</key>
+	<string>profileContainEnvironment</string>
+	<key>delegateStateBehavior</key>
+	<string>sineIncludeSingleton</string>
+	<key>mediaqueryThroughMemento</key>
+	<string>sliderAgainstPattern</string>
+	<key>overlayPerComposite</key>
+	<string>disparateTextSize</string>
+	<key>remainderAboutCommand</key>
+	<string>mobileRouterShade</string>
+	<key>unsortedConfigurationDensity</key>
+	<string>observerVisitorSize</string>
+</dict>
+</plist>

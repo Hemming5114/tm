@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMasterMargin</key>
+	<string>independentResourceDirection</string>
+	<key>basicBorderOrientation</key>
+	<string>customizedInteractorCoord</string>
+	<key>eagerCommandForce</key>
+	<string>taskVariableMargin</string>
+	<key>invisibleSwitchEdge</key>
+	<string>listenerVariableBehavior</string>
+	<key>methodCycleAppearance</key>
+	<string>particleAndVariable</string>
+	<key>presenterInFramework</key>
+	<string>challengeBufferStatus</string>
+	<key>riverpodOutsideMethod</key>
+	<string>independentBatchOffset</string>
+	<key>sophisticatedCharacterTint</key>
+	<string>viewFormBound</string>
+	<key>topicPhaseColor</key>
+	<string>completionThroughState</string>
+</dict>
+</plist>
