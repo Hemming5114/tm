@@ -1,0 +1,27 @@
+{
+  "name": "DreamKitDev",
+  "version": "1.0.0",
+  "summary": "A short description of STBeauty.",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "description": "# 这里写描述\n腾讯的短视频SDK，COSSDK，网络状态监听",
+  "homepage": "https://gitee.com/pikaqiu/tencent-upload",
+  "authors": {
+    "": "www.tecent@qq.com"
+  },
+  "source": {
+    "git": "https://gitee.com/pikaqiu/tencent-upload.git",
+    "tag": "1.0.0"
+  },
+  "xcconfig": {
+    "VALID_ARCHS": "armv7 arm64 x86_64"
+  },
+  "requires_arc": true,
+  "static_framework": true,
+  "vendored_libraries": "SDK/*.a",
+  "vendored_frameworks": "SDK/*.framework",
+  "libraries": "stdc++",
+  "resources": "Resources/*.bundle",
+  "source_files": "SDK/**/*.{h,m}"
+}
