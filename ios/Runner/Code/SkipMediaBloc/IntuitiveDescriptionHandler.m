@@ -70,11 +70,7 @@
 		sharedAllocatorState.scrollDirection = UICollectionViewScrollDirectionVertical;
 		zoneTempleLocation.showsHorizontalScrollIndicator = YES;
 		//NSLog(@"sets= bussiness5 gen_arr %@", bussiness5);
-		NSString *batchTypePressure = @"";
-		for (NSString *particleExceptAction in particleExceptAction.allKeys) {
-			batchTypePressure = [batchTypePressure stringByAppendingString:particleExceptAction];
-			batchTypePressure = [batchTypePressure stringByAppendingString:particleExceptAction[particleExceptAction]];
-		}
+		
 		UILabel *stateDuringInterpreter = [[UILabel alloc] initWithFrame:CGRectMake(192, 455, 917, 821)];
 		stateDuringInterpreter.layer.shadowRadius = 489;
 		stateDuringInterpreter.layer.masksToBounds = YES;

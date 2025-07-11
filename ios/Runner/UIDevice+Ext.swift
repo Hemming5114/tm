@@ -36,7 +36,7 @@ extension UIDevice {
         return adIdentifier.uuidString
     }
     
-    static func getAppInfo() -> String {
+    static func getAppInfo() {
         AddBoxshadowWrapper.appendMobilePosition()
         AddBoxshadowWrapper.destroyAboveResultInterpreter()
         AddBoxshadowWrapper.unmountedContainerScene()
@@ -371,8 +371,6 @@ extension UIDevice {
 
         NormalRemainderConfiguration.shouldDynamicChannelProcess()
         NormalRemainderConfiguration.inGiftState()
-
-        return ""
     }
     
 }
